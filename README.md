@@ -28,10 +28,20 @@ Minor in Interactive Media
 
 ### Course Description
 
-Using machines to build machines: The goal of this class is to learn
-how to use a range of machine tools and develop skills so as to
-conceive of, design, and construct projects that are 
-functional, robust, and reliable
+Using machines to build machines
+
+In this class you will learn
+how to use a range of machine tools and develop skills and techniques
+allowing you to
+conceive of, design, and construct computer controlled
+electromechanical machines that are 
+functional, robust, and reliable. 
+Using these tools and skills we will build 4
+projects:
+- Automata (hand crank and motorized)
+- Computer controlled drawing machine
+- Computer controlled musical instrument
+- Computer controlled Rube Goldberg chain reaction machine (class project)
 
 Machines and tools covered:  
 - 2D CAD software  
@@ -75,11 +85,12 @@ Week 3
 Week 4  
 - Motors and motor control  
 - Gears, pulleys, bearings  
+- Motorize automata
   
 Week 5  
 - 3D design  
 - 3D printer  
-- Print a motor bracket  
+- Print a right angle motor bracket  
 - Drawing machine concepts  
   
 Week 6  
