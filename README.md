@@ -45,69 +45,69 @@ Machines and tools covered:
 - PCB router  
 
 Topics covered  
-	- Basic electronics  
-	- Basic programming  
-	- Microcontrollers (Arduino)   
-	- Solenoids and transistors  
-	- Motors and motor control  
-	- Basic machines: crank, cam, linkages, etc.  
-	- Gears, pulleys, bearings  
-	- 2D design  
-	- 3D design  
-	- Printed circuit board (PCB) design  
-	- Mechanisms and mechatronics  
+- Basic electronics  
+- Basic programming  
+- Microcontrollers (Arduino)   
+- Solenoids and transistors  
+- Motors and motor control  
+- Basic machines: crank, cam, linkages, etc.  
+- Gears, pulleys, bearings  
+- 2D design  
+- 3D design  
+- Printed circuit board (PCB) design  
+- Mechanisms and mechatronics  
   
 Schedule  
 Week 1   
-	Basic machines  
-	Cardboard automata   
+- Basic machines  
+- Cardboard automata   
   
 Week 2:  
-	2D CAD software   
-	Laser cutter  
-	Refine automata (acrylic)  
+- 2D CAD software   
+- Laser cutter  
+- Refine automata (acrylic)  
   
 Week 3  
-	Introduction to Arduino  
-	Basic electronics and programming  
-	LEDs, sensors  
+- Introduction to Arduino  
+- Basic electronics and programming  
+- LEDs, sensors  
   
 Week 4  
-	Motors and motor control  
-	Gears, pulleys, bearings  
+- Motors and motor control  
+- Gears, pulleys, bearings  
   
 Week 5  
-	3D design  
-	3D printer  
-	Print a motor bracket  
-	Drawing machine concepts  
+- 3D design  
+- 3D printer  
+- Print a motor bracket  
+- Drawing machine concepts  
   
 Week 6  
-	Drawing machine prototype  
-	Wood shop training  
+- Drawing machine prototype  
+- Wood shop training  
   
 Week 7  
-	Wood base and enclosure for drawing machine  
-	Finish drawing machine  
+- Wood base and enclosure for drawing machine  
+- Finish drawing machine  
   
 Week 8  
-	Metal shop training  
-	Musical instrument prototype  
+- Metal shop training  
+- Musical instrument prototype  
   
 Week 9   
-	Musical instrument refinement  
-	Shopbot milling  
+- Musical instrument refinement  
+- Shopbot milling  
   
 Week 10  
-	Finish musical instrument refinement  
-  
+- Finish musical instrument refinement  
+
 Week 11  
-	Rube Goldberg concepts  
-	PCB design  
+- Rube Goldberg concepts  
+- PCB design  
   
 Week 12  
-	* Rube Goldberg prototype (in groups of 3)  
-	* PCB mill  
+- Rube Goldberg prototype (in groups of 3)  
+- PCB mill  
   
 Week 13-15  
-	Refine and finish Rube Goldberg machine (entire class)      
+-	Refine and finish Rube Goldberg machine (entire class)      
