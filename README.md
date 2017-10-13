@@ -28,7 +28,7 @@ Minor in Interactive Media
 
 ### Course Description
 
-Using machines to build machines
+#### Using machines to build machines
 
 This course is designed for students who want to improve their ability to
 design and fabricate creative computer controlled machines, 
@@ -53,7 +53,7 @@ once around midterm and once
 in the Interactive Media End of Semester show. 
 Participation in both of these events is mandatory.
 
-Machines and tools covered:  
+#### Machines and tools covered:  
 - 2D CAD software  
 - Laser cutter  
 - 3D CAD software  
@@ -64,7 +64,7 @@ Machines and tools covered:
 - Printed circuit board (PCB) CAD software  
 - PCB router  
 
-Topics covered  
+#### Topics covered  
 - Basic electronics  
 - Basic programming  
 - Microcontrollers (Arduino)   
@@ -77,7 +77,7 @@ Topics covered
 - Printed circuit board (PCB) design  
 - Mechanisms and mechatronics  
   
-Schedule  
+### Schedule  
 Week 1   
 - Basic machines  
 - Cardboard automata   
