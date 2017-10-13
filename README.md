@@ -30,18 +30,28 @@ Minor in Interactive Media
 
 Using machines to build machines
 
-In this class you will learn
-how to use a range of machine tools and develop skills and techniques
-allowing you to
-conceive of, design, and construct computer controlled
-electromechanical machines that are 
-functional, robust, and reliable. 
-Using these tools and skills we will build 4
-projects:
+This course is designed for students who want to improve their ability to
+design and fabricate creative computer controlled machines, 
+such as drawing machines and
+musical instruments. Learn how to use a variety of
+tools, materials, and construction techniques to build aesthetic,
+reliable, and well-made computer controlled electromechanical devices. Learn
+how to use microcontrollers and programs to give your machines unique
+behaviours and abilities. Learn how to use tools both modern and ancient to
+bring your creative visions to life. Short exercises will give students the
+opportunity to develop skills on specific machines, while longer projects will
+combine multiple techniques. 
+
+The four projects will be:
 - Automata (hand crank and motorized)
 - Computer controlled drawing machine
 - Computer controlled musical instrument
 - Computer controlled Rube Goldberg chain reaction machine (class project)
+
+Students will exhibit their classwork twice:
+once around midterm and once 
+in the Interactive Media End of Semester show. 
+Participation in both of these events is mandatory.
 
 Machines and tools covered:  
 - 2D CAD software  
