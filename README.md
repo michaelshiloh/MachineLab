@@ -51,7 +51,7 @@ Topics covered
 	- Solenoids and transistors
 	- Motors and motor control
 	- Basic machines: crank, cam, linkages, etc.
-	- Gears, 
+	- Gears, pulleys, bearings
 	- 2D design
 	- 3D design
 	- Printed circuit board (PCB) design
@@ -74,6 +74,7 @@ Week 3
 
 Week 4
 	Motors and motor control
+	Gears, pulleys, bearings
 
 Week 5
 	3D design
@@ -95,6 +96,7 @@ Week 8
 
 Week 9 
 	Musical instrument refinement
+	Shopbot milling
 
 Week 10
 	Finish musical instrument refinement
