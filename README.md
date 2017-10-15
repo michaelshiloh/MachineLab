@@ -30,17 +30,21 @@ Minor in Interactive Media
 
 #### Using machines to build machines
 
-This course is designed for students who want to improve their ability to
-design and fabricate creative computer controlled machines, 
-such as drawing machines and
-musical instruments. Learn how to use a variety of
-tools, materials, and construction techniques to build aesthetic,
-reliable, and well-made computer controlled electromechanical devices. Learn
-how to use microcontrollers and programs to give your machines unique
-behaviours and abilities. Learn how to use tools both modern and ancient to
-bring your creative visions to life. Short exercises will give students the
-opportunity to develop skills on specific machines, while longer projects will
-combine multiple techniques. 
+The saying goes, "If all you have is a hammer, then every problem looks like a
+nail." What if all you have is a 3D Printer?  In this course, students will be
+introduced to, and engage critically with, a range of contemporary machines
+inside and around the Interactive Media Lab. Leveraging historical
+perspectives, current use-cases, and hands-on making, the course will explore
+how machines enhance, or limit, our creative processes. Readings and
+discussion will be paired with practical designing, prototyping, and making of
+creative computer controlled devices, such as drawing machines, musical
+instruments, and a collaborative Rube Goldberg contraption. Over the course of
+the semester, students will be exposed to a variety of tools, materials, and
+fabrication techniques as well as learn how to use micro-controllers and
+software to give their machines unique behaviors and abilities. By thinking
+about machines, using machines, and making machines, the course will offer
+insight into our creative relationships with our tools.
+
 
 The four projects will be:
 - Automata (hand crank and motorized)
