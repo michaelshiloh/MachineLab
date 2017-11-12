@@ -12,6 +12,7 @@
 **Class Website:**
 
 **Recommended Prerequisites:**
+[same as intro?]
 
 **This course counts towards the following NYUAD degree requirement:** 
 Minor in Interactive Media
@@ -33,7 +34,8 @@ Minor in Interactive Media
 The saying goes, "If all you have is a hammer, then every problem looks like a
 nail." What if all you have is a 3D Printer?  In this course, students will be
 introduced to, and engage critically with, a range of contemporary machines
-inside and around the Interactive Media Lab. Leveraging historical
+inside and around the Interactive Media Lab [possibly to include off-campus
+resources?]. Leveraging historical
 perspectives, current use-cases, and hands-on making, the course will explore
 how machines enhance, or limit, our creative processes. Readings and
 discussion will be paired with practical designing, prototyping, and making of
@@ -74,6 +76,7 @@ Participation in both of these events is mandatory.
 - Microcontrollers (Arduino)   
 - Solenoids and transistors  
 - Motors and motor control  
+- Sensors for machine control
 - Basic machines: crank, cam, linkages, etc.  
 - Gears, pulleys, bearings  
 - 2D design  
@@ -94,7 +97,7 @@ Week 2:
 Week 3  
 - Introduction to Arduino  
 - Basic electronics and programming  
-- LEDs, sensors  
+- LEDs, digital sensors  
   
 Week 4  
 - Motors and motor control  
@@ -104,7 +107,7 @@ Week 4
 Week 5  
 - 3D design  
 - 3D printer  
-- Print a right angle motor bracket  
+- Print a right angle motor bracket and a pen holder  
 - Drawing machine concepts  
   
 Week 6  
