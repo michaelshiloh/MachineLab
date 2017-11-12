@@ -12,7 +12,7 @@
 **Class Website:**
 
 **Recommended Prerequisites:**
-[same as intro?]
+None
 
 **This course counts towards the following NYUAD degree requirement:** 
 Minor in Interactive Media
