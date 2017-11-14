@@ -83,6 +83,75 @@ Participation in both of these events is mandatory.
 - 3D design  
 - Printed circuit board (PCB) design  
 - Mechanisms and mechatronics  
+
+#### Learning Outcomes
+
+When the course is finished, students will:
+
+- Develop a conceptual model for the role and significance of machines in
+daily life
+- Understand some of the history and co-development of mankind and machines
+- Develop a critical understanding of the historical and contemporary use of
+machines in the creative sphere
+- Establish a basic understanding of electronics, programming, and
+mechatronics
+- Understand a range of manual, powered, and computer controlled tools, and
+be able to choose the right tool for the job
+- Develop skills to design various mechatronic assemblies
+- Understand how the availability of certain tools enables different designs
+- Gain the ability to conceptualize, design, construct, program, and debug a
+creative machine
+- Be able to idenfiry and produce a Minimum Viable Project (MVP) and adapt
+product dependencies (e.g. scripts) to changing abilities
+
+#### Grading (needs adjusting)
+
+    15% Attendance & participation
+    20% Journal entries
+    15% Automata (hand crank and motorized)
+    20% Computer controlled drawing machine
+    20% Computer controlled musical instrument
+    25% Final project:Computer controlled Rube Goldberg chain reaction machine
+(class project)
+
+#### Grading Rubric
+
+* Technical Competency (20 points): Correct implementation of algorithm (for
+software) or circuit (for hardware) and fulfillment of technical aspect of the
+assignment. No unnecessary components, wires, variables, or code blocks.
+* Technical insight (20 points): No redundancy or unnecessary duplication of
+code or hardware. Clear, logical, easy to follow structure. Appropriate
+handling of invalid inputs or data. Intelligent debugging (or logging)
+messages.
+* User Experience (20 points): The quality of the experience for a person
+who engages with the project, specifically the usability, design, and intent.
+Clear and accessible method of engagement.
+* Creativity (20 points): Evidence of creative input, personal expression,
+meaningful direction, and overall thoughtfulness
+* Documentation (20 points): Clear description of project, creative and
+technical decisions, influences and inspiration, key challenges and solutions,
+overall lessons learned, and relevant references and resources. Code
+well-organized, clear, and meaningfully commented. Variables, functions,
+classes, and objects have meaningful names. Unused variables, functions, or
+commented-out code explained. Schematic clear and logically organized.
+
+ 
+
+    A+: 98+
+    A: 93 – 97.9
+    A-: 90 – 92.9
+    B+: 88 – 89.9
+    B: 83 – 87.9
+    B-: 80 – 82.9
+    C+: 78 – 79.9
+    C: 73 – 77.9
+    C-: 70 – 72.9
+    D: 60 – 69.9
+    F: -59.9
+
+
+
+
   
 ### Schedule  
 Week 1   
