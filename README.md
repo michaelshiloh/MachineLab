@@ -15,15 +15,15 @@ None
 **This course counts towards the following NYUAD degree requirement:** 
 Minor in Interactive Media
 
-[Room Access Form](http://goo.gl/forms/Mge02MPoCb)
+Room Access Form [http://goo.gl/forms/Mge02MPoCb](http://goo.gl/forms/Mge02MPoCb)
 
 **Instructor:** Michael Shiloh  
 **Email:** mshiloh@nyu.edu  
 **Office:** Arts Center Room: C3-163  
 **Office Hours:** TBD  
-**Availability outside of office hours:** 
-* Stop by my office or the Interactive Media lab anytime
-* Send me email to set up an appointment 
+**Availability outside of office hours:**   
+* Stop by my office or the Interactive Media lab anytime  
+* Send me email to set up an appointment   
 
 ### Course Description
 The saying goes, "If all you have is a hammer, then every problem looks like a
@@ -41,7 +41,7 @@ software to give their machines unique behaviors and abilities. By thinking
 about machines, using machines, and making machines, the course will offer
 insight into our creative relationships with our tools.
 
-Over the course of the semester, student will produce four projects:
+Over the course of the semester, student will produce four projects:  
 * Automata (hand crank and motorized)  
 * Computer controlled drawing machine  
 * Computer controlled musical instrument  
@@ -50,29 +50,29 @@ Over the course of the semester, student will produce four projects:
 Students are expected to exhibit their project work twice, once for the midterm and once as part of the Interactive Media End of Semester show. Participation in both of these events is mandatory.
 
 #### Topics covered  
-- Basic electronics  
-- Basic programming  
-- Microcontrollers (Arduino)   
-- Solenoids and transistors  
-- Motors and motor control  
+- Basic electronics
+- Basic programming
+- Microcontrollers (Arduino)
+- Solenoids and transistors
+- Motors and motor control
 - Sensors for machine control
-- Basic machines: crank, cam, linkages, etc.  
-- Gears, pulleys, bearings  
-- 2D design  
-- 3D design  
-- Printed circuit board (PCB) design  
-- Mechanisms and mechatronics  
+- Basic machines: crank, cam, linkages, etc.
+- Gears, pulleys, bearings
+- 2D design
+- 3D design
+- Printed circuit board (PCB) design
+- Mechanisms and mechatronics
 
 #### Machines and Tools Covered 
-- 2D CAD software  
-- Laser cutter  
-- 3D CAD software  
-- 3D printer  
-- Basic woodworking tools (band saw, table saw, drill press, sander)  
-- Basic metal working tools (band saw, drill press, sander, grinder)  
-- Precision machining with a CNC router  
-- Printed circuit board (PCB) CAD software  
-- PCB router  
+- 2D CAD software
+- Laser cutter
+- 3D CAD software
+- 3D printer
+- Basic woodworking tools (band saw, table saw, drill press, sander)
+- Basic metal working tools (band saw, drill press, sander, grinder)
+- Precision machining with a CNC router
+- Printed circuit board (PCB) CAD software
+- PCB router
 
 #### Learning Outcomes
 - Develop a conceptual model for the role and significance of machines in
