@@ -113,10 +113,10 @@ If you will be missing a class due to illness or unavoidable personal circumstan
 * Ask questions. If you do not ask questions, I can only assume that you are not prepared for the lesson.
 
 #### Participation Grading Rubric (10%):
-A - Almost always prepared for class including: seated and settled, with notebook and assignment ready, at the beginning of each lesson, ready to engage in class discussion. Has questions or observations prepared, and ready to answer questions from instructor. If encountered difficulty with assignment, can clearly describe the unexpected behavior and what paths were taken to try to resolve them. Asks questions in class. Almost always engages in discussion with instructor and other students. Frequently offers assistance to other students.  
-B - Occasionally prepared in most of the ways indicated above.  
-C - Infrequently prepared in most of the ways indicated above.  
-D - Rarely or never prepared in most of the ways indicated above.  
+- A - Almost always prepared for class including: seated and settled, with notebook and assignment ready, at the beginning of each lesson, ready to engage in class discussion. Has questions or observations prepared, and ready to answer questions from instructor. If encountered difficulty with assignment, can clearly describe the unexpected behavior and what paths were taken to try to resolve them. Asks questions in class. Almost always engages in discussion with instructor and other students. Frequently offers assistance to other students.  
+- B - Occasionally prepared in most of the ways indicated above.  
+- C - Infrequently prepared in most of the ways indicated above.  
+- D - Rarely or never prepared in most of the ways indicated above.  
 
 #### Projects 
 * Automata (hand crank and motorized)
@@ -159,15 +159,14 @@ commented-out code explained. Schematic clear and logically organized.
 #### Books
 **Required books**
 
-Making Things Move: DIY Mechanisms for Inventors, Hobbyists, and Artists 	
-Cabaret Mechanical Movement: Understanding Movement and Making Automata 
+- Making Things Move: DIY Mechanisms for Inventors, Hobbyists, and Artists 	
+- Cabaret Mechanical Movement: Understanding Movement and Making Automata 
 
 **Additional readings (these books which will be available in the library or
 in PDF format)**
 
-Heidi E. Violand: Jean Tinguely's Kinetic Art or A Myth of the Machine Age. 
-Diss, New York University, 1990
-The bride and the bachelors : five masters of the avant garde, Duchamp, Tinguely, Cage, Rauschenberg, Cunningham by Calvin Tomkins, Calvin Tomkins  
+- Heidi E. Violand, Jean Tinguely's Kinetic Art or A Myth of the Machine Age. 
+- Calvin Tomkins, The Bride and the Bachelors: five masters of the avant garde, Duchamp, Tinguely, Cage, Rauschenberg, Cunningham
 
 ### Schedule  
 #### Week 1   
@@ -234,14 +233,14 @@ The bride and the bachelors : five masters of the avant garde, Duchamp, Tinguely
 ### References
 
 #### Websites
-[Creative Machine Lab at Columbia University](http://www.creativemachineslab.com/)  
-[Rolling Ball Machine made of Bicycle Junk](https://www.youtube.com/watch?v=Bpdb8yQ9cH8)  
-George Rhoads' [Ball Machines](http://georgerhoads.com/)  
-Creative Architecture Machines [here](http://www.creative-architecture-machines.net/) and [here](http://www.future-cities-lab.net/blog/2013/11/3/creative-architecture-machines-cca-fall-2013)  
+- [Creative Machine Lab at Columbia University](http://www.creativemachineslab.com/)  
+- [Rolling Ball Machine made of Bicycle Junk](https://www.youtube.com/watch?v=Bpdb8yQ9cH8)  
+- George Rhoads' [Ball Machines](http://georgerhoads.com/)  
+- Creative Architecture Machines [here](http://www.creative-architecture-machines.net/) and [here](http://www.future-cities-lab.net/blog/2013/11/3/creative-architecture-machines-cca-fall-2013)  
 
 #### Artists
-Harvey Moon's [Drawing Machines](https://creators.vice.com/en_au/article/nz4jj7/harvey-moons-drawing-machines)  
-Jean Tinguely  
-[Alan Rath](http://alanrath.org/)  
-John Cage  
-[Theo Jansen](http://www.strandbeest.com/)  
+- Harvey Moon's [Drawing Machines](https://creators.vice.com/en_au/article/nz4jj7/harvey-moons-drawing-machines)  
+- Jean Tinguely  
+- [Alan Rath](http://alanrath.org/)  
+- John Cage  
+- [Theo Jansen](http://www.strandbeest.com/)  
