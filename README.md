@@ -206,23 +206,23 @@ in PDF format)**
 #### Week 8:
 - Metal shop training
 - Musical instrument prototype
-  
-#### Week 9:   
-- Musical instrument refinement  
-- Shopbot milling  
-  
-#### Week 10:  
-- Finish musical instrument refinement  
+
+#### Week 9:
+- Musical instrument refinement
+- Shopbot milling
+
+#### Week 10:
+- Finish musical instrument refinement
 - Computer controlled musical instrument Due
 
-#### Week 11:  
-- Rube Goldberg concepts  
-- PCB design  
-  
-#### Week 12:  
-- Rube Goldberg prototype (in groups of 3)  
-- PCB mill  
-  
+#### Week 11:
+- Rube Goldberg concepts
+- PCB design
+
+#### Week 12:
+- Rube Goldberg prototype (in groups of 3)
+- PCB mill
+
 #### Week 13:
 -	Refine and finish Rube Goldberg machine (entire class) 
 
@@ -233,14 +233,14 @@ in PDF format)**
 ### References
 
 #### Websites
-- [Creative Machine Lab at Columbia University](http://www.creativemachineslab.com/)  
-- [Rolling Ball Machine made of Bicycle Junk](https://www.youtube.com/watch?v=Bpdb8yQ9cH8)  
-- George Rhoads' [Ball Machines](http://georgerhoads.com/)  
-- Creative Architecture Machines [here](http://www.creative-architecture-machines.net/) and [here](http://www.future-cities-lab.net/blog/2013/11/3/creative-architecture-machines-cca-fall-2013)  
+- [Creative Machine Lab at Columbia University](http://www.creativemachineslab.com/)
+- [Rolling Ball Machine made of Bicycle Junk](https://www.youtube.com/watch?v=Bpdb8yQ9cH8)
+- George Rhoads' [Ball Machines](http://georgerhoads.com/)
+- Creative Architecture Machines [here](http://www.creative-architecture-machines.net/) and [here](http://www.future-cities-lab.net/blog/2013/11/3/creative-architecture-machines-cca-fall-2013)
 
 #### Artists
-- Harvey Moon's [Drawing Machines](https://creators.vice.com/en_au/article/nz4jj7/harvey-moons-drawing-machines)  
-- Jean Tinguely  
-- [Alan Rath](http://alanrath.org/)  
-- John Cage  
-- [Theo Jansen](http://www.strandbeest.com/)  
+- Harvey Moon's [Drawing Machines](https://creators.vice.com/en_au/article/nz4jj7/harvey-moons-drawing-machines)
+- Jean Tinguely
+- [Alan Rath](http://alanrath.org/)
+- John Cage
+- [Theo Jansen](http://www.strandbeest.com/)
