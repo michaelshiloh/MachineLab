@@ -173,39 +173,39 @@ in PDF format)**
 - Basic machines
 - Cardboard automata
 
-#### Week 2:  
-- 2D CAD software   
-- Laser cutter  
-- Refine automata (acrylic)  
-  
-#### Week 3:  
+#### Week 2:
+- 2D CAD software
+- Laser cutter
+- Refine automata (acrylic)
+
+#### Week 3:
 - Automata (hand crank and motorized) Project Due
-- Introduction to Arduino  
-- Basic electronics and programming  
-- LEDs, digital sensors  
-  
-#### Week 4:  
-- Motors and motor control  
-- Gears, pulleys, bearings  
+- Introduction to Arduino
+- Basic electronics and programming
+- LEDs, digital sensors
+
+#### Week 4:
+- Motors and motor control
+- Gears, pulleys, bearings
 - Motorize automata
-  
-#### Week 5:  
-- 3D design  
-- 3D printer  
-- Print a right angle motor bracket and a pen holder  
-- Drawing machine concepts  
-  
-#### Week 6:  
-- Drawing Machine prototype  
-- Wood shop training  
-  
-#### Week 7:  
-- Wood base and enclosure for drawing machine  
+
+#### Week 5:
+- 3D design
+- 3D printer
+- Print a right angle motor bracket and a pen holder
+- Drawing machine concepts
+
+#### Week 6:
+- Drawing Machine prototype
+- Wood shop training
+
+#### Week 7:
+- Wood base and enclosure for drawing machine
 - Drawing Machine Project Due 
-  
-#### Week 8:  
-- Metal shop training  
-- Musical instrument prototype  
+
+#### Week 8:
+- Metal shop training
+- Musical instrument prototype
   
 #### Week 9:   
 - Musical instrument refinement  
