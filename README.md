@@ -86,23 +86,26 @@ Participation in both of these events is mandatory.
 
 #### Learning Outcomes
 
-When the course is finished, students will:
+After successful completion of the course students will:
 
 - Develop a conceptual model for the role and significance of machines in
 daily life
 - Understand some of the history and co-development of mankind and machines
 - Develop a critical understanding of the historical and contemporary use of
 machines in the creative sphere
-- Establish a basic understanding of electronics, programming, and
+- Understand how choice and availability of tools affects design
+
+#### Other Goals
+- Acquire a basic understanding of electronics, programming, and
 mechatronics
-- Understand a range of manual, powered, and computer controlled tools, and
-be able to choose the right tool for the job
-- Develop skills to design various mechatronic assemblies
-- Understand how the availability of certain tools enables different designs
-- Gain the ability to conceptualize, design, construct, program, and debug a
-creative machine
 - Be able to idenfiry and produce a Minimum Viable Project (MVP) and adapt
 product dependencies (e.g. scripts) to changing abilities
+- Gain the ability to conceptualize, design, construct, program, and debug a
+creative machine
+- Use various manual, powered, and computer controlled tools, and
+select the correct tool
+- Develop skills to design and build mechatronic assemblies
+
 
 #### Grading (needs adjusting)
 
@@ -135,8 +138,6 @@ well-organized, clear, and meaningfully commented. Variables, functions,
 classes, and objects have meaningful names. Unused variables, functions, or
 commented-out code explained. Schematic clear and logically organized.
 
- 
-
     A+: 98+
     A: 93 – 97.9
     A-: 90 – 92.9
@@ -149,8 +150,22 @@ commented-out code explained. Schematic clear and logically organized.
     D: 60 – 69.9
     F: -59.9
 
+#### Books
+**Required books**
 
+Making Things Move: DIY Mechanisms for Inventors, Hobbyists, and Artists 	
 
+Cabaret mechanical movement: Understanding Movement and Making Automata 
+
+**Additional readings from these books which will be available in the library or
+in PDF form:**
+
+Heidi E. Violand: Jean Tinguely's Kinetic Art or A Myth of the Machine Age. 
+Diss, New York University, 1990
+
+The bride and the bachelors : five masters of the avant garde, 
+Duchamp, Tinguely, Cage, Rauschenberg, Cunningham
+by Calvin Tomkins, Calvin Tomkins
 
   
 ### Schedule  
@@ -208,3 +223,21 @@ Week 12
   
 Week 13-15  
 -	Refine and finish Rube Goldberg machine (entire class)      
+
+### References
+
+#### Websites
+[Creative Machine Lab at Columbia University](http://www.creativemachineslab.com/)
+[Rolling Ball Machine made of Bicycle
+Junk](https://www.youtube.com/watch?v=Bpdb8yQ9cH8)
+George Rhoads' [Ball Machines](http://georgerhoads.com/)
+Creative Architecture Machines
+[here](http://www.creative-architecture-machines.net/) and
+[here](http://www.future-cities-lab.net/blog/2013/11/3/creative-architecture-machines-cca-fall-2013)
+
+#### Artists
+Harvey Moon's [Drawing
+Machines](https://creators.vice.com/en_au/article/nz4jj7/harvey-moons-drawing-machines)
+Jean Tinguely
+Alan Rath
+John Cage
