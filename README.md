@@ -25,10 +25,7 @@ Minor in Interactive Media
 * Stop by my office or the Interactive Media lab anytime
 * Send me email to set up an appointment 
 
-### Course Description
-
-#### Using machines to build machines
-
+#### Course Description
 The saying goes, "If all you have is a hammer, then every problem looks like a
 nail." What if all you have is a 3D Printer?  In this course, students will be
 introduced to, and engage critically with, a range of contemporary machines
@@ -49,18 +46,8 @@ Over the course of the semester, student will produce four projects:
 * Computer controlled drawing machine  
 * Computer controlled musical instrument  
 * Computer controlled Rube Goldberg chain reaction machine (class project)  
-Students are expected to exhibit their project work twice, once for the midterm and once as part of the Interactive Media End of Semester show. Participation in both of these events is mandatory.
 
-#### Machines and Tools Covered 
-- 2D CAD software  
-- Laser cutter  
-- 3D CAD software  
-- 3D printer  
-- Basic woodworking tools (band saw, table saw, drill press, sander)  
-- Basic metal working tools (band saw, drill press, sander, grinder)  
-- Precision machining with a CNC router  
-- Printed circuit board (PCB) CAD software  
-- PCB router  
+Students are expected to exhibit their project work twice, once for the midterm and once as part of the Interactive Media End of Semester show. Participation in both of these events is mandatory.
 
 #### Topics covered  
 - Basic electronics  
@@ -76,6 +63,17 @@ Students are expected to exhibit their project work twice, once for the midterm 
 - Printed circuit board (PCB) design  
 - Mechanisms and mechatronics  
 
+#### Machines and Tools Covered 
+- 2D CAD software  
+- Laser cutter  
+- 3D CAD software  
+- 3D printer  
+- Basic woodworking tools (band saw, table saw, drill press, sander)  
+- Basic metal working tools (band saw, drill press, sander, grinder)  
+- Precision machining with a CNC router  
+- Printed circuit board (PCB) CAD software  
+- PCB router  
+
 #### Learning Outcomes
 - Develop a conceptual model for the role and significance of machines in
 daily life
@@ -86,7 +84,7 @@ machines in the creative sphere
 creative machine
 - Understand how choice and availability of tools affects design
 
-#### Additional Goals
+#### Additional Learning Goals
 - Acquire a basic understanding of electronics, programming, and
 mechatronics
 - Be able to idenfiry and produce a Minimum Viable Project (MVP) and adapt
@@ -115,7 +113,7 @@ If you will be missing a class due to illness or unavoidable personal circumstan
 * You are expected to show work in class. This includes your Github repository, your attempts, and your results whether working or not. You will share what worked and what didn't. Basically, don’t be afraid to volunteer to show what you did do or failed to do. Explaining your work to other people is a great way to better understand the material and answer questions for yourself. Showing work that did not function as expected is not a sign of failure, it is an opportunity to learn.  
 * Ask questions. If you do not ask questions, I can only assume that you are not prepared for the lesson.
 
-Participation Grading Rubric:
+Participation Grading Rubric (10%):
 
 A - Almost always prepared for class including: seated and settled, with notebook and assignment ready, at the beginning of each lesson, ready to engage in class discussion. Has questions or observations prepared, and ready to answer questions from instructor. If encountered difficulty with assignment, can clearly describe the unexpected behavior and what paths were taken to try to resolve them. Asks questions in class. Almost always engages in discussion with instructor and other students. Frequently offers assistance to other students.
 B - Occasionally prepared in most of the ways indicated above.
@@ -128,7 +126,7 @@ D - Rarely or never prepared in most of the ways indicated above.
 * Computer controlled musical instrument
 * Computer controlled Rube Goldberg chain reaction machine (class project)
 
-Project Grading Rubric
+Project Grading Rubric (per project)
 * Technical Competency (20 points): Correct implementation of algorithm (for
 software) or circuit (for hardware) and fulfillment of technical aspect of the
 assignment. No unnecessary components, wires, variables, or code blocks.
@@ -148,17 +146,17 @@ well-organized, clear, and meaningfully commented. Variables, functions,
 classes, and objects have meaningful names. Unused variables, functions, or
 commented-out code explained. Schematic clear and logically organized.
 
-    A+: 98+
-    A: 93 – 97.9
-    A-: 90 – 92.9
-    B+: 88 – 89.9
-    B: 83 – 87.9
-    B-: 80 – 82.9
-    C+: 78 – 79.9
-    C: 73 – 77.9
-    C-: 70 – 72.9
-    D: 60 – 69.9
-    F: -59.9
+* A+: 98+  
+* A: 93 – 97.9  
+* A-: 90 – 92.9  
+* B+: 88 – 89.9  
+* B: 83 – 87.9  
+* B-: 80 – 82.9  
+* C+: 78 – 79.9  
+* C: 73 – 77.9  
+* C-: 70 – 72.9  
+* D: 60 – 69.9  
+* F: -59.9  
 
 #### Books
 **Required books**
@@ -187,56 +185,57 @@ Week 2:
 - Laser cutter  
 - Refine automata (acrylic)  
   
-Week 3  
+Week 3:  
 - Automata (hand crank and motorized) Project Due
 - Introduction to Arduino  
 - Basic electronics and programming  
 - LEDs, digital sensors  
   
-Week 4  
+Week 4:  
 - Motors and motor control  
 - Gears, pulleys, bearings  
 - Motorize automata
   
-Week 5  
+Week 5:  
 - 3D design  
 - 3D printer  
 - Print a right angle motor bracket and a pen holder  
 - Drawing machine concepts  
   
-Week 6  
+Week 6:  
 - Drawing Machine prototype  
 - Wood shop training  
   
-Week 7  
+Week 7:  
 - Wood base and enclosure for drawing machine  
 - Drawing Machine Project Due 
   
-Week 8  
+Week 8:  
 - Metal shop training  
 - Musical instrument prototype  
   
-Week 9   
+Week 9:   
 - Musical instrument refinement  
 - Shopbot milling  
   
-Week 10  
+Week 10:  
 - Finish musical instrument refinement  
 - Computer controlled musical instrument Due
 
-Week 11  
+Week 11:  
 - Rube Goldberg concepts  
 - PCB design  
   
-Week 12  
+Week 12:  
 - Rube Goldberg prototype (in groups of 3)  
 - PCB mill  
   
-Week 13
+Week 13:
 -	Refine and finish Rube Goldberg machine (entire class) 
 
-Week 14
+Week 14:
 -   Rube Goldberg chain reaction machine Due
+-   IM End-of-Semester Show 
 
 ### References
 
