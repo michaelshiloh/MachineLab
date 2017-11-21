@@ -1,9 +1,8 @@
 ##
 ## New York University Abu Dhabi
 ## Interactive Media
-### Course Number: IM-UH 1112
-
 # MachineLab
+### Course Number: IM-UH 1112
 ### Fall 2017  
 
 **Credits Hours:** 4  
@@ -58,7 +57,7 @@ once around midterm and once
 in the Interactive Media End of Semester show. 
 Participation in both of these events is mandatory.
 
-#### Machines and Tools covered:  
+#### Machines and Tools Covered 
 - 2D CAD software  
 - Laser cutter  
 - 3D CAD software  
@@ -101,22 +100,20 @@ product dependencies (e.g. scripts) to changing abilities
 - Understand how to select and use various manual, powered, and computer controlled tools
 - Develop skills to analyze, design, and build mechatronic assemblies
 
-#### Grading (needs adjusting)
-
-    15% Attendance & participation
-    20% Journal entries
+#### Grading
+    10% Attendance
+    10% Participation
+    10% Journal entries
     15% Automata (hand crank and motorized)
-    20% Computer controlled drawing machine
-    20% Computer controlled musical instrument
-    25% Final project:Computer controlled Rube Goldberg chain reaction machine
-(class project)
+    20% Midterm Project: Computer controlled drawing machine
+    15% Computer controlled musical instrument
+    20% Final Project: Computer controlled Rube Goldberg chain reaction machine
 
 #### Grading Rubric
-
 * Technical Competency (20 points): Correct implementation of algorithm (for
 software) or circuit (for hardware) and fulfillment of technical aspect of the
 assignment. No unnecessary components, wires, variables, or code blocks.
-* Technical insight (20 points): No redundancy or unnecessary duplication of
+* Technical Insight (20 points): No redundancy or unnecessary duplication of
 code or hardware. Clear, logical, easy to follow structure. Appropriate
 handling of invalid inputs or data. Intelligent debugging (or logging)
 messages.
@@ -149,7 +146,7 @@ commented-out code explained. Schematic clear and logically organized.
 
 Making Things Move: DIY Mechanisms for Inventors, Hobbyists, and Artists 	
 
-Cabaret mechanical movement: Understanding Movement and Making Automata 
+Cabaret Mechanical Movement: Understanding Movement and Making Automata 
 
 **Additional readings from these books which will be available in the library or
 in PDF form:**
@@ -161,7 +158,6 @@ The bride and the bachelors : five masters of the avant garde,
 Duchamp, Tinguely, Cage, Rauschenberg, Cunningham
 by Calvin Tomkins, Calvin Tomkins
 
-  
 ### Schedule  
 Week 1   
 - Basic machines  
@@ -173,6 +169,7 @@ Week 2:
 - Refine automata (acrylic)  
   
 Week 3  
+- Automata (hand crank and motorized) Project Due
 - Introduction to Arduino  
 - Basic electronics and programming  
 - LEDs, digital sensors  
@@ -189,12 +186,12 @@ Week 5
 - Drawing machine concepts  
   
 Week 6  
-- Drawing machine prototype  
+- Drawing Machine prototype  
 - Wood shop training  
   
 Week 7  
 - Wood base and enclosure for drawing machine  
-- Finish drawing machine  
+- Drawing Machine Project Due 
   
 Week 8  
 - Metal shop training  
@@ -206,6 +203,7 @@ Week 9
   
 Week 10  
 - Finish musical instrument refinement  
+- Computer controlled musical instrument Due
 
 Week 11  
 - Rube Goldberg concepts  
@@ -215,8 +213,11 @@ Week 12
 - Rube Goldberg prototype (in groups of 3)  
 - PCB mill  
   
-Week 13-15  
--	Refine and finish Rube Goldberg machine (entire class)      
+Week 13
+-	Refine and finish Rube Goldberg machine (entire class) 
+
+Week 14
+-   Rube Goldberg chain reaction machine Due
 
 ### References
 
@@ -230,8 +231,7 @@ Creative Architecture Machines
 [here](http://www.future-cities-lab.net/blog/2013/11/3/creative-architecture-machines-cca-fall-2013)
 
 #### Artists
-Harvey Moon's [Drawing
-Machines](https://creators.vice.com/en_au/article/nz4jj7/harvey-moons-drawing-machines)
+Harvey Moon's [Drawing Machines](https://creators.vice.com/en_au/article/nz4jj7/harvey-moons-drawing-machines)
 Jean Tinguely
 [Alan Rath](http://alanrath.org/)
 John Cage
