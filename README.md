@@ -1,4 +1,3 @@
-##
 ## New York University Abu Dhabi
 ## Interactive Media
 # MachineLab
@@ -6,7 +5,7 @@
 ### Fall 2017  
 
 **Credits Hours:** 4  
-**Classroom:** C3-029 (Art Center, Interactive Media lab)  
+**Classroom:** C3-029 (Art Center - Interactive Media lab)  
 **Time:** Monday 9 - 10:15 and Wednesday 9 - 11:40  
 **Class Website:** [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab/)
 
@@ -45,17 +44,12 @@ software to give their machines unique behaviors and abilities. By thinking
 about machines, using machines, and making machines, the course will offer
 insight into our creative relationships with our tools.
 
-
-#### Projects 
-- Automata (hand crank and motorized)
-- Computer controlled drawing machine
-- Computer controlled musical instrument
-- Computer controlled Rube Goldberg chain reaction machine (class project)
-
-Students will exhibit their classwork twice:
-once around midterm and once 
-in the Interactive Media End of Semester show. 
-Participation in both of these events is mandatory.
+Over the course of the semester, student will produce four projects:
+* Automata (hand crank and motorized)  
+* Computer controlled drawing machine  
+* Computer controlled musical instrument  
+* Computer controlled Rube Goldberg chain reaction machine (class project)  
+Students are expected to exhibit their project work twice, once for the midterm and once as part of the Interactive Media End of Semester show. Participation in both of these events is mandatory.
 
 #### Machines and Tools Covered 
 - 2D CAD software  
@@ -101,15 +95,40 @@ product dependencies (e.g. scripts) to changing abilities
 - Develop skills to analyze, design, and build mechatronic assemblies
 
 #### Grading
-    10% Attendance
-    10% Participation
-    10% Journal entries
-    15% Automata (hand crank and motorized)
-    20% Midterm Project: Computer controlled drawing machine
-    15% Computer controlled musical instrument
-    20% Final Project: Computer controlled Rube Goldberg chain reaction machine
+* 10% Attendance  
+* 10% Participation  
+* 10% Journal entries  
+* 15% Automata (hand crank and motorized)  
+* 20% Midterm Project: Computer controlled drawing machine  
+* 15% Computer controlled musical instrument  
+* 20% Final Project: Computer controlled Rube Goldberg chain reaction machine  
 
-#### Grading Rubric
+#### Attendance
+Attendance and arrival on time to all class sessions is required and expected. Two unexcused absences lower your overall final grade by a letter. Each subsequent unexcused absence will lower another letter grade. Two late arrivals will count as one  absence. Arriving more than 20 minutes late will also count as an absence.
+
+If you will be missing a class due to illness or unavoidable personal circumstances, you must notify your professor in advance via email or submit a doctor's note for the absence to be excused.
+
+#### Participation
+
+* Showing up on time, engaging in the class discussion, asking questions and offering answers and in general participating in lessons and discussions during class is an important part of your grade. Participation in class is important to deepen your understanding and is helpful for me to get to know you as an individual and keep track of your progress, and, it provides you and your classmates the opportunity to share successes, failures, and insights into the work you are doing.  
+* Turn in all assignments on time. For each day an assignment is late, it will result in a lower final grade (e.g. B+ to B).  
+* You are expected to show work in class. This includes your Github repository, your attempts, and your results whether working or not. You will share what worked and what didn't. Basically, don’t be afraid to volunteer to show what you did do or failed to do. Explaining your work to other people is a great way to better understand the material and answer questions for yourself. Showing work that did not function as expected is not a sign of failure, it is an opportunity to learn.  
+* Ask questions. If you do not ask questions, I can only assume that you are not prepared for the lesson.
+
+Participation Grading Rubric:
+
+A - Almost always prepared for class including: seated and settled, with notebook and assignment ready, at the beginning of each lesson, ready to engage in class discussion. Has questions or observations prepared, and ready to answer questions from instructor. If encountered difficulty with assignment, can clearly describe the unexpected behavior and what paths were taken to try to resolve them. Asks questions in class. Almost always engages in discussion with instructor and other students. Frequently offers assistance to other students.
+B - Occasionally prepared in most of the ways indicated above.
+C - Infrequently prepared in most of the ways indicated above.
+D - Rarely or never prepared in most of the ways indicated above.
+
+#### Projects 
+* Automata (hand crank and motorized)
+* Computer controlled drawing machine
+* Computer controlled musical instrument
+* Computer controlled Rube Goldberg chain reaction machine (class project)
+
+Project Grading Rubric
 * Technical Competency (20 points): Correct implementation of algorithm (for
 software) or circuit (for hardware) and fulfillment of technical aspect of the
 assignment. No unnecessary components, wires, variables, or code blocks.
