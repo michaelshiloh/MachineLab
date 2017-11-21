@@ -25,7 +25,7 @@ Minor in Interactive Media
 * Stop by my office or the Interactive Media lab anytime
 * Send me email to set up an appointment 
 
-#### Course Description
+### Course Description
 The saying goes, "If all you have is a hammer, then every problem looks like a
 nail." What if all you have is a 3D Printer?  In this course, students will be
 introduced to, and engage critically with, a range of contemporary machines
@@ -107,18 +107,16 @@ Attendance and arrival on time to all class sessions is required and expected. T
 If you will be missing a class due to illness or unavoidable personal circumstances, you must notify your professor in advance via email or submit a doctor's note for the absence to be excused.
 
 #### Participation
-
 * Showing up on time, engaging in the class discussion, asking questions and offering answers and in general participating in lessons and discussions during class is an important part of your grade. Participation in class is important to deepen your understanding and is helpful for me to get to know you as an individual and keep track of your progress, and, it provides you and your classmates the opportunity to share successes, failures, and insights into the work you are doing.  
 * Turn in all assignments on time. For each day an assignment is late, it will result in a lower final grade (e.g. B+ to B).  
 * You are expected to show work in class. This includes your Github repository, your attempts, and your results whether working or not. You will share what worked and what didn't. Basically, don’t be afraid to volunteer to show what you did do or failed to do. Explaining your work to other people is a great way to better understand the material and answer questions for yourself. Showing work that did not function as expected is not a sign of failure, it is an opportunity to learn.  
 * Ask questions. If you do not ask questions, I can only assume that you are not prepared for the lesson.
 
-Participation Grading Rubric (10%):
-
-A - Almost always prepared for class including: seated and settled, with notebook and assignment ready, at the beginning of each lesson, ready to engage in class discussion. Has questions or observations prepared, and ready to answer questions from instructor. If encountered difficulty with assignment, can clearly describe the unexpected behavior and what paths were taken to try to resolve them. Asks questions in class. Almost always engages in discussion with instructor and other students. Frequently offers assistance to other students.
-B - Occasionally prepared in most of the ways indicated above.
-C - Infrequently prepared in most of the ways indicated above.
-D - Rarely or never prepared in most of the ways indicated above.
+#### Participation Grading Rubric (10%):
+A - Almost always prepared for class including: seated and settled, with notebook and assignment ready, at the beginning of each lesson, ready to engage in class discussion. Has questions or observations prepared, and ready to answer questions from instructor. If encountered difficulty with assignment, can clearly describe the unexpected behavior and what paths were taken to try to resolve them. Asks questions in class. Almost always engages in discussion with instructor and other students. Frequently offers assistance to other students.  
+B - Occasionally prepared in most of the ways indicated above.  
+C - Infrequently prepared in most of the ways indicated above.  
+D - Rarely or never prepared in most of the ways indicated above.  
 
 #### Projects 
 * Automata (hand crank and motorized)
@@ -126,7 +124,7 @@ D - Rarely or never prepared in most of the ways indicated above.
 * Computer controlled musical instrument
 * Computer controlled Rube Goldberg chain reaction machine (class project)
 
-Project Grading Rubric (per project)
+#### Project Grading Rubric (per project)
 * Technical Competency (20 points): Correct implementation of algorithm (for
 software) or circuit (for hardware) and fulfillment of technical aspect of the
 assignment. No unnecessary components, wires, variables, or code blocks.
@@ -146,111 +144,104 @@ well-organized, clear, and meaningfully commented. Variables, functions,
 classes, and objects have meaningful names. Unused variables, functions, or
 commented-out code explained. Schematic clear and logically organized.
 
-* A+: 98+  
-* A: 93 – 97.9  
-* A-: 90 – 92.9  
-* B+: 88 – 89.9  
-* B: 83 – 87.9  
-* B-: 80 – 82.9  
-* C+: 78 – 79.9  
-* C: 73 – 77.9  
-* C-: 70 – 72.9  
-* D: 60 – 69.9  
-* F: -59.9  
+- A+: 98+  
+- A: 93 – 97.9  
+- A-: 90 – 92.9  
+- B+: 88 – 89.9  
+- B: 83 – 87.9  
+- B-: 80 – 82.9  
+- C+: 78 – 79.9  
+- C: 73 – 77.9  
+- C-: 70 – 72.9  
+- D: 60 – 69.9  
+- F: -59.9  
 
 #### Books
 **Required books**
 
 Making Things Move: DIY Mechanisms for Inventors, Hobbyists, and Artists 	
-
 Cabaret Mechanical Movement: Understanding Movement and Making Automata 
 
-**Additional readings from these books which will be available in the library or
-in PDF form:**
+**Additional readings (these books which will be available in the library or
+in PDF format)**
 
 Heidi E. Violand: Jean Tinguely's Kinetic Art or A Myth of the Machine Age. 
 Diss, New York University, 1990
-
-The bride and the bachelors : five masters of the avant garde, 
-Duchamp, Tinguely, Cage, Rauschenberg, Cunningham
-by Calvin Tomkins, Calvin Tomkins
+The bride and the bachelors : five masters of the avant garde, Duchamp, Tinguely, Cage, Rauschenberg, Cunningham by Calvin Tomkins, Calvin Tomkins  
 
 ### Schedule  
-Week 1   
+#### Week 1   
 - Basic machines  
 - Cardboard automata   
   
-Week 2:  
+#### Week 2:  
 - 2D CAD software   
 - Laser cutter  
 - Refine automata (acrylic)  
   
-Week 3:  
+#### Week 3:  
 - Automata (hand crank and motorized) Project Due
 - Introduction to Arduino  
 - Basic electronics and programming  
 - LEDs, digital sensors  
   
-Week 4:  
+#### Week 4:  
 - Motors and motor control  
 - Gears, pulleys, bearings  
 - Motorize automata
   
-Week 5:  
+#### Week 5:  
 - 3D design  
 - 3D printer  
 - Print a right angle motor bracket and a pen holder  
 - Drawing machine concepts  
   
-Week 6:  
+#### Week 6:  
 - Drawing Machine prototype  
 - Wood shop training  
   
-Week 7:  
+#### Week 7:  
 - Wood base and enclosure for drawing machine  
 - Drawing Machine Project Due 
   
-Week 8:  
+#### Week 8:  
 - Metal shop training  
 - Musical instrument prototype  
   
-Week 9:   
+#### Week 9:   
 - Musical instrument refinement  
 - Shopbot milling  
   
-Week 10:  
+#### Week 10:  
 - Finish musical instrument refinement  
 - Computer controlled musical instrument Due
 
-Week 11:  
+#### Week 11:  
 - Rube Goldberg concepts  
 - PCB design  
   
-Week 12:  
+#### Week 12:  
 - Rube Goldberg prototype (in groups of 3)  
 - PCB mill  
   
-Week 13:
+#### Week 13:
 -	Refine and finish Rube Goldberg machine (entire class) 
 
-Week 14:
+#### Week 14:
 -   Rube Goldberg chain reaction machine Due
 -   IM End-of-Semester Show 
 
 ### References
 
 #### Websites
-[Creative Machine Lab at Columbia University](http://www.creativemachineslab.com/)
-[Rolling Ball Machine made of Bicycle
-Junk](https://www.youtube.com/watch?v=Bpdb8yQ9cH8)
-George Rhoads' [Ball Machines](http://georgerhoads.com/)
-Creative Architecture Machines
-[here](http://www.creative-architecture-machines.net/) and
-[here](http://www.future-cities-lab.net/blog/2013/11/3/creative-architecture-machines-cca-fall-2013)
+[Creative Machine Lab at Columbia University](http://www.creativemachineslab.com/)  
+[Rolling Ball Machine made of Bicycle Junk](https://www.youtube.com/watch?v=Bpdb8yQ9cH8)  
+George Rhoads' [Ball Machines](http://georgerhoads.com/)  
+Creative Architecture Machines [here](http://www.creative-architecture-machines.net/) and [here](http://www.future-cities-lab.net/blog/2013/11/3/creative-architecture-machines-cca-fall-2013)  
 
 #### Artists
-Harvey Moon's [Drawing Machines](https://creators.vice.com/en_au/article/nz4jj7/harvey-moons-drawing-machines)
-Jean Tinguely
-[Alan Rath](http://alanrath.org/)
-John Cage
-[Theo Jansen](http://www.strandbeest.com/)
+Harvey Moon's [Drawing Machines](https://creators.vice.com/en_au/article/nz4jj7/harvey-moons-drawing-machines)  
+Jean Tinguely  
+[Alan Rath](http://alanrath.org/)  
+John Cage  
+[Theo Jansen](http://www.strandbeest.com/)  
