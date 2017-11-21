@@ -93,13 +93,13 @@ product dependencies (e.g. scripts) to changing abilities
 - Develop skills to analyze, design, and build mechatronic assemblies
 
 #### Grading
-* 10% Attendance  
-* 10% Participation  
-* 10% Journal entries  
-* 15% Automata (hand crank and motorized)  
-* 20% Midterm Project: Computer controlled drawing machine  
-* 15% Computer controlled musical instrument  
-* 20% Final Project: Computer controlled Rube Goldberg chain reaction machine  
+* 10% Attendance
+* 10% Participation
+* 10% Journal entries
+* 15% Automata (hand crank and motorized)
+* 20% Midterm Project: Computer controlled drawing machine
+* 15% Computer controlled musical instrument
+* 20% Final Project: Computer controlled Rube Goldberg chain reaction machine
 
 #### Attendance
 Attendance and arrival on time to all class sessions is required and expected. Two unexcused absences lower your overall final grade by a letter. Each subsequent unexcused absence will lower another letter grade. Two late arrivals will count as one  absence. Arriving more than 20 minutes late will also count as an absence.
@@ -107,16 +107,16 @@ Attendance and arrival on time to all class sessions is required and expected. T
 If you will be missing a class due to illness or unavoidable personal circumstances, you must notify your professor in advance via email or submit a doctor's note for the absence to be excused.
 
 #### Participation
-* Showing up on time, engaging in the class discussion, asking questions and offering answers and in general participating in lessons and discussions during class is an important part of your grade. Participation in class is important to deepen your understanding and is helpful for me to get to know you as an individual and keep track of your progress, and, it provides you and your classmates the opportunity to share successes, failures, and insights into the work you are doing.  
-* Turn in all assignments on time. For each day an assignment is late, it will result in a lower final grade (e.g. B+ to B).  
-* You are expected to show work in class. This includes your Github repository, your attempts, and your results whether working or not. You will share what worked and what didn't. Basically, don’t be afraid to volunteer to show what you did do or failed to do. Explaining your work to other people is a great way to better understand the material and answer questions for yourself. Showing work that did not function as expected is not a sign of failure, it is an opportunity to learn.  
+* Showing up on time, engaging in the class discussion, asking questions and offering answers and in general participating in lessons and discussions during class is an important part of your grade. Participation in class is important to deepen your understanding and is helpful for me to get to know you as an individual and keep track of your progress, and, it provides you and your classmates the opportunity to share successes, failures, and insights into the work you are doing.
+* Turn in all assignments on time. For each day an assignment is late, it will result in a lower final grade (e.g. B+ to B).
+* You are expected to show work in class. This includes your Github repository, your attempts, and your results whether working or not. You will share what worked and what didn't. Basically, don’t be afraid to volunteer to show what you did do or failed to do. Explaining your work to other people is a great way to better understand the material and answer questions for yourself. Showing work that did not function as expected is not a sign of failure, it is an opportunity to learn.
 * Ask questions. If you do not ask questions, I can only assume that you are not prepared for the lesson.
 
 #### Participation Grading Rubric (10%):
-- A - Almost always prepared for class including: seated and settled, with notebook and assignment ready, at the beginning of each lesson, ready to engage in class discussion. Has questions or observations prepared, and ready to answer questions from instructor. If encountered difficulty with assignment, can clearly describe the unexpected behavior and what paths were taken to try to resolve them. Asks questions in class. Almost always engages in discussion with instructor and other students. Frequently offers assistance to other students.  
-- B - Occasionally prepared in most of the ways indicated above.  
-- C - Infrequently prepared in most of the ways indicated above.  
-- D - Rarely or never prepared in most of the ways indicated above.  
+- A - Almost always prepared for class including: seated and settled, with notebook and assignment ready, at the beginning of each lesson, ready to engage in class discussion. Has questions or observations prepared, and ready to answer questions from instructor. If encountered difficulty with assignment, can clearly describe the unexpected behavior and what paths were taken to try to resolve them. Asks questions in class. Almost always engages in discussion with instructor and other students. Frequently offers assistance to other students.
+- B - Occasionally prepared in most of the ways indicated above.
+- C - Infrequently prepared in most of the ways indicated above.
+- D - Rarely or never prepared in most of the ways indicated above.
 
 #### Projects 
 * Automata (hand crank and motorized)
@@ -144,35 +144,35 @@ well-organized, clear, and meaningfully commented. Variables, functions,
 classes, and objects have meaningful names. Unused variables, functions, or
 commented-out code explained. Schematic clear and logically organized.
 
-- A+: 98+  
-- A: 93 – 97.9  
-- A-: 90 – 92.9  
-- B+: 88 – 89.9  
-- B: 83 – 87.9  
-- B-: 80 – 82.9  
-- C+: 78 – 79.9  
-- C: 73 – 77.9  
-- C-: 70 – 72.9  
-- D: 60 – 69.9  
-- F: -59.9  
+- A+: 98+
+- A: 93 – 97.9
+- A-: 90 – 92.9
+- B+: 88 – 89.9
+- B: 83 – 87.9
+- B-: 80 – 82.9
+- C+: 78 – 79.9
+- C: 73 – 77.9
+- C-: 70 – 72.9
+- D: 60 – 69.9
+- F: -59.9
 
 #### Books
 **Required books**
 
-- Making Things Move: DIY Mechanisms for Inventors, Hobbyists, and Artists 	
-- Cabaret Mechanical Movement: Understanding Movement and Making Automata 
+- Making Things Move: DIY Mechanisms for Inventors, Hobbyists, and Artists
+- Cabaret Mechanical Movement: Understanding Movement and Making Automata
 
 **Additional readings (these books which will be available in the library or
 in PDF format)**
 
-- Heidi E. Violand, Jean Tinguely's Kinetic Art or A Myth of the Machine Age. 
+- Heidi E. Violand, Jean Tinguely's Kinetic Art or A Myth of the Machine Age.
 - Calvin Tomkins, The Bride and the Bachelors: five masters of the avant garde, Duchamp, Tinguely, Cage, Rauschenberg, Cunningham
 
-### Schedule  
-#### Week 1   
-- Basic machines  
-- Cardboard automata   
-  
+### Schedule
+#### Week 1
+- Basic machines
+- Cardboard automata
+
 #### Week 2:  
 - 2D CAD software   
 - Laser cutter  
