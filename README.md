@@ -104,7 +104,7 @@ product dependencies (e.g. scripts) to changing abilities
 creative machine
 - Use various manual, powered, and computer controlled tools, and
 select the correct tool
-- Develop skills to design and build mechatronic assemblies
+- Develop skills to analyze, design, and build mechatronic assemblies
 
 
 #### Grading (needs adjusting)
@@ -239,5 +239,6 @@ Creative Architecture Machines
 Harvey Moon's [Drawing
 Machines](https://creators.vice.com/en_au/article/nz4jj7/harvey-moons-drawing-machines)
 Jean Tinguely
-Alan Rath
+[Alan Rath](http://alanrath.org/)
 John Cage
+[Theo Jansen](http://www.strandbeest.com/)
