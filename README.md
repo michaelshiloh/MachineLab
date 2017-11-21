@@ -1,15 +1,15 @@
 ##
 ## New York University Abu Dhabi
 ## Interactive Media
-### Course Number: 
+### Course Number: IM-UH 1112
 
 # MachineLab
 ### Fall 2017  
 
 **Credits Hours:** 4  
 **Classroom:** C3-029 (Art Center, Interactive Media lab)  
-**Time:** 
-**Class Website:**
+**Time:** Monday 9 - 10:15 and Wednesday 9 - 11:40  
+**Class Website:** [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab/)
 
 **Recommended Prerequisites:**
 None
@@ -21,7 +21,7 @@ Minor in Interactive Media
 
 **Instructor:** Michael Shiloh  
 **Email:** mshiloh@nyu.edu  
-**Office:** Arts Center Room:   
+**Office:** Arts Center Room: C3-163  
 **Office Hours:** TBD  
 **Availability outside of office hours:** 
 * Stop by my office or the Interactive Media lab anytime
@@ -34,8 +34,7 @@ Minor in Interactive Media
 The saying goes, "If all you have is a hammer, then every problem looks like a
 nail." What if all you have is a 3D Printer?  In this course, students will be
 introduced to, and engage critically with, a range of contemporary machines
-inside and around the Interactive Media Lab [possibly to include off-campus
-resources?]. Leveraging historical
+inside and around the Interactive Media Lab. Leveraging historical
 perspectives, current use-cases, and hands-on making, the course will explore
 how machines enhance, or limit, our creative processes. Readings and
 discussion will be paired with practical designing, prototyping, and making of
@@ -48,7 +47,7 @@ about machines, using machines, and making machines, the course will offer
 insight into our creative relationships with our tools.
 
 
-The four projects will be:
+#### Projects 
 - Automata (hand crank and motorized)
 - Computer controlled drawing machine
 - Computer controlled musical instrument
@@ -59,7 +58,7 @@ once around midterm and once
 in the Interactive Media End of Semester show. 
 Participation in both of these events is mandatory.
 
-#### Machines and tools covered:  
+#### Machines and Tools covered:  
 - 2D CAD software  
 - Laser cutter  
 - 3D CAD software  
@@ -85,27 +84,22 @@ Participation in both of these events is mandatory.
 - Mechanisms and mechatronics  
 
 #### Learning Outcomes
-
-After successful completion of the course students will:
-
 - Develop a conceptual model for the role and significance of machines in
 daily life
-- Understand some of the history and co-development of mankind and machines
+- Gain insight into the history and co-development of humans and machines
 - Develop a critical understanding of the historical and contemporary use of
 machines in the creative sphere
+- Gain the ability to conceptualize, design, construct, program, and debug a
+creative machine
 - Understand how choice and availability of tools affects design
 
-#### Other Goals
+#### Additional Goals
 - Acquire a basic understanding of electronics, programming, and
 mechatronics
 - Be able to idenfiry and produce a Minimum Viable Project (MVP) and adapt
 product dependencies (e.g. scripts) to changing abilities
-- Gain the ability to conceptualize, design, construct, program, and debug a
-creative machine
-- Use various manual, powered, and computer controlled tools, and
-select the correct tool
+- Understand how to select and use various manual, powered, and computer controlled tools
 - Develop skills to analyze, design, and build mechatronic assemblies
-
 
 #### Grading (needs adjusting)
 
