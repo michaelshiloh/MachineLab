@@ -168,6 +168,41 @@ in PDF format)**
 - Heidi E. Violand, Jean Tinguely's Kinetic Art or A Myth of the Machine Age.
 - Calvin Tomkins, The Bride and the Bachelors: five masters of the avant garde, Duchamp, Tinguely, Cage, Rauschenberg, Cunningham
 
+#### Mobile Phones
+Texting and other uses are prohibited during class.
+ Please silence and disable all calls and notifications.
+If you
+have an emergency that requires you to answer your phone during class, please
+let me know me ahead of time and quietly step out of class to take the call.
+
+#### Communicate
+If you have any questions, would like extra help, or need further instruction,
+please reach out to me. You can communicate with me via email, sign up for
+office hours, speak with me before class, after class or during breaks.
+Please let me know if you have any concerns about the material or your
+progress in the course. I am very willing to help, but you have to take the
+first step of reaching out to me.
+
+### Academic Integrity
+As set forth in NYU Abu Dhabi's Academic Integrity Policy, the relationship
+between students and faculty at NYU Abu Dhabi is defined by a shared
+commitment to academic excellence and is grounded in an expectation of
+fairness, honesty, and respect, which are essential to maintaining the
+integrity of the community. Every student who enrolls and everyone who accepts
+an appointment as a member of the faculty or staff at NYU Abu Dhabi agrees to
+abide by the expectation of academic honesty.  The full policies and
+procedures relating to Academic Integrity may be found on the [NYUAD Student
+Portal](https://students.nyuad.nyu.edu/campus-life/student-policies/community-standards-policies/academic-integrity/)
+
+### Teaching Methodology
+This is a production-based course that involves programming, electronics, and
+mechanisms work both inside and outside of the classroom.  Examples will
+presented and discussed throughout, and students will be required to write
+code, build circuits, build mechanisms, ask questions, and engage in both
+creative and technical discussion. The course embraces a process-oriented
+philosophy believing that programming, electronics, and mechatronics
+development are best learned by doing. 
+
 ### Schedule
 #### Week 1
 - Basic machines
