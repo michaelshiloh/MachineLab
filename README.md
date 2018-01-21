@@ -215,10 +215,10 @@ development are best learned by doing.
 	- [Drawing Machine](http://www.shihanzhang.com/drawing-machine/)
 	- [Musical Instrument](https://vimeo.com/189366071)
 	- [Chain Reaction](https://vimeo.com/102887278)
-	- [Marble Machine](
-- Demo
+	- [Marble
+		Machine](https://www.pinterest.cl/pin/481251910156036553/visual-search/?x=12&y=12&w=405&h=512)
 - [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
-- Cardboard automata
+- Demo
 
 #### Homework due Wednesday 24 January 
 **Read**
