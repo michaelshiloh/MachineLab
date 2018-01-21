@@ -214,24 +214,30 @@ development are best learned by doing.
 	- [Simple Cardboard Machines](https://vimeo.com/130539503)
 	- [Drawing Machine](http://www.shihanzhang.com/drawing-machine/)
 	- [Musical Instrument](https://vimeo.com/189366071)
-	- [Performing Machines](https://www.youtube.com/watch?v=L6iNxj7djco)
 	- [Chain Reaction](https://vimeo.com/102887278)
+	- [Marble Machine](
 - Demo
-- Basic machines
+- [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
 - Cardboard automata
 
-Homework due Wednesday 24 January 
+#### Homework due Wednesday 24 January 
+**Read**
 - Read "Cabaret Mechanical Movement" 
 - Read
 	[Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
+- Review [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
+
+**Do**
 - Build a hand crank machine using a crank and any other mechanism (linkage,
 	cam, etc. Your machine must operate smoothly without sticking or falling
 	apart for at least 30 seconds. 
 - Create a GitHub account and create a repository for this class. 
 	[Here](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
 	are some instructions
--	Find a link to something you consider to be a robotic performance. Post a
-	short description and the link in the README file of your GitHub repository
+
+**Optional**
+- Browse [Mechatronics
+	Resources[(https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
 
 #### Wednesday 24 January 9am - 11:40
 - Introduction to Arduino
