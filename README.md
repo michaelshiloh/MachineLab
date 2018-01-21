@@ -206,20 +206,45 @@ philosophy believing that programming, electronics, and mechatronics
 development are best learned by doing. 
 
 ### Schedule
-#### Week 1
+#### Monday 22 January 2018 9am - 10:15
+- What this class is about
+- Introductions
+- Syllabus
+- Examples
+	- [Simple Cardboard Machines](https://vimeo.com/130539503)
+	- [Drawing Machine](http://www.shihanzhang.com/drawing-machine/)
+	- [Musical Instrument](https://vimeo.com/189366071)
+	- [Performing Machines](https://www.youtube.com/watch?v=L6iNxj7djco)
+	- [Chain Reaction](https://vimeo.com/102887278)
+- Demo
 - Basic machines
 - Cardboard automata
 
+Homework due Wednesday 24 January 
+- Read "Cabaret Mechanical Movement" 
+- Read
+	[Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
+- Build a hand crank machine using a crank and any other mechanism (linkage,
+	cam, etc. Your machine must operate smoothly without sticking or falling
+	apart for at least 30 seconds. 
+- Create a GitHub account and create a repository for this class. 
+	[Here](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
+	are some instructions
+-	Find a link to something you consider to be a robotic performance. Post a
+	short description and the link in the README file of your GitHub repository
+
+#### Wednesday 24 January 9am - 11:40
+- Introduction to Arduino
+- Basic electronics and programming
+- Controlling motors with transistor
+
 #### Week 2:
-- 2D CAD software
-- Laser cutter
 - Refine automata (acrylic)
 
 #### Week 3:
+- 2D CAD software
+- Laser cutter
 - Automata (hand crank and motorized) Project Due
-- Introduction to Arduino
-- Basic electronics and programming
-- LEDs, digital sensors
 
 #### Week 4:
 - Motors and motor control
