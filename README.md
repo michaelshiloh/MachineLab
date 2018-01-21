@@ -165,6 +165,8 @@ commented-out code explained. Schematic clear and logically organized.
 **Additional readings (these books which will be available in the library or
 in PDF format)**
 
+- Machine Art in the Twentieth Century (Leonardo Book Series)Dec 23, 2016
+by Andreas Broeckmann 
 - Heidi E. Violand, Jean Tinguely's Kinetic Art or A Myth of the Machine Age.
 - Calvin Tomkins, The Bride and the Bachelors: five masters of the avant garde, Duchamp, Tinguely, Cage, Rauschenberg, Cunningham
 
