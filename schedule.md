@@ -24,6 +24,11 @@
 
 ### current-homework-assignment
 #### Homework due Wednesday 24 January 
+- **Update**
+	- I personally counted 6 copies of "Making Things Move" on the bookstore
+		shelves. If you are told it is not available ask for Jocelyn.
+	- "Cabaret Mechanical Movements" has not arrived yet. I will keep you
+		informed.
 - **Read**
 	- [Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
 	- [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
@@ -41,7 +46,7 @@
 
 - **Optional**
 	- Browse [Mechatronics
- Resources[(https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
+ Resources](https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
 
 #### Wednesday 24 January 9am - 11:40
 - Review syllabus 
