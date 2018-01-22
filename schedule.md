@@ -24,21 +24,21 @@
 
 ### current-homework-assignment
 #### Homework due Wednesday 24 January 
-**Read**
-- Read
+- **Read**
+  - Read
 	[Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
-- Review [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
-- Read both soldering tutorials
+	- Review [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
+	- Read both soldering tutorials
 	[here](https://github.com/michaelshiloh/resourcesForClasses#soldering)
 
-**Do**
-- Build a hand crank machine using a crank and any other mechanism (linkage,
+- **Do**
+	- Build a hand crank machine using a crank and any other mechanism (linkage,
 	cam, etc. Your machine must operate smoothly without sticking or falling
 	apart for at least 30 seconds. 
-- Create a GitHub account and create a repository for this class. 
+	- Create a GitHub account and create a repository for this class. 
 	[Here](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
 	are some instructions
-- Install
+	- Label your shelf
 
 **Optional**
 - Browse [Mechatronics
