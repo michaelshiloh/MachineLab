@@ -1,13 +1,20 @@
 ## New York University Abu Dhabi
 ## Interactive Media
-# MachineLab
+# Machine Lab
 ### Course Number: IM-UH 1112
 ### Fall 2017  
+
+**Everything can be found on the course website:** [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab/)
+
+# Syllabus
+
+This syllabus is subject to change
+
+_
 
 **Credits Hours:** 4  
 **Classroom:** C3-029 (Art Center - Interactive Media lab)  
 **Time:** Monday 9 - 10:15 and Wednesday 9 - 11:40  
-**Class Website:** [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab/)
 
 **Recommended Prerequisites:**
 None
