@@ -5,9 +5,11 @@
 ### Spring 2018
 
 
-[Current homework assignment](#current-homework-assignment)  
+[Current Homework
+Assignment](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#current-homework-assignment)
 
-[Syllabus](syllabus.md)
+[Syllabus](syllabus.md)  
+
 [Schedule](schedule.md)
 
 Student Github repositories
