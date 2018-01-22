@@ -2,9 +2,10 @@
 ## Interactive Media
 # Machine Lab
 ### Course Number: IM-UH 1112
-### Fall 2017  
+### Spring 2018  
 
-**Everything can be found on the course website:** [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab/)
+**Everything can be found on the course website:**   
+[https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab/)
 
 # Syllabus
 
