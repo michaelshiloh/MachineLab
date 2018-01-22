@@ -25,11 +25,10 @@
 ### current-homework-assignment
 #### Homework due Wednesday 24 January 
 - **Read**
-  - Read
-	[Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
-	- Review [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
-	- Read both soldering tutorials
-	[here](https://github.com/michaelshiloh/resourcesForClasses#soldering)
+	- [Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
+	- [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
+	- Both soldering tutorials
+[here](https://github.com/michaelshiloh/resourcesForClasses#soldering)
 
 - **Do**
 	- Build a hand crank machine using a crank and any other mechanism (linkage,
@@ -40,9 +39,9 @@
 	are some instructions
 	- Label your shelf
 
-**Optional**
-- Browse [Mechatronics
-	Resources[(https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
+- **Optional**
+	- Browse [Mechatronics
+ Resources[(https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
 
 #### Wednesday 24 January 9am - 11:40
 - Review syllabus 
