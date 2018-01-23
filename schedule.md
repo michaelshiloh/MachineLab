@@ -25,10 +25,9 @@
 ### current-homework-assignment
 #### Homework due Wednesday 24 January 
 - **Update**
-	- I personally counted 6 copies of "Making Things Move" on the bookstore
-		shelves. If you are told it is not available ask for Jocelyn.
-	- "Cabaret Mechanical Movements" has not arrived yet. I will keep you
-		informed.
+	- "Cabaret Mechanical Movements" is now available in the bookstore
+	- Some bookstore staff members don't seem to know where our books are.
+		If you are told they are not available ask for Jocelyn.
 - **Read**
 	- [Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
 	- [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
