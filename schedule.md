@@ -48,12 +48,56 @@
  Resources](https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
 
 #### Wednesday 24 January 9am - 11:40
+- Lab orientation with Ume
 - Review syllabus 
 - Soldering demo (twisting, touching, heat shrink tubing)
 - Solder wires to motors demo (stranded, strain relief, solid tips)
 - Test (Arduino, USB cable, 5V)
 - Lab: Put wires on your motors and test them
 - Activity: Mechanize your crank machines
+
+
+
+Schedule summary (the detailed schedule below will be revised)
+
+- Next two weeks - Arduino motor control; stepper motors, gears  
+- February 7 - Laser cutter training  
+- February 12 - first drawing machine prototype  
+- February 19 - second drawing machine prototype  
+- February 21 - install drawing machine in 006  
+- February 24 - de-install  
+- February 26 - March 7 - Solenoids, motors, bells: develop sound makers  
+- Readings: sequencers  
+- March 12-19 - Spring break  
+- March 21 - April 4 musical instruments  
+- April 9 - 30 - Rube Goldberg Rolling Ball machine  
+
+### Examples  
+## Warning  
+
+Drawing Machines 
+[1](https://www.raspberrypi.org/blog/hanging-wall-plotter/)  
+[2](https://www.youtube.com/watch?v=T0jwdrgVBBc)  
+[3](http://www.homofaciens.de/technics-machines-v-plotter_en.htm)
+[4](https://www.pinterest.com/pin/516014069788859472/)
+[5](http://www.instructables.com/id/CNC-HANGING-PLOTTER/)
+[6](http://patriciogonzalezvivo.com/2014/vPlotter/)
+[7](http://www.instructables.com/id/Polargraph-Drawing-Machine/)
+[8](https://www.thingiverse.com/thing:12557)
+[9](https://www.thingiverse.com/thing:12403)
+[10](http://makerblock.com/2013/03/a-study-of-drawing-robot-pen-holders-and-design-considerations/)
+[11](https://www.kickstarter.com/projects/1765367532/duograph-drawing-machine?ref=nav_search)
+[12](http://www.thisiscolossal.com/2016/03/cycloid-drawing-machine/)
+
+Marble machines
+[1](https://www.youtube.com/user/denha)
+[2](https://tinkerlog.com/)
+
+
+
+
+
+
 
 
 
