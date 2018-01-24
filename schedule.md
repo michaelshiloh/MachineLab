@@ -90,6 +90,7 @@
 
 
 #### Monday 29 January 2018 9am - 10:15 (very tentative)
+- All homework is due on time, not just the fun stuff (late Github)
 - arduino 
 	- using digital write to control speed
 		- first in code, then with pot
