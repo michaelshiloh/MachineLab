@@ -17,4 +17,3 @@ Assignment](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#
 
 Student Github repositories
 
-

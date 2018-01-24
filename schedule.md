@@ -49,7 +49,7 @@
 
 #### Wednesday 24 January 9am - 11:40
 - Lab orientation with Ume
-- Review syllabus 
+- Review syllabus / schedule
 - Soldering demo (twisting, touching, heat shrink tubing)
 - Solder wires to motors demo (stranded, strain relief, solid tips)
 - Test (Arduino, USB cable, 5V)
