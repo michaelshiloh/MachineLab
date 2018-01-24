@@ -1,6 +1,6 @@
 ## New York University Abu Dhabi
 ## Interactive Media
-# MachineLab
+# Machine Lab
 ### Course Number: IM-UH 1112
 ### Fall 2017  
 
@@ -22,7 +22,6 @@
 - Demo
 
 
-### current-homework-assignment
 #### Homework due Wednesday 24 January 
 - **Update**
 	- "Cabaret Mechanical Movements" is now available in the bookstore
@@ -56,7 +55,47 @@
 - Lab: Put wires on your motors and test them
 - Activity: Mechanize your crank machines
 
+### current-homework-assignment
+#### Homework due Monday 29 January 
+- **Update**
+- **Read**
+	- [Getting Started with Arduino / Genuino Uno
+		tutorial](https://www.arduino.cc/en/Guide/ArduinoUno). There are many
+		excellent resources on this so if you don't like this guide feel free to
+		find another. Sparkfun and Adafruit have particularly good guides. You can
+		also find many videos if you prefer that.
+	- Read Sparkfun's [How to Use a
+		Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
+		tutorial. Again there are many other resources on line, feel free to find
+		and read another if you prefer.
+- **Do**
+	- Motorize the mechanical device you made for today. Use your Arduino 
+	to power the device by connecting one wire to 5V and the other wire to GND
+	(either GND; they are all the same).
+	Your machine must operate smoothly without sticking or falling
+	apart for at least **one minute**. 
+	- Email me the link to your GitHub repository 
+	- Label your shelf
+	- Do the [Getting Started with Arduino / Genuino Uno
+		tutorial](https://www.arduino.cc/en/Guide/ArduinoUno). Your goal is to
+		install the software, upload Blink which is the most simple example, and
+		observe that everything works properly
+	- In the Blink example look for the line that says 
+	`delay(1000);`. 
+	This is
+		what controls the blink rate: The first
+	`delay(1000);` controls the amount of time the LED is on, and the second
+	controls the amount of time it's off. Change both of these to `100` and
+	verify that the blink rate changes.
 
+
+#### Monday 29 January 2018 9am - 10:15 (very tentative)
+- arduino 
+	- using digital write to control speed
+		- first in code, then with pot
+	- h-bridge
+	- soldering pins to motor shield
+	- using motor shield with stepper motor
 
 Schedule summary (the detailed schedule below will be revised)
 
