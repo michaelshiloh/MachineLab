@@ -157,7 +157,7 @@ Tentative schedule outline (detailed schedule to be revised)
 	- Homework: 
 		- Refine drawing machine plan using your new skills
 #### Monday 12 February 2018 9am - 10:15
-	- Illustrator, Shopbot tutorial (Dustin)
+	- 9-10 am Illustrator and Shopbot training with Dustin
 #### Wednesday 14 February 9am - 11:40
 #### Monday 19 February 2018 9am - 10:15
 #### Wednesday 21 February 9am - 11:40
