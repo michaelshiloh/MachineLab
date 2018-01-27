@@ -153,11 +153,11 @@ Tentative schedule outline (detailed schedule to be revised)
 
 #### Monday 5 February 2018 9am - 10:15
 #### Wednesday 7 February 9am - 11:40
-	- Laser cutter training with Ume
-	- Homework: 
-		- Refine drawing machine plan using your new skills
+- Laser cutter training with Ume
+- Homework: 
+	- Refine drawing machine plan using your new skills
 #### Monday 12 February 2018 9am - 10:15
-	- 9-10 am Illustrator and Shopbot training with Dustin
+- 9-10 am Illustrator and Shopbot training with Dustin
 #### Wednesday 14 February 9am - 11:40
 #### Monday 19 February 2018 9am - 10:15
 #### Wednesday 21 February 9am - 11:40
