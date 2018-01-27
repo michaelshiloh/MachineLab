@@ -89,7 +89,7 @@
 	verify that the blink rate changes.
 
 
-#### Monday 29 January 2018 9am - 10:15 (very tentative)
+#### Monday 29 January 2018 9am - 10:15 (tentative)
 
 **Announcements**
 - Wear clothes toed shoes and no loose clothing for Scene Shop training
@@ -109,42 +109,41 @@
 	- Using motor shield with stepper motor
 
 **Homework**
-	- Homework due Wednesday 31 January
-		- Wear clothes toed shoes and no loose clothing for Scene Shop training
-		- All homework is due on time, not just the fun stuff
-		- Please be in class on time
+	- Homework due Wednesday 31 January  
+		- Wear clothes toed shoes and no loose clothing for Scene Shop training  
+		- All homework is due on time, not just the fun stuff  
+		- Please be in class on time  
 		- 
-		- research drawing machines (anything that leaves a mark)
-		- sketch or link to what you want to make
-	- Homework due Monday February 5
-		- build prototype with stepper, pulley
-		- use drill press and band 
-		- mount motor and pulley to a scrap of acrylic
-		- timing belt must not slip
-	- Homework due Wednesday February 7
+		- research drawing machines (anything that leaves a mark)  
+		- sketch or link to what you want to make  
+	- Homework due Monday February 5  
+		- Use the drill press and band saw to cut and drill a
+			piece of acrylic on which to mount the stepper motor and pulley
+			so that the timing belt can run on   
+	- Homework due Wednesday February 7  
 		- Watch the following parts of the [Illustrator CC 2018 Essential
 			Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2018-Essential-Training/628695-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aillustrator%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) tutorial at Lynda.com.  
-			**Especially important is understand how to
+			**Especially important is understand how to  
 			navigate Illustrator and how to measure and assign dimensions.**
-			You may skim over other details.
-			- Getting Started (let's call this chapter 1) parts 1 and 3
-			- Navigating (chapter 2) parts 1 (What is Adobe Illustrator) and 2
-				(Touring the Illustrator Interface)
-			- Chapter 3 parts 1 and 3
-			- Chapter 4 parts 1 and 2
-			- Chapter 5 parts 1,2, and 3
-			- Chapter 6 parts 1 and 3
-			- Chapter 7 part 3
-			- Chapter 10 parts 1 and 2
-			- Chapter 11 parts 1 and 2
+			You may skim over other details.  
+			- Getting Started (let's call this chapter 1) parts 1 and 3  
+			- Navigating (chapter 2) parts 1 (What is Adobe Illustrator) and 2  
+				(Touring the Illustrator Interface)  
+			- Chapter 3 parts 1 and 3  
+			- Chapter 4 parts 1 and 2  
+			- Chapter 5 parts 1,2, and 3  
+			- Chapter 6 parts 1 and 3  
+			- Chapter 7 part 3  
+			- Chapter 10 parts 1 and 2  
+			- Chapter 11 parts 1 and 2  
 		- Try to create two simple rectangles that join together with a screw
 			using
 			[this](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/laserCutTSlot.pdf)
-			T-slot concept.
+			T-slot concept.  
 			Make only one finger and size the holes for an M3 bolt (3mm in
-			diameter).
+			diameter).  
 		- Browse
-			[these](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/LaserCutBoxNotes.pdf) Laser Cut Box notes
+			[these](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/LaserCutBoxNotes.pdf) Laser Cut Box notes  
 
 #### Wednesday 31 January 9am - 11:40
 	Scene Shop training
@@ -153,9 +152,9 @@ Tentative schedule outline (detailed schedule to be revised)
 
 #### Monday 5 February 2018 9am - 10:15
 #### Wednesday 7 February 9am - 11:40
-- Laser cutter training with Ume
-- Homework: 
-	- Refine drawing machine plan using your new skills
+- Laser cutter training with Ume  
+- Homework:   
+	- Refine drawing machine plan using your new skills  
 #### Monday 12 February 2018 9am - 10:15
 - 9-10 am Illustrator and Shopbot training with Dustin
 #### Wednesday 14 February 9am - 11:40
