@@ -120,7 +120,7 @@
 	- Use the drill press and band saw to cut and drill a
 		piece of acrylic on which to mount the stepper motor and pulley
 		so that the timing belt can run on   
-- Homework due Wednesday February 7  
+#### Homework due Wednesday February 7  
 	- Watch the following parts of the [Illustrator CC 2018 Essential
 		Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2018-Essential-Training/628695-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aillustrator%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) tutorial at Lynda.com.  
 		**Especially important is understand how to
