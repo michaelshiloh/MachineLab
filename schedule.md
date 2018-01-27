@@ -123,12 +123,13 @@
 - Homework due Wednesday February 7  
 	- Watch the following parts of the [Illustrator CC 2018 Essential
 		Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2018-Essential-Training/628695-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aillustrator%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) tutorial at Lynda.com.  
-		**Especially important is understand how to  
+		**Especially important is understand how to
 		navigate Illustrator and how to measure and assign dimensions.**
 		You may skim over other details.  
-		- Getting Started (let's call this chapter 1) parts 1 and 3  
-		- Navigating (chapter 2) parts 1 (What is Adobe Illustrator) and 2  
-			(Touring the Illustrator Interface)  
+		- Getting Started (let's call this chapter 1)
+			parts 1 (What is Adobe Illustrator)
+			and 3  (Touring the Illustrator Interface)  
+		- Navigating (chapter 2) parts 1 and 2  
 		- Chapter 3 parts 1 and 3  
 		- Chapter 4 parts 1 and 2  
 		- Chapter 5 parts 1,2, and 3  
