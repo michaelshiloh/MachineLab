@@ -64,7 +64,7 @@
 		excellent resources on this so if you don't like this guide feel free to
 		find another. Sparkfun and Adafruit have particularly good guides. You can
 		also find many videos if you prefer that.
-	- Read Sparkfun's [How to Use a
+	- Sparkfun's [How to Use a
 		Breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
 		tutorial. Again there are many other resources on line, feel free to find
 		and read another if you prefer.
@@ -90,22 +90,78 @@
 
 
 #### Monday 29 January 2018 9am - 10:15 (very tentative)
+
+**Announcements**
+- Wear clothes toed shoes and no loose clothing for Scene Shop training
 - All homework is due on time, not just the fun stuff (late Github)
-- arduino 
-	- using digital write to control speed
-		- first in code, then with pot
-	- h-bridge
-	- soldering pins to motor shield
-	- using motor shield with stepper motor
+- Please be in class on time
 
-Schedule summary (the detailed schedule below will be revised)
+**Lesson**
+- Arduino 
+	- Any questions about homework?
+	- AnalogReadSerial example with potentiometer
+	- Using `analogRead()` and conditionals to control LED
+	- Using `analogWrite()` to control LED brightness
+	- H-bridge
+	- Soldering pins to motor shield
+	- Using motor shield with your DC gearmotor
+	- Different types of motors
+	- Using motor shield with stepper motor
 
-- Next two weeks - Arduino motor control; stepper motors, gears  
-- February 7 - Laser cutter training  
-- February 12 - first drawing machine prototype  
-- February 19 - second drawing machine prototype  
-- February 21 - install drawing machine in 006  
-- February 24 - de-install  
+**Homework**
+	- Homework due Wednesday 31 January
+		- Wear clothes toed shoes and no loose clothing for Scene Shop training
+		- All homework is due on time, not just the fun stuff
+		- Please be in class on time
+		- 
+		- research drawing machines (anything that leaves a mark)
+		- sketch or link to what you want to make
+	- Homework due Monday February 5
+		- build prototype with stepper, pulley
+		- use drill press and band 
+		- mount motor and pulley to a scrap of acrylic
+		- timing belt must not slip
+	- Homework due Wednesday February 7
+		- Watch the following parts of the [Illustrator CC 2018 Essential
+			Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2018-Essential-Training/628695-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aillustrator%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) tutorial at Lynda.com.  
+			**Especially important is understand how to
+			navigate Illustrator and how to measure and assign dimensions.**
+			You may skim over other details.
+			- Getting Started (let's call this chapter 1) parts 1 and 3
+			- Navigating (chapter 2) parts 1 (What is Adobe Illustrator) and 2
+				(Touring the Illustrator Interface)
+			- Chapter 3 parts 1 and 3
+			- Chapter 4 parts 1 and 2
+			- Chapter 5 parts 1,2, and 3
+			- Chapter 6 parts 1 and 3
+			- Chapter 7 part 3
+			- Chapter 10 parts 1 and 2
+			- Chapter 11 parts 1 and 2
+		- Try to create two simple rectangles that join together with a screw
+			using
+			[this](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/laserCutTSlot.pdf)
+			T-slot concept.
+			Make only one finger and size the holes for an M3 bolt (3mm in
+			diameter).
+		- Browse
+			[these](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/LaserCutBoxNotes.pdf) Laser Cut Box notes
+
+#### Wednesday 31 January 9am - 11:40
+	Scene Shop training
+
+Tentative schedule outline (detailed schedule to be revised)
+
+#### Monday 5 February 2018 9am - 10:15
+#### Wednesday 7 February 9am - 11:40
+	- Laser cutter training with Ume
+	- Homework: 
+		- Refine drawing machine plan using your new skills
+#### Monday 12 February 2018 9am - 10:15
+	- Illustrator, Shopbot tutorial (Dustin)
+#### Wednesday 14 February 9am - 11:40
+#### Monday 19 February 2018 9am - 10:15
+#### Wednesday 21 February 9am - 11:40
+- February 23, 24 - 24X, installation?
 - February 26 - March 7 - Solenoids, motors, bells: develop sound makers  
 - Readings: sequencers  
 - March 12-19 - Spring break  
