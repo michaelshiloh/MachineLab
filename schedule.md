@@ -92,7 +92,8 @@
 #### Monday 29 January 2018 9am - 10:15 (tentative)
 
 **Announcements**
-- Wear clothes toed shoes and no loose clothing for Scene Shop training
+- Wear close toe shoes and no loose clothing for Scene shop training on
+	Wednesday
 - All homework is due on time, not just the fun stuff (late Github)
 - Please be in class on time
 
@@ -110,10 +111,10 @@
 
 **Homework**
 - Homework due Wednesday 31 January  
-	- Wear clothes toed shoes and no loose clothing for Scene Shop training  
+	- Wear closed toe shoes and no loose clothing for Scene Shop training on
+		Wednesday  
 	- All homework is due on time, not just the fun stuff  
 	- Please be in class on time  
-	- 
 	- research drawing machines (anything that leaves a mark)  
 	- sketch or link to what you want to make  
 - Homework due Monday February 5  
