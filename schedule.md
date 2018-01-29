@@ -105,11 +105,11 @@
 ### current-homework-assignment
 **Homework due Wednesday 31 January**  
 
-- Make a rough sketch of the drawing machine you'd like to make.  
-	Interpret the meaning of drawing as broadly as you wish, as long as it  
-	leaves a mark on a piece of paper. It must use one or more motors.   
-	Do some research and pick something you like. Remember that something  
-	simple that works is worth more than something elaborate that doesn't.  
+- Make a rough sketch of the drawing machine you'd like to make.
+	Interpret the meaning of drawing as broadly as you wish, as long as it
+	leaves a mark on a piece of paper. It must use one or more motors.
+	Do some research and pick something you like. Remember that something
+	simple that works is worth more than something elaborate that doesn't.
 
 - Dress properly for Scene Shop training on Wednesday:  
 	- Required: Closed toe shoes   
