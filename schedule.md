@@ -55,7 +55,6 @@
 - Lab: Put wires on your motors and test them
 - Activity: Mechanize your crank machines
 
-### current-homework-assignment
 #### Homework due Monday 29 January 
 - **Update**
 - **Read**
@@ -102,25 +101,46 @@
 	- Any questions about homework?
 	- AnalogReadSerial example with potentiometer
 	- Using `analogRead()` and conditionals to control LED
-	- Using `analogWrite()` to control LED brightness
-	- H-bridge
-	- Soldering pins to motor shield
-	- Using motor shield with your DC gearmotor
-	- Different types of motors
-	- Using motor shield with stepper motor
 
-**Homework**
-- Homework due Wednesday 31 January  
-	- Wear closed toe shoes and no loose clothing for Scene Shop training on
-		Wednesday  
-	- All homework is due on time, not just the fun stuff  
-	- Please be in class on time  
-	- research drawing machines (anything that leaves a mark)  
-	- sketch or link to what you want to make  
-- Homework due Monday February 5  
-	- Use the drill press and band saw to cut and drill a
-		piece of acrylic on which to mount the stepper motor and pulley
-		so that the timing belt can run on   
+### current-homework-assignment
+**Homework due Wednesday 31 January**  
+
+- Make a rough sketch of the drawing machine you'd like to make.  
+	Interpret the meaning of drawing as broadly as you wish, as long as it  
+	leaves a mark on a piece of paper. It must use one or more motors.   
+	Do some research and pick something you like. Remember that something  
+	simple that works is worth more than something elaborate that doesn't.  
+
+- Dress properly for Scene Shop training on Wednesday:  
+	- Required: Closed toe shoes   
+	- Required: Something to tie back long hair  
+	- Recommended: No loose clothing   
+	- Recommended: Pants  
+	- The Scene Shop has lab coats for students wearing abayas.   
+
+#### Wednesday 31 January 9am - 11:40
+- Scene Shop training  
+- Share drawing machine concepts
+- Soldering 
+- Soldering pins to motor shield  
+- Using motor shield with your DC gearmotor  
+- Different types of motors  
+
+** Homework due Monday February 5**  
+- Use the drill press and band saw to cut and drill a
+	piece of acrylic on which to mount the stepper motor 
+- Read about different types of motors, motor shield, soldering
+
+#### Monday 5 February 2018 9am - 10:15
+- Share motor mounts
+- Using motor shield with stepper motor  
+- Working with Aluminum  
+	- Fastening  
+	- Mounting  
+- Working with Acrylic  
+	- Joining  
+	- 3D shapes  
+
 #### Homework due Wednesday February 7  
 - Watch the following parts of the [Illustrator CC 2018 Essential
 	Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2018-Essential-Training/628695-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aillustrator%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) tutorial at Lynda.com.  
@@ -147,84 +167,65 @@
 - Browse
 		[these](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/LaserCutBoxNotes.pdf) Laser Cut Box notes  
 
-#### Wednesday 31 January 9am - 11:40
-Scene Shop training
 
-Tentative schedule outline (detailed schedule to be revised)
-
-#### Monday 5 February 2018 9am - 10:15
 #### Wednesday 7 February 9am - 11:40
 - Laser cutter training with Ume  
-- Homework:   
-	- Refine drawing machine plan using your new skills  
+
+**Homework due Monday 12 February 2018 **  
+	- Build version 1 of your drawing machine  
+
 #### Monday 12 February 2018 9am - 10:15
-- 9-10 am Illustrator and Shopbot training with Dustin
+- 9-10 am Illustrator and Shopbot training with Dustin  
+- Share and feedback drawing machine version 1  
+
+**Homework due Wednesday 14 February   
+- Build version 2 drawing machine, incorporating feedback. 
+	You might be able
+	to modify version 1, but be open to building a new machine from scratch.    
+
 #### Wednesday 14 February 9am - 11:40
-#### Monday 19 February 2018 9am - 10:15
+- Share and feedback drawing machine version 2   
+- Sensing rotation and position  
+	- Hall Effect sensors  
+	- Limit switches  
+	- Current sensors  
+
+**Homework due Monday 19 February   
+- Build version 3 drawing machine, incorporating feedback. 
+	You might be able
+	to modify version 1, but be open to building a new machine from scratch.    
+
+#### Monday 19 February 9am - 10:15
+- Grand unveiling of exciting functional drawing machines
+- Discussion: Sound making machines
+**Homework due Wednesday 21 February   
+- Research sound making machine concept
+
 #### Wednesday 21 February 9am - 11:40
-- February 23, 24 - 24X, installation?
-- February 26 - March 7 - Solenoids, motors, bells: develop sound makers  
-- Readings: sequencers  
-- March 12-19 - Spring break  
-- March 21 - April 4 musical instruments  
-- April 9 - 30 - Rube Goldberg Rolling Ball machine  
+- Discussion: Sound making machines and devices    
+- Solenoids, motors, and other devices as sound makers  
+- Controlling solenoids with Transistors  
 
-#### Week 2:
-- Introduction to Arduino
-- Basic electronics and programming
-- Controlling motors with transistor
+**Homework due Monday 26 February   
+- Version 1 sound making device 
 
-#### Week 3:
-- 2D CAD software
-- Laser cutter
-- Automata (hand crank and motorized) Project Due
-- Refine automata (acrylic)
+** Friday February 23 - Saturday February 24
+is 24X, an event hosted by Interactive Media  
 
-#### Week 4:
-- Motors and motor control
-- Gears, pulleys, bearings
-- Motorize automata
+#### February 26 - March 7 
+- Refine and develop sound making devices   
+	- Solenoids, motors, bells   
+	- sequencers  
+	- PCB mill  
 
-#### Week 5:
-- 3D design
-- 3D printer
-- Print a right angle motor bracket and a pen holder
-- Drawing machine concepts
+**March 12-19 - Spring break**  
 
-#### Week 6:
-- Drawing Machine prototype
-- Wood shop training
+#### March 21 - April 4 musical instruments  
+- Create musical instrument using sound making devices and sequencers
 
-#### Week 7:
-- Wood base and enclosure for drawing machine
-- Drawing Machine Project Due 
+#### April 9 - 30 - Rube Goldberg Rolling Ball machine  
 
-#### Week 8:
-- Metal shop training
-- Musical instrument prototype
 
-#### Week 9:
-- Musical instrument refinement
-- Shopbot milling
-
-#### Week 10:
-- Finish musical instrument refinement
-- Computer controlled musical instrument Due
-
-#### Week 11:
-- Rube Goldberg concepts
-- PCB design
-
-#### Week 12:
-- Rube Goldberg prototype (in groups of 3)
-- PCB mill
-
-#### Week 13:
--	Refine and finish Rube Goldberg machine (entire class) 
-
-#### Week 14:
--   Rube Goldberg chain reaction machine Due
--   IM End-of-Semester Show 
 
 ### References
 
