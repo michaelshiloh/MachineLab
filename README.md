@@ -16,16 +16,7 @@ Assignment](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#
 [Schedule](schedule.md)
 
 Student Github repositories
-[Adham](https://github.com/AdhamChakohi/machinelab)
-[Katie](https://github.com/katielee6986/Machine-Lab)
-[Davis](https://github.com/Davis-Teague/Machine-Lab-Spring-2018)
-[Neyva Hernandez
-	
-9:39 AM (1 hour ago)
-	
-to Michael
-Hello,
-
-Here is the link. 
-
-https://github.com/nth230/Machine-Lab 
+[Adham](https://github.com/AdhamChakohi/machinelab)  
+[Katie](https://github.com/katielee6986/Machine-Lab)  
+[Davis](https://github.com/Davis-Teague/Machine-Lab-Spring-2018)  
+[Neyva Hernandez](https://github.com/nth230/Machine-Lab)  
