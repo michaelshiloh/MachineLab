@@ -106,8 +106,9 @@
 **Homework due Wednesday 31 January**  
 
 - Make a rough sketch of the drawing machine you'd like to make.
-	Interpret the meaning of drawing as broadly as you wish, as long as it
-	leaves a mark on a piece of paper. It must use one or more motors.
+	Interpret the meaning of the word "drawing" as broadly as you wish, 
+	as long as it leaves a mark on a piece of paper. 
+	It must use one or more motors.
 	Do some research and pick something you like. Remember that something
 	simple that works is worth more than something elaborate that doesn't.
 
@@ -122,8 +123,6 @@
 	watch](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#homework-due-wednesday-february-7) 
 	for next week.
 	Watch some now so you won't have so much to do later.
-
-#### Homework due Wednesday February 7  
 
 #### Wednesday 31 January 9am - 11:40
 - Scene Shop training  
