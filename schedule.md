@@ -118,6 +118,13 @@
 	- Recommended: Pants  
 	- The Scene Shop has lab coats for students wearing abayas.   
 
+- Don't forget that you have a lot of Lynda [tutorials to
+	watch](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#homework-due-wednesday-february-7) 
+	for next week.
+	Watch some now so you won't have so much to do later.
+
+#### Homework due Wednesday February 7  
+
 #### Wednesday 31 January 9am - 11:40
 - Scene Shop training  
 - Share drawing machine concepts
