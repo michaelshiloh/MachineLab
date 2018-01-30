@@ -8,8 +8,8 @@
 [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab/)
 
 
-[Current Homework
-Assignment](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#current-homework-assignment)
+Quick [link](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#current-homework-assignment)
+to current homework assignment
 
 [Syllabus](syllabus.md)  
 

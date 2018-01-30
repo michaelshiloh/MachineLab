@@ -127,15 +127,17 @@
 #### Wednesday 31 January 9am - 11:40
 - Scene Shop training  
 - Share drawing machine concepts
-- Soldering 
+- Soldering practice: pins to perf board
 - Soldering pins to motor shield  
 - Using motor shield with your DC gearmotor  
-- Different types of motors  
+- Different types of motors  (DC, stepper, geared and ungeared)
 
-** Homework due Monday February 5**  
+**Homework due Monday February 5**  
 - Use the drill press and band saw to cut and drill a
-	piece of acrylic on which to mount the stepper motor 
-- Read about different types of motors, motor shield, soldering
+	piece of aluminum on which to mount your stepper motor 
+- Read about 
+	- different types of motors
+	- motor shield, 
 
 #### Monday 5 February 2018 9am - 10:15
 - Share motor mounts
