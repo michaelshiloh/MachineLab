@@ -20,3 +20,5 @@ Student Github repositories
 [Katie](https://github.com/katielee6986/Machine-Lab)  
 [Davis](https://github.com/Davis-Teague/Machine-Lab-Spring-2018)  
 [Neyva Hernandez](https://github.com/nth230/Machine-Lab)  
+[Ali](https://github.com/Ali-AlDhaheri/MachineLab)
+[Ross](https://github.com/ross67/MachineLabs)
