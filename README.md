@@ -22,3 +22,4 @@ Student Github repositories
 [Neyva Hernandez](https://github.com/nth230/Machine-Lab)  
 [Ali](https://github.com/Ali-AlDhaheri/MachineLab)
 [Ross](https://github.com/ross67/MachineLabs)
+[Tavius](https://github.com/kotavy/ml)
