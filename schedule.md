@@ -140,6 +140,14 @@
 	- motor shield, 
 
 #### Monday 5 February 2018 9am - 10:15
+- **Sign Up for the IM Student Email List**  
+	Have a question?   
+	Looking for a place to share ideas?   
+	The IM student mailing list is a student-only group   
+	where you can ask for help,   
+	post information about cool events   
+	and anything else you think would benefit your fellow makers.   
+	Sign up by sending an email to: **mk4908@nyu.edu**
 - Share motor mounts
 - Using motor shield with stepper motor  
 - Working with Aluminum  
