@@ -140,7 +140,9 @@
 
 **Announcements**
 
-- If you want a free alternative to Adobe Illustrator, you can use Inkscape. 
+- There are many alternative to Adobe Illustrator for 2D CAD. 
+	A popular, free, and open source tool is
+	[Inkscape](https://inkscape.org/en/). 
 	[Here](https://www.ponoko.com/blog/how-to-make/inkscape-vector-tutorials/)
 	is a nice tutorial and there are many others on the web. You still have to
 		watch the Illustrator tutorials so that you can follow along in class.
@@ -149,12 +151,14 @@
 
 - Sparkfun Motors and Selecting the Right One
 	[tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
+
 - Adafruit Motor Shield
-	[tutorial](https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino/using-dc-motors?view=all)
+	[tutorial](https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino/using-dc-motors?view=all).
+	You can skip the Library Reference 
+
 - Don't forget that you have a lot of Lynda [tutorials to
 	watch](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#homework-due-wednesday-february-7) 
 	for next week.
-	Watch some now so you won't have so much to do later.
 
 **Do**
 
