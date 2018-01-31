@@ -102,7 +102,6 @@
 	- AnalogReadSerial example with potentiometer
 	- Using `analogRead()` and conditionals to control LED
 
-### current-homework-assignment
 **Homework due Wednesday 31 January**  
 
 - Make a rough sketch of the drawing machine you'd like to make.
@@ -118,11 +117,6 @@
 	- Recommended: No loose clothing   
 	- Recommended: Pants  
 	- The Scene Shop has lab coats for students wearing abayas.   
-
-- Don't forget that you have a lot of Lynda [tutorials to
-	watch](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#homework-due-wednesday-february-7) 
-	for next week.
-	Watch some now so you won't have so much to do later.
 
 #### Wednesday 31 January 9am - 11:40
 - **Sign Up for the IM Student Email List**  
@@ -140,15 +134,38 @@
 - Using motor shield with your DC gearmotor  
 - Different types of motors  (DC, stepper, geared and ungeared)
 
-**Homework due Monday February 5**   (tentative)
-- Use the drill press and band saw to cut and drill a
-	piece of aluminum on which to mount your stepper motor 
-- Read about 
-	- different types of motors
-	- motor shield, 
+### current-homework-assignment
 
-#### Monday 5 February 2018 9am - 10:15
-- Share motor mounts
+**Homework due Monday February 5** 
+
+**Announcements**
+
+- If you want a free alternative to Adobe Illustrator, you can use Inkscape. 
+	[Here](https://www.ponoko.com/blog/how-to-make/inkscape-vector-tutorials/)
+	is a nice tutorial and there are many others on the web. You still have to
+		watch the Illustrator tutorials so that you can follow along in class.
+
+**Read or Watch**
+
+- Sparkfun Motors and Selecting the Right One
+	[tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
+- Adafruit Motor Shield
+	[tutorial](https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino/using-dc-motors?view=all)
+- Don't forget that you have a lot of Lynda [tutorials to
+	watch](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#homework-due-wednesday-february-7) 
+	for next week.
+	Watch some now so you won't have so much to do later.
+
+**Do**
+
+- Design (Illustrator, Inkscape, or whatever CAD software you want) a
+	rectangle that is roughly the size of Arduino that includes holes for
+	attaching an Arduino.
+	[Here](https://blog.adafruit.com/2011/02/28/arduino-hole-dimensions-drawing/)
+	are the precise hole locations
+
+#### Monday 5 February 2018 9am - 10:15 (Tentative)
+- Share Arduino template
 - Using motor shield with stepper motor  
 - Working with Aluminum  
 	- Fastening  
