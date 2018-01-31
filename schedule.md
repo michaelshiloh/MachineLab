@@ -159,15 +159,20 @@
 
 **Do**
 
-- Design (Illustrator, Inkscape, or whatever CAD software you want) a
+- Design (using Illustrator, Inkscape, or whatever CAD software you want) a
 	rectangle that is roughly the size of Arduino that includes holes for
 	attaching an Arduino.
 	[Here](https://blog.adafruit.com/2011/02/28/arduino-hole-dimensions-drawing/)
-	are the precise hole locations
+	are the precise hole locations. Upload the SVG file to your Github
+	repository.
 
-- Solder the feed-through pins (also known as stacking headers)  
+- Solder the feed-through pins (also known as stacking headers)
 	to your motor shield. Please ask if you have any questions as it's hard 
 	to unsolder the headers once they are in place.
+
+- Refine your drawing machine concept. 
+	Show some details of how you would mount motors, wheels, gears, etc.
+	Upload your sketches to your Github account.
 
 #### Monday 5 February 2018 9am - 10:15 (Tentative)
 - Share Arduino template
