@@ -130,9 +130,6 @@
 - Scene Shop training  
 - Share drawing machine concepts
 - Soldering practice: pins to perf board
-- Soldering pins to motor shield  
-- Using motor shield with your DC gearmotor  
-- Different types of motors  (DC, stepper, geared and ungeared)
 
 ### current-homework-assignment
 
@@ -168,15 +165,20 @@
 	[Here](https://blog.adafruit.com/2011/02/28/arduino-hole-dimensions-drawing/)
 	are the precise hole locations
 
+- Solder the feed-through pins (also known as stacking headers)  
+	to your motor shield. Please ask if you have any questions as it's hard 
+	to unsolder the headers once they are in place.
+
 #### Monday 5 February 2018 9am - 10:15 (Tentative)
 - Share Arduino template
-- Using motor shield with stepper motor  
 - Working with Aluminum  
 	- Fastening  
 	- Mounting  
 - Working with Acrylic  
 	- Joining  
 	- 3D shapes  
+- Using motor shield with stepper motor  
+- Share your refined drawing machine
 
 #### Homework due Wednesday February 7  
 - Watch the following parts of the [Illustrator CC 2018 Essential
