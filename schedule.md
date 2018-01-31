@@ -140,7 +140,7 @@
 - Using motor shield with your DC gearmotor  
 - Different types of motors  (DC, stepper, geared and ungeared)
 
-**Homework due Monday February 5**  
+**Homework due Monday February 5**   (tentative)
 - Use the drill press and band saw to cut and drill a
 	piece of aluminum on which to mount your stepper motor 
 - Read about 
