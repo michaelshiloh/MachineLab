@@ -174,7 +174,9 @@
 	Show some details of how you would mount motors, wheels, gears, etc.
 	Upload your sketches to your Github account.
 
-#### Monday 5 February 2018 9am - 10:15 (Tentative)
+#### Monday 5 February 2018 9am - 10:15  
+- Using motor shield with stepper motor  
+- Share your refined drawing machine
 - Share Arduino template
 - Working with Aluminum  
 	- Fastening  
@@ -182,10 +184,8 @@
 - Working with Acrylic  
 	- Joining  
 	- 3D shapes  
-- Using motor shield with stepper motor  
-- Share your refined drawing machine
 
-#### Homework due Wednesday February 7  
+#### Homework due Wednesday February 7  (tentative)    
 - Watch the following parts of the [Illustrator CC 2018 Essential
 	Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2018-Essential-Training/628695-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aillustrator%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) tutorial at Lynda.com.  
 	**Especially important is understand how to
@@ -215,8 +215,8 @@
 #### Wednesday 7 February 9am - 11:40
 - Laser cutter training with Ume  
 
-**Homework due Monday 12 February 2018 **  
-	- Build version 1 of your drawing machine  
+**Homework due Monday 12 February 2018**  
+- Build version 1 of your drawing machine  
 
 #### Monday 12 February 2018 9am - 10:15
 - 9-10 am Illustrator and Shopbot training with Dustin  
