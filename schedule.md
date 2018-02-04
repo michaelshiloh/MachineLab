@@ -175,7 +175,24 @@
 	Upload your sketches to your Github account.
 
 #### Monday 5 February 2018 9am - 10:15  
+- Review
+	- Types of motors
+		- DC
+		- Servo
+			- "Standard"
+			- Continuous rotation
+		- Stepper
+	- Gearmotors
+	- Unipolar vs. bipolar steppers
+- 5V stepper and ULN2003
+	- Code [here](src/simpleUnipolarStepperMotor/simpleUnipolarStepperMotor.ino)
+	- Motor current vs. Arduino output current
+	- Reversing
+	- Functions
+	- Too fast?
 - Using motor shield with stepper motor  
+	- Install library
+	- Adafruit Motor Shield V2 Library -> Stepper Test
 - Share your refined drawing machine
 - Share Arduino template
 - Working with Aluminum  
