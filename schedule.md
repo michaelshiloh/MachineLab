@@ -192,7 +192,7 @@
 - Share Arduino template
 
 
-###current-homework-assignment
+### current-homework-assignment
 
 #### Homework due Wednesday February 7  
 
