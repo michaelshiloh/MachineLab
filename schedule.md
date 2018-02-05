@@ -131,8 +131,6 @@
 - Share drawing machine concepts
 - Soldering practice: pins to perf board
 
-### current-homework-assignment
-
 **Homework due Monday February 5** 
 
 **Announcements**
@@ -190,19 +188,34 @@
 	- Reversing
 	- Functions
 	- Too fast?
-- Using motor shield with stepper motor  
-	- Install library
-	- Adafruit Motor Shield V2 Library -> Stepper Test
 - Share your refined drawing machine
 - Share Arduino template
-- Working with Aluminum  
-	- Fastening  
-	- Mounting  
-- Working with Acrylic  
-	- Joining  
-	- 3D shapes  
 
-#### Homework due Wednesday February 7  (tentative)    
+
+###current-homework-assignment
+
+#### Homework due Wednesday February 7  
+
+**Do**
+
+- Do [Adafruit Arduino Lesson 14. Servo
+	Motors](https://learn.adafruit.com/adafruit-arduino-lesson-14-servo-motors?view=all).
+	Remember to be very careful about your power connections.
+	You can probably skip the capacitor. Try this with all of you servo motors
+	and see if you can identify the difference between the "standard" servo
+	motors and the continuous rotation servo motors.
+
+- Soon you will start building your drawing machine. You must sketch the
+	design in much more detail. I am happy to meet with any of you who wants
+	help with this. You may find our second book "Making Things Move" useful for
+	ideas as well as solutions to specific problems.
+
+- You have now had a little bit of experience with different types of motors.
+	Think about what motors will be most suitable for your drawing machine.
+	Explain why.
+
+**Read or Watch**
+
 - Watch the following parts of the [Illustrator CC 2018 Essential
 	Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2018-Essential-Training/628695-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aillustrator%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) tutorial at Lynda.com.  
 	**Especially important is understand how to
@@ -228,11 +241,20 @@
 - Browse
 		[these](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/LaserCutBoxNotes.pdf) Laser Cut Box notes  
 
-
 #### Wednesday 7 February 9am - 11:40
 - Laser cutter training with Ume  
 
-**Homework due Monday 12 February 2018**  
+- Using motor shield with stepper motor  
+	- Install library
+	- Adafruit Motor Shield V2 Library -> Stepper Test
+- Working with Aluminum  
+	- Fastening  
+	- Mounting  
+- Working with Acrylic  
+	- Joining  
+	- 3D shapes  
+
+**Homework due Monday 12 February 2018**   (tentative)
 - Build version 1 of your drawing machine  
 
 #### Monday 12 February 2018 9am - 10:15
