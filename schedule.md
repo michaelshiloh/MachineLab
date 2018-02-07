@@ -242,16 +242,6 @@
 #### Wednesday 7 February 9am - 11:40
 - Laser cutter training with Ume  
 
-- Using motor shield with stepper motor  
-	- Install library
-	- Adafruit Motor Shield V2 Library -> Stepper Test
-- Working with Aluminum  
-	- Fastening  
-	- Mounting  
-- Working with Acrylic  
-	- Joining  
-	- 3D shapes  
-
 
 ### current-homework-assignment
 
@@ -310,6 +300,15 @@
 
 #### Wednesday 14 February 9am - 11:40
 - Share and feedback drawing machine version 2   
+- Using motor shield with stepper motor  
+	- Install library
+	- Adafruit Motor Shield V2 Library -> Stepper Test
+- Working with Aluminum  
+	- Fastening  
+	- Mounting  
+- Working with Acrylic  
+	- Joining  
+	- 3D shapes  
 - Sensing rotation and position  
 	- Hall Effect sensors  
 	- Limit switches  
