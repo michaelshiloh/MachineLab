@@ -192,8 +192,6 @@
 - Share Arduino template
 
 
-### current-homework-assignment
-
 #### Homework due Wednesday February 7  
 
 **Do**
@@ -254,12 +252,56 @@
 	- Joining  
 	- 3D shapes  
 
-**Homework due Monday 12 February 2018**   (tentative)
-- Build version 1 of your drawing machine  
+
+### current-homework-assignment
+
+#### Homework due Monday 12 February 
+
+**Do**
+
+- Figure out the most uncertain 
+	(or important  or difficult or frightening) part of your
+	drawing machine and build it. This is your first prototype of this mechanism
+	so I don't expect it to work perfectly, but it should demonstrate that your
+	design won't fail because of this part. 
+
+	Do not waste time making it look pretty. That will come later. For now we
+	just need to know that it can work.
+	
+	I spoke to some of you in class
+	about what I thought you should start with. If you are unsure where to start
+	please contact me. 
+
+	You may use any materials or parts that you wish. For some of you a
+	cardboard prototype might be sufficient, for others you may need to use
+	the laser cutting or purchase items (Ace at Yas).
+
+	I expect that some of you will have difficulty with this assignment. 
+	You have not failed. This is a difficult assignment, and I can help you. 
+	Make notes of what doesn't work and try different things, and reach out to
+	me as often as you wish.
+
+	If you are having difficulty getting your mechanism to work please contact
+	me. If your mechanism fails, and you did not contact me, you will receive
+	low points for this assignment. If I know that you worked hard and reached
+	out to me, and that together we couldn't solve the problem, then 
+	your grade will be high.
+	
+	Start working now so that if you need help I will be available. 
+	If you wait until Sunday it will be too late. I am availble and willing to
+	work on Friday and Saturday.
+
+	Bring your prototype to class and be prepared to demonstrate functionality.
+
+**Read**
+
+- Chapters 3 and 4 of "Making Things Move". Don't be alarmed, it's a very
+	quick read.
 
 #### Monday 12 February 2018 9am - 10:15
-- 9-10 am Illustrator and Shopbot training with Dustin  
-- Share and feedback drawing machine version 1  
+
+- 9-10 am Illustrator and Shopbot training with Dustin    
+- Share and feedback drawing machine version 1    
 
 **Homework due Wednesday 14 February   
 - Build version 2 drawing machine, incorporating feedback. 
