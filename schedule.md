@@ -243,8 +243,6 @@
 - Laser cutter training with Ume  
 
 
-### current-homework-assignment
-
 #### Homework due Monday 12 February 
 
 **Do**
@@ -293,10 +291,18 @@
 - 9-10 am Illustrator and Shopbot training with Dustin    
 - Share and feedback drawing machine version 1    
 
-**Homework due Wednesday 14 February   
-- Build version 2 drawing machine, incorporating feedback. 
+### current-homework-assignment
+
+**Homework due Wednesday 14 February**
+
+- Finish your drawing machine so that they start working, no matter how poorly
 	You might be able
 	to modify version 1, but be open to building a new machine from scratch.    
+
+- Read the Adafruit Motor Controller Shield V2 for Arduino
+	[tutorial](https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino?view=all).
+	Don't worry too much about the details, and skim over the parts you know
+	already like soldering.
 
 #### Wednesday 14 February 9am - 11:40
 - Share and feedback drawing machine version 2   
