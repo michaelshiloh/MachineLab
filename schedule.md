@@ -13,23 +13,23 @@ to current homework assignment
 
 ### Schedule Overview
 
-Week 1 January 30, February 4 - Hand crank automata
-Week 2 February 6, February 11 - Arduino, soldering
-Week 3 February 13, February 18 - Arduino and DC motors, motorized automata
-Week 4 February 20, February 25 - Stepper motors, hand tool training
-Week 5 February 27, March 4 - Solenoids, start work on sound machines
-Week 6 March 6,  March 11 - Sound machines, construction techniques
-Week 7 March 13,  March 18 - CAD and laser cutter
-Spring break
-Week 8 April 1, April 3 -  Scene ship training, marble elevators
-Week 9 April 8, April 10 - Scene ship training, marble elevators
-Week 10 April 15, April 17 - Scene ship training, marble elevators, Rube Goldberg
-Week 11 April 22, April 24 - Rube Goldberg, manual reset
-Week 12 April 29, May 1 - Rube Goldberg, manual reset
-Week 13 May 6, May 8 - Rube Goldberg, automatic reset
-Week 14 May 13, May 15 - Rube Goldberg, automatic reset
-
-May 16 End of semester show?
+Week 1 January 30, February 4 - Hand crank automata   
+Week 2 February 6, February 11 - Arduino, soldering   
+Week 3 February 13, February 18 - Arduino and DC motors, motorized automata   
+Week 4 February 20, February 25 - Stepper motors, hand tool training   
+Week 5 February 27, March 4 - Solenoids, start work on sound machines   
+Week 6 March 6,  March 11 - Sound machines, construction techniques   
+Week 7 March 13,  March 18 - CAD and laser cutter   
+Spring break   
+Week 8 April 1, April 3 -  Scene ship training, marble elevators   
+Week 9 April 8, April 10 - Scene ship training, marble elevators   
+Week 10 April 15, April 17 - Scene ship training, marble elevators, Rube Goldberg   
+Week 11 April 22, April 24 - Rube Goldberg, manual reset   
+Week 12 April 29, May 1 - Rube Goldberg, manual reset   
+Week 13 May 6, May 8 - Rube Goldberg, automatic reset   
+Week 14 May 13, May 15 - Rube Goldberg, automatic reset   
+   
+May 16 End of semester show?   
 
 
 ### Detailed Schedule
