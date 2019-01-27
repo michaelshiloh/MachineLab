@@ -2,7 +2,7 @@
 ## Interactive Media
 # Machine Lab
 ### Course Number: IM-UH 1112
-### Spring 2018  
+### Spring 2019  
 
 **Everything can be found on the course website:**   
 [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab/)
@@ -15,7 +15,7 @@ _
 
 **Credits Hours:** 4  
 **Classroom:** C3-029 (Art Center - Interactive Media lab)  
-**Time:** Monday 9 - 10:15 and Wednesday 9 - 11:40  
+**Time:** Monday 10:25 - 1:05 and Wednesday 11:50 - 1:05  
 
 **Recommended Prerequisites:**
 None
@@ -25,13 +25,14 @@ Minor in Interactive Media
 
 Room Access Form [http://goo.gl/forms/Mge02MPoCb](http://goo.gl/forms/Mge02MPoCb)
 
-**Instructor:** Michael Shiloh  
-**Email:** mshiloh@nyu.edu  
-**Office:** Arts Center Room: C3-163  
-**Office Hours:** TBD  
-**Availability outside of office hours:**   
-* Stop by my office or the Interactive Media lab anytime  
-* Send me email to set up an appointment   
+**Instructor:** Michael Shiloh
+**Email:** mshiloh@nyu.edu
+**Office:** Arts Center Room: C3-163
+**"Office" Hours:** TBD
+**"Office" Hours will be held in the lab!**
+* If you wish to see me privately send me email
+**Availability outside of office hours:**
+* Send me email to set up an appointment
 
 ### Course Description
 The saying goes, "If all you have is a hammer, then every problem looks like a
