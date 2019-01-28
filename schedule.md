@@ -13,6 +13,8 @@ to current homework assignment
 
 ### Schedule Overview
 
+This schedule is subject to change
+
 Week 1 January 30, February 4 - Hand crank automata   
 Week 2 February 6, February 11 - Arduino, soldering   
 Week 3 February 13, February 18 - Arduino and DC motors, motorized automata   
@@ -33,6 +35,9 @@ May 16 End of semester show?
 
 
 ### Detailed Schedule
+
+This schedule is subject to change
+
 #### Wednesday 30 January 2019 11:50 AM - 1:05 PM
 - What this class is about
 - Introductions
