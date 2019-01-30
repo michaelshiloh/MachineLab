@@ -39,9 +39,18 @@ May 16 End of semester show?
 This schedule is subject to change
 
 #### Wednesday 30 January 2019 11:50 AM - 1:05 PM
-- What this class is about
+- What this class is about (schedule)
 - Introductions
 - Syllabus
+- Summary:
+  -  Be present and participate in class
+  -  No electronic distractions
+  -  Be proactive: Communicate with me regarding difficulties, problems, illness, etc.
+  -  Allow lots of time for homework as physical construction
+  and debugging circuits and programs can be very time consuming.
+- Announcements
+  - Become a lab assistant! The application deadline is Feb 3rd at 11:59 pm.
+    It's on CareerNet, or contact Ume (uh242@nyu.edu)
 - Examples
 	- [Simple Cardboard Machines](https://vimeo.com/130539503)
 	- [Drawing Machine](http://www.shihanzhang.com/drawing-machine/)
@@ -53,6 +62,7 @@ This schedule is subject to change
 	- [Marble Machine 3](https://www.youtube.com/watch?v=Bpdb8yQ9cH8&t=28s)
 - [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
 - Demo
+- Let's start making something
 
 
 ### current-homework-assignment
