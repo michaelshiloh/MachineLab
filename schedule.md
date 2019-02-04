@@ -74,10 +74,6 @@ This schedule is subject to change
 	- Build a hand crank machine using a crank and any other mechanism (linkage,
 	cam, etc. Your machine must operate smoothly without sticking or falling
 	apart for at least 30 seconds. 
-	- Create a GitHub account and create a repository for this class. 
-	[Here](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
-	are some instructions
-	- Label your shelf
 
 - **Optional**
 	- Browse [Mechatronics
