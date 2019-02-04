@@ -116,7 +116,7 @@ Using 5V from Arduino to power motor
 
 ### current-homework-assignment
 
-#### Homework due Wednesday February 5
+#### Homework due Wednesday February 6
 - Practice soldering until you feel confident
 	- Wires to wires
 	- Wires to boards from the scrap board box
@@ -124,13 +124,13 @@ Using 5V from Arduino to power motor
 	- Make sure you are using **stranded** wires! Ask if you are not sure!
 	- Use any two color you wish **except** red and black
 
-#### Wednesday 10 February 2019 11:50 AM - 1:05 PM
+#### Wednesday 6 February 2019 11:50 AM - 1:05 PM
 
 **Lecture** (tentative)
 - Introduction to Electricity
 - How to use Arduino as a power supply for your motor
 
-#### Homework due Monday February 10 (tentative)
+#### Homework due Monday February 11 (tentative)
 - Mount motor to your project to make it turn
 	- It must turn for 30 seconds without breaking
 	- You may need to strengthen or even rebuild your project
