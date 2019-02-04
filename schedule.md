@@ -87,8 +87,50 @@ This schedule is subject to change
 
 #### Monday 4 February 2019 10:25 AM - 1:05 PM
 
+**Share Projects**
+- What did you learn?
+- Critique
 
+**Administration**
+- Add Github accounts
+- Label shelves
+- Homework is not optional
 
+**Good lab citizenship**
+- It is super critical to keep tools, parts, and the lab in general neat.
+- If tools or parts can't be found it's the same as them not existing and it
+	holds everyone up including me
+- If you don't know where something goes ask me or a lab manager or a lab
+	monitor. If no one in the lab knows leave it on your shelf and send me
+	email.
+- Always (**Always!**) leave the lab cleaner than you found it. Clean up 
+whatever mess you made, and a little more
+- We are going to be making most stuff than any other class, so if there
+    is a mess, everyone will know it's us.
+- If I find out that you are being a bad lab citizen, it will affect your
+	grade
+
+**Demo**
+Soldering
+- wires to wires
+- wires to boards
+- wires to motors
+
+**Lecture**
+Introduction to Electricity
+Introduction to Arduino
+
+**Demo**
+Using 5V from Arduino to power motor
+
+**Soldering practice**
+
+#### Homework due Wednesday February 5
+- Practice soldering wires and scrap boards
+- Solder wires to your motors 
+- Mount motor to your project to make it turn
+	- It must turn for 30 seconds without breaking
+	- You may need to strengthen or even rebuild your project
 
 
 ### References
