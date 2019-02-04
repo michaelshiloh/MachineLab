@@ -65,8 +65,6 @@ This schedule is subject to change
 - Let's start making something
 
 
-### current-homework-assignment
-
 #### Homework due Monday February 4 
 - **Read**
 	- [Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
@@ -116,18 +114,27 @@ Soldering
 - wires to boards
 - wires to motors
 
-**Lecture**
-Introduction to Electricity
-Introduction to Arduino
-
 **Demo**
 Using 5V from Arduino to power motor
 
-**Soldering practice**
+
+### current-homework-assignment
 
 #### Homework due Wednesday February 5
-- Practice soldering wires and scrap boards
-- Solder wires to your motors 
+- Practice soldering until you feel confident
+	- Wires to wires
+	- Wires to boards from the scrap board box
+- When you feel confident, get a motor and solder wires to it
+	- Make sure you are using **stranded** wires! Ask if you are not sure!
+	- Use any two color you wish **except** red and black
+
+#### Wednesday 10 February 2019 11:50 AM - 1:05 PM
+
+**Lecture** (tentative)
+- Introduction to Electricity
+- How to use Arduino as a power supply for your motor
+
+#### Homework due Monday February 10 (tentative)
 - Mount motor to your project to make it turn
 	- It must turn for 30 seconds without breaking
 	- You may need to strengthen or even rebuild your project
