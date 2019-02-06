@@ -68,7 +68,8 @@ This schedule is subject to change
 #### Homework due Monday February 4 
 - **Read**
 	- [Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
-	- [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
+	- [Basic
+		Mechanisms](https://web.archive.org/web/20170727010622/http://www.mechanical-toys.com/mechanisums.htm)
 
 - **Do**
 	- Build a hand crank machine using a crank and any other mechanism (linkage,
