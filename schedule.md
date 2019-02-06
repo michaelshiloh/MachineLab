@@ -126,9 +126,25 @@ Using 5V from Arduino to power motor
 
 #### Wednesday 6 February 2019 11:50 AM - 1:05 PM
 
+**Check in**
+- Who did not solder wires to their motors?
+- Who used solid core wire instead of stranded wire?
+
 **Lecture** (tentative)
 - Introduction to Electricity
 - How to use Arduino as a power supply for your motor
+	- **Be very careful not to let the wires touch any other parts of your board
+		as this may cause a short circuit**
+
+**In Class Activity**
+- Distribute Arduino and USB cables
+- Twist strands tightly
+- Connect Arduino to your laptop via USB
+- Observe motor turning
+- Add wheels (be aware that motor will turn and try to run away)
+
+**Demo** (time permitting)
+- Solder a small length of **solid** core wire to the end of your **stranded** wire to make it easier to insert into your Arduino
 
 #### Homework due Monday February 11 (tentative)
 - Mount motor to your project to make it turn
