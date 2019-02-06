@@ -144,7 +144,10 @@ Using 5V from Arduino to power motor
 		as this may cause a short circuit**
 - Connect Arduino to your laptop via USB
 - Observe motor turning
+- High five your neighbor
+- Disconnect USB to stop the emotor
 - Add wheels (be aware that motor will turn and try to run away)
+- Re-connect USB to start the emotor
 
 **Demo** (time permitting)
 - Solder a small length of **solid** core wire to the end of your **stranded** wire to make it easier to insert into your Arduino
