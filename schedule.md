@@ -130,7 +130,7 @@ Using 5V from Arduino to power motor
 - Who did not solder wires to their motors?
 - Who used solid core wire instead of stranded wire?
 
-**Lecture** (tentative)
+**Lecture** 
 - Introduction to Electricity
 - How to use Arduino as a power supply for your motor
 	- **Be very careful not to let the wires touch any other parts of your board
@@ -139,6 +139,9 @@ Using 5V from Arduino to power motor
 **In Class Activity**
 - Distribute Arduino and USB cables
 - Twist strands tightly
+- Insert wires into Arduino carefully
+	- **Be very careful not to let the wires touch any other parts of your board
+		as this may cause a short circuit**
 - Connect Arduino to your laptop via USB
 - Observe motor turning
 - Add wheels (be aware that motor will turn and try to run away)
