@@ -61,6 +61,15 @@ This schedule is subject to change
 	- [Marble Machine 2](https://www.youtube.com/watch?v=09BVLbyWAqQ)
 	- [Marble Machine 3](https://www.youtube.com/watch?v=Bpdb8yQ9cH8&t=28s)
 	- [Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
+	- [Creative Machine Lab at Columbia University](http://www.creativemachineslab.com/)
+	- [Rolling Ball Machine made of Bicycle Junk](https://www.youtube.com/watch?v=Bpdb8yQ9cH8)
+	- George Rhoads' [Ball Machines](http://georgerhoads.com/)
+	- Creative Architecture Machines [here](http://www.creative-architecture-machines.net/) and [here](http://www.future-cities-lab.net/blog/2013/11/3/creative-architecture-machines-cca-fall-2013)
+	- Harvey Moon's [Drawing Machines](https://creators.vice.com/en_au/article/nz4jj7/harvey-moons-drawing-machines)
+	- Jean Tinguely
+	- [Alan Rath](http://alanrath.org/)
+	- John Cage
+	- [Theo Jansen](http://www.strandbeest.com/)
 - Demo
 - Let's start making something
 
@@ -153,23 +162,16 @@ Using 5V from Arduino to power motor
 **Demo** (time permitting)
 - Solder a small length of **solid** core wire to the end of your **stranded** wire to make it easier to insert into your Arduino
 
-#### Homework due Monday February 11 (tentative)
+#### Homework due Monday February 11
+
 - Mount motor to your project to make it turn
 	- It must turn for 30 seconds without breaking
 	- You may need to strengthen or even rebuild your project
+- Download the Arduino IDE (ARDUINO 1.8.8) from
+    [here](https://www.arduino.cc/en/Main/Software)
+    Scroll down past the "Arduino Web Editor" to "Download the Arduino IDE". Select the appropriate download (if you are on Windows you probably want the Windows Installer). On the next page you will be asked if you want to contribute to Arduino Software. Scroll down a little and you will see a button that says "Just Download".
+  - Try to install it if you can but don’t worry if you have trouble.
+    We’ll do that in class.
 
 
-### References
 
-#### Websites
-- [Creative Machine Lab at Columbia University](http://www.creativemachineslab.com/)
-- [Rolling Ball Machine made of Bicycle Junk](https://www.youtube.com/watch?v=Bpdb8yQ9cH8)
-- George Rhoads' [Ball Machines](http://georgerhoads.com/)
-- Creative Architecture Machines [here](http://www.creative-architecture-machines.net/) and [here](http://www.future-cities-lab.net/blog/2013/11/3/creative-architecture-machines-cca-fall-2013)
-
-#### Artists
-- Harvey Moon's [Drawing Machines](https://creators.vice.com/en_au/article/nz4jj7/harvey-moons-drawing-machines)
-- Jean Tinguely
-- [Alan Rath](http://alanrath.org/)
-- John Cage
-- [Theo Jansen](http://www.strandbeest.com/)
