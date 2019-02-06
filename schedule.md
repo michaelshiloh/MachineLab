@@ -60,7 +60,7 @@ This schedule is subject to change
 		Machine 1](https://www.pinterest.cl/pin/481251910156036553/visual-search/?x=12&y=12&w=405&h=512)
 	- [Marble Machine 2](https://www.youtube.com/watch?v=09BVLbyWAqQ)
 	- [Marble Machine 3](https://www.youtube.com/watch?v=Bpdb8yQ9cH8&t=28s)
-- [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
+- [Basic Mechanisms](https://web.archive.org/web/20170729000827/http://www.mechanical-toys.com/mechanisms.htm)
 - Demo
 - Let's start making something
 
