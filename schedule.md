@@ -173,5 +173,30 @@ Using 5V from Arduino to power motor
   - Try to install it if you can but don’t worry if you have trouble.
     We’ll do that in class.
 
+#### Monday 4 February 2019 10:25 AM - 1:05 PM
 
-
+- Introduction to Arduino
+	- What makes up an interactive system
+		- Inputs and sensors
+		- Outputs and actuators
+		- Microcontrollers
+		- Pins
+	- Test Arduino
+		- Blink
+	- Inputs and outputs, digital and analog (and other)
+- Other motors
+	- DC
+		- Open loop vs. closed loop
+	- Hobby servo motors
+		- "standard"
+		- continuous rotation
+		- multi-turn
+	- Stepper motors
+		- unipolar
+		- bipolar
+- How to control motors with Arduino
+	- Current consumption and current drive ability
+		- What is the weakest link?
+	- Transistors
+	- H-bridge
+	- Motor shield
