@@ -175,6 +175,9 @@ Using 5V from Arduino to power motor
 
 #### Monday 4 February 2019 10:25 AM - 1:05 PM
 
+**Demonstrate projects**
+Take pictures and videos and post on your page!
+
 - Introduction to Arduino
 	- What makes up an interactive system
 		- Inputs and sensors
