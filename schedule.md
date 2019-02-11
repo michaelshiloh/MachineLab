@@ -124,8 +124,6 @@ Soldering
 Using 5V from Arduino to power motor
 
 
-### current-homework-assignment
-
 #### Homework due Wednesday February 6
 - Practice soldering until you feel confident
 	- Wires to wires
@@ -203,3 +201,38 @@ Take pictures and videos and post on your page!
 	- Transistors
 	- H-bridge
 	- Motor shield
+
+
+### current-homework-assignment
+
+#### Homework due Wednesday February 13
+
+- Read [Sparkfun Motors and Selecting the Right
+	One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) tutorial
+
+#### Homework due Monday February 18
+
+**Although this isn't due until next Monday there are a lot of videos to watch
+so please start early**
+
+- Read chapters 1-6 of "Making Things Move"
+
+- Watch the following parts of the [Illustrator CC 2018 Essential
+	Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2018-Essential-Training/628695-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aillustrator%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) tutorial at Lynda.com.  
+	**Especially important is understand how to
+	navigate Illustrator and how to measure and assign dimensions.**
+	You may skim over other details.  
+	- Getting Started (let's call this chapter 1)
+		parts 1 (What is Adobe Illustrator)
+		and 3  (Touring the Illustrator Interface)  
+	- Navigating (chapter 2) parts 1 and 2  
+	- Chapter 3 parts 1 and 3  
+	- Chapter 4 parts 1 and 2  
+	- Chapter 5 parts 1,2, and 3  
+	- Chapter 6 parts 1 and 3  
+	- Chapter 7 part 3  
+	- Chapter 10 parts 1 and 2  
+	- Chapter 11 parts 1 and 2  
+	
+- Browse
+		[these](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/LaserCutBoxNotes.pdf) Laser Cut Box notes  
