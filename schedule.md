@@ -188,26 +188,18 @@ Take pictures and videos and post on your page!
 - Other motors
 	- DC
 		- Open loop vs. closed loop
-	- Hobby servo motors
-		- "standard"
-		- continuous rotation
-		- multi-turn
-	- Stepper motors
-		- unipolar
-		- bipolar
-- How to control motors with Arduino
-	- Current consumption and current drive ability
-		- What is the weakest link?
-	- Transistors
-	- H-bridge
-	- Motor shield
 
 
 ### current-homework-assignment
 
 #### Homework due Wednesday February 13
 
-- Upload the following to your Github repository
+- Create a GitHub account and create a repository for this class. 
+	[Here](https://github.com/michaelshiloh/resourcesForClasses#github-resources) are some instructions
+	Your account name can be something like your name (mine is michaelshiloh)
+	The repository name should be something like "MachineLab" (no spaces are allowed)
+
+- Take the pictures and video discussed below but don't bother uploading them to Github. We will do that in class.
 	- Clear pictures of your project 
 		- At least 2 pictures of the overall project
 			- Front 
@@ -254,3 +246,26 @@ so please start early**
 	
 - Browse
 		[these](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/LaserCutBoxNotes.pdf) Laser Cut Box notes  
+
+#### Wednesday 6 February 2019 11:50 AM - 1:05 PM
+
+**Lecture and Demo**
+	- Hobby servo motors
+		- "standard"
+		- continuous rotation
+		- multi-turn
+	- Stepper motors
+		- unipolar
+		- bipolar
+- How to control motors with Arduino
+	- Current consumption and current drive ability
+		- What is the weakest link?
+	- Transistors
+	- H-bridge
+	- Motor shield
+
+**Demo and do along with me**
+- Github
+
+**Guest Lecture**
+- Ume and Jack
