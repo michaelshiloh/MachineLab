@@ -207,6 +207,18 @@ Take pictures and videos and post on your page!
 
 #### Homework due Wednesday February 13
 
+- Upload the following to your Github repository
+- Clear pictures of your project 
+	- At least 2 pictures of the overall project
+		- Front 
+		- Back
+	- At least 4 pictures detailing the mechanism
+		- Cam or rotating mechanism
+		- The attachement of the mechanism to the motor wheel
+		- The mounting of the motor to the base of you project
+		- The final piece that is rotated, liftied, or otherwise manipulated
+- A short video (about 10 seconds) of your project running
+
 - Read [Sparkfun Motors and Selecting the Right
 	One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) tutorial
 
@@ -233,6 +245,12 @@ so please start early**
 	- Chapter 7 part 3  
 	- Chapter 10 parts 1 and 2  
 	- Chapter 11 parts 1 and 2  
+- To sign in to lynda.com 
+	- Visit [lynda.com](lynda.com)
+	- Click on "Sign In" 
+	- Select "Sign in through my organizations portal"
+	- Type "nyu.edu"
+	- Sign in to NYU the usual way
 	
 - Browse
 		[these](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/LaserCutBoxNotes.pdf) Laser Cut Box notes  
