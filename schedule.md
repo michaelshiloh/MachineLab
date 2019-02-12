@@ -208,16 +208,16 @@ Take pictures and videos and post on your page!
 #### Homework due Wednesday February 13
 
 - Upload the following to your Github repository
-- Clear pictures of your project 
-	- At least 2 pictures of the overall project
-		- Front 
-		- Back
-	- At least 4 pictures detailing the mechanism
-		- Cam or rotating mechanism
-		- The attachement of the mechanism to the motor wheel
-		- The mounting of the motor to the base of you project
-		- The final piece that is rotated, liftied, or otherwise manipulated
-- A short video (about 10 seconds) of your project running
+	- Clear pictures of your project 
+		- At least 2 pictures of the overall project
+			- Front 
+			- Back
+		- At least 4 pictures detailing the mechanism
+			- Cam or rotating mechanism
+			- The attachement of the mechanism to the motor wheel
+			- The mounting of the motor to the base of you project
+			- The final piece that is rotated, liftied, or otherwise manipulated
+	- A short video (about 10 seconds) of your project running
 
 - Read [Sparkfun Motors and Selecting the Right
 	One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) tutorial
