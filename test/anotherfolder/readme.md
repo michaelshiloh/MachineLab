@@ -1,5 +1,5 @@
 here is my picture:
 
 
-![picture](/../images/srlPicture.jpg?raw=true)
+![picture](../images/srlPicture.jpg?raw=true)
 
