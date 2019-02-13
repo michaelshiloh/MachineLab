@@ -295,4 +295,43 @@ so please start early**
 - Ume and Jack to discuss lab
 
 
-#### Homework due Monday February 18
+#### Revised Homework due Monday February 18
+
+- Announcement
+	- Zimoun's workshop
+
+- Prepare for Zimoun visit
+	- Watch some o zimoun's work
+	- Think of at least one question to ask
+	
+- Watch these Lynda video tutorials on Fusion 360: (less than 20 minutes
+	total):
+	- 3.1 User Interface Overview
+	- 3.2 Navigating inside F360
+	- 3.3 Model Environment
+	- 3.5 Sketch Environment
+	- 4.1 Extrude a 3D object
+	- Optional
+		- 4.4 Add or Subtract objects from other objects
+		- 8 Introduction to sketching: Raspberry Pi Case
+	
+- Download and install Fusion 360, either
+	- Free [30 day
+		trial](https://www.autodesk.com/products/fusion-360/free-trial)
+	- Make a [student
+		account](https://www.autodesk.com/products/fusion-360/students-teachers-educators) and get a free 3 year license
+
+- Try to design a box into which you can mount a [Nema 17
+	motor](https://www.adafruit.com/product/324) and two
+	[flanged
+	bearings](https://openbuildspartstore.com/flanged-bearing-688zz-8x16x5/)
+	![](images/boxPicture.jpg)
+	- You will need to determine the positions and size of the mounting holes
+		and the shoulder around the shaft so that the motor can be mounted in your
+		box. Use [this](https://reprap.org/wiki/NEMA_17_Stepper_motor) 
+		for the standard Nema 17 dimensions. 
+	- The bearings are there to support a
+		[shaft](https://www.servocity.com/5mm-stainless-steel-precision-shafting)  
+		that runs through the front and
+		back of the box, so the bearing in the back needs to line up with the
+		bearing in front
