@@ -266,22 +266,26 @@ so please start early**
 
 
 **Lecture and Demo**
-	- Hobby servo motors
-		- "standard"
-		- continuous rotation
-		- multi-turn
-	- Stepper motors
-		- unipolar
-		- bipolar
+
+- Hobby servo motors
+	- "standard"
+	- continuous rotation
+	- multi-turn
+- Stepper motors
+	- unipolar
+	- bipolar
 - How to control motors with Arduino
-	- Current consumption and current drive ability
-		- What is the weakest link?
-	- Transistors
-	- H-bridge
-	- Motor shield
+- Current consumption and current drive ability
+	- What is the weakest link?
+- Transistors
+- H-bridge
+- Motor shield
 
 **Demo and do along with me**
 - Github
 
 **Guest Lecture**
 - Ume and Jack
+
+
+#### Homework due Monday February 18
