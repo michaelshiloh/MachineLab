@@ -278,6 +278,8 @@ so please start early**
 - Current consumption and current drive ability
 	- What is the weakest link?
 - Transistors
+	- Darlingtons
+		- Arrays of Darlingtons (e.g. ULN2003)
 - H-bridge
 - Motor shield
 
