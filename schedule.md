@@ -249,6 +249,22 @@ so please start early**
 
 #### Wednesday 6 February 2019 11:50 AM - 1:05 PM
 
+**Announcements**
+- [24x](https://nyuad.im/24x/)  
+	In the spirit of Rhizome’s Seven on Seven and Experiments in Art's  Technology’s “9 Evenings”, NYUAD Interactive Media presents The 4th Annual 24X.  
+
+	24X is an event where 10 students from diverse disciplines come together for 24 hours to create something new.   
+
+	In teams of 2, participants will collaborate on an original project of their choice - a game, a performance, a poem, a sculpture, a mobile app - it’s up to the team and their imaginations to decide!   
+
+	After being introduced to each other, each pair will have 24 hours to come up with an idea, prototype it, and present their project to the NYUAD community. Teams will share their process and reflections on the experience.   
+
+	A theme will be revealed at the outset of the event to inspire the work. Faculty mentors will be on hand throughout the event to provide support.   
+
+- Visit to Zimoun's project next Monday at 10:25. Meet in the Art Gallery.
+	Attendence will be taken
+
+
 **Lecture and Demo**
 	- Hobby servo motors
 		- "standard"
