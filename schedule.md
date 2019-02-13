@@ -279,7 +279,8 @@ so please start early**
 	- What is the weakest link?
 - Transistors
 	- Darlingtons
-		- Arrays of Darlingtons (e.g. ULN2003)
+		- Arrays of Darlingtons (e.g.
+			[ULN2003](https://www.seeedstudio.com/document/pdf/ULN2003%20Datasheet.pdf))
 - H-bridge
 - Motor shield
 
