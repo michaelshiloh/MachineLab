@@ -190,8 +190,6 @@ Take pictures and videos and post on your page!
 		- Open loop vs. closed loop
 
 
-### current-homework-assignment
-
 #### Homework due Wednesday February 13
 
 - Create a GitHub account and create a repository for this class. 
@@ -214,35 +212,44 @@ Take pictures and videos and post on your page!
 - Read [Sparkfun Motors and Selecting the Right
 	One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) tutorial
 
-#### Homework due Monday February 18
+### current-homework-assignment
 
-**Although this isn't due until next Monday there are a lot of videos to watch
-so please start early**
+#### Revised Homework due Monday February 18
 
 - Read chapters 1-6 of "Making Things Move"
 
-- Watch the following parts of the [Illustrator CC 2018 Essential
-	Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2018-Essential-Training/628695-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aillustrator%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) tutorial at Lynda.com.  
-	**Especially important is understand how to
-	navigate Illustrator and how to measure and assign dimensions.**
-	You may skim over other details.  
-	- Getting Started (let's call this chapter 1)
-		parts 1 (What is Adobe Illustrator)
-		and 3  (Touring the Illustrator Interface)  
-	- Navigating (chapter 2) parts 1 and 2  
-	- Chapter 3 parts 1 and 3  
-	- Chapter 4 parts 1 and 2  
-	- Chapter 5 parts 1,2, and 3  
-	- Chapter 6 parts 1 and 3  
-	- Chapter 7 part 3  
-	- Chapter 10 parts 1 and 2  
-	- Chapter 11 parts 1 and 2  
-- To sign in to lynda.com 
-	- Visit [lynda.com](lynda.com)
-	- Click on "Sign In" 
-	- Select "Sign in through my organizations portal"
-	- Type "nyu.edu"
-	- Sign in to NYU the usual way
+- Watch
+	[these](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training/614292-2.html) Lynda video tutorials on Fusion 360: (less than 20 minutes
+	total):
+	- 3.1 User Interface Overview
+	- 3.2 Navigating inside F360
+	- 3.3 Model Environment
+	- 3.5 Sketch Environment
+	- 4.1 Extrude a 3D object
+	- Optional
+		- 4.4 Add or Subtract objects from other objects
+		- 8 Introduction to sketching: Raspberry Pi Case
+	
+- Download and install Fusion 360, either
+	- Free [30 day
+		trial](https://www.autodesk.com/products/fusion-360/free-trial)
+	- Make a [student
+		account](https://www.autodesk.com/products/fusion-360/students-teachers-educators) and get a free 3 year license
+
+- Try to design a box into which you can mount a [Nema 17
+	motor](https://www.adafruit.com/product/324) and two
+	[flanged
+	bearings](https://openbuildspartstore.com/flanged-bearing-688zz-8x16x5/)
+	![](images/boxPicture.jpg)
+	- You will need to determine the positions and size of the mounting holes
+		and the shoulder around the shaft so that the motor can be mounted in your
+		box. Use [this](https://reprap.org/wiki/NEMA_17_Stepper_motor) 
+		for the standard Nema 17 dimensions. 
+	- The bearings are there to support a
+		[shaft](https://www.servocity.com/5mm-stainless-steel-precision-shafting)  
+		that runs through the front and
+		back of the box, so the bearing in the back needs to line up with the
+		bearing in front
 	
 - Browse
 		[these](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/LaserCutBoxNotes.pdf) Laser Cut Box notes  
@@ -294,44 +301,8 @@ so please start early**
 **Guest Lecture (12:45)**
 - Ume and Jack to discuss lab
 
+#### Homework due Monday February 18
 
-#### Revised Homework due Monday February 18
+Is 
+[here](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#current-homework-assignment)
 
-- Announcement
-	- Zimoun's workshop
-
-- Prepare for Zimoun visit
-	- Watch some o zimoun's work
-	- Think of at least one question to ask
-	
-- Watch these Lynda video tutorials on Fusion 360: (less than 20 minutes
-	total):
-	- 3.1 User Interface Overview
-	- 3.2 Navigating inside F360
-	- 3.3 Model Environment
-	- 3.5 Sketch Environment
-	- 4.1 Extrude a 3D object
-	- Optional
-		- 4.4 Add or Subtract objects from other objects
-		- 8 Introduction to sketching: Raspberry Pi Case
-	
-- Download and install Fusion 360, either
-	- Free [30 day
-		trial](https://www.autodesk.com/products/fusion-360/free-trial)
-	- Make a [student
-		account](https://www.autodesk.com/products/fusion-360/students-teachers-educators) and get a free 3 year license
-
-- Try to design a box into which you can mount a [Nema 17
-	motor](https://www.adafruit.com/product/324) and two
-	[flanged
-	bearings](https://openbuildspartstore.com/flanged-bearing-688zz-8x16x5/)
-	![](images/boxPicture.jpg)
-	- You will need to determine the positions and size of the mounting holes
-		and the shoulder around the shaft so that the motor can be mounted in your
-		box. Use [this](https://reprap.org/wiki/NEMA_17_Stepper_motor) 
-		for the standard Nema 17 dimensions. 
-	- The bearings are there to support a
-		[shaft](https://www.servocity.com/5mm-stainless-steel-precision-shafting)  
-		that runs through the front and
-		back of the box, so the bearing in the back needs to line up with the
-		bearing in front
