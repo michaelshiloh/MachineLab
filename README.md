@@ -17,14 +17,14 @@ to current homework assignment
 
 Student Github repositories  
 
-[Sara](https://github.com/sarafakhry/MachineLab)
-[Leo](https://github.com/leodunadan/MachineLab)
-[Alia](https://github.com/aliaghobash/MachineLab)
-[Leah](https://github.com/LeahDou/MachineLab)
-[Cassie](https://github.com/cassieulvick/MachineLab)
-[Maher](https://github.com/maherasfour/MachineLab)
-[Pangna](https://github.com/pangnasun/MachineLab)
-[Amy](https://github.com/amychen/MachineLab)
-[Steven](https://github.com/slw515/MachineLab)
-[Benjamin](https://github.com/nolarmanful/MachineLab)
+[Sara](https://github.com/sarafakhry/MachineLab)  
+[Leo](https://github.com/leodunadan/MachineLab)  
+[Alia](https://github.com/aliaghobash/MachineLab)  
+[Leah](https://github.com/LeahDou/MachineLab)  
+[Cassie](https://github.com/cassieulvick/MachineLab)  
+[Maher](https://github.com/maherasfour/MachineLab)  
+[Pangna](https://github.com/pangnasun/MachineLab)  
+[Amy](https://github.com/amychen/MachineLab)  
+[Steven](https://github.com/slw515/MachineLab)  
+[Benjamin](https://github.com/nolarmanful/MachineLab)  
 
