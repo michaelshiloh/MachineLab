@@ -264,6 +264,13 @@ so please start early**
 - Visit to Zimoun's project next Monday at 10:25. Meet in the Art Gallery.
 	Attendence will be taken
 
+**Demo and do along with me**
+- Github
+	- First, let me add all your repositories to our README.md file
+	- How to create a file
+	- How to create a .md file
+	- How to create a folder (directory)
+	- [Here](https://github.com/michaelshiloh/resourcesForClasses#github-resources) are some more resources
 
 **Lecture and Demo**
 
@@ -284,11 +291,8 @@ so please start early**
 - H-bridge
 - Motor shield
 
-**Demo and do along with me**
-- Github
-
-**Guest Lecture**
-- Ume and Jack
+**Guest Lecture (12:45)**
+- Ume and Jack to discuss lab
 
 
 #### Homework due Monday February 18
