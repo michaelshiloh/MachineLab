@@ -285,6 +285,56 @@ Take pictures and videos and post on your page!
 	- "standard"
 	- continuous rotation
 	- multi-turn
+
+**Guest Lecture (12:45)**
+- Ume and Jack to discuss lab
+
+#### Revised Homework due Monday February 18
+
+- Read chapters 1-6 of "Making Things Move"
+
+- Watch [these](https://www.lynda.com/Fusion-360-tutorials/Fusion-360-Essential-Training/614292-2.html) Lynda video tutorials on Fusion 360: (less than 20 minutes total):
+
+		3.1 User Interface Overview
+		3.2 Navigating inside F360
+		3.3 Model Environment
+		3.5 Sketch Environment
+		4.1 Extrude a 3D object
+		Optional
+		4.4 Add or Subtract objects from other objects
+		8 Introduction to sketching: Raspberry Pi Case
+
+- Download and install Fusion 360, either 
+	- Free [30 day
+		trial](https://www.autodesk.com/products/fusion-360/free-trial) or 
+	- Make a [student
+		account](https://www.autodesk.com/products/fusion-360/students-teachers-educators) and get a free 3 year license
+- Try to design a box into which you can mount a [Nema 17
+	motor](https://www.adafruit.com/product/324) and two 
+	flanged bearings
+	![](https://ci3.googleusercontent.com/proxy/asSLS6gK7qYB79tJjygz8eWQVb-2ZCnYtWYN9NF9S9InVNCl75kqQl-ZtrC4w7xfvRTJPJANpxa4lItJWiyyG6LTz9zzsDhc6zEuL0tnlSKsVPQ3W6oNW6Lvn1oLCKo=s0-d-e1-ft#https://github.com/michaelshiloh/MachineLab/raw/master/images/boxPicture.jpg)
+	- You will need to determine the positions and size of the mounting 
+	   holes and the shoulder around the shaft so that the motor can 
+		    be mounted in your box. Use
+				[this](https://reprap.org/wiki/NEMA_17_Stepper_motor) for the standard Nema 17 dimensions.
+	- The bearings are there to support a shaft
+		that runs through the front and back of the box, 
+		so the bearing in the back needs to line up with the bearing in front
+
+- Browse
+	[these](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/LaserCutBoxNotes.pdf) Laser Cut Box notes
+
+#### Monday 4 February 2019 10:25 AM - 1:05 PM
+
+- 10:25 - 11:25 Class visit with Zimoun. 
+	Please meet outside the Art Gallery's Reading Room at 10:25
+
+- 11:25 - 11:45 break
+
+- 11:45 - 1:05 Fusion 360
+
+#### Wednesday 30 January 2019 11:50 AM - 1:05 PM
+
 - Stepper motors
 	- unipolar
 	- bipolar
@@ -297,12 +347,3 @@ Take pictures and videos and post on your page!
 			[ULN2003](https://www.seeedstudio.com/document/pdf/ULN2003%20Datasheet.pdf))
 - H-bridge
 - Motor shield
-
-**Guest Lecture (12:45)**
-- Ume and Jack to discuss lab
-
-#### Homework due Monday February 18
-
-Is 
-[here](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#current-homework-assignment)
-
