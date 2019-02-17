@@ -329,9 +329,12 @@ Take pictures and videos and post on your page!
 - 10:25 - 11:25 Class visit with Zimoun. 
 	Please meet outside the Art Gallery's Reading Room at 10:25
 
-- 11:25 - 11:45 break
+- 11:25 - 11:40 break
 
-- 11:45 - 1:05 Fusion 360
+- [24x](https://nyuad.im/24x/)
+- Zimoun workshop
+
+- 11:40 - 1:05 Fusion 360
 
 #### Wednesday 30 January 2019 11:50 AM - 1:05 PM
 
