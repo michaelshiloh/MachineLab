@@ -212,8 +212,6 @@ Take pictures and videos and post on your page!
 - Read [Sparkfun Motors and Selecting the Right
 	One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) tutorial
 
-### current-homework-assignment
-
 #### Revised Homework due Monday February 18
 
 - Read chapters 1-6 of "Making Things Move"
@@ -331,12 +329,22 @@ Take pictures and videos and post on your page!
 
 - 11:25 - 11:40 break
 
-- [24x](https://nyuad.im/24x/)
-- Zimoun workshop
-
 - 11:40 - 1:05 Fusion 360
+### current-homework-assignment
 
-#### Wednesday 30 January 2019 11:50 AM - 1:05 PM
+#### Homework due Wednesday February 20
+
+- Finish creating your box and upload the files to your Github account, in a
+	new folder called "stepper motor enclosure"
+
+#### Wednesday 20 February 2019 11:50 AM - 1:05 PM
+
+- Announcements
+	- [24x](https://nyuad.im/24x/)
+	- Zimoun workshop Sunday 6pm
+
+- Demo
+	- laser cutter
 
 - Stepper motors
 	- unipolar
