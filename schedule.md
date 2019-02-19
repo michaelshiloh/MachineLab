@@ -334,8 +334,19 @@ Take pictures and videos and post on your page!
 
 #### Homework due Wednesday February 20
 
-- Finish creating your box and upload the files to your Github account, in a
-	new folder called "stepper motor enclosure"
+- Finish creating your box. Your main file is stored in the cloud
+- Export the front surface of your enclosure, 
+	which is the surface with all the holes in it, for the laser cutter, using the following steps:
+	- Rotate to view the front surface of your enclosure, which is the surface with all the holes in it.
+	- Create a new sketch on that surface (Sketch -> Create Sketch)
+		- click on the page to open your Sketch Palette
+	- Click on "Stop Sketch" without making any chances.
+		This "blank" sketch will hold all the created geometry of the solid model when you export it
+	- Find that sketch in folder tree on the side. It's probably the last sketch in
+		the menu. You can turn each one on and off (click on the lightbulb) to make sure.
+	- Right click on the sketch in the folder tree and select "Save as DXF"
+	- Upload the .dxf file to your Github account, in a
+		new folder called "stepper motor front face"
 
 #### Wednesday 20 February 2019 11:50 AM - 1:05 PM
 
