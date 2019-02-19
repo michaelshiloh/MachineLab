@@ -347,6 +347,9 @@ Take pictures and videos and post on your page!
 	- Right click on the sketch in the folder tree and select "Save as DXF"
 	- Upload the .dxf file to your Github account, in a
 		new folder called "stepper motor front face"
+	- You can see my file in 
+		https://github.com/michaelshiloh/MachineLab/tree/master/dxfFiles
+
 
 #### Wednesday 20 February 2019 11:50 AM - 1:05 PM
 
