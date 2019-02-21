@@ -16,12 +16,12 @@ to current homework assignment
 This schedule is subject to change
 
 Week 1 January 30, February 4 - Hand crank automata   
-Week 2 February 6, February 11 - Arduino, soldering   
-Week 3 February 13, February 18 - Arduino and DC motors, motorized automata   
-Week 4 February 20, February 25 - Stepper motors, hand tool training   
-Week 5 February 27, March 4 - Solenoids, start work on sound machines   
-Week 6 March 6,  March 11 - Sound machines, construction techniques   
-Week 7 March 13,  March 18 - CAD and laser cutter   
+Week 2 February 6, February 11 - DC motors, soldering, motorized automata    
+Week 3 February 13, February 18 - Arduino, Fusion 360, laser cutter
+Week 4 February 20, February 25 - Servo motors, stepper motors, motor shields
+Week 5 February 27, March 4 - Solenoids, start work on drawing machines
+Week 6 March 6,  March 11 - Drawing machines, construction techniques   
+Week 7 March 13,  March 18 - hand tool training
 Spring break   
 Week 8 April 1, April 3 -  Scene ship training, marble elevators   
 Week 9 April 8, April 10 - Scene ship training, marble elevators   
@@ -330,7 +330,6 @@ Take pictures and videos and post on your page!
 - 11:25 - 11:40 break
 
 - 11:40 - 1:05 Fusion 360
-### current-homework-assignment
 
 #### Homework due Wednesday February 20
 
@@ -372,3 +371,34 @@ Take pictures and videos and post on your page!
 			[ULN2003](https://www.seeedstudio.com/document/pdf/ULN2003%20Datasheet.pdf))
 - H-bridge
 - Motor shield
+
+### current-homework-assignment
+
+#### Homework due Monday February 25
+
+- Practice soldering wires into boards. Do about 5 wires. Use solid core wire
+	from the box labeled Electronic Waste on the wire shelves (left hand side).
+	Use scrap boards from the red box on the top shelf of the soldering area.
+- Practice soldering bits of male header strips into boards. 
+	Use male header strips of about 5 pins.
+	Before you cut long headers into bits of about 5 pins, 
+	look in the bottom of the 
+	male header bin as there are usually shorter bits in there.
+	![](media/maleHeaderBits.jpg)
+	Place the header anywhere on the boards that you an find space (it's just
+	practice) 
+	![](media/maleHeaderInBoard.jpg)
+	and solder the pins from the bottom as I showed you in class
+	![](wellSolderedPins.jpg)
+- Brainstorm some ideas for a "device that leaves mark on a piece of paper".
+	You may use any or all of the motors we've learned about: DC gearmotors,
+	servo motors (180 degrees or continuous) and stepper motors. On Monday we
+	will practice using these motors. Make a sketch (paper and pencil is fine)
+	and upload to your github repository.
+
+#### Monday 4 February 2019 10:25 AM - 1:05 PM (tentative)
+
+- Hand tool training
+- Servo motors and stepper motors and motor controller shields (oh my)
+
+
