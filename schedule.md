@@ -390,6 +390,8 @@ Take pictures and videos and post on your page!
 	![](images/maleHeaderInBoard.jpg)
 	and solder the pins from the bottom as I showed you in class
 	![](images/wellSolderedPins.jpg)
+	- Do about 5 strips for practice. Pay attention to getting the strips
+		straight.
 - Brainstorm some ideas for a "device that leaves mark on a piece of paper".
 	You may use any or all of the motors we've learned about: DC gearmotors,
 	servo motors (180 degrees or continuous) and stepper motors. On Monday we
