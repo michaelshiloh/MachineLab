@@ -384,12 +384,12 @@ Take pictures and videos and post on your page!
 	Before you cut long headers into bits of about 5 pins, 
 	look in the bottom of the 
 	male header bin as there are usually shorter bits in there.
-	![](media/maleHeaderBits.jpg)
+	![](images/maleHeaderBits.jpg)
 	Place the header anywhere on the boards that you an find space (it's just
 	practice) 
-	![](media/maleHeaderInBoard.jpg)
+	![](images/maleHeaderInBoard.jpg)
 	and solder the pins from the bottom as I showed you in class
-	![](wellSolderedPins.jpg)
+	![](images/wellSolderedPins.jpg)
 - Brainstorm some ideas for a "device that leaves mark on a piece of paper".
 	You may use any or all of the motors we've learned about: DC gearmotors,
 	servo motors (180 degrees or continuous) and stepper motors. On Monday we
