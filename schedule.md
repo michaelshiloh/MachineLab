@@ -374,7 +374,9 @@ Take pictures and videos and post on your page!
 
 ### current-homework-assignment
 
-#### Homework due Monday February 25
+#### Revised Homework due Monday February 25
+
+**Do**
 
 - Practice soldering wires into boards. Do about 5 wires. Use solid core wire
 	from the box labeled Electronic Waste on the wire shelves (left hand side).
@@ -397,6 +399,13 @@ Take pictures and videos and post on your page!
 	servo motors (180 degrees or continuous) and stepper motors. On Monday we
 	will practice using these motors. Make a sketch (paper and pencil is fine)
 	and upload to your github repository.
+
+**Read**
+
+- Review chapter 6 of "Making Things Move"
+- Read chapters 7-9 of "Making Things Move"
+- Read the [Adafruit Motor Shield
+	V2](https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino?view=all) tutorial
 
 #### Monday 4 February 2019 10:25 AM - 1:05 PM (tentative)
 
