@@ -331,6 +331,7 @@ Take pictures and videos and post on your page!
 
 - 11:40 - 1:05 Fusion 360
 
+
 #### Homework due Wednesday February 20
 
 - Finish creating your box. Your main file is stored in the cloud
@@ -372,8 +373,6 @@ Take pictures and videos and post on your page!
 - H-bridge
 - Motor shield
 
-### current-homework-assignment
-
 #### Revised Homework due Monday February 25
 
 **Do**
@@ -410,6 +409,85 @@ Take pictures and videos and post on your page!
 #### Monday 4 February 2019 10:25 AM - 1:05 PM (tentative)
 
 - Hand tool training
-- Servo motors and stepper motors and motor controller shields (oh my)
+- Servo motors and stepper motors and motor controller shields 
+	- screwdriver for motor shield
+- Example drawing machine
+	- hub to stepper motor
+	- caster support
+	- what is wrong
+		- caster in wrong place
+		- didn't need lift mechanism
+		- "towers" aren't stiff enough
+		- servo motor draws too much current 
+			- Solution: a separate power supply
+
+Here is the code for my drawing machine:
 
 
+```C++
+/*
+  Michael's ugly drawing machine
+  Based on Adafruit Motor Shield V2 "Stepper test" example
+  Based on Arduino servo "sweep" example
+*/
+
+
+#include <Wire.h>
+#include <Adafruit_MotorShield.h>
+#include <Servo.h>
+
+Servo myservo;  // create servo object to control a servo
+
+
+// Create the motor shield object with the default I2C address
+Adafruit_MotorShield AFMS = Adafruit_MotorShield();
+// Or, create it with a different I2C address (say for stacking)
+// Adafruit_MotorShield AFMS = Adafruit_MotorShield(0x61);
+
+// Connect a stepper motor with 200 steps per revolution (1.8 degree)
+// to motor port #2 (M3 and M4)
+Adafruit_StepperMotor *myMotor = AFMS.getStepper(200, 1);
+
+const int LOWER_LIMIT = 45;
+const int UPPER_LIMIT = 135;
+const int SERVO_PAUSE = 40;
+
+
+void setup() {
+  Serial.begin(9600);           // set up Serial library at 9600 bps
+  Serial.println("Stepper test!");
+
+  AFMS.begin();  // create with the default frequency 1.6KHz
+  //AFMS.begin(1000);  // OR with a different frequency, say 1KHz
+  Serial.println("after afms.begin");
+  myMotor->setSpeed(10);  // 10 rpm
+
+  myservo.attach(9);
+}
+
+void loop() {
+
+  myMotor->step(50, FORWARD, MICROSTEP);
+
+  for (int i = LOWER_LIMIT; i <= UPPER_LIMIT; i++ ) {
+    myservo.write(i);
+    delay (SERVO_PAUSE);
+  }
+
+
+  myMotor->step(50, FORWARD, MICROSTEP);
+
+  for (int i = UPPER_LIMIT; i > LOWER_LIMIT; i++ ) { // there is a mistake here - what will happen?
+    myservo.write(i);
+    delay (SERVO_PAUSE);
+  }
+}
+```
+
+### current-homework-assignment
+
+#### Homework due Wednesday February 27
+
+- Identify the riskiest part of your drawing machine and prototype that, using
+	any of the motors we have discussed (DC gear motor, stepper motor, servo
+	motor)

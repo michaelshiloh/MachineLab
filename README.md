@@ -28,3 +28,4 @@ Student Github repositories
 [Steven](https://github.com/slw515/MachineLab)  
 [Benjamin](https://github.com/nolarmanful/MachineLab)  
 [Zheki](https://github.com/Zheki/MachineLab_Zheki)
+[Omar]((https://github.com/soablackwhite/MachineLab)
