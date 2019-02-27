@@ -541,6 +541,6 @@ void loop() {
 		Use the green bottle of alcohol to release the hot glue from these parts.
 - Read either or both of:
 	- [Adafruit Digital
-		Multimeter[(https://learn.adafruit.com/multimeters?view=all) tutorial
+		Multimeter](https://learn.adafruit.com/multimeters?view=all) tutorial
 	- [Sparkfun Digital
 		Multimeter](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter) tutorial
