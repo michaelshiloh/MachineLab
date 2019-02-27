@@ -484,7 +484,6 @@ void loop() {
 }
 ```
 
-### current-homework-assignment
 
 #### Homework due Wednesday February 27
 
@@ -512,6 +511,36 @@ void loop() {
 		- Solder short wires between a DC coax connector and the servo 
 			motor power holes
 		- Check polarity again
-- Time permitting
+- Bonus
 	- Sensors
+- Next week
 	- DC motors with motor shield
+
+### current-homework-assignment
+
+#### Homework due Monday March 4
+
+- Finish your drawing machine project
+	- It does not need to look pretty. Hot glue and cardboard is fine.
+		- It would be nice to practice using the laser cutter, especially for
+			mounting the stepper motor (if you use one), but if you don't have time
+			it's OK to use cardboard and do the best you can
+	- It needs to work
+	- It needs to be strong 
+		- Enough to be carried from your shelf to the table without breaking
+		- Enough to operate without you holding any part of it or helping it along
+	- You may use multiple motors of any sort (servo, stepper, or DC gearmotor
+		or any other you know of)
+	- **No tape is allowed for anything structural!**
+		- Tape is OK to hold paper in place
+- Label clearly your shelf and your box of parts. Write in BIG LETTERS!
+- It's time to dispose of your first project (unless you'd like to keep it).
+	- Make sure you saved good pictures of your projects
+	- Salvage the motor and the wheel, and any other valuable parts you
+		used. Bottle caps and wooden parts can be discarded.
+		Use the green bottle of alcohol to release the hot glue from these parts.
+- Read either or both of:
+	- [Adafruit Digital
+		Multimeter[(https://learn.adafruit.com/multimeters?view=all) tutorial
+	- [Sparkfun Digital
+		Multimeter](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter) tutorial
