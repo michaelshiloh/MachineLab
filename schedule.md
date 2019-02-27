@@ -491,3 +491,25 @@ void loop() {
 - Identify the riskiest part of your drawing machine and prototype that, using
 	any of the motors we have discussed (DC gear motor, stepper motor, servo
 	motor)
+
+#### Wednesday 20 February 2019 11:50 AM - 1:05 PM
+
+- Inspect projects
+- The digital multimeter
+- How to provide external power to your servo motor and stepper motor
+	- Diagram of power on motor shield
+	- **Polarity is all important! If you get this wrong you might permanently
+		damage your motor shield!!** Check the polarity with a multimeter before
+		connecting
+	- Ask a friend or a lab assistant or an instructor to double check your
+		work
+	- DC motors and stepper motors can be powered by through 2 position screw
+		terminals. **You must remove the shorting block or you might permanently
+    damage your Arduino**
+		- Check polarity again
+	- Servo motors require a little more work
+		- Cut the trace on the back of the board as indicated
+		- Solder short wires between a DC coax connector and the servo 
+			motor power holes
+		- Check polarity again
+
