@@ -512,4 +512,6 @@ void loop() {
 		- Solder short wires between a DC coax connector and the servo 
 			motor power holes
 		- Check polarity again
-
+- Time permitting
+	- Sensors
+	- DC motors with motor shield
