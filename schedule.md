@@ -406,7 +406,7 @@ Take pictures and videos and post on your page!
 - Read the [Adafruit Motor Shield
 	V2](https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino?view=all) tutorial
 
-#### Monday 4 February 2019 10:25 AM - 1:05 PM (tentative)
+#### Monday 25 February 2019 10:25 AM - 1:05 PM 
 
 - Hand tool training
 - Servo motors and stepper motors and motor controller shields 
@@ -544,3 +544,21 @@ void loop() {
 		Multimeter](https://learn.adafruit.com/multimeters?view=all) tutorial
 	- [Sparkfun Digital
 		Multimeter](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter) tutorial
+
+#### Monday 4 March 2019 10:25 AM - 1:05 PM 
+
+**Projects**
+- Show your projects
+- Discuss how to make them better
+
+**Fusion 360 and laser cutter**
+- Review
+- Laying out holes for switches (both kinds), power sockets, and potentiometers
+
+**Intermediate programming**
+- Adding switches and potentiometers
+- Blink Without Delay
+
+**Electronics**
+- Adding a solenoid
+- Power distribution
