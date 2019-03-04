@@ -558,12 +558,14 @@ void loop() {
 #### Homework due Wednesday March 6
 
 **Anyone who did not use the laser cutter**
+
 Choose a cardboard or wood part of your device to replace with a lasercut
 piece of acrylic. Sketch (on paper) what you will need, including dimensions
 and any cutouts or holes, and then try to create this as best you can in
 Fusion 360.
 
 **Anyone who did not write a program for your project**
+
 Some of you used your Arduino only to provide power to your motor, with no
 program involved. 
 I'd like to give you a chance to improve your programming skills.
@@ -572,9 +574,7 @@ I'd like to give you a chance to improve your programming skills.
 	1. [Setting Up a Breadboard](https://itp.nyu.edu/physcomp/labs/labs-electronics/breadboard/) lab at NYU ITP
 	1. Adafruit's [Learn
 		 Arduino](https://learn.adafruit.com/series/learn-arduino) tutorials
-- Build a circuit with 3 momentary switches (pushbuttons) and three LEDs. Use
-	the Arduino tutorials for digitalReadSerial and blink if you need to
-	remember how to build this circuit. 
+- Build a circuit with 3 momentary switches (pushbuttons) and three LEDs. 
 - Write a program that reads the switches and then controls the LEDs.
 	- The first switch controls the first LED
 	- The second switch controls the second LED
