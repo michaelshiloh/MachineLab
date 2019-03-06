@@ -667,7 +667,7 @@ void loop() {
 	- You may need to modify your design so that the controls make a difference
 		in what is drawn. It must change the pattern, not just make it go faster
 		or slower (unless going faster or slower does change the pattern.)
-	- Use momentary switches (buttons) and potentiometers
+	- Use at least three momentary switches (buttons) and/or potentiometers
 	- You must use panel mount switches and potentiometers.
 		- Next week we will review Fusion and/or use Illustrator to create
 		a control panel. For now, just use a piece of cardboard and punch holes
