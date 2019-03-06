@@ -584,8 +584,8 @@ I'd like to give you a chance to improve your programming skills.
 **Intermediate programming**
 - Adding switches and potentiometers to control your drawing machines
 
-Here is the code we developed in class. **Caution** I have actually 
-tested this on a real drawing machine
+Here is the code we developed in class.   
+**Caution** I have not actually tested this on a real drawing machine
 
 ```
 /*
@@ -663,9 +663,10 @@ void loop() {
 #### Homework due Monday March 11
 
 - Add a set of controls to manipulate your drawing machine. 
+	- I have placed the code we developed in class on our Github page
 	- You may need to modify your design so that the controls make a difference
 		in what is drawn. It must change the pattern, not just make it go faster
-		or slower. 
+		or slower (unless going faster or slower does change the pattern.)
 	- Use momentary switches (buttons) and potentiometers
 	- You must use panel mount switches and potentiometers.
 		- Next week we will review Fusion and/or use Illustrator to create
