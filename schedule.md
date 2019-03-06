@@ -553,7 +553,6 @@ void loop() {
 **Intermediate programming**
 - Doing more interesting things with a program
 
-### current-homework-assignment
 
 #### Homework due Wednesday March 6
 
@@ -584,12 +583,117 @@ I'd like to give you a chance to improve your programming skills.
 
 **Intermediate programming**
 - Adding switches and potentiometers to control your drawing machines
-- Blink Without Delay
 
-**Fusion 360 and laser cutter**
+Here is the code we developed in class. **Caution** I have actually 
+tested this on a real drawing machine
+
+```
+/*
+Example program to control motors using potentiometers and a switch
+
+Based on the motor shield examples
+StepperTest
+DCMotorTest
+And on the servo motor example
+knob
+
+Created by Michael Shiloh March 6 2019
+
+*/
+
+// Include relevant libraries
+#include <Wire.h> // I think this is needed for the motor shield
+#include <Adafruit_MotorShield.h>
+#include <Servo.h>
+
+// Create the motor shield object
+// necessary for both steppers and DC motors
+// (AFMS = AdaFruit Motor Shield)
+Adafruit_MotorShield AFMS = Adafruit_MotorShield();
+
+// Here is where we make the objects for the stepper motor and the DC motor
+Adafruit_StepperMotor *myStepperMotor = AFMS.getStepper(200, 2); // stepper motor on port #2 (M3 and M4)
+Adafruit_DCMotor *myDCMotor = AFMS.getMotor(1); // DC gearmotor on port #1 (M1)
+
+// Servo motor is not part of the motor shield
+Servo myServo;
+
+void setup() {
+  Serial.begin(9600);           // set up Serial library at 9600 bps
+  Serial.println("Hello from three motor example");
+
+  // Initialize the motor shield
+  AFMS.begin();
+
+  myStepperMotor->setSpeed(10);  // Stepper motor speed in rpm. Motor does not start moving yet.
+  myServo.attach(9);
+  myDCMotor->setSpeed(0); // Stop the DC motor
+}
+
+void loop() {
+
+  // Read the inputs (controls) and store the answers
+  // Note that with a descriptive variable name you don't really need the comments
+  int paperRotationSpeed = analogRead(A0); // Controls the paper rotation speed
+  int servoMotorPosition = analogRead(A1); // Controls the servo motor position
+  int stepperMotorMove = digitalRead(3);  // momentary switch which triggers the stepper motor
+
+  // Since the DC motor speed can only go up to 255, need to map the range
+  // from analogRead (which goes up to 1023) down to 255:
+  paperRotationSpeed = map(paperRotationSpeed, 0, 1023, 0, 255);
+  myDCMotor->setSpeed(paperRotationSpeed); // set the DC motor speed (still not moving)
+  myDCMotor->run(FORWARD); // This command actually makes the motor turn
+
+  // Now deal with the servo motor. Again the reading from the potentiometer
+  // needs to be mapped to a different range, this time to a maximum of 180
+  servoMotorPosition = map(servoMotorPosition, 0, 1023, 0, 180);
+  myServo.write(servoMotorPosition);
+
+  // The stepper motor is triggered by the momentary switch. When the
+  // switch is pressed, take 100 steps
+  if (stepperMotorMove == HIGH) {
+    myStepperMotor->step(100, BACKWARD, MICROSTEP);
+  }
+
+}
+```
+
+### current-homework-assignment
+
+#### Homework due Monday March 11
+
+- Add a set of controls to manipulate your drawing machine. 
+	- You may need to modify your design so that the controls make a difference
+		in what is drawn. It must change the pattern, not just make it go faster
+		or slower. 
+	- Use momentary switches (buttons) and potentiometers
+	- You must use panel mount switches and potentiometers.
+		- Next week we will review Fusion and/or use Illustrator to create
+		a control panel. For now, just use a piece of cardboard and punch holes
+		in it for mounting your controls.
+		- Solder wires onto any switches and potentiometers. Make the wires long
+			enough that you will have some flexibility on how you design your
+			structure and where you will put the control panel. Use stranded wires,
+			but solder a short length of solid wire to the ends so that you can put
+			them in your breadboard. Next week we will remove the breadboard and use
+			a prototyping shield.
+	-	You are encouraged to be creative in how the switches control
+		the behavior. For instance, a potentiometer might change a delay between
+		motor actions, which would change what is drawn.
+	- You do not need to have one control for each motor. For instance, you
+		could have 3 potentiometers for one motor: one controls how much time 
+		it turns, one controls the speed, and one controls how long it stops
+		before going to the next step.
+
+#### Monday 11 March 2019 10:25 AM - 1:05 PM  (tentative)
+
+**Fusion 360 and/or Illustrator**
 - Review
 - Laying out holes for switches (both kinds), power sockets, and potentiometers
 
-**Electronics**
-- Adding a solenoid
+**Construction Techniques**
+- How to use the prototyping shield
+- How to connect controls and power to the prototyping shield
 - Power distribution
+- Wire colors
+- Strain relief
