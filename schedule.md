@@ -658,8 +658,6 @@ void loop() {
 }
 ```
 
-### current-homework-assignment
-
 #### Homework due Monday March 11
 
 - Add a set of controls to manipulate your drawing machine. 
@@ -711,4 +709,38 @@ void loop() {
 	- starter holes holes
 	- holding screwdriver correctly 
 - Alcohol to release hot glue
-- Names!
+
+### current-homework-assignment
+
+#### Homework due Wednesday March 13
+
+Homework
+As we discussed in class, you will exhibit your drawing machines to the
+	public in room 006 on Monday March 18. Your machines need to look good and
+	function reliably, and need to be robust and solid.
+
+On Wednesday March 13 I will let you work on your machines,
+with my help. 
+Due to the short day on Wednesday I will only be able to spend a few minutes
+with each student.
+
+**You must make substantial progress between now and Wednesday**
+All of your projects are in different states, so I won't dictate what you
+should accomplish by Wednesday. 
+However your grade will suffer if you
+have not moved your project forward.
+
+Some of you have not made much progress yet. Your grade will suffer.
+
+Some points to remember, and a new point:
+
+- Your project must have your name on it, ideally using the laser cutter
+- Use the correct switches and potentiometers: I don't want to see any that are
+	designed for a PCB (Printed Circuit Board) on your panel. 
+- Use stranded wire except when you are soldering both ends onto the same
+	board
+- Use the correct wire colors
+
+**I am available to help. Email me.**
+
+
