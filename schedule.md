@@ -688,6 +688,11 @@ void loop() {
 
 #### Monday 11 March 2019 10:25 AM - 1:05 PM  (tentative)
 
+**Announcements**
+- Put things where they belong
+- Take notes in class 
+- Use the notes
+
 **Fusion 360 and/or Illustrator**
 - Review
 - Laying out holes for switches (both kinds), power sockets, and potentiometers
@@ -697,4 +702,10 @@ void loop() {
 - How to connect controls and power to the prototyping shield
 - Power distribution
 - Wire colors
+- Don't use digital pins 0 and 1
 - Strain relief
+- Screws
+	- clearance holes
+	- starter holes holes
+	- holding screwdriver correctly 
+- Alcohol to release hot glue
