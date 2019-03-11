@@ -693,6 +693,8 @@ void loop() {
 - Take notes in class 
 - Use the notes
 
+**Show me your work**
+
 **Fusion 360 and/or Illustrator**
 - Review
 - Laying out holes for switches (both kinds), power sockets, and potentiometers
