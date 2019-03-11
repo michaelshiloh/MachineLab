@@ -711,3 +711,4 @@ void loop() {
 	- starter holes holes
 	- holding screwdriver correctly 
 - Alcohol to release hot glue
+- Names!
