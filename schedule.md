@@ -710,7 +710,6 @@ void loop() {
 	- holding screwdriver correctly 
 - Alcohol to release hot glue
 
-### current-homework-assignment
 
 #### Homework due Wednesday March 13
 
@@ -743,4 +742,22 @@ Some points to remember, and a new point:
 
 **I am available to help. Email me.**
 
+### current-homework-assignment
+
+#### Homework due Monday March 18
+
+- Our class on Monday March 18 will meet in 006. 
+- We can start moving in to 006 at 8am
+- I will be in 006 by 10am
+- Your project must be installed and ready to run at 11am
+- Critique will start at 11am. Late projects will be penalized.
+- **I will not have time on Monday to help you with your projects. 
+If you need my help make an appointment with me for Friday or Saturday.**
+
+We have a [poster](images/machineLabDrawingMachinesPoster.png). 
+Please forward this to your friends and post around your buildings.
+
+Notice that the exhibit runs from 2pm - 5pm. One of us needs to be in the room
+during those times. Those who are able to do so, please volunteer (by email to
+me) for a 30 minute time slot.
 
