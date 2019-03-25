@@ -761,3 +761,8 @@ Notice that the exhibit runs from 2pm - 5pm. One of us needs to be in the room
 during those times. Those who are able to do so, please volunteer (by email to
 me) for a 30 minute time slot.
 
+Next meeting: 
+April 1
+Scene Shop Tool Training
+Wear closed shoes, and no ties, scarves, or other loose clothing that may get
+caught in machines
