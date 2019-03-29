@@ -794,13 +794,16 @@ machine (e.g. [this](https://wonderfulidea.co/art-blog/2018/3/13/chain-reaction-
 a silly and complicated way".
 
 The goal of this project is to construct such a machine: Students in Machine
-Lab will work in pairs. Each pair will design a stage. Pairs will plan the
-interface between stages with their neighbors: the stage before them triggers
-their stage, and when they are done they trigger the next stage. 
+Lab will work in pairs. Each pair will design a portion of the project. 
+Each portion should start when a momentary switch is pressed.
+When the portion is finished, it turns on an LED.
 
-The 
-interface will be a digital signal from Arduino. The sender sends a HIGH using
+The communication between the portions is the LED and waiting for the
+momentary
+switch.
+The sender sends a HIGH using
 digitalWrite(), and the listener listens for this signal with a digitalRead().
+I will explain this more fully in class.
 
 [Here](https://vimeo.com/272782764)
 is an example of one that was made at NYU's ITP as a goodbye from the
