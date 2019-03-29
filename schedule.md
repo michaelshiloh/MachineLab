@@ -742,8 +742,6 @@ Some points to remember, and a new point:
 
 **I am available to help. Email me.**
 
-### current-homework-assignment
-
 #### Homework due Monday March 18
 
 - Our class on Monday March 18 will meet in 006. 
@@ -767,7 +765,9 @@ Scene Shop Tool Training
 Wear closed shoes, and no ties, scarves, or other loose clothing that may get
 caught in machines
 
-#### Monday 1 April 2019 10:25 AM - 1:05 PM  (tentative)
+#### Monday 1 April 2019 10:25 AM - 1:05 PM 
+
+### current-homework-assignment
 
 **Announcements**
 
