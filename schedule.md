@@ -790,7 +790,7 @@ to the expression "Rube Goldberg machines" to describe similar gadgets and
 processes" 
 ([Wikipedia](https://en.wikipedia.org/wiki/Rube_Goldberg)). 
 A very closely related concept is the Chain Reaction
-machine (e.g. this) with the similar goal of "accomplish[ing] a simple task in
+machine (e.g. [this](https://wonderfulidea.co/art-blog/2018/3/13/chain-reaction-machine)) with the similar goal of "accomplish[ing] a simple task in
 a silly and complicated way".
 
 The goal of this project is to construct such a machine: Students in Machine
