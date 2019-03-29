@@ -766,3 +766,90 @@ April 1
 Scene Shop Tool Training
 Wear closed shoes, and no ties, scarves, or other loose clothing that may get
 caught in machines
+
+#### Monday 1 April 2019 10:25 AM - 1:05 PM  (tentative)
+
+**Announcements**
+
+Welcome back! I hope you all enjoyed the break.
+
+Don't forget that we start our Scene Shop Tool Training
+immediately on Monday at 10:25 AM. At 10:30 we will leave the class for the 
+Scene Shop. Anyone late will not be able to join and will be given
+an unexcused absence.
+Remember to wear closed shoes, 
+and no ties, scarves, or other loose clothing that may get caught in machines
+
+Here is our next project, which we will start while doing the training
+in the Scene Shop:
+
+"Rube Goldberg is best known for his popular cartoons depicting complicated
+gadgets performing simple tasks in indirect, convoluted ways. The cartoons led
+to the expression "Rube Goldberg machines" to describe similar gadgets and
+processes" 
+([Wikipedia](https://en.wikipedia.org/wiki/Rube_Goldberg)). 
+A very closely related concept is the Chain Reaction
+machine (e.g. this) with the similar goal of "accomplish[ing] a simple task in
+a silly and complicated way".
+
+The goal of this project is to construct such a machine: Students in Machine
+Lab will work in pairs. Each pair will design a stage. Pairs will plan the
+interface between stages with their neighbors: the stage before them triggers
+their stage, and when they are done they trigger the next stage. 
+
+The 
+interface will be a digital signal from Arduino. The sender sends a HIGH using
+digitalWrite(), and the listener listens for this signal with a digitalRead().
+
+[Here](https://vimeo.com/272782764)
+is an example of one that was made at NYU's ITP as a goodbye from the
+class of 2016.
+
+Each pair will be given a frame.
+Students may do whatever they want inside, outside, or around the frame. The
+frame will be about 1m by 1m, so you are encouraged to occupy much space.
+
+The machine will span the three global NYU sites, starting at Shanghai, which
+will then send a message via the internet to Abu Dhabi which will trigger our
+first stage. After all our stages run, the last stage will send a message to
+New York to start theirs.
+
+Starting on April 1 Machine Lab enters 3 weeks of training in the Scene Shop.
+"Rube around the World" progress will be homework: 
+
+**Monday April 1 ** Project
+introduction and team assignments. Homework: sketches of 5 possible stages
+uploaded to Github 
+
+**Wednesday April 3 ** Homework: Start building prototype
+(some functionality - details will be provided). Test with neighbors. Writeup
+on Github: what remains to be done.
+
+**Monday  April 8** Frames provided. Homework: finish prototype (all
+functionality implemented, does not need to function perfectly). Test with
+neighbors. Writeup on Github: how to improve reliability.  
+
+**Wednesday April 10**
+Homework: Prototype refined (works almost all of the time). Test with
+neighbors.  
+
+**Monday  April 15** Homework: Plan for transitioning to better
+materials (wood, aluminum). Detailed sketch calling out materials and how they
+are attached to each other (glue, screws, etc.) (Github) 
+
+**Wednesday April 17**
+Homework: Using new skills, build project to functional state. Test with
+neighbors.  
+
+**Monday  April 22** In class work: Refine, debug, test, and install
+(location to be determined).
+
+**April 24** Final tweaks 
+
+** Friday April 26, 5:00pm**
+Eagerly wait for signal from Shanghai. Party atmosphere, food, photography,
+ideally live streaming and recorded so participants in Shanghai and New York
+can follow (there was some talk of New York making it an all night party).
+Large screen so that we can watch the live (or delayed) stream from Shanghai
+and New York. Currently the plan is for Shanghai to signal us at 5:30pm (local
+time).
