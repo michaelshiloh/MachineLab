@@ -831,31 +831,29 @@ introduction and team assignments. Homework: sketches of 5 possible stages
 uploaded to Github 
 
 **Wednesday April 3** Homework: Start building prototype
-(some functionality - details will be provided). Test with neighbors. Writeup
+(some functionality - details will be provided). Writeup
 on Github: what remains to be done.
 
 **Monday  April 8** Frames provided. Homework: finish prototype (all
-functionality implemented, does not need to function perfectly). Test with
-neighbors. Writeup on Github: how to improve reliability.  
+functionality implemented, does not need to function perfectly). 
+Writeup on Github: how to improve reliability.  
 
 **Wednesday April 10**
-Homework: Prototype refined (works almost all of the time). Test with
-neighbors.  
+Homework: Prototype refined (works almost all of the time). 
 
 **Monday  April 15** Homework: Plan for transitioning to better
 materials (wood, aluminum). Detailed sketch calling out materials and how they
 are attached to each other (glue, screws, etc.) (Github) 
 
 **Wednesday April 17**
-Homework: Using new skills, build project to functional state. Test with
-neighbors.  
+Homework: Using new skills, build project to functional state. 
 
 **Monday  April 22** In class work: Refine, debug, test, and install
 (location to be determined).
 
-**April 24** Final tweaks 
+**Wednesday April 24** Final tweaks 
 
-** Friday April 26, 5:00pm**
+**Friday April 26, 5:00pm**
 Eagerly wait for signal from Shanghai. Party atmosphere, food, photography,
 ideally live streaming and recorded so participants in Shanghai and New York
 can follow (there was some talk of New York making it an all night party).
