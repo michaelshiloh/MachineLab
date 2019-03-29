@@ -780,7 +780,8 @@ an unexcused absence.
 Remember to wear closed shoes, 
 and no ties, scarves, or other loose clothing that may get caught in machines
 
-Here is our next project, which we will start while doing the training
+Here is our next project, which we will start while doing as homework
+immediately, and will finish in class after the training
 in the Scene Shop:
 
 "Rube Goldberg is best known for his popular cartoons depicting complicated
