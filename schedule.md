@@ -793,7 +793,11 @@ A very closely related concept is the Chain Reaction
 machine (e.g. [this](https://wonderfulidea.co/art-blog/2018/3/13/chain-reaction-machine)) with the similar goal of "accomplish[ing] a simple task in
 a silly and complicated way".
 
-The goal of this project is to construct such a machine: Students in Machine
+The goal of this project is to construct such a machine, except
+that there is no task to accomplish except for showing off what you can
+do with motors, LEDs, and other components.
+
+Students in Machine
 Lab will work in pairs. Each pair will design a portion of the project. 
 Each portion should start when a momentary switch is pressed.
 When the portion is finished, it turns on an LED.
@@ -812,20 +816,21 @@ class of 2016.
 Each pair will be given a frame.
 Students may do whatever they want inside, outside, or around the frame. The
 frame will be about 1m by 1m, so you are encouraged to occupy much space.
+You may use motors, LEDs, and any other device you can think of. This is a
+chance to explore.
 
 The machine will span the three global NYU sites, starting at Shanghai, which
 will then send a message via the internet to Abu Dhabi which will trigger our
 first stage. After all our stages run, the last stage will send a message to
 New York to start theirs.
 
-Starting on April 1 Machine Lab enters 3 weeks of training in the Scene Shop.
-"Rube around the World" progress will be homework: 
+Here is our schedule:
 
-**Monday April 1 ** Project
+**Monday April 1** Project
 introduction and team assignments. Homework: sketches of 5 possible stages
 uploaded to Github 
 
-**Wednesday April 3 ** Homework: Start building prototype
+**Wednesday April 3** Homework: Start building prototype
 (some functionality - details will be provided). Test with neighbors. Writeup
 on Github: what remains to be done.
 
