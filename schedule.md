@@ -866,7 +866,7 @@ time).
 
 **Sketches of 5 possible stages uploaded to Github**
 
-Each of you is to sketch 5 segments (or stages, or contraptions, whatever you
+As we discussed on Monday, each of you is to sketch 5 segments (or stages, or contraptions, whatever you
 want to call them).
 
 Since we will be in the Scene Shop for the whole session, I will review your
@@ -874,7 +874,7 @@ sketches after class, and I will then assign teams based on what I see.
 
 If you did not already do so, create a new folder for this project and put
 your sketches in there. There will be more documentation for this project
-so this will keep it all in once place.
+so this will keep everything nicely organized in one place.
 
 Read [github
 Resource](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
