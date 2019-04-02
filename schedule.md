@@ -767,7 +767,6 @@ caught in machines
 
 #### Monday 1 April 2019 10:25 AM - 1:05 PM 
 
-### current-homework-assignment
 
 **Announcements**
 
@@ -860,3 +859,26 @@ can follow (there was some talk of New York making it an all night party).
 Large screen so that we can watch the live (or delayed) stream from Shanghai
 and New York. Currently the plan is for Shanghai to signal us at 5:30pm (local
 time).
+
+### current-homework-assignment
+
+#### Homework due Wednesday April 3
+
+**Sketches of 5 possible stages uploaded to Github**
+
+Each of you is to sketch 5 segments (or stages, or contraptions, whatever you
+want to call them).
+
+Since we will be in the Scene Shop for the whole session, I will review your
+sketches after class, and I will then assign teams based on what I see. 
+
+If you did not already do so, create a new folder for this project and put
+your sketches in there. There will be more documentation for this project
+so this will keep it all in once place.
+
+Read [github
+Resource](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
+, especially item #5 which explains how to create a folder.
+
+Class will meet in the Scene Shop at 11:50. Be ready to learn about more
+powerful tools!
