@@ -912,7 +912,7 @@ powerful tools!
 	 1. You are required to use 3 recycled objects, either from the "junk" 
 	boxes (in the fabrication area, under the 3D printer shelf) or items you
 	can find elsewhere. For those of you working with marbles, water bottles
-	with the bottems cut off make great funnels to catch marbles and direct
+	with the bottoms cut off make great funnels to catch marbles and direct
 	them, and bottle caps make excellent holders for marbles. 
 		1. You don't need to use marbles! But if you want to, 
 	we have a box of marbles somewhere in the lab. Ask Ume or a lab
@@ -925,7 +925,7 @@ powerful tools!
 			 Machine](https://www.youtube.com/watch?v=qYpVzqit1Xw)
 		1. [Creme That Egg!](https://www.youtube.com/watch?v=uWYXkyFQycE)
 	1. However, note that those videos are all mechanical, and you have an
-		 Arduino, so you can be creative in a different way. Rememeber 
+		 Arduino, so you can be creative in a different way. Remember 
 		NYU's ITP [goodbye](https://vimeo.com/272782764)
 		from the class of 2016.
 1.Your projects can be stored on the floor in the 
