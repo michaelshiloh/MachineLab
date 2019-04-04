@@ -907,7 +907,27 @@ powerful tools!
 	 intermediate stages can be included very roughly. I suggest you work
 	 with cardboard and hot glue, or anything else that lets you prototype
 	 quickly. I do want you to depict your entire stage, so that you can get a
-	 sense of size and layout. Your projects can be stored on the floor in the 
+	 sense of size and layout. 
+	 1. You are required to use 3 recycled objects, either from the "junk" 
+	boxes (in the fabrication area, under the 3D printer shelf) or items you
+	can find elsewhere. For those of you working with marbles, water bottles
+	with the bottems cut off make great funnels to catch marbles and direct
+	them, and bottle caps make excellent holders for marbles. 
+		1. You don't need to use marbles! But if you want to, 
+	we have a box of marbles somewhere in the lab. Ask Ume or a lab
+	assistant. If you want something bigger I have golf balls.
+		1. For inspiration, please watch these videos:
+			1. [The Way Things Go](https://www.youtube.com/watch?v=GXrRC3pfLnE)
+			1. [Kinetic Machine to Turn Off the
+				 TV](https://www.youtube.com/watch?v=IujsIy98kDI)
+			1. [Rube Goldberg Egg Cracking
+				 Machine](https://www.youtube.com/watch?v=qYpVzqit1Xw)
+			1. [Creme That Egg!](https://www.youtube.com/watch?v=uWYXkyFQycE)
+		1. However, note that those videos are all mechanical, and you have an
+			 Arduino, so you can be creative in a different way. Rememeber 
+NYU's ITP [goodbye](https://vimeo.com/272782764)
+from the class of 2016.
+1.Your projects can be stored on the floor in the 
 	 right hand side of the classroom.
-
-Writeup on Github: what remains to be done.
+1. In the Rube Goldberg folder in your Github repository, edit README.md
+	 (create it if it doesn't exist) and make a list of your next steps.
