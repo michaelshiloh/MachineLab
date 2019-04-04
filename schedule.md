@@ -932,3 +932,4 @@ powerful tools!
  right hand side of the classroom.
 1. In the Rube Goldberg folder in your Github repository, edit README.md
  (create it if it doesn't exist) and make a list of your next steps.
+ If you have trouble with this email me.
