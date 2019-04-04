@@ -904,7 +904,8 @@ powerful tools!
 	 (e.g. press the switch, and a motor starts turning something) and the last
 	 step (e.g. a block of wood (or a domino) falls over and lights an LED. 
 	 1. The
-	 intermediate stages can be included very roughly. I suggest you work
+	 intermediate stages can be included very roughly, and do not need to work. 
+	 I suggest you work
 	 with cardboard and hot glue, or anything else that lets you prototype
 	 quickly. I do want you to depict your entire stage, so that you can get a
 	 sense of size and layout. 
@@ -916,18 +917,18 @@ powerful tools!
 		1. You don't need to use marbles! But if you want to, 
 	we have a box of marbles somewhere in the lab. Ask Ume or a lab
 	assistant. If you want something bigger I have golf balls.
-		1. For inspiration, please watch these videos:
-			1. [The Way Things Go](https://www.youtube.com/watch?v=GXrRC3pfLnE)
-			1. [Kinetic Machine to Turn Off the
-				 TV](https://www.youtube.com/watch?v=IujsIy98kDI)
-			1. [Rube Goldberg Egg Cracking
-				 Machine](https://www.youtube.com/watch?v=qYpVzqit1Xw)
-			1. [Creme That Egg!](https://www.youtube.com/watch?v=uWYXkyFQycE)
-		1. However, note that those videos are all mechanical, and you have an
-			 Arduino, so you can be creative in a different way. Rememeber 
-NYU's ITP [goodbye](https://vimeo.com/272782764)
-from the class of 2016.
+	1. For inspiration, please watch these videos:
+		1. [The Way Things Go](https://www.youtube.com/watch?v=GXrRC3pfLnE)
+		1. [Kinetic Machine to Turn Off the
+			 TV](https://www.youtube.com/watch?v=IujsIy98kDI)
+		1. [Rube Goldberg Egg Cracking
+			 Machine](https://www.youtube.com/watch?v=qYpVzqit1Xw)
+		1. [Creme That Egg!](https://www.youtube.com/watch?v=uWYXkyFQycE)
+	1. However, note that those videos are all mechanical, and you have an
+		 Arduino, so you can be creative in a different way. Rememeber 
+		NYU's ITP [goodbye](https://vimeo.com/272782764)
+		from the class of 2016.
 1.Your projects can be stored on the floor in the 
-	 right hand side of the classroom.
+ right hand side of the classroom.
 1. In the Rube Goldberg folder in your Github repository, edit README.md
-	 (create it if it doesn't exist) and make a list of your next steps.
+ (create it if it doesn't exist) and make a list of your next steps.
