@@ -823,7 +823,7 @@ will then send a message via the internet to Abu Dhabi which will trigger our
 first stage. After all our stages run, the last stage will send a message to
 New York to start theirs.
 
-Here is our schedule:
+Here is the schedule outline for the Rube Goldberg project:
 
 **Monday April 1** Project
 introduction and team assignments. Homework: sketches of 5 possible stages
@@ -833,7 +833,7 @@ uploaded to Github
 (some functionality - details will be provided). Writeup
 on Github: what remains to be done.
 
-**Monday  April 8** Frames provided. Homework: finish prototype (all
+**Monday  April 8** Homework: finish prototype (all
 functionality implemented, does not need to function perfectly). 
 Writeup on Github: how to improve reliability.  
 
@@ -860,8 +860,6 @@ Large screen so that we can watch the live (or delayed) stream from Shanghai
 and New York. Currently the plan is for Shanghai to signal us at 5:30pm (local
 time).
 
-### current-homework-assignment
-
 #### Homework due Wednesday April 3
 
 **Sketches of 5 possible stages uploaded to Github**
@@ -882,3 +880,34 @@ Resource](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
 
 Class will meet in the Scene Shop at 11:50. Be ready to learn about more
 powerful tools!
+
+### current-homework-assignment
+
+#### Homework due Monday April 8
+
+1. You should have each received email from me with your partner assignments.
+	 If not let me know.
+
+1. I have decided to remove the frame from this project. You are free to take
+	 up as much space as you need.
+
+1. The ideas you sketched out can serve as starting points or inspiration, 
+	but you do not to use all, or any, of them in your project. As you build,
+	your ideas will change. That's fine.
+1. As explained in the schedule outline for the Rube Goldberg project, the
+	 next step is to work with your partner to build a prototype. 
+	 1. This prototype
+	 does not need to function perfectly or completely
+	 but should have some functionality,
+	 should be initiated by a momentary switch (pushbutton), and at the end
+	 should light an LED. A reasonable approach might be to get the first step
+	 (e.g. press the switch, and a motor starts turning something) and the last
+	 step (e.g. a block of wood (or a domino) falls over and lights an LED. 
+	 1. The
+	 intermediate stages can be included very roughly. I suggest you work
+	 with cardboard and hot glue, or anything else that lets you prototype
+	 quickly. I do want you to depict your entire stage, so that you can get a
+	 sense of size and layout. Your projects can be stored on the floor in the 
+	 right hand side of the classroom.
+
+Writeup on Github: what remains to be done.
