@@ -579,7 +579,7 @@ I'd like to give you a chance to improve your programming skills.
 	- The second switch controls the second LED
 	- The third switch controls the third LED
 
-#### Wednesday 6 March 2019 11:50 AM - 1:05 PM (tentative)
+#### Wednesday 6 March 2019 11:50 AM - 1:05 PM
 
 **Intermediate programming**
 - Adding switches and potentiometers to control your drawing machines
@@ -881,8 +881,6 @@ Resource](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
 Class will meet in the Scene Shop at 11:50. Be ready to learn about more
 powerful tools!
 
-### current-homework-assignment
-
 #### Homework due Monday April 8
 
 1. You should have each received email from me with your partner assignments.
@@ -933,3 +931,51 @@ powerful tools!
 1. In the Rube Goldberg folder in your Github repository, edit README.md
  (create it if it doesn't exist) and make a list of your next steps.
  If you have trouble with this email me.
+
+### current-homework-assignment
+
+#### Homework due Monday April 22
+
+Many of you have shown me **concept** prototypes, 
+but not **functional** prototypes.
+There is a great danger with this, because physical reality probably 
+won't function at all 
+like your concept of how you hope it will behave.
+
+Because of this I want you to have a mostly functional machine by Monday,
+(Ideally with most of the pieces made of wood, not cardboard.)
+
+I want these machines set up and ready to demonstrate at the beginning of class
+at 10:25am. That means you must come early to set up your machines
+
+To help you achieve this goal you have the following resources:
+
+1. Scene Shop open hours tonight from 5:30-7:30. I will be there to help you.
+1. I am often available this weekend to go into the 
+Scene Shop with you if you need. We can arrange a group time if many of you
+need this.
+1. Scene Shop open hours on Sunday from 2-4pm. I can be there from 2-3.
+
+Scene Shop hours are [here](http://nyuadvis.art/about)
+
+Remember too that Jon said that he and Andrew are in the shop most of the time anyway, and unless they are busy they will allow you to work there whenever they are there.
+
+#### Monday 22 April 2019 10:25 AM - 1:05 PM 
+
+The goal for today is to finish the Rube Goldberg machine. That
+means your segment needs to be pretty much functional before. **If
+you don't have a mostly functional machine by Monday morning, it is very
+unlikely that you will be able to complete this within class time!**
+
+Lesson plan for the day:
+
+- Very short check-in with each team  
+- Individual work in the Scene Shop to finish your projects: replace 
+	cardboard with wood, make the frames, improve, refine, etc.
+- Connect each project to the next
+- Demo of entire Rube Goldberg machine
+
+
+#### Wednesday 6 March 2019 11:50 AM - 1:05 PM (tentative)
+
+Set up in 006
