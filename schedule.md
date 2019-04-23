@@ -932,7 +932,6 @@ powerful tools!
  (create it if it doesn't exist) and make a list of your next steps.
  If you have trouble with this email me.
 
-### current-homework-assignment
 
 #### Homework due Monday April 22
 
@@ -950,10 +949,10 @@ at 10:25am. That means you must come early to set up your machines
 
 To help you achieve this goal you have the following resources:
 
-1. Scene Shop open hours tonight from 5:30-7:30. I will be there to help you.
-1. I am often available this weekend to go into the 
-Scene Shop with you if you need. We can arrange a group time if many of you
-need this.
+1. Scene Shop open hours tonight (Thursday) from 5:30-7:30. 
+I will be there to help you.
+1. I will open the Scene Shop 
+on Friday from 1-3pm and on Saturday from 1-3pm
 1. Scene Shop open hours on Sunday from 2-4pm. I can be there from 2-3.
 
 Scene Shop hours are [here](http://nyuadvis.art/about)
@@ -975,7 +974,22 @@ Lesson plan for the day:
 - Connect each project to the next
 - Demo of entire Rube Goldberg machine
 
+### current-homework-assignment
 
-#### Wednesday 6 March 2019 11:50 AM - 1:05 PM (tentative)
+#### Homework due Wednesday April 24
 
-Set up in 006
+Finish your projects as we discussed on Monday
+
+#### Wednesday 24 April 2019 11:50 AM - 1:05 PM 
+
+Class will meet in 006. Please have your projects set up **before class
+starts**.
+
+We have access to 006 from Wednesday, April 24th through Friday, April 26th 
+except for the following timings:
+Wednesday, April 24th @ 6pm-9:30pm (Cello SIG)
+Thursday, April 25th @ 5:15pm-7:15pm (Music Class)
+
+
+
+add messages from email today thur april 18
