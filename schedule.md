@@ -983,13 +983,13 @@ Finish your projects as we discussed on Monday
 #### Wednesday 24 April 2019 11:50 AM - 1:05 PM 
 
 Class will meet in 006. Please have your projects set up **before class
-starts**.
+starts**. Set up your projects on the side of the room that is away from the
+piano. We will determine the order once I see what works and how.
 
 We have access to 006 from Wednesday, April 24th through Friday, April 26th 
-except for the following timings:
-Wednesday, April 24th @ 6pm-9:30pm (Cello SIG)
-Thursday, April 25th @ 5:15pm-7:15pm (Music Class)
+except for the following timings:   
+- Wednesday, April 24th @ 6pm-9:30pm (Cello SIG)      
+- Thursday, April 25th @ 5:15pm-7:15pm (Music Class)   
 
-
-
-add messages from email today thur april 18
+I will be available starting at 10:30, either in the IM lab, Scene Shop, or in
+006.
