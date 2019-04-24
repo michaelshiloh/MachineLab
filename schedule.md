@@ -1003,6 +1003,11 @@ Three projects are not yet functional. You must get these fully functioning by
 Thursday morning and Thursday afternoon. I do have a long class Thursday
 and so will be unavailable between 11:30-2pm.
 
+**Important change**
+Please note that the music class tomorrow starts earlier
+and thus we must not use room 006 on
+Thursday, April 25th between 3:30pm-7:15pm (Music Class)
+
 **Plan for Friday**
 - Before noon: finish wiring and test everything. 
 - Noon:
