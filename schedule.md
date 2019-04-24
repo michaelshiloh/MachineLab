@@ -974,8 +974,6 @@ Lesson plan for the day:
 - Connect each project to the next
 - Demo of entire Rube Goldberg machine
 
-### current-homework-assignment
-
 #### Homework due Wednesday April 24
 
 Finish your projects as we discussed on Monday
@@ -993,3 +991,31 @@ except for the following timings:
 
 I will be available starting at 10:30, either in the IM lab, Scene Shop, or in
 006.
+
+### current-homework-assignment
+
+I am pleased with the work you all have done and look forward to seeing all
+the machines work. I asked you all to have your machines fully functional
+today, and yet many of you have not yet accomplished this.
+
+Three projects are not yet functional. You must get these fully functioning by
+5pm on Thursday. I can be available this afternoon as well a little time on
+Thursday morning and Thursday afternoon. I do have a long class Thursday
+and so will be unavailable between 11:30-2pm.
+
+**Plan for Friday**
+- Before noon: finish wiring and test everything. 
+- Noon:
+	- Final test
+	- Pizza and drinks
+- Before 2PM: Set everything up
+- 2 PM: 
+	- Leave everything up and ready to run
+	- Take a break
+- 3:00 PM - Gather back
+- 3:30 PM 
+	- Guests arrive
+	- More pizza arrives
+	- Watch video of Rube Goldberg project in Shanghai
+- 4:00 PM - Allow the signal from Shanghai to trigger our machine
+
