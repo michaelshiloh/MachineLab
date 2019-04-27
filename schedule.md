@@ -992,7 +992,6 @@ except for the following timings:
 I will be available starting at 10:30, either in the IM lab, Scene Shop, or in
 006.
 
-### current-homework-assignment
 
 I am pleased with the work you all have done and look forward to seeing all
 the machines work. I asked you all to have your machines fully functional
@@ -1024,3 +1023,31 @@ Thursday, April 25th between 3:30pm-7:15pm (Music Class)
 	- Watch video of Rube Goldberg project in Shanghai
 - 4:00 PM - Allow the signal from Shanghai to trigger our machine
 
+### current-homework-assignment
+
+#### Homework due Monday 29 April 2019
+
+Think about a concept for your final project. 
+
+Your project can be anything but must incorporate some moving elements.
+
+Some examples:
+	- Improve on your Rube Goldberg project
+		- You can finish and use the marble elevator we made during training in
+			the Scene Shop
+	- Create a "musical" instrument, that is, a machine that creates sound. You
+		might use motors or relays, and program them to create some sort of
+		interesting sequence. Musicality is not required.
+	- Build a robot or other device
+	- Other ideas you may have
+
+You may work alone or in a team. Teams must reach a higher standard.
+
+#### Monday 29 April 2019 10:25 AM - 1:05 PM 
+
+- Discuss showcase plans with Ume
+- Clean up lab and scene shop
+- Analyze the Rube Goldberg project. 
+	- What improvements would you make if you had time?
+	- What did you learn?
+- Discuss final projects
