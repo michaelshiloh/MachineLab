@@ -1043,6 +1043,10 @@ Some examples:
 
 You may work alone or in a team. Teams must reach a higher standard.
 
+You may use tools in the scene shop, 
+the IM lab (including the laser cutter and 3D printer), 
+or the Advanced Manufacturing Workshop, which we will visit on Wednesday.
+
 #### Monday 29 April 2019 10:25 AM - 1:05 PM 
 
 - Discuss showcase plans with Ume
