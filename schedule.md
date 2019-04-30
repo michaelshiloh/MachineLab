@@ -1023,8 +1023,6 @@ Thursday, April 25th between 3:30pm-7:15pm (Music Class)
 	- Watch video of Rube Goldberg project in Shanghai
 - 4:00 PM - Allow the signal from Shanghai to trigger our machine
 
-### current-homework-assignment
-
 #### Homework due Monday 29 April 2019
 
 Think about a concept for your final project. 
@@ -1055,3 +1053,17 @@ or the Advanced Manufacturing Workshop, which we will visit on Wednesday.
 	- What improvements would you make if you had time?
 	- What did you learn?
 - Discuss final projects
+
+### current-homework-assignment
+
+#### Homework due Wednesday May 1
+
+Upload the following to github, in a new folder called "Final Project":
+- Sketch of your project 
+- List of electro-mechanical parts you need so that I can order more if necessary
+- Top three questions you need me to answer so that you can start working on
+	your projects
+
+#### Wednesday 1 May 2019 11:50 AM - 1:05 PM (tentative)
+
+Visit Advanced Manufacturing Workshop
