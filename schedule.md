@@ -1067,3 +1067,32 @@ Upload the following to github, in a new folder called "Final Project":
 #### Wednesday 1 May 2019 11:50 AM - 1:05 PM (tentative)
 
 Visit Advanced Manufacturing Workshop
+
+What do you think are the 3 most critical things that you need to get 
+done by Monday:
+
+Sara
+
+Leo
+
+Alia
+
+Leah
+
+Cassie
+
+Maher
+
+Pangna
+
+Amy
+
+Steven
+
+Benjamin
+
+Zheki
+
+Omar
+
+
