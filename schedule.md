@@ -1054,8 +1054,6 @@ or the Advanced Manufacturing Workshop, which we will visit on Wednesday.
 	- What did you learn?
 - Discuss final projects
 
-### current-homework-assignment
-
 #### Homework due Wednesday May 1
 
 Upload the following to github, in a new folder called "Final Project":
@@ -1070,6 +1068,10 @@ Visit Advanced Manufacturing Workshop
 
 What do you think are the 3 most critical things that you need to get 
 done by Monday:
+
+### current-homework-assignment
+
+#### Homework due Monday 6 May 2019
 
 Sara
 - Needs
