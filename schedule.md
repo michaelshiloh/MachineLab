@@ -1130,7 +1130,10 @@ Benjamin
 
 Zheki
 - Needs
+	- 4 steppers and 5 servos.
 - Do for Monday
+	- Figure out the gear mechanism 
+	- start making the body
 
 Omar
 - Needs
