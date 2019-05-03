@@ -1072,27 +1072,64 @@ What do you think are the 3 most critical things that you need to get
 done by Monday:
 
 Sara
+- Needs
+- Do for Monday
 
 Leo
+- Needs
+- Do for Monday
 
 Alia
+- Needs
+- Do for Monday
 
 Leah
+- Needs
+	- 3 stepper motors (or DC geared motors but there should be enough DC geared motors)
+	- Dowels
+	- EL wire (or Neopixels)
+- Do for Monday
+  - prototype the drum stick and decide which motor to use 
+  - prepare the Rube Golding machine (remove/add)
 
 Cassie
+- Needs
+	- 5 stepper motors 
+- Do for Monday
+	- figure out effective “bang” against a drum.
 
 Maher
+- Needs
+- Do for Monday
 
 Pangna
+- Needs
+- Do for Monday
 
 Amy
+- Needs
+  - stepper motors and servo motors.
+
+- Do for Monday
+	- get the NFC card working 
+	- prototype how an item is suppose to fall from the vending machine
 
 Steven
+- Needs
+	- 5 stepper motors 
+- Do for Monday
+	manipulate stepper motors' speed to make different sounds.
 
 Benjamin
+- Needs
+- Do for Monday
 
 Zheki
+- Needs
+- Do for Monday
 
 Omar
+- Needs
+- Do for Monday
 
 
