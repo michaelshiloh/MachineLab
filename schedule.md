@@ -1082,6 +1082,10 @@ Leo
 Alia
 - Needs
 - Do for Monday
+	- Order nylon strings ,
+	- Make hand (wood) and servo motors ( get it working ) 
+	- Write basic code.
+	- make harp prototype from cardboard.
 
 Leah
 - Needs
