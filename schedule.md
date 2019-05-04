@@ -1139,6 +1139,12 @@ Zheki
 
 Omar
 - Needs
+	- 1 x Solenoid
+	- 2 x Servos
+	- 2 x Steppers
+	- 1 x Melanine boarding
 - Do for Monday
+	- Get functional paddles
+	- Finish the main part of the board (without attractions yet)
 
 
