@@ -1147,4 +1147,15 @@ Omar
 	- Get functional paddles
 	- Finish the main part of the board (without attractions yet)
 
+#### Monday 6 May 2019 10:25 AM - 1:05 PM 
 
+Project status check
+
+**Lecture: Programming**
+
+- Basic Arduino analog/digital input/output
+- Variables and data types: int, const int, float, long, signed, unsigned, boolean
+- Conditionals: if()
+- Loops: while(), for()
+- print(), println()
+- Avoiding delay(): [Arduino Multi-tasking tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
