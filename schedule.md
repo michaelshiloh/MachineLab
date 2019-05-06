@@ -1076,18 +1076,30 @@ done by Monday:
 Sara
 - Needs
 - Do for Monday
+- wednesday
+  - stepper motor mechanism
 
 Leo
 - Needs
 - Do for Monday
+  - cardboard prototype
+- Do for Wednesday
+  - 3d model, and print some parts
+  - build base, attachment for first servo motor, and whatever fits on top of that with the support wheel
 
 Alia
 - Needs
 - Do for Monday
-	- Order nylon strings ,
+	- Order nylon strings
 	- Make hand (wood) and servo motors ( get it working ) 
 	- Write basic code.
 	- make harp prototype from cardboard.
+- Wednesday
+  - esteban: rubber joints?
+  - get hinges plan b
+  - plan c?
+  - build harp
+  - build circuit for servo motors
 
 Leah
 - Needs
@@ -1097,20 +1109,30 @@ Leah
 - Do for Monday
   - prototype the drum stick and decide which motor to use 
   - prepare the Rube Golding machine (remove/add)
+- wednesday
+  - get solenoid working
+  - experimemt with drum soumd
 
 Cassie
 - Needs
 	- 5 stepper motors 
 - Do for Monday
 	- figure out effective “bang” against a drum.
+- wednesdy
+  - make structure to hold servo motors
 
 Maher
 - Needs
 - Do for Monday
+  - screw mechanism
+- wednesday 
+  - get screw attached to motor
 
 Pangna
 - Needs
 - Do for Monday
+- wednesday
+  - research line following robots
 
 Amy
 - Needs
@@ -1119,16 +1141,28 @@ Amy
 - Do for Monday
 	- get the NFC card working 
 	- prototype how an item is suppose to fall from the vending machine
+  - wednesday
+    - get nfc working
+    - mechanism to vend
+      - talk to scene shop and esteban
 
 Steven
 - Needs
 	- 5 stepper motors 
 - Do for Monday
 	manipulate stepper motors' speed to make different sounds.
+- 
 
-Benjamin
+michael
+- ir rangefinders
+
+Benjamin/Omar
 - Needs
 - Do for Monday
+- wednesday
+  - attractions
+  - feeding mechanism
+  - paddle mechanism
 
 Zheki
 - Needs
@@ -1136,6 +1170,8 @@ Zheki
 - Do for Monday
 	- Figure out the gear mechanism 
 	- start making the body
+  - wednesday
+    - make gears
 
 Omar
 - Needs
