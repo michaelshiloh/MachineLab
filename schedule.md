@@ -1195,3 +1195,11 @@ Project status check
 - Loops: while(), for()
 - print(), println()
 - Avoiding delay(): [Arduino Multi-tasking tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+
+#### Wednesday 8 May 2019 11:50 AM - 1:05 PM
+
+- stepper motors
+  - big ones
+  - regular ones
+- 1 week left: If your basic project is not working yet, you must be brutal
+  about removing features.
