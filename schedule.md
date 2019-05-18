@@ -1069,7 +1069,6 @@ Visit Advanced Manufacturing Workshop
 What do you think are the 3 most critical things that you need to get 
 done by Monday:
 
-### current-homework-assignment
 
 #### Homework due Monday 6 May 2019
 
@@ -1107,6 +1106,7 @@ Cassie
 Maher
 - Needs
 - Do for Monday
+	- prototype the screw mechanism 
 
 Pangna
 - Needs
@@ -1148,3 +1148,23 @@ Omar
 	- Finish the main part of the board (without attractions yet)
 
 
+### current-homework-assignment
+
+### Final project documentation deadline: 11:59 pm Thursday, May 23
+
+Congratulations on a great showcase! I think the show was very well attended
+and your projects seemed to be very active.
+
+The last assignment for this class is to upload documentation of your project
+to your Github repository. Your documentation must include:
+
+- Overall project concept and description
+- Overall picture(s)
+- System diagram of the hardware and software
+- Schematics (if hardware is present)
+- List of important parts (don't include wires, resistors, etc.)
+- Pictures of the electronics
+- Code (with good comments, good variable names, proper indentation, etc.)
+- Explain how your project works and how you built it. 
+- Discuss what problems you ran into and how you resolved them or worked
+	around them
