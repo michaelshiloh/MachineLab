@@ -171,7 +171,7 @@ Using 5V from Arduino to power motor
   - Try to install it if you can but don’t worry if you have trouble.
     We’ll do that in class.
 
-#### Monday 4 February 2019 10:25 AM - 1:05 PM
+#### Monday 11 February 2019 10:25 AM - 1:05 PM
 
 **Demonstrate projects**
 Take pictures and videos and post on your page!
@@ -322,7 +322,7 @@ Take pictures and videos and post on your page!
 - Browse
 	[these](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/LaserCutBoxNotes.pdf) Laser Cut Box notes
 
-#### Monday 4 February 2019 10:25 AM - 1:05 PM
+#### Monday 4 February 2019 10:25 AM - 1:05 PM (surely this was feb18)
 
 - 10:25 - 11:25 Class visit with Zimoun. 
 	Please meet outside the Art Gallery's Reading Room at 10:25
