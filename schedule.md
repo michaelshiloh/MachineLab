@@ -491,7 +491,7 @@ void loop() {
 	any of the motors we have discussed (DC gear motor, stepper motor, servo
 	motor)
 
-#### Wednesday 20 February 2019 11:50 AM - 1:05 PM
+#### Wednesday 27 February 2019 11:50 AM - 1:05 PM
 
 - Inspect projects
 - The digital multimeter
