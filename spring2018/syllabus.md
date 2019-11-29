@@ -13,12 +13,13 @@ This syllabus is subject to change
 
 _
 
-**Credits Hours:** 4  
-**Classroom:** C3-029 (Art Center - Interactive Media lab)  
-**Time:** Monday 9 - 10:15 and Wednesday 9 - 11:40  
+**Course Title:** Machine Lab  
+**Course Number:** IM-UH 1112  
+**Credits Hours:** 4    
+**Classroom:** C3-029 (Art Center - Interactive Media lab)    
+**Time:** Monday 9 - 10:15 and Wednesday 9 - 11:40    
 
-**Recommended Prerequisites:**
-None
+**Recommended Prerequisites:** None  
 
 **This course counts towards the following NYUAD degree requirement:** 
 Minor in Interactive Media
