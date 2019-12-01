@@ -25,14 +25,14 @@ Minor in Interactive Media
 
 Room Access Form [http://goo.gl/forms/Mge02MPoCb](http://goo.gl/forms/Mge02MPoCb)
 
-**Instructor:** Michael Shiloh
-**Email:** mshiloh@nyu.edu
-**Office:** Arts Center Room: C3-163
-**"Office" Hours:** TBD
-**"Office" Hours will be held in the lab!**
-* If you wish to see me privately send me email
-**Availability outside of office hours:**
-* Send me email to set up an appointment
+**Instructor:** Michael Shiloh  
+**Email:** mshiloh@nyu.edu  
+**Office:** Arts Center Room: C3-163  
+**"Office" Hours:** TBD  
+**"Office" Hours will be held in the lab!**  
+* If you wish to see me privately send me email  
+**Availability outside of office hours:**  
+* Send me email to set up an appointment  
 
 ### Course Description
 The saying goes, "If all you have is a hammer, then every problem looks like a
