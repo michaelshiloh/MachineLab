@@ -4,7 +4,6 @@
 # Syllabus
 
 This syllabus is subject to change
-_
 
 ## New York University Abu Dhabi
 ## Interactive Media
