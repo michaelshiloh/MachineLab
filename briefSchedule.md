@@ -24,20 +24,20 @@ Minor in Interactive Media
 **Office: C3-156**  
 **"Office" Hours:** TBD  
 **"Office" Hours will be held in the lab!**  
-* If you wish to see me privately send me email  
+If you wish to see me privately send me email  
 **Availability outside of office hours:**  
-* Send me email to set up an appointment    
+Send me email to set up an appointment    
 
 Week 1 - Arduino, simple machines, cardboard construction techniques  
-	Assignment: Hand crank automata  
+	* Assignment: Hand crank automata  
 Week 2 - Arduino, motor shield, stepper motors  
-	Assignment: Simple stepper motor mechanism  
+	* Assignment: Simple stepper motor mechanism  
 Week 3 - Gears and pulleys  
-	Assignment: Motorized automata  
+	* Assignment: Motorized automata  
 Week 4 - Servo motors, scene shop training  
-	Assignment: Combine servo motor and stepper motor  
+	* Assignment: Combine servo motor and stepper motor  
 Week 5 - Scene shop training  
-	Assignment: Mount for servo motor  
+	* Assignment: Mount for servo motor  
 Week 6 - Inputs and outputs, scene shop training  
 	Assignment: Servo mechanism  
 Week 7 - Multitasking  

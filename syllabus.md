@@ -24,9 +24,8 @@ Minor in Interactive Media
 **Office: C3-156**  
 **"Office" Hours:** TBD  
 **"Office" Hours will be held in the lab!**  
-* If you wish to see me privately send me email  
-**Availability outside of office hours:**  
-* Send me email to set up an appointment    
+If you wish to see me privately send me email  
+**Availability outside of office hours:** Send me email to set up an appointment    
 
 ### Course Description
 The saying goes, "If all you have is a hammer, then every problem looks like a
