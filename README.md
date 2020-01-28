@@ -8,9 +8,7 @@
 
 [Syllabus](syllabus.md)  
 
-Brief [schedule](briefSchedule.md) of weekly topics and projects
-
-Detailed [schedule](detailedSchedule.md) including lecture content and
+Detailed [schedule](scheduleAndAssignments.md) including lecture content and
 assignment details and due dates.
 
 Quick [link](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#current-homework-assignment)

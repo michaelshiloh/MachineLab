@@ -1,19 +1,17 @@
 ## New York University Abu Dhabi
 ## Interactive Media
 # Machine Lab
-### Course Number: IM-UH 2112
+### Course Number: IM-UH 2113
 ### Spring 2020
 
 **Everything can be found on the course website:**
 [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab/)
 
+# Schedule, Lectures, and Assignments
+
 Quick
 [link](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#current-homework-assignment)
 to current homework assignment
-
-This page: Schedule and Assignments
-
-
 
 ### Detailed Schedule
 
