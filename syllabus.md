@@ -206,3 +206,37 @@ creative and technical discussion. The course embraces a process-oriented
 philosophy believing that programming, electronics, and mechatronics
 development are best learned by doing. 
 
+
+### Schedule Overview 
+**Note: This is subject to change**
+**Note: Complete schedule and weekly assignments are
+[here](scheduleAndAssignments.md)**
+
+**Week** 1 - Arduino, simple machines, cardboard construction techniques  
+	* Assignment: Hand crank automata  
+**Week** 2 - Arduino, motor shield, stepper motors  
+	* Assignment: Simple stepper motor mechanism  
+**Week** 3 - Gears and pulleys  
+	* Assignment: Motorized automata  
+**Week** 4 - Servo motors, scene shop training  
+	* Assignment: Combine servo motor and stepper motor  
+**Week** 5 - Scene shop training  
+	* Assignment: Mount for servo motor  
+**Week** 6 - Inputs and outputs, scene shop training  
+	Assignment: Servo mechanism  
+**Week** 7 - Multitasking  
+	Midterm project: Stepper motor, servo motor, inputs and outputs  
+Spring break  
+**Week** 8 - Gear motors and limit switches  
+	Assignment: limit switch mechanism  
+**Week** 9 - Introduction to final project  
+	Assignment: Brainstorm final project concept  
+**Week** 10 - Construction techniques and power supplies  
+	Assignment: Rough prototype of final project concept  
+**Week** 11 - Laser cutter, system integration  
+	Assignment: Final project   
+**Week** 12  - In-class work on final project  
+	Assignment: First pass, system integration  
+**Week** 13  - In-class work on final project  
+	Assignment: System integration   
+**Week** 14 - Final project due    
