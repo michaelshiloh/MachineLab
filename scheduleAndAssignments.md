@@ -7,6 +7,9 @@
 **Everything can be found on the course website:**
 [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab/)
 
+uick [link](https://github.com/michaelshiloh/MachineLab/blob/master/scheduleAndAssignments.md#current-homework-assignment)
+to current homework assignment
+
 # Schedule, Lectures, and Assignments
 
 This schedule is subject to change
