@@ -9,12 +9,6 @@
 
 # Schedule, Lectures, and Assignments
 
-Quick
-[link](https://github.com/michaelshiloh/MachineLab/blob/master/schedule.md#current-homework-assignment)
-to current homework assignment
-
-### Detailed Schedule
-
 This schedule is subject to change
 
 #### Wednesday 29 January 2020 11:50 AM - 1:05 PM
@@ -64,7 +58,7 @@ This schedule is subject to change
 - Let's start making something
 
 
-
+[Current homework assignment](#current-homework-assignment)
 
 #### Homework due Monday February 3 
 - **Read**
@@ -73,9 +67,8 @@ This schedule is subject to change
 		Mechanisms](https://web.archive.org/web/20170727010622/http://www.mechanical-toys.com/mechanisums.htm)
 
 - **Do**
-	- Build a hand crank machine using a crank and any other mechanism (linkage,
-	cam, etc. Your machine must operate smoothly without sticking or falling
-	apart for at least 30 seconds. 
+	- Start your hand crank machine using a crank and any 
+		other mechanism (linkage, cam, etc.). It is fine to copy my example.
 
 - **Optional**
 	- Browse [Mechatronics
@@ -88,9 +81,7 @@ This schedule is subject to change
 - Critique
 
 **Administration**
-- Add Github accounts
 - Label shelves
-- Homework is not optional
 
 **Good lab citizenship**
 - It is super critical to keep tools, parts, and the lab in general neat.
