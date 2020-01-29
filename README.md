@@ -6,7 +6,7 @@
 [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab/)
 
 
-[Syllabus](syllabus.md)  
+[Syllabus](syllabus.md) including schedule overview
 
 Detailed [schedule](scheduleAndAssignments.md) including lecture content and
 assignment details and due dates.
