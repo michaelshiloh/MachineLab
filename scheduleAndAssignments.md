@@ -67,8 +67,10 @@ This schedule is subject to change
 		Mechanisms](https://web.archive.org/web/20170727010622/http://www.mechanical-toys.com/mechanisums.htm)
 
 - **Do**
-	- Start your hand crank machine using a crank and any 
+	- Start building your hand crank machine using a crank and any 
 		other mechanism (linkage, cam, etc.). It is fine to copy my example.
+		You don't need to finish this project by Monday, but I do want you to 
+		find out where you have problems
 
 - **Optional**
 	- Browse [Mechatronics
