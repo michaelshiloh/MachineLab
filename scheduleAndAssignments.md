@@ -20,6 +20,10 @@ This schedule is subject to change
 #### Wednesday 29 January 2020 11:50 AM - 1:05 PM
 - What this class is about (schedule)
 - About me
+	- Artist, maker, engineer, educator
+	- Interests: Metal, microcontrollers , machines (e.g. [srl.org](sr.org) warning: some images may be disturbing)
+	- Robots: Telepresence, personality
+	- Questions: Robotic intentionality, research participation, who learns technology
 - About you
 - Syllabus
 - Summary:
