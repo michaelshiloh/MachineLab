@@ -1,5 +1,5 @@
 here is an image
 
-![](machineLabDrawingMachinesPoster.png)
+![](../machineLabDrawingMachinesPoster.png)
 here is text
 here is more text
