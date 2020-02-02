@@ -79,7 +79,7 @@ This schedule is subject to change
 	- Browse [Mechatronics
  Resources](https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
 
-#### Monday 4 February 2019 10:25 AM - 1:05 PM
+#### Monday 3 February 2019 10:25 AM - 1:05 PM
 
 **Share Projects**
 - What did you learn?
@@ -104,7 +104,7 @@ This schedule is subject to change
 **Administration**
 - Label shelves
 
-**Good lab citizenship**
+**Be excellent to the lab**
 - It is super critical to keep tools, parts, and the lab in general neat.
 - If tools or parts can't be found it's the same as them not existing and it
 	holds everyone up including me
@@ -113,7 +113,7 @@ This schedule is subject to change
 	email.
 - Always (**Always!**) leave the lab cleaner than you found it. Clean up 
 whatever mess you made, and a little more
-- We are going to be making most stuff than any other class, so if there
+- We are going to be making more stuff than any other class, so if there
     is a mess, everyone will know it's us.
 - If I find out that you are being a bad lab citizen, it will affect your
 	grade
