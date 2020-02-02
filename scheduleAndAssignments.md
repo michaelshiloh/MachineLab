@@ -83,7 +83,23 @@ This schedule is subject to change
 
 **Share Projects**
 - What did you learn?
-- Critique
+
+
+**Demonstration**
+- Cardboard construction techniques
+
+**Demonstration**
+- Soldering pins to scrap boards
+	- Nice cone
+	- Not too much, not too little solder
+- Soldering pins to shields
+	- Keep pins straight
+	- Keep solder away from length of pins
+
+**Do Along with Me**
+- Arduino
+- Motor Shield
+- Stepper motor
 
 **Administration**
 - Label shelves
