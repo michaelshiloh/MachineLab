@@ -61,8 +61,6 @@ This schedule is subject to change
 - Let's start making something
 
 
-[Current homework assignment](#current-homework-assignment)
-
 #### Homework due Monday February 3 
 - **Read**
 	- [Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
@@ -95,6 +93,21 @@ This schedule is subject to change
 - Soldering pins to shields
 	- Keep pins straight
 	- Keep solder away from length of pins
+
+[Current homework assignment](#current-homework-assignment)
+#### Homework due Wednesday February 5 
+
+1. Finish your hand crank machine, using the feedback you received in class
+	 today
+1. Download and install the [Arduino
+	 IDE](https://www.arduino.cc/en/Main/Software) (not the web editor)
+1. If you are new to Arduino read the following:
+	1. Arduino basics: Intro through Lesson 3 of Adafruit's Arduino
+		 [tutorial](http://www.ladyada.net/learn/arduino/index.html)
+	1. The first four tutorials from
+		 [here](https://github.com/michaelshiloh/resourcesForClasses#basic-arduino-resources-from-arduino)
+
+#### Wednesday 29 January 2020 11:50 AM - 1:05 PM
 
 **Do Along with Me**
 - Arduino
