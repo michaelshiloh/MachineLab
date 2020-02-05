@@ -7,7 +7,7 @@
 **Everything can be found on the course website:**
 [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab/)
 
-uick [link](https://github.com/michaelshiloh/MachineLab/blob/master/scheduleAndAssignments.md#current-homework-assignment)
+[Link](https://github.com/michaelshiloh/MachineLab/blob/master/scheduleAndAssignments.md#current-homework-assignment)
 to current homework assignment
 
 # Schedule, Lectures, and Assignments
@@ -109,8 +109,28 @@ This schedule is subject to change
 
 #### Wednesday 5 February 2020 11:50 AM - 1:05 PM
 
+Look at projects
+
 **Do Along with Me**
 - Arduino
+
+#### Homework due Monday February 10 
+
+1. If you've never used it before,
+	learn about the Adafruit motor shield by reading the sixth resource
+	[here](https://github.com/michaelshiloh/resourcesForClasses#motors-resources).
+	Don't worry about all the details, just get the general picture.
+1. Create a github account (if you don't have one) and a repository 
+	for this class by following the first resource 
+	[here](https://github.com/michaelshiloh/resourcesForClasses#github-resources).
+	Name the repository "machineLab".
+1. Read this introduction to Machine Art. Choose one of the authors, subjects,
+	 or concepts named in this article on which you will give a short (5 minute) 
+	 presentation at a later date. 
+
+
+
+**Do Along with Me**
 - Motor Shield
 - Stepper motor
 
