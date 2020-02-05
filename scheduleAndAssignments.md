@@ -107,7 +107,7 @@ This schedule is subject to change
 	1. The first four tutorials from
 		 [here](https://github.com/michaelshiloh/resourcesForClasses#basic-arduino-resources-from-arduino)
 
-#### Wednesday 29 January 2020 11:50 AM - 1:05 PM
+#### Wednesday 5 February 2020 11:50 AM - 1:05 PM
 
 **Do Along with Me**
 - Arduino
