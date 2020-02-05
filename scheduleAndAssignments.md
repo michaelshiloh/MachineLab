@@ -124,10 +124,8 @@ Look at projects
 	for this class by following the first resource 
 	[here](https://github.com/michaelshiloh/resourcesForClasses#github-resources).
 	Name the repository "machineLab".
-1. Read this introduction to Machine Art. Choose one of the authors, subjects,
-	 or concepts named in this article on which you will give a short (5 minute) 
-	 presentation at a later date. 
-
+1. Machine Art: TBA
+1. Adobe Creative Suite: TBA
 
 
 **Do Along with Me**
