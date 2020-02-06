@@ -1,0 +1,149 @@
+## New York University Abu Dhabi
+## Interactive Media
+# Machine Lab
+### Course Number: IM-UH 2113
+### Spring 2020
+
+**Everything can be found on the course website:**
+[https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab/)
+
+# Schedule, Lectures, and Assignments
+
+This schedule is subject to change
+
+#### Wednesday 29 January 2020 11:50 AM - 1:05 PM
+- What this class is about (schedule)
+- About me
+	- Artist, maker, engineer, educator
+	- Interests: Metal, microcontrollers , machines (e.g. [srl.org](sr.org) warning: some images may be disturbing)
+	- Robots: Telepresence, personality
+	- Questions: Robotic intentionality, research participation, who learns technology
+- About you
+- Syllabus
+- Summary:
+  -  Be present and participate in class
+  -  No electronic distractions
+  -  Be proactive: Communicate with me regarding difficulties, problems, illness, etc.
+  -  Allow lots of time for homework as physical construction
+  and debugging circuits and programs can be very time consuming.
+- Announcements
+  - Become a lab assistant! The
+		[application](https://app.joinhandshake.com/jobs/3061261/edit?initial_page=4) deadline is Feb 3rd at 11:59 pm.
+	- Room access
+		[form](https://docs.google.com/forms/d/e/1FAIpQLSceQTn7jmNmIAvgEpJQwKjIezsKwuxA6esxtEPW2lNVZHt_dw/viewform)
+- Questions:
+	- Do you prefer all lectures in [one
+		page](https://github.com/michaelshiloh/MachineLab/blob/master/spring2019/schedule.md) or a separate page for each day?
+- Examples
+	- [Whale Automaton](https://imgur.com/gallery/Vq2LU9k)
+	- [Simple Cardboard Machines](https://vimeo.com/130539503)
+	- [Drawing Machine](http://www.shihanzhang.com/drawing-machine/)
+	- [Musical Instrument](https://vimeo.com/189366071)
+	- [Chain Reaction](https://vimeo.com/102887278)
+	- [Marble
+		Machine 1](https://www.pinterest.cl/pin/481251910156036553/visual-search/?x=12&y=12&w=405&h=512)
+	- [Marble Machine 2](https://www.youtube.com/watch?v=09BVLbyWAqQ)
+	- [Marble Machine 3](https://www.youtube.com/watch?v=Bpdb8yQ9cH8&t=28s)
+	- [Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
+	- [Creative Machine Lab at Columbia University](http://www.creativemachineslab.com/)
+	- [Rolling Ball Machine made of Bicycle Junk](https://www.youtube.com/watch?v=Bpdb8yQ9cH8)
+	- George Rhoads' [Ball Machines](http://georgerhoads.com/)
+	- Creative Architecture Machines [here](http://www.creative-architecture-machines.net/) and [here](http://www.future-cities-lab.net/blog/2013/11/3/creative-architecture-machines-cca-fall-2013)
+	- Harvey Moon's [Drawing Machines](https://creators.vice.com/en_au/article/nz4jj7/harvey-moons-drawing-machines)
+	- Jean Tinguely
+	- [Alan Rath](http://alanrath.org/)
+	- John Cage
+	- [Theo Jansen](http://www.strandbeest.com/)
+- Demo
+- Let's start making something
+
+
+#### Homework due Monday February 3 
+- **Read**
+	- [Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
+	- [Basic
+		Mechanisms](https://web.archive.org/web/20170727010622/http://www.mechanical-toys.com/mechanisums.htm)
+
+- **Do**
+	- Start building your hand crank machine using a crank and any 
+		other mechanism (linkage, cam, etc.). It is fine to copy my example.
+		You don't need to finish this project by Monday, but I do want you to 
+		find out where you have problems
+
+- **Optional**
+	- Browse [Mechatronics
+ Resources](https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
+
+#### Monday 3 February 2019 10:25 AM - 1:05 PM
+
+**Share Projects**
+- What did you learn?
+
+
+**Demonstration**
+- Cardboard construction techniques
+
+**Demonstration**
+- Soldering pins to scrap boards
+	- Nice cone
+	- Not too much, not too little solder
+- Soldering pins to shields
+	- Keep pins straight
+	- Keep solder away from length of pins
+
+[Current homework assignment](#current-homework-assignment)
+#### Homework due Wednesday February 5 
+
+1. Finish your hand crank machine, using the feedback you received in class
+	 today
+1. Download and install the [Arduino
+	 IDE](https://www.arduino.cc/en/Main/Software) (not the web editor)
+1. If you are new to Arduino read the following:
+	1. Arduino basics: Intro through Lesson 3 of Adafruit's Arduino
+		 [tutorial](http://www.ladyada.net/learn/arduino/index.html)
+	1. The first four tutorials from
+		 [here](https://github.com/michaelshiloh/resourcesForClasses#basic-arduino-resources-from-arduino)
+
+#### Wednesday 5 February 2020 11:50 AM - 1:05 PM
+
+Look at projects
+
+**Do Along with Me**
+- Arduino
+
+#### Homework due Monday February 10 
+(revised Feb 6)
+
+1. If you've never used it before,
+	learn about the Adafruit motor shield by reading the sixth resource
+	[here](https://github.com/michaelshiloh/resourcesForClasses#motors-resources).
+	Don't worry about all the details, just get the general picture.
+1. Create a github account (if you don't have one) and a repository 
+	for this class by following the first resource 
+	[here](https://github.com/michaelshiloh/resourcesForClasses#github-resources).
+	Name the repository "machineLab".
+1. If you don't have Google Chrome browser on your laptop, install it from
+	 [here](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)
+
+
+**Do Along with Me**
+- Motor Shield
+- Stepper motor
+
+**Administration**
+- Label shelves
+
+**Be excellent to the lab**
+- It is super critical to keep tools, parts, and the lab in general neat.
+- If tools or parts can't be found it's the same as them not existing and it
+	holds everyone up including me
+- If you don't know where something goes ask me or a lab manager or a lab
+	monitor. If no one in the lab knows leave it on your shelf and send me
+	email.
+- Always (**Always!**) leave the lab cleaner than you found it. Clean up 
+whatever mess you made, and a little more
+- We are going to be making more stuff than any other class, so if there
+    is a mess, everyone will know it's us.
+- If I find out that you are being a bad lab citizen, it will affect your
+	grade
+
