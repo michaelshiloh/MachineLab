@@ -210,8 +210,8 @@ development are best learned by doing.
 
 ### Schedule Overview 
 **Note: This is subject to change**
-**Note: Complete schedule and weekly assignments are
-[here](scheduleAndAssignments.md)**
+**Note: Complete schedule, lectures, and weekly assignments are
+[here](scheduleLecturesAndAssignments.md)**
 
 **Week** 1 - Arduino, simple machines, cardboard construction techniques  
 	* Assignment: Hand crank automata  

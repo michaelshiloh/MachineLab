@@ -8,11 +8,7 @@
 
 [Syllabus](syllabus.md) including schedule overview
 
-Detailed [schedule](scheduleAndAssignments.md) including lecture content and
-assignment details and due dates.
-
-[Link](https://github.com/michaelshiloh/MachineLab/blob/master/scheduleAndAssignments.md#current-homework-assignment)
-to current homework assignment
+[Schedule, lectures, and assignments](scheduleLecturesAndAssignments.md) 
 
 Student Github repositories  
 
