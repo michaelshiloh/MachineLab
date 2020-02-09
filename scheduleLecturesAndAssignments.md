@@ -74,7 +74,7 @@ This schedule is subject to change
 	- Browse [Mechatronics
  Resources](https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
 
-#### Monday 3 February 2019 10:25 AM - 1:05 PM
+## Monday 3 February 2019 10:25 AM - 1:05 PM
 
 **Share Projects**
 - What did you learn?
@@ -91,7 +91,6 @@ This schedule is subject to change
 	- Keep pins straight
 	- Keep solder away from length of pins
 
-[Current homework assignment](#current-homework-assignment)
 #### Homework due Wednesday February 5 
 
 1. Finish your hand crank machine, using the feedback you received in class
@@ -104,7 +103,7 @@ This schedule is subject to change
 	1. The first four tutorials from
 		 [here](https://github.com/michaelshiloh/resourcesForClasses#basic-arduino-resources-from-arduino)
 
-#### Wednesday 5 February 2020 11:50 AM - 1:05 PM
+## Wednesday 5 February 2020 11:50 AM - 1:05 PM
 
 Look at projects
 
@@ -127,7 +126,7 @@ Look at projects
 	 [here](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)
 
 
-#### Monday 3 February 2019 10:25 AM - 1:05 PM
+## Monday 3 February 2019 10:25 AM - 1:05 PM
 
 **Administration**
 - Label shelves
@@ -171,7 +170,7 @@ Create a design for the laser cutter:
 
 1. Read [Motors and Selecting the Right
 	 One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
-1. Read this selection from Machine Art In The Twentieth Century
+1. Read [this](images/machineArtInTheTwentiethCentury.pdf) selection from Machine Art In The Twentieth Century
 	1. Chose one of the authors, artists, concepts, or other topics to research
 		 and on which to give a short (5 minute) presentation
 1. Use the laser cutter to cut your design on cardboard
