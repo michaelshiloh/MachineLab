@@ -121,14 +121,13 @@ Look at projects
 1. Create a github account (if you don't have one) and a repository 
 	for this class by following the first resource 
 	[here](https://github.com/michaelshiloh/resourcesForClasses#github-resources).
-	Name the repository "machineLab".
+	1. Name the repository "machineLab".
+	1. Email me a link to your repository
 1. If you don't have Google Chrome browser on your laptop, install it from
 	 [here](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)
 
 
-**Do Along with Me**
-- Motor Shield
-- Stepper motor
+#### Monday 3 February 2019 10:25 AM - 1:05 PM
 
 **Administration**
 - Label shelves
@@ -147,3 +146,32 @@ whatever mess you made, and a little more
 - If I find out that you are being a bad lab citizen, it will affect your
 	grade
 
+
+**Do Along with Me**
+- Motor Shield
+- Stepper motor
+
+**Time Permitting**
+- Circuits
+- Voltage and Current
+- Transistors and Motors
+
+**Creating a design for the laser cutter**
+
+#### Homework due Wednesday February 12
+
+Create a design for the laser cutter:
+1. Stepper motor mounting holes and shaft hole
+1. An 8mm rod at a suitable distance
+	1. See the large and small timing belt
+1. A slot that a 5mm rod can move in
+1. 4 mounting holes
+
+#### Homework due Monday February 17
+
+1. Read [Motors and Selecting the Right
+	 One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
+1. Read this selection from Machine Art In The Twentieth Century
+	1. Chose one of the authors, artists, concepts, or other topics to research
+		 and on which to give a short (5 minute) presentation
+1. Use the laser cutter to cut your design on cardboard

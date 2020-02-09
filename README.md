@@ -10,5 +10,5 @@
 
 [Schedule, lectures, and assignments](scheduleLecturesAndAssignments.md) 
 
-Student Github repositories  
+[Student Github repositories  ](studentGithub.md)
 
