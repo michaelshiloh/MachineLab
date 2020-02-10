@@ -14,3 +14,10 @@
 
 [Yeji](https://github.com/yk1932/machineLab)  
 [Sadeq](https://github.com/sadeqalkh/machineLab)  
+[Tonia](https://github.com/toniathezhang/machineLab)
+[Ivory](https://github.com/hyl392/machineLab)
+[Fatima](https://github.com/FatimaAlmaazmi/machineLab)
+[Carlos](https://github.com/Carlos-A-Paez-G/MachineLab)
+[Max](https://github.com/neonovi/MachineLab)
+[Vince](https://github.com/vtn238/machineLab)
+[Alyazia](https://github.com/alyaziakr/MachineLab)
