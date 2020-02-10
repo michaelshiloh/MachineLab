@@ -186,4 +186,4 @@ following:
 1. Read [this](images/machineArtInTheTwentiethCentury.pdf) selection from Machine Art In The Twentieth Century
 	1. Chose one of the authors, artists, concepts, or other topics to research
 		 and on which to give a short (5 minute) presentation
-1. Use the laser cutter to cut your design on cardboard
+1. Possible laser cutter homework, depending on how far we get on Wednesday
