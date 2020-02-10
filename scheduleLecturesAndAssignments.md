@@ -159,12 +159,25 @@ whatever mess you made, and a little more
 
 #### Homework due Wednesday February 12
 
-Create a design for the laser cutter:
-1. Stepper motor mounting holes and shaft hole
-1. An 8mm rod at a suitable distance
-	1. See the large and small timing belt
-1. A slot that a 5mm rod can move in
-1. 4 mounting holes
+Do your best to create the design I sketched on the board for the laser cutter.
+The purpose of this assignment is not necessarily to finish the design
+perfectly, but to get practice using Illustrator. You will need holes for the
+following:
+
+1. Stepper motor mounting holes and shaft hole. 
+	1. The stepper motor details are
+	 [here](https://cdn-shop.adafruit.com/product-files/324/C140-A+datasheet.jpg)
+	1. You will need 5 holes: 4 for the mounting screws, and one for the shaft
+		 in the middle.
+1. An 8mm rod at a suitable distance. 
+	1. Use the gears and timing belt I showed you in class, and estimate
+		what a suitable distance would be. Remember that you want the belt to be
+		loose, so that the idler pulley has something to do. It doesn't matter
+		which gears and belt you use; again, this is just to learn the process.
+1. A slot that a 5mm rod can move in. This is for the idler pulley, and it
+	 needs a slot so that it can move towards the belt
+1. 4 mounting holes in the corners to attach your structure to something. Not
+	 critical.
 
 #### Homework due Monday February 17
 
