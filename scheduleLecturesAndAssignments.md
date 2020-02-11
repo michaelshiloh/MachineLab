@@ -176,8 +176,10 @@ following:
 		which gears and belt you use; again, this is just to learn the process.
 1. A slot that a 5mm rod can move in. This is for the idler pulley, and it
 	 needs a slot so that it can move towards the belt
-1. 4 mounting holes in the corners to attach your structure to something. Not
-	 critical.
+1. 4 mounting holes in the corners to attach your structure to something.
+	 Placement is not critical.
+
+![](images/stepperMotorMechanism.jpg)
 
 #### Homework due Monday February 17
 
