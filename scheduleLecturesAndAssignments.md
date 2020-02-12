@@ -188,4 +188,17 @@ following:
 1. Read [this](images/machineArtInTheTwentiethCentury.pdf) selection from Machine Art In The Twentieth Century
 	1. Chose one of the authors, artists, concepts, or other topics to research
 		 and on which to give a short (5 minute) presentation
-1. Possible laser cutter homework, depending on how far we get on Wednesday
+1. Finish your design for the laser cut project. 
+	- Remember to enlarge the hole in the middle of the stepper motor to allow
+		for the wide shoulder of the motor. It should be about 23mm in diameter.
+	- Remember that now we have both a front and a back
+	- Book an appointment on the laser cutter
+	- You will first cut your project from cardboard. Make sure all the parts
+		fit, and then cut it out of acrylic.
+		- Stepper motor
+		- 8mm shaft
+		- 5mm shaft
+		- hole for rubber band
+		- 4 holes in the corners for the long bolts
+	- If you want to fit everything together, I left the long bolts in our
+		special rolling cart, in the bin with the USB cables.
