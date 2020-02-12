@@ -187,7 +187,8 @@ following:
 	 One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
 1. Read [this](images/machineArtInTheTwentiethCentury.pdf) selection from Machine Art In The Twentieth Century
 	1. Chose one of the authors, artists, concepts, or other topics to research
-		 and on which to give a short (5 minute) presentation
+		 and on which to give a short (5 minute) presentation. We will chose dates
+		 later.
 1. Finish your design for the laser cut project. 
 	- Remember to enlarge the hole in the middle of the stepper motor to allow
 		for the wide shoulder of the motor. It should be about 23mm in diameter.
