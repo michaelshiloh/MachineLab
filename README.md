@@ -12,3 +12,5 @@
 
 [Student Github repositories  ](studentGithub.md)
 
+[Student presentations](studentPresentations.md)
+
