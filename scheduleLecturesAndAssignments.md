@@ -74,7 +74,7 @@ This schedule is subject to change
 	- Browse [Mechatronics
  Resources](https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
 
-## Monday 3 February 2019 10:25 AM - 1:05 PM
+## Monday 3 February 2020 10:25 AM - 1:05 PM
 
 **Share Projects**
 - What did you learn?
@@ -126,7 +126,7 @@ Look at projects
 	 [here](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)
 
 
-## Monday 3 February 2019 10:25 AM - 1:05 PM
+## Monday 3 February 2020 10:25 AM - 1:05 PM
 
 **Administration**
 - Label shelves
@@ -203,3 +203,15 @@ following:
 		- 4 holes in the corners for the long bolts
 	- If you want to fit everything together, I left the long bolts in our
 		special rolling cart, in the bin with the USB cables.
+
+## Monday 17 February 2020 10:25 AM - 1:05 PM
+
+- Dates for presentations
+- Look at homework
+- Servo motors
+- Inputs and Outputs
+- Multitasking
+
+#### Homework due Wednesday February 19
+
+- Read
