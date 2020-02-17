@@ -208,10 +208,39 @@ following:
 
 - Dates for presentations
 - Look at homework
+	- How would we mount this on a wooden base?
+		- Acrylic drill bits
 - Servo motors
-- Inputs and Outputs
+	- How would we mount these?
+		- Tiny screws
+		- Wood?
+		- Acrylic?
+		- Aluminium?
+- Controlling servo motors
+- Inputs and outputs, digital and analog
 - Multitasking
+- Using a switch to start a sequence
 
-#### Homework due Wednesday February 19
+#### Homework due Wednesday February 19 (tentative)
 
-- Read
+- Reading assignment 
+	- Selections from Making Things Move
+	- Selections from Getting Started with Arduino
+	- I2C
+
+#### Homework due Monday February 24 (tentative)
+
+- Production assignment
+	- Build something to hold the servo motor
+	- Mount your stepper motor mechanism and your servo
+	motor structure to a piece of wood. Make sure the wood is large enough
+	to hold both structures, your arduino, and your breadboard.
+	- Use hot glue to attach your breadboard and Arduino to the thing you've
+		built
+	- Build a circuit with a momentary switch (pushbutton), your motor shield,
+		an LED, and your servo motor
+	- Write a program that does nothing until the momentary switch is pressed.
+	When the switch is pressed, animate the two motors and control the LED in
+	some interesting non-repeating patter. The pattern must last at least 1
+	minute. Be creative, and try to use your pattern to cause wonder and
+	amazement.
