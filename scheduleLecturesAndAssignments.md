@@ -207,6 +207,19 @@ following:
 ## Monday 17 February 2020 10:25 AM - 1:05 PM
 
 - Dates for presentations
+- Work on mechanism
+
+#### Homework due Wednesday February 19 
+1. Modify your design for the laser cut acrylic pieces so that the belt 
+can be properly tentioned. Remember what I suggested in class, of making
+a number of holes so that you can adjust the distance to the 8mm rod.
+1. Book an appointment with the laser cutter (do this now, before 
+the appointments are taken) and cut your new pieces of acrylic
+1. Assemble your mechanism and test that the motor can turn the 8mm shaft
+	 reliably
+
+## Wednesday 19 February 2020 11:50 AM - 1:05 PM
+
 - Look at homework
 	- How would we mount this on a wooden base?
 		- Acrylic drill bits
@@ -220,15 +233,6 @@ following:
 - Inputs and outputs, digital and analog
 - Multitasking
 - Using a switch to start a sequence
-
-#### Homework due Wednesday February 19 
-1. Modify your design for the laser cut acrylic pieces so that the belt 
-can be properly tentioned. Remember what I suggested in class, of making
-a number of holes so that you can adjust the distance to the 8mm rod.
-1. Book an appointment with the laser cutter (do this now, before 
-the appointments are taken) and cut your new pieces of acrylic
-1. Assemble your mechanism and test that the motor can turn the 8mm shaft
-	 reliably
 
 #### Homework due Monday February 24
 
