@@ -236,7 +236,7 @@ the appointments are taken) and cut your new pieces of acrylic
 
 #### Homework due Monday February 24
 
-1. Read, and try to understand, Multi-tasking the Arduino, Part
+1. Read, and try to understand, [Multi-tasking the Arduino, Part
 	 1](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
 1. The code for the stepper motor, switch, and potentiometer is
 	 [here](src/stepperMotorPotAndSwitch/stepperMotorPotAndSwitch.ino)
