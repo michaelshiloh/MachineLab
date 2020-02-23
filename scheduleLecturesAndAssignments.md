@@ -242,3 +242,12 @@ the appointments are taken) and cut your new pieces of acrylic
 	 [here](src/stepperMotorPotAndSwitch/stepperMotorPotAndSwitch.ino)
 1. Remember to dress for the Scene Shop training: closed toes shoes, long
 	 pants, no loose sleeves, tie back long hair
+
+## Monday 24 February 2020 10:25 AM - 1:05 PM
+
+1. 10:25 - 11:15am: Try to understand, [Multi-tasking the Arduino, Part
+	 1](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+
+1. 11:15am - 11:30: Break
+
+1. 11:30-1pm Scene shop training
