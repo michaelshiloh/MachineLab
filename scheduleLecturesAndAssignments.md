@@ -276,16 +276,18 @@ drawn. Don't make this too complex, and don't worry about making this too
 detailed as it will probably change.
 We will work on this together next week in the Scene Shop.
 
-1.1. Make a new folder in your Github repository called "midterm"  
+	1. Make a new folder in your Github repository called "midterm"  
 
-1.1. In the new folder "midterm" create a file called "readme.md"
+	1. In the new folder "midterm" create a file called "readme.md"
 
-1.1. Upload a picture of your sketch to the same folder
+	1. Upload a picture of your sketch to the same folder
 
-1.1. In the file "readme.md" include the picture
+	1. In the file "readme.md" include the picture
 
-1.1. If you need some help with github, look
-[here](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
+	1. If you need some help with github, look
+	[here](https://github.com/michaelshiloh/resourcesForClasses#github-resources).
+	You can also look at this file (click the "raw" button) 
+	to see how I've included images
 
 1. Remember that on Wednesdays we will have our student presentations. This
 	 week Tonia will present on Russian Constructivism
