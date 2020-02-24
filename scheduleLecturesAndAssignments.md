@@ -260,11 +260,11 @@ the appointments are taken) and cut your new pieces of acrylic
 	 [this](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/howToDesignAndMakeSimpleAutomata_RobertAdams.pdf)
 	 (I think they are two versions of the same book. If you prefer video
 	 tutorials there are many online, Google for something like "linkages
-	 tutorials" (If you find any good ones let me know)
+	 tutorials" (If you find any good ones let me know.)
 
 1. Read and try to understand
 	 [toneMelodyAndBlinkWithoutDelay](https://github.com/michaelshiloh/toneMelodyAndBlinkWithoutDelay/blob/master/toneMelodyAndBlinkWithoutDelay.ino). 
-	 There are some new concepts here: the note() command and the concept of an
+	 There are some new concepts here: the tone() command and the concept of an
 	 array. If these are new to you please Google "Arduino Tone" and Arduino
 	 Array" and read about these. I will go over this in class, but do your best
 	 to prepare.  (Note that this example does not use a class; that would be
@@ -275,12 +275,17 @@ that uses the stepper motor, servo motor, and linkages. This can be hand
 drawn. Don't make this too complex, and don't worry about making this too
 detailed as it will probably change.
 We will work on this together next week in the Scene Shop.
-1.1. Make a new folder in your Github repository called "midterm"
+
+1.1. Make a new folder in your Github repository called "midterm"  
+
 1.1. In the new folder "midterm" create a file called "readme.md"
+
 1.1. Upload a picture of your sketch to the same folder
+
 1.1. In the file "readme.md" include the picture
+
 1.1. If you need some help with github, look
 [here](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
 
 1. Remember that on Wednesdays we will have our student presentations. This
-	 week Tonia will present "Russian Constructivism"
+	 week Tonia will present on Russian Constructivism
