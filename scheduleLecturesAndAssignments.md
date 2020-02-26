@@ -291,3 +291,19 @@ We will work on this together next week in the Scene Shop.
 
 1. Remember that on Wednesdays we will have our student presentations. This
 	 week Tonia will present on Russian Constructivism
+
+## Wednesday 26 February 2020 11:50 AM - 1:05 PM
+
+**Presentations**
+
+Tonia: Russian Constructivism
+
+**Projects**
+
+Review sketches for projects
+
+**Lecture**
+
+1. Limit switches
+
+
