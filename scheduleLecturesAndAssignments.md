@@ -302,8 +302,26 @@ Tonia: Russian Constructivism
 
 Review sketches for projects
 
+#### Homework due Monday March 2
+
+1. Improve your design
+
+	1. Take into account whatever feedback I gave you. Many of you have to
+		 simplify your designs.
+
+	1. Add more details. Think about how things will be held in place and 
+		what supports you need. Remember what you learned while working on
+		your cardboard automata. Consider constraints and alignment.
+
+1. Browse chapters 1, 3, 7, and 8 of [Making Things
+	 Move](doc/making_things_move.pdf)
+
+1. Read about [limit switches](https://en.wikipedia.org/wiki/Limit_switch)
+
+1. Dress appropriately for the Scene Shop 
+
 **Lecture**
 
-1. Limit switches
+## Monday 2 March 2020 10:25 AM - 1:05 PM
 
-
+Build along with me
