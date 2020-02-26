@@ -313,8 +313,15 @@ Review sketches for projects
 		what supports you need. Remember what you learned while working on
 		your cardboard automata. Consider constraints and alignment.
 
+	1. Add dimensions
+
+	1. Your design will probably still change, but you should be ready to start 
+		cutting and drilling on Monday
+
+	1. Upload your revised plan to your Github page
+
 1. Browse chapters 1, 3, 7, and 8 of [Making Things
-	 Move](doc/making_things_move.pdf)
+	 Move](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/making_things_move.pdf)
 
 1. Read about [limit switches](https://en.wikipedia.org/wiki/Limit_switch)
 
