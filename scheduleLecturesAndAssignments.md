@@ -331,4 +331,6 @@ Review sketches for projects
 
 ## Monday 2 March 2020 10:25 AM - 1:05 PM
 
-Build along with me
+1. Field trip
+1. Planning
+1. Build along with me in Scene Shop
