@@ -327,10 +327,56 @@ Review sketches for projects
 
 1. Dress appropriately for the Scene Shop 
 
-**Lecture**
 
 ## Monday 2 March 2020 10:25 AM - 1:05 PM
 
-1. Field trip
-1. Planning
-1. Build along with me in Scene Shop
+1. Construction techniques
+1. Scene Shop: Working with wood
+
+#### Homework due Monday March 16
+
+Complete your midterm project and documentation:
+
+1. Mechanical contraption that uses the stepper motor, 
+servo motor, and linkages. 
+
+	1. Don't make this too complex.
+
+	1. Mechanisms, Arduino, breadboard, and any power supplies must be
+	firmly mounted on some sort of platform (cardboard and hot glue is OK, 
+	wood is better)
+
+	1. Wires well organized and routed
+
+	1. Any wires that go off the platform must be firmly attached to 
+	platform
+
+1. Description of project in README.md in the midterm folder including:
+
+	1. Concept description
+
+	1. Concept sketch
+
+	1. Photographs
+
+		1. Overall project
+
+		1. Close up of mechanisms
+
+	1. Schematic, which can be hand drawn
+	
+	1. Arduino program, including
+
+		1. Good comments
+
+		1. Good variable names
+
+		1. Properly indented using <CMD>t
+
+## Wednesday 4 March 2020 11:50 AM - 1:05 PM
+
+Student presentation: 
+
+Sadeq: Francis Picabia 
+
+
