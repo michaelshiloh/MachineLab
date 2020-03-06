@@ -402,6 +402,9 @@ mechanisms.
 This will allow us to develop concepts, and will prepare us for the final
 project.
 
+I will assign you to read/watch some Lynda tutorials to prepare you for
+working with Fusion 360.
+
 Since we are moving entirely online, you do no need to
 take any of your equipment to your room. However, I do want you to thoroughly 
 document
@@ -410,9 +413,9 @@ of your work so far. If it is not yet assembled, take pictures of whatever
 parts you have prepared. Organize them as closely as possible to how you
 planned to assemble them.
 
-As you've read, tomorrow (Saturday March 7) is the last day you will have
+**As you've read, tomorrow (Saturday March 7) is the last day you will have
 access to the IM lab. It is thus important that you take these pictures
-immediately.
+immediately.**
 
 I will write further regarding how I want you to document your project and
 when this documentation is due. For now, just take lots of pictures.
