@@ -379,4 +379,40 @@ Student presentation:
 
 Sadeq: Francis Picabia 
 
+Presentation by Tobias
 
+## Friday 6 March
+
+**Plan moving forward**
+
+As you all realize the health situation is going to affect the way this course
+is delivered. I hope that after the 4 weeks are up we can return to the lab
+and the scene shop and do more building.
+
+Meanwhile, we will continue to develop our projects as much as we can
+virtually. I plan to deliver further training using online methods, probably
+Zoom, which is integrated in NYU Classes.
+
+To continue designing and testing mechanical contraptions, we will utilize
+[Fusion
+360](https://www.autodesk.com/products/fusion-360/students-teachers-educators).
+Much more than Illustrator, Fusion 360 allows you to model components of
+mechanisms and then to animate them, in other words to simulate actual
+mechanisms.
+This will allow us to develop concepts, and will prepare us for the final
+project.
+
+Since we are moving entirely online, you do no need to
+take any of your equipment to your room. However, I do want you to thoroughly 
+document
+the current state of your mechanism by taking careful pictures of all aspects
+of your work so far. If it is not yet assembled, take pictures of whatever
+parts you have prepared. Organize them as closely as possible to how you
+planned to assemble them.
+
+As you've read, tomorrow (Saturday March 7) is the last day you will have
+access to the IM lab. It is thus important that you take these pictures
+immediately.
+
+I will write further regarding how I want you to document your project and
+when this documentation is due. For now, just take lots of pictures.
