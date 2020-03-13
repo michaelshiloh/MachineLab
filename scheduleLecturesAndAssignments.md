@@ -419,3 +419,27 @@ immediately.**
 
 I will write further regarding how I want you to document your project and
 when this documentation is due. For now, just take lots of pictures.
+
+#### Revised Homework due Monday March 16
+
+**Do and Watch**
+
+We will be learning how to use Fusion 360 to create our designs.
+Fusion 360 is a powerful Computer Aided Design (CAD) system
+which is free for educational uses.
+
+1. Download and install Fusion 360 from
+	 [here](https://www.autodesk.com/products/fusion-360/students-teachers-educators#).
+	 1.1. You will be required to make an account. 
+	 When asked for name of educational
+	 institution chose New York University, New York.
+
+	 1.1. After logging in, you will be given access to Fusion 360, 
+	 which you can then download and install.
+
+1. Watch the following sections from 
+[Fusion 360 Essential
+Training](https://www.linkedin.com/learning/fusion-360-essential-training-2/use-fusion-360-to-turn-your-ideas-into-designs)
+	1.1. Optional: Section 1: Introduction to Fusion 360
+	1.1. All videos in section 2: Creating Basic Shapes
+	1.1. All videos in section 3: Planning Your Design
