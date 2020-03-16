@@ -448,6 +448,14 @@ Training](https://www.linkedin.com/learning/fusion-360-essential-training-2/use-
 
 	1.1. All videos in section 3: Planning Your Design
 
+
+#### Monday March 16
+
+A recording of our class discussion today can be found i  
+1. Visit our course in classes.nyu.edu  
+1. Click on Zoom from the options on the left  
+1. Select the Cloud Recordings tab  
+
 #### Homework due Wednesday March 18
 
 1. Do your best to create the design we made with Illustrator (diagram above).
