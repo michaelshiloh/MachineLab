@@ -447,3 +447,28 @@ Training](https://www.linkedin.com/learning/fusion-360-essential-training-2/use-
 	1.1. All videos in section 2: Creating Basic Shapes
 
 	1.1. All videos in section 3: Planning Your Design
+
+#### Homework due Wednesday March 18
+
+1. Do your best to create the design we made with Illustrator (diagram above).
+The purpose of this assignment is not necessarily to finish the design
+perfectly, but to get practice using Fusion 360. 
+Remember to use parameters for all dimensions.
+You will need holes for the following:
+	1. Stepper motor mounting holes and shaft hole. 
+		1. The stepper motor details are
+		 [here](https://cdn-shop.adafruit.com/product-files/324/C140-A+datasheet.jpg)
+		1. You will need 5 holes: 4 for the mounting screws, and one for the shaft
+			 in the middle.
+	1. An 8mm rod at a suitable distance. 
+		1. Use the gears and timing belt I showed you in class, and estimate
+			what a suitable distance would be. Remember that you want the belt to be
+			loose, so that the idler pulley has something to do. It doesn't matter
+		which gears and belt you use; again, this is just to learn the process.
+	1. 4 mounting holes in the corners to attach your structure to something.
+		 Placement is not critical.
+1. Browser the [McMaster-Carr]() website a little 
+	1. See if you can find the timing gears that we used. 
+	1. See if you can attach a gear to the motor shaft.
+1. Document as best you can the work you did for the midterm project (due
+	 Monday March 30)
