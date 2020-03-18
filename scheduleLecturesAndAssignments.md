@@ -480,3 +480,25 @@ You will need holes for the following:
 	1. See if you can attach a gear to the motor shaft.
 1. Document as best you can the work you did for the midterm project (due
 	 Monday March 30)
+
+#### Wednesday March 18
+
+Continue working on your design, practice using Fusion 360. Here are the
+parameters I used, you don't have to do the same:
+
+![](images/stepperMotorAssyParams.png)
+
+#### Homework due Monday March 30 (tentative, partial)
+
+Some of you made excellent progress, others less so. Some of you appear
+to have not put in much time. Learning CAD takes time, and the 
+only way to get good at it is to put in the time. 
+
+1. Finish your design. Add the following:
+	1. Four bolts to hold the two halves together (MCM # 91280A396)
+	1. Nuts (MCM # 90591A151) as needed, joined to the proper surfaces
+	1. Pulley for motor (MCM # 3684N11)
+		1. I couldn't find a bigger pulley for the 8MM shaft, so not needed
+	1. 8mm shaft. Design your own since the only one MCM carries 
+		(# 1265K68) is almost a meter long!
+1. Watch the following tutorials: (TBA)
