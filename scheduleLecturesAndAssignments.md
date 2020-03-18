@@ -449,7 +449,7 @@ Training](https://www.linkedin.com/learning/fusion-360-essential-training-2/use-
 	1.1. All videos in section 3: Planning Your Design
 
 
-#### Monday March 16
+#### Monday March 16 (10:25 - 1:05)
 
 A recording of our class discussion today can be found i  
 1. Visit our course in classes.nyu.edu  
@@ -481,7 +481,7 @@ You will need holes for the following:
 1. Document as best you can the work you did for the midterm project (due
 	 Monday March 30)
 
-#### Wednesday March 18
+#### Wednesday March 18 (11:50 - 1:05)
 
 Continue working on your design, practice using Fusion 360. Here are the
 parameters I used, you don't have to do the same:
