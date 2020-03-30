@@ -488,7 +488,7 @@ parameters I used, you don't have to do the same:
 
 ![](images/stepperMotorAssyParams.png)
 
-#### Homework due Monday March 30 (tentative, partial)
+#### Homework due Monday March 30 
 
 Some of you made excellent progress, others less so. Some of you appear
 to have not put in much time. Learning CAD takes time, and the 
@@ -510,3 +510,30 @@ only way to get good at it is to put in the time.
 	1. Upload images
 	1. Create a README.md file, in which you describe your project and include
 		 the pictures
+
+#### Monday March 30 (10:25 - 1:05)
+
+**Mental health checkin**
+
+**Let's see your designs**
+
+**What can we design in Fusion 360 that can be fabricated?**
+
+Fabrication tools that we have access to
+
+1. 2D cutting tools
+	1. Laser cutter
+	1. [Water jet cutter](https://www.youtube.com/watch?v=sIEqXbXxpfg)
+	1. [Wire EDM cutter](https://www.youtube.com/watch?v=B5ImnweEuSM)
+1. 2 1/2D cutting tools
+	1. CNC router (often mistakenly abbreviated "CNC")
+1. 3D additive tools
+	1. 3D printer
+		1. Plastic
+			1. Metal
+	1. 3D subtractive tools
+		1. 4, 5, and 6 axis CNC mill
+
+**Final project**
+
+Concept
