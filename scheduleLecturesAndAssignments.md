@@ -522,18 +522,51 @@ only way to get good at it is to put in the time.
 Fabrication tools that we have access to
 
 1. 2D cutting tools
-	1. Laser cutter
-	1. [Water jet cutter](https://www.youtube.com/watch?v=sIEqXbXxpfg)
-	1. [Wire EDM cutter](https://www.youtube.com/watch?v=B5ImnweEuSM)
-1. 2 1/2D cutting tools
-	1. CNC router (often mistakenly abbreviated "CNC")
+	1. Laser cutter (plastic, cardboard, some wood)
+	1. [Water jet cutter](https://www.youtube.com/watch?v=sIEqXbXxpfg) (anything that can be submerged in water)
+	1. [Wire EDM cutter](https://www.youtube.com/watch?v=B5ImnweEuSM) (anything conductive)
+	
 1. 3D additive tools
 	1. 3D printer
-		1. Plastic
-			1. Metal
-	1. 3D subtractive tools
-		1. 4, 5, and 6 axis CNC mill
+		1. [Plastic](https://www.youtube.com/watch?v=82ZZVIl72yE+2:55)
+		1. [Metal](https://www.youtube.com/watch?v=te9OaSZ0kf8+1:15)
+		
+1. 3D subtractive tools
+	1. [Manual lathe](https://www.youtube.com/watch?v=Vm5Chb_2JxA+2:02) (plastic, metal)
+	1. [Manual mill](https://www.youtube.com/watch?v=5ZkP5RW41rg+17:28) (plastic, metal)
+	1. 3 axis [CNC router](https://www.youtube.com/watch?v=KyAsqOvmTGE) (wood, plastic, soft metal) (often mistakenly abbreviated "CNC")
+	1. 5 axis [CNC mill](https://www.youtube.com/watch?v=vMY06dzf7UA) (hard metals)
+
+What happens if you go too fast or too deep? For fun, here are some [CNC Crashes, Breaking Tools, & Outtakes](https://www.youtube.com/watch?v=j0ME__3RwWQ)
 
 **Final project**
 
+Inspiration
+
+1. [Munich town hall clock](https://www.youtube.com/watch?v=fgbFr9-fYJc]
+1. [Goslar's Marktplatz Animated Clock](https://www.youtube.com/watch?v=ijAjS8K-NVU)
+1. [Swiss Music Clock or Swiss glockenspiel in Leicester Square](https://www.youtube.com/watch?v=x0denYIr-QU)
+1. [Messina Bell Tower](https://www.youtube.com/watch?v=rqP_8F4ujr4)
+1. The [Peacock Clock](https://www.youtube.com/watch?v=ilPlVRoUl_8)
+1. [Automaton Clock in the Form of Diana on Her Chariot](https://www.youtube.com/watch?v=u6ro4zscyE0)
+1. Tim Hunkin's [clock at the London Zoo](https://www.youtube.com/watch?v=-i7kvH-zFkQ)
+1. Tim Hunkin's [clock at the Exploratorium in San Francisco](https://www.youtube.com/watch?v=AUKN-0fSiNo)
+
 Concept
+
+1. Overall theme
+1. Electronic timekeeping
+1. Display time (mechanical)
+1. Animations at regular intervals
+	1. 15, 30, 60? or why be normal?
+	
+Discussion
+
+1. Dimensions
+	
+**Homework**
+
+1. Suggest 3 possible themese
+1. Very rough sketch of your mechanism that will be part of the clock
+
+
