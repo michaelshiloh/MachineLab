@@ -517,6 +517,8 @@ only way to get good at it is to put in the time.
 
 **Let's see your designs**
 
+**Joints**
+
 **What can we design in Fusion 360 that can be fabricated?**
 
 Fabrication tools that we have access to
