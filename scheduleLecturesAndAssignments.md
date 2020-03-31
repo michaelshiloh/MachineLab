@@ -566,8 +566,10 @@ Discussion
 
 1. Dimensions
 	
-**Homework**
+#### Homework due Wednesday April 1
 
+1. Follow along with the three joint videos and make those joints (due Monday
+	 April 6)
 1. Watch the inspiration videos above. Pay attention to the mechanisms and the
 	 movements.
 1. Suggest 3 possible themes
