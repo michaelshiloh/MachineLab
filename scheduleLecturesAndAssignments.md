@@ -568,7 +568,9 @@ Discussion
 	
 **Homework**
 
-1. Suggest 3 possible themese
-1. Very rough sketch of your mechanism that will be part of the clock
+1. Watch the inspiration videos above. Pay attention to the mechanisms and the
+	 movements.
+1. Suggest 3 possible themes
+1. Hand draw a very rough sketch of your mechanism that will be part of the clock. Upload to github, in a new folder called "finalProject"
 
 
