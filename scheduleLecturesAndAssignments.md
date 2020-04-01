@@ -575,4 +575,54 @@ Discussion
 1. Suggest 3 possible themes
 1. Hand draw a very rough sketch of your mechanism that will be part of the clock. Upload to github, in a new folder called "finalProject"
 
+#### Homework due Wednesday April 1
 
+#### Wednesday April 1 (11:50 - 1:05)
+
+**Final Projec**
+
+* We will make a clock
+* Michael will make the timekeeping part and the frame
+* Each one of you will make a mechanism that reflects something you are
+	excited about or is representative of you. This could be a hobby or
+	something that you enjoy doing. 
+* Be creative. Inspiration can come from the cardboard project that we did at
+	the beginning of class, the clocks that I linked above, or anything else.
+	Please share interesting resources.
+* The size is flexible, but keep in mind the limitations of the motors 
+that we have.
+* The frame will be out of metal and reasonably strong
+* You mechanism must have a metal base which will be bolted to the frame
+* Your mechanism should include your Arduino which will control the behavior
+	of your mechanism
+* Your mechanism should have different levels of activity e.g. a low level
+	which might be activated on the quarter hour, a medium level on the half
+	hour, and a high level which will be activated on the hour. You can have as
+	many levels as you want, and you can choose when you want them activated
+	(will will discuss this further). 
+* The main clock will send you signals for the different times that you want
+	to be activated
+* Leave room on your base for your power supplies, e.g. one for your Arduino
+	and one for your motor (and possibly a third if you have a motor with a
+	different voltage e.g. servo motor).
+
+The goal is to get all parts designed and fabricated this semester, and then
+next fall we will assemble the clock
+
+#### Homework due Monday April 6
+
+* Preliminary sketch of your mechanism
+* Think about the following in as much detail as you can:
+	* The base and how things will be attached to it
+	* What motors you need
+	* How will your parts will be fabricated
+	* What materials your parts will be made from. (aluminum, steel, acrylic)
+	* The different levels of activity 
+* If you need parts that we don't have, use parts from McMaster Carr. We can
+	order those easily and you get the CAD model.
+
+
+Next week:
+
+* limit switches 
+* big motors
