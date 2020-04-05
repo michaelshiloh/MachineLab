@@ -620,7 +620,7 @@ next fall we will assemble the clock
 	* The different levels of activity 
 * If you need parts that we don't have, use parts from McMaster Carr. We can
 	order those easily and you get the CAD model.
-1. Follow along with the three joint videos and make those joints 
+* Follow along with the three joint videos and make those joints 
 
 
 Next week:
