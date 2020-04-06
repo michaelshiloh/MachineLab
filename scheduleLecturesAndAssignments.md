@@ -623,7 +623,10 @@ next fall we will assemble the clock
 * Follow along with the three joint videos and make those joints 
 
 
-Next week:
+#### Monday April 7 (10:25 - 1:05)
 
-* limit switches 
-* big motors
+* Limit switches 
+* Big motors
+* Any questions or problems with joints?
+* Take a look at your proposed mechanisms
+* In-class work time: start constructing your mechanism
