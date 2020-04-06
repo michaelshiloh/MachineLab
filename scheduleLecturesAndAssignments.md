@@ -626,7 +626,8 @@ next fall we will assemble the clock
 #### Monday April 7 (10:25 - 1:05)
 
 * Limit switches 
-* Big motors
+* [Big
+	motors](https://www.amazon.com/uxcell-Reversible-Turbine-Electric-Gearbox/dp/B071KSMKYN/)
 * Any questions or problems with joints?
 * Take a look at your proposed mechanisms
 * In-class work time: start constructing your mechanism
