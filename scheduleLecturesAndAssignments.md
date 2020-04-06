@@ -631,3 +631,6 @@ next fall we will assemble the clock
 * Any questions or problems with joints?
 * Take a look at your proposed mechanisms
 * In-class work time: start constructing your mechanism
+
+
+[Drawing machine using cams](https://www.youtube.com/watch?v=pokSViy6Eck)
