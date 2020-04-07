@@ -633,4 +633,26 @@ next fall we will assemble the clock
 * In-class work time: start constructing your mechanism
 
 
-[Drawing machine using cams](https://www.youtube.com/watch?v=pokSViy6Eck)
+[Drawing machine using cams](https://www.youtube.com/watch?v=pokSViy6Eck) (for
+Alyazia)
+
+#### Homework due Wednesday April 9
+
+I want to see progress every time we meet. In order to demonstrate your
+progress, you will keep a journal for your final project.
+
+1. If you have not done so, create a new folder in your Github repository
+	 called "final" or "finalProject"
+1. In this new folder create a file README.md (if you've not already done so).
+	 This will be your journal
+1. In your journal, include the pictures of what you had prepared for Monday.
+1. Your assignment for Wednesday is to refine your design, adding details.
+	 Think about the following for each piece. You don't need to have all the
+	 answers yet, but for as many as you can:
+	1. Dimensions
+	1. What materials you will use for each piece?
+	1. How will you design it in Fusion 360?
+	1. What machine will be used to fabricate each piece?
+	1. How each piece will attach to the rest? Glue? Bolts? 
+1. Put the date separating each section so I can tell what you have done
+	 before, and what is new today.
