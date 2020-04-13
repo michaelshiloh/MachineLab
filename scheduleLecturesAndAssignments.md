@@ -674,3 +674,7 @@ You are all encouraged to participate. If you want to participate you will be re
 Would you be interested in participating?
 
 [Online ruler](https://www.ginifab.com/feeds/cm_to_inch/actual_size_ruler.html) for when you're working at home and don't have a real ruler. Thanks to Alyazia!
+
+#### Wednesday 15 April 2020 11:50 AM - 1:05 PM
+
+**Record Zoom!**
