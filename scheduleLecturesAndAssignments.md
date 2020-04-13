@@ -656,3 +656,19 @@ progress, you will keep a journal for your final project.
 	1. How each piece will attach to the rest? Glue? Bolts? 
 1. Put the date separating each section so I can tell what you have done
 	 before, and what is new today.
+
+#### Monday April 13 (10:25 - 1:05)
+
+**Announcements**
+
+We are planning a virtual end-of-semester showcase which will tentatively happen in conjunction with New York ITP/IMA on **May 17th, 8–10pm GST**. (New York is doing it on both 17th and 18th. We will be joining only on the 17th and Shanghai will be joining only on the 18th.)
+
+You are all encouraged to participate. If you want to participate you will be responsible for:
+
+* Creating your own online presence for your final project. This can be on any platform: WordPress, Github, Wix, whatever you chose
+
+* Entering your project information into the ITP Project Database (title, description, link to online presence, etc)
+
+* Being live on Zoom during the event (either set up your own Zoom session or join a Zoom session that faculty hosts, to be decided)
+
+Would you be interested in participating?
