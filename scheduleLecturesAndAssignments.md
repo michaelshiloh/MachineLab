@@ -700,5 +700,5 @@ Will: Jean Tiguely
 1. Continue to refine your design. Have at least one piece ready for
 	 fabrication. 
 	 Send me the files and I will forward them to the machine shop.
-		1. Sketches to be laser or waterjet cut should be exported as DXF files
-		1. Bodies for 3D printing should be exported as STL files.
+	1. Sketches to be laser or waterjet cut should be exported as DXF files
+	1. Bodies for 3D printing should be exported as STL files.
