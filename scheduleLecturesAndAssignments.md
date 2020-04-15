@@ -681,8 +681,6 @@ Would you be interested in participating?
 
 **Announcements**
 
-1. I may be interrupted (again) by Etisalat technician
-
 1. Student presentations - who did I forget?
 
 	* Max: Pierre Jaquet Droz April 1  
