@@ -678,3 +678,28 @@ Would you be interested in participating?
 #### Wednesday 15 April 2020 11:50 AM - 1:05 PM
 
 **Record Zoom!**
+
+**Announcements**
+
+1. I may be interrupted (again) by Etisalat technician
+
+1. Student presentations - who did I forget?
+
+	Max: Pierre Jaquet Droz April 1
+	Ivory: Machine Art exhibition at MoMA (1934) April 8
+
+1. Put your presentation in your Github repository
+
+**Student Presentation**
+
+Will: Jean Tiguely 
+
+**Fabrication**
+
+1. When you have designs ready to be fabricated
+Send me the files and then I will forward them to the machine shop.
+
+	1.1. Sketches to be laser or waterjet cut should be exported as DXF files
+
+	1.1. Bodies for 3D printing should be exported as STL files.
+
