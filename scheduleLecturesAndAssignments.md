@@ -688,18 +688,19 @@ Would you be interested in participating?
 	Max: Pierre Jaquet Droz April 1
 	Ivory: Machine Art exhibition at MoMA (1934) April 8
 
-1. Put your presentation in your Github repository
 
 **Student Presentation**
 
 Will: Jean Tiguely 
 
-**Fabrication**
+#### Homework due Monday April 20
 
-1. When you have designs ready to be fabricated
-Send me the files and then I will forward them to the machine shop.
+1. Put your presentation in your Github repository
 
-	1.1. Sketches to be laser or waterjet cut should be exported as DXF files
+1. Continue to refine your design. Have at least one piece ready for
+	 fabrication. 
+	 Send me the files and I will forward them to the machine shop.
 
-	1.1. Bodies for 3D printing should be exported as STL files.
+		1.1. Sketches to be laser or waterjet cut should be exported as DXF files
 
+		1.1. Bodies for 3D printing should be exported as STL files.
