@@ -703,15 +703,21 @@ Will: Jean Tiguely
 
 #### Monday April 20 (10:25 - 1:05)
 
+**Student Presentation**
+
+Max: Pierre Jaquet Droz
+
+Thank you Max for your presentation on those amazing automatons
+
 Thank you all for attending class and showing your work today. I see good
 progress.
 
 The people fabricating our parts are having trouble getting our files
-	from Github, so here is the correct procedure:
+from Github, so here is the correct procedure:
 
-	1. Put your STL (for 3D printing) or DXF (for laser cutting) files into a Google Drive folder. 
-	1. If you have both STL and DXF files put them in separate folders
-	1. Email me with the link(s)
-	1. I will forward your links to the appropriate people, and copy you.
+1. Put your STL (for 3D printing) or DXF (for laser cutting) files into a Google Drive folder. 
+1. If you have both STL and DXF files put them in separate folders
+1. Email me with the link(s)
+1. I will forward your links to the appropriate people, and copy you.
 
-
+On Wednesday Carlos will present on  Meyerhold 
