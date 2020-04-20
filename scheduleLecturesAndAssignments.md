@@ -700,3 +700,18 @@ Will: Jean Tiguely
 	 Send me the files and I will forward them to the machine shop.
 	1. Sketches to be laser or waterjet cut should be exported as DXF files
 	1. Bodies for 3D printing should be exported as STL files.
+
+#### Monday April 20 (10:25 - 1:05)
+
+Thank you all for attending class and showing your work today. I see good
+progress.
+
+The people fabricating our parts are having trouble getting our files
+	from Github, so here is the correct procedure:
+
+	1. Put your STL (for 3D printing) or DXF (for laser cutting) files into a Google Drive folder. 
+	1. If you have both STL and DXF files put them in separate folders
+	1. Email me with the link(s)
+	1. I will forward your links to the appropriate people, and copy you.
+
+
