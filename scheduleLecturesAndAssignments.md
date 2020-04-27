@@ -722,7 +722,7 @@ from Github, so here is the correct procedure:
 
 On Wednesday Carlos will present on  Meyerhold 
 
-Monday April 27
+#### Monday April 27 (10:25 - 1:05)
 
 Ramadan Kareem everyone! 
 
@@ -731,7 +731,18 @@ Ramadan Kareem everyone!
 1. I realize that Fusion is tricky to learn, and some of us do better with hand drawings or using other programs. You are allowed to use whatever system works best for you.
 1. No eating in class out of respect for Ramadan
 1. We have a presentation by Ivory today
-1. On Wednesday Alyazia will present.
+1. On Wednesday Alyazia will present
+
+Here are the links that were used in class today:
+
+1. 3D printed [snap-fit pivots](http://eikimartinson.com/engineering/3dparts/#pivot) found by Vince. 
+This page includes information about 3-D printing threads and a dovetail joint, useful for attaching 
+pieces together at right angles without screws.
+1. 3D printed [hub](https://grabcad.com/library/clamping-hub-for-5mm-shaft) found by Alyazia
+1. [Another](http://yeggi.com) and [another](https://www.stlfinder.com/) source for 3D models. 
+Found these while searching for shaft couplers and servo motor mounts. Note these are just search engines
+which find the models on other sites, such as [Thingiverse](https://www.thingiverse.com/).
+1. [This](https://grabcad.com/library/57335) looks like a model for the high-torque gearmotor we have, although I can't be sure.
 
 
 
