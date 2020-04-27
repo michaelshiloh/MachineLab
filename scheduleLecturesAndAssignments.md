@@ -721,3 +721,17 @@ from Github, so here is the correct procedure:
 1. I will forward your links to the appropriate people, and copy you.
 
 On Wednesday Carlos will present on  Meyerhold 
+
+Monday April 27
+
+Ramadan Kareem everyone! 
+
+1. Note to self: Record the meeting
+1. I have consulted with other faculty and we have decided that the work you show in the virtual showcase should be from this class only, and should not include other work you have done. However, you can show any and all work that you have done in this class.
+1. I realize that Fusion is tricky to learn, and some of us do better with hand drawings or using other programs. You are allowed to use whatever system works best for you.
+1. No eating in class out of respect for Ramadan
+1. We have a presentation by Ivory today
+1. On Wednesday Alyazia will present.
+
+
+
