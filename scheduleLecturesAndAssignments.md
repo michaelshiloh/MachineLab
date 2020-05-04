@@ -744,5 +744,21 @@ Found these while searching for shaft couplers and servo motor mounts. Note thes
 which find the models on other sites, such as [Thingiverse](https://www.thingiverse.com/).
 1. [This](https://grabcad.com/library/57335) looks like a model for the high-torque gearmotor we have, although I can't be sure.
 
+#### Monday May 4 (10:25 - 1:05)
+
+**Virtual Showcase deadline Friday May 8:**
+
+If you want to participate in the Spring 2020 Abu Dhabi, 
+Shanghai,and New York City Virtual Showcase, you must enter initial
+information about your project into the 
+[projects database](https://itp.nyu.edu/projects/) by Friday May 8.
+
+[Here](https://youtu.be/TNjf2i1Ioq4)
+is a video on how to enter your project. 
+You'll associate your project with the venue "The Virtual Show Spring 2020".
+The video mentions adding a zoom link. You can ignore this because NYUAD
+is not participating in the live Zoom portion of the event.
+
+![](images/spring2020Poster.jpg)
 
 
