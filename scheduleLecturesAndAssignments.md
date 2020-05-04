@@ -750,6 +750,7 @@ which find the models on other sites, such as [Thingiverse](https://www.thingive
 
 1. Zoom meeting ID 426-158-513
 1. Record meeting
+1. Fatima: Jacques de Vaucanson May 6
 
 **Virtual Showcase deadline Friday May 8:**
 
