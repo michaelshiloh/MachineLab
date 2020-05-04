@@ -771,4 +771,11 @@ local visitors.
 
 ![](images/spring2020Poster.jpg)
 
-
+**Class Notes**
+1. To copy a component, you first need to convert it to a body 
+1. [Shaft coupler for two different sized
+	 shafts](https://www.thingiverse.com/thing:245023)
+1. Servo motor models [1](https://grabcad.com/library/mg90s-servomotor-1)
+[2](https://gallery.autodesk.com/projects/132949/sg90-9g-micro-servo)
+or
+[3](https://gallery.autodesk.com/fusion360/projects/136284/servo-motor-sg90)
