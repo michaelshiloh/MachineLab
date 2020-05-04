@@ -746,18 +746,27 @@ which find the models on other sites, such as [Thingiverse](https://www.thingive
 
 #### Monday May 4 (10:25 - 1:05)
 
+**Announcements**
+
+1. Zoom meeting ID 426-158-513
+1. Record meeting
+
 **Virtual Showcase deadline Friday May 8:**
 
 If you want to participate in the Spring 2020 Abu Dhabi, 
 Shanghai,and New York City Virtual Showcase, you must enter initial
 information about your project into the 
 [projects database](https://itp.nyu.edu/projects/) by Friday May 8.
+You'll associate your project with the venue "The Virtual Show Spring 2020".
 
 [Here](https://youtu.be/TNjf2i1Ioq4)
 is a video on how to enter your project. 
-You'll associate your project with the venue "The Virtual Show Spring 2020".
-The video mentions adding a zoom link. You can ignore this because NYUAD
+The video mentions adding a Zoom link. You can ignore this because NYUAD
 is not participating in the live Zoom portion of the event.
+
+Details to follow on how visitors can access the showcase.
+Since it's virtual, this is the first time a showcase is not restricted to 
+local visitors. 
 
 ![](images/spring2020Poster.jpg)
 
