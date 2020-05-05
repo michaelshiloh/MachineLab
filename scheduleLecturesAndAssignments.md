@@ -623,7 +623,7 @@ next fall we will assemble the clock
 * Follow along with the three joint videos and make those joints 
 
 
-#### Monday April 7 (10:25 - 1:05)
+#### Monday April 6 (10:25 - 1:05)
 
 * Limit switches 
 * [Big
@@ -640,6 +640,7 @@ Alyazia)
 
 I want to see progress every time we meet. In order to demonstrate your
 progress, you will keep a journal for your final project.
+
 
 1. If you have not done so, create a new folder in your Github repository
 	 called "final" or "finalProject"
@@ -775,7 +776,68 @@ local visitors.
 1. To copy a component, you first need to convert it to a body 
 1. [Shaft coupler for two different sized
 	 shafts](https://www.thingiverse.com/thing:245023)
-1. Servo motor models [1](https://grabcad.com/library/mg90s-servomotor-1)
-[2](https://gallery.autodesk.com/projects/132949/sg90-9g-micro-servo)
-or
-[3](https://gallery.autodesk.com/fusion360/projects/136284/servo-motor-sg90)
+1. Servo motor models, various options: [this(https://grabcad.com/library/mg90s-servomotor-1)
+, [this](https://gallery.autodesk.com/projects/132949/sg90-9g-micro-servo)
+, or
+[this](https://gallery.autodesk.com/fusion360/projects/136284/servo-motor-sg90)
+.
+1. Stepper motor size is NEMA 17. Different motors might have different
+lengths, but they all have the same width, height, and shaft diameter.
+Our motors are either from [Adafruit](https://www.adafruit.com/product/324)
+or [Sparkfun](https://www.sparkfun.com/products/9238).
+Both have datasheets which is where you find the precise dimensions.
+1.
+[Bracket](https://www.stlfinder.com/model/wormgear-dc-motor-bracket-S50zOReE/7787353/)
+for the [high-torque worm gear drive
+motor](https://www.amazon.com/ELEGOO-28BYJ-48-ULN2003-Stepper-Arduino/dp/B01CP18J4A)
+
+#### Virtual Showcase initial entry due May 8
+
+For those of you who are participating in the virtual global showcase:
+
+* You may make changes later, this initial entry is just to set things up
+
+* [Here](https://youtu.be/TNjf2i1Ioq4)
+is a video on how to enter your project. 
+
+* If you can’t access the video on YouTube, 
+[here](https://drive.google.com/file/d/1tKcRj2NXWoHqD14my0eymT2aohKfymg0/view)
+is a copy on google drive
+
+* The video mentions a Zoom link. Ignore this part as we are not participating in the Zoom segment
+
+* Enter your information in the 
+[projects database](https://itp.nyu.edu/projects/). 
+Log in with your NYU credentials.
+
+* You’ll associate your project with the venue “The Virtual Show Spring 2020”
+
+* You will need to create an online site for your project (can be your Github site), submit a 30 second video about your project, and write a 250-300 word description so I suggest you start now
+
+* You may continue to edit and update your entry until the last minute, but you should have everything finalized by May 16.
+
+
+#### Final Project documentation due May 14
+
+In your finalProject folder:
+1. Journal (in a file called README.md)
+	1. Overview: What this project is, how it will operate in the context 
+	of the clock, and an overall picture (hand-drawn or CAD)
+	1. Your journal is a record of your work on this project
+	from the first drawings that were due on April 6. 
+	1. I want to see the progression from the first rough sketches 
+		to the design that you have now.
+	1. Describe the changes that you make to your design and why you make them
+	1. Discuss the various things you learned on the way. 
+	1. Discuss the difficulties you ran into, and how you resolved them
+	1. Discuss how you decided which piece to fabricate by 3D printing,
+	which pieces to fabricate by cutting with the laser cutter, and any
+	other tools
+	1. Discuss how your mechanism will be assembled
+	1. Discuss what other components or materials you will need when the project
+		 is assembled
+	1. Discuss any remaining problems or concerns
+
+Wednesday
+
+	Course evaluations  (in class)
