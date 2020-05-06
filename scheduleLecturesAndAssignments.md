@@ -776,7 +776,7 @@ local visitors.
 1. To copy a component, you first need to convert it to a body 
 1. [Shaft coupler for two different sized
 	 shafts](https://www.thingiverse.com/thing:245023)
-1. Servo motor models, various options: [this(https://grabcad.com/library/mg90s-servomotor-1)
+1. Servo motor models, various options: [this](https://grabcad.com/library/mg90s-servomotor-1)
 , [this](https://gallery.autodesk.com/projects/132949/sg90-9g-micro-servo)
 , or
 [this](https://gallery.autodesk.com/fusion360/projects/136284/servo-motor-sg90)
@@ -786,8 +786,7 @@ lengths, but they all have the same width, height, and shaft diameter.
 Our motors are either from [Adafruit](https://www.adafruit.com/product/324)
 or [Sparkfun](https://www.sparkfun.com/products/9238).
 Both have datasheets which is where you find the precise dimensions.
-1.
-[Bracket](https://www.stlfinder.com/model/wormgear-dc-motor-bracket-S50zOReE/7787353/)
+1. [Bracket](https://www.stlfinder.com/model/wormgear-dc-motor-bracket-S50zOReE/7787353/)
 for the [high-torque worm gear drive
 motor](https://www.amazon.com/ELEGOO-28BYJ-48-ULN2003-Stepper-Arduino/dp/B01CP18J4A)
 
