@@ -839,8 +839,14 @@ In your finalProject folder:
 
 Wednesday
 
-	Course evaluations  (in class)
+Course evaluations  (in class)
 
-	testing image resize
+Monday
 
-	![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+1. grading won't depend on completion
+1. journal 
+1. upload fusion file ("source" code)
+
+testing image resize
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
