@@ -19,7 +19,7 @@
 [Fatima](https://github.com/FatimaAlmaazmi/machineLab)  
 [Carlos](https://github.com/Carlos-A-Paez-G/MachineLab)  
 [Max](https://github.com/neonovi/MachineLab)  
-[Vince](https://github.com/vtn238/machineLab)  
+[Vince](https://github.com/vincenguyen-gallery/machineLab)  
 [Alyazia](https://github.com/alyaziakr/MachineLab)  
 [Will](https://github.com/bassmonkey620/Machine-Lab)  
 
