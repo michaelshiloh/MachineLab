@@ -1,17 +1,24 @@
-## New York University Abu Dhabi
-## Interactive Media
-## Machine Lab
+## New York University Abu Dhabi    
+## Interactive Media Program    
+## Course title: Machine Lab  
+Course number: IM-UH 2113  
+Section: 1    
+Credit Hours: 4         
+Prerequisites: None       
 
-**Everything can be found on the course website:**   
-[https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab/)
+Shortcut to [today's lecture](lectureNotes.md/#todays-lecture)  
+Shortcut to [today's assignment](weeklySchedule.md#todays-assignment)  
 
+Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab)      
+Instructor: Michael Shiloh mshiloh@nyu.edu    
+Office hours: By appointment  
+Meeting times:    
+	3:35 PM - 6:15 PM Monday
+	3:35 PM - 4:50 PM Wednesday
+Session: Spring 2023  
+Class location: C3-029 (IM Lab)  
+- [Lecture notes](lectureNotes.md)
+- [Previous sessions](previousSessions/previousSessions.md)
 
-
-[Syllabus](syllabus.md) including schedule overview
-
-[Schedule, lectures, and assignments](scheduleLecturesAndAssignments.md) 
-
-[Student Github repositories  ](studentGithub.md)
-
-[Student presentations](studentPresentations.md)
+**Everything here is subject to change**
 
