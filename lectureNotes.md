@@ -47,9 +47,9 @@ Inspiring examples
 - [Astronomical clock
 	Prague](https://www.prague.eu/en/object/places/3129/astronomical-clock)
 - [Clock with Dancing Figures, Spinet and Organ](https://www.youtube.com/watch?v=nlPHd1ezgL4), 1625
-- [Männleinlaufen, Church of Our Lady, Nuremberg](https://www.youtube.com/watch?v=zgMsNExH2-c 
+- [Männleinlaufen, Church of Our Lady, Nuremberg](https://www.youtube.com/watch?v=zgMsNExH2-c)
 - [Elephant Automaton Clock, 1600–1625](https://www.luc.edu/luma/collections/martindarcysjcollection/elephantautomatonclock/ )
-- [Ingenious Clocks from Muslim Civilisation](https://www.1001inventions.com/feature/top7clocks/)
+- [1001 Inventions](https://www.1001inventions.com/feature/top7clocks/)
 - [Famous Mechanical Clocks in Europe](https://trendingtravel.org/famous-mechanical-clocks-in-europe/)
 - [Anker Clock](https://www.wien.info/en/sightseeing/sights/from-a-to-z/anker-clock-339092)
 - ![](images/FestivalClock.jpg)
