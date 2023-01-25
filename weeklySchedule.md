@@ -59,9 +59,8 @@ Class location: C3-029 (IM Lab)
 	resources](https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
 	paying particular attention to artists, projects, devices, installations,
 	machines, etc. The whole page is full of interesting resources.
-	- choose topic for a paper and presentation that you will make later in the
-		semester
-- Find something related to this class and post it on Discord
+- Do your own search for something related this class and post your most
+	interesting find(s) on Discord
 
 ### Week 2 January 30, February 1
 
