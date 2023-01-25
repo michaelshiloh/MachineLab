@@ -26,6 +26,7 @@ This document: Lecture Notes
 
 ## Week 1 
 
+##### todays-lecture
 ## Wednesday 25 January 2023
 # todays-lecture
 ### Administration
@@ -34,6 +35,7 @@ This document: Lecture Notes
 ### Plan for today
 - What is the class about
 - Rules
+- Schedule
 - Introductions
 
 ### What is this class about
@@ -141,6 +143,8 @@ dedicated space, dedicated tools, and dedicated materials.
 	so will result in a lower grade.
 - If you see anyone outside of our class using our tools, materials, or space,
 	please get their names and inform me.
+
+### [Weekly Schedule](weeklySchedule.md)
 
 ### Introductions
 - Our amazing team

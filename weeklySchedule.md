@@ -26,6 +26,7 @@ Class location: C3-029 (IM Lab)
 
 #### Introduction
 
+##### todays-assignment
 #### Assignment due Monday 30 January
 - If you don't already have one, create a Github account 
 	- In that account, create a repository called "machineLab"
