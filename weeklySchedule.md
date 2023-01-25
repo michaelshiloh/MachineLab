@@ -25,7 +25,6 @@ Class location: C3-029 (IM Lab)
 ### Week 1 January 25
 
 #### Introduction
-- What experience do you have with mechanisms and mechanical construction?
 
 #### Assignment due Monday 30 January
 - If you don't already have one, create a Github account 

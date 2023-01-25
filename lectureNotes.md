@@ -31,6 +31,39 @@ This document: Lecture Notes
 ### Administration
 - Attendance
 
+### Plan for today
+- What is the class about
+- Rules
+- Introductions
+
+### What is this class about
+- Machines: building them, using them
+- Mechanics (statics and dynamics)
+- Design
+- Creativity
+- History, including critique
+
+Inspiring examples
+- [Astronomical clock
+	Prague](https://www.prague.eu/en/object/places/3129/astronomical-clock)
+- [Clock with Dancing Figures, Spinet and Organ](https://www.youtube.com/watch?v=nlPHd1ezgL4), 1625
+- [Männleinlaufen, Church of Our Lady, Nuremberg](https://www.youtube.com/watch?v=zgMsNExH2-c 
+- [Elephant Automaton Clock, 1600–1625](https://www.luc.edu/luma/collections/martindarcysjcollection/elephantautomatonclock/ )
+- [Ingenious Clocks from Muslim Civilisation](https://www.1001inventions.com/feature/top7clocks/)
+- [Famous Mechanical Clocks in Europe](https://trendingtravel.org/famous-mechanical-clocks-in-europe/)
+- [Anker Clock](https://www.wien.info/en/sightseeing/sights/from-a-to-z/anker-clock-339092)
+- ![](images/FestivalClock.jpg)
+	- [The Guinness Clock in Battersea Park](https://vimeo.com/89823385)
+	- https://www.guinntiques.com/festivalclock.aspx
+	- Another version at the [Festival of Britian](https://vimeo.com/89823385)
+	- Some [details](https://www.guinntiques.com/festivalclock.aspx)
+- Tim Hunkin's [Southwold
+	waterclock](https://www.timhunkin.com/63_southwold_water_clock.htm)
+- Tim Hunkin's clock at the [Exploratorium](https://www.exploratorium.edu/video/tim-hunkins-tinkerers-clock)
+	- Tim's [other clocks](https://www.timhunkin.com/control/d_clocks_index.htm)
+- Wikipedia entry on [Automaton Clocks](https://en.wikipedia.org/wiki/Automaton_clock)
+
+
 ### Class rules
 
 This class is fast-paced, difficult, and time consuming. You will have to
@@ -108,3 +141,11 @@ dedicated space, dedicated tools, and dedicated materials.
 	so will result in a lower grade.
 - If you see anyone outside of our class using our tools, materials, or space,
 	please get their names and inform me.
+
+### Introductions
+- Our amazing team
+- Me
+	- [Power Tool Drag Races](https://www.powertooldragraces.com/)
+	- [Survival Research Labs](srl.org)
+- You
+	- What experience do you have with mechanisms and mechanical construction?
