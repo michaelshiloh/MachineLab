@@ -40,7 +40,6 @@ Class location: C3-029 (IM Lab)
    (I think they are two versions of the same book. If you prefer video
    tutorials there are many online, Google for something like "linkages
    tutorials" (If you find any good ones let me know.)
-
 	- Download and install the [Arduino
    IDE](https://www.arduino.cc/en/Main/Software) (not the web editor)
 	- If you are new to Arduino read the following:
@@ -48,12 +47,14 @@ Class location: C3-029 (IM Lab)
      [tutorial](http://www.ladyada.net/learn/arduino/index.html)
 		- The first four tutorials from
      [here](https://github.com/michaelshiloh/resourcesForClasses#basic-arduino-resources-from-arduino)
-
-	- motors
-	- L298
-	- Tim Hunkin [Prototypes](https://www.timhunkin.com/a258_Prototypes.htm)
-- choose topic for paper and presentation
-	- Research artists, projects, devices, installations, machines, etc.
+	- Read [Motors and Selecting the Right
+   One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
+	- Read [How to use the L298 Motor Driver](https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5)
+	- Watch Tim Hunkin [Prototypes](https://www.timhunkin.com/a258_Prototypes.htm)
+- Browse the [resources] paying particular attention to artists, projects,
+	devices, installations, machines, etc.
+	- choose topic for a paper and presentation that you will make later in the
+		semester
 
 ### Week 2 January 30, February 1
 
