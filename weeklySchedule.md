@@ -51,7 +51,7 @@ Class location: C3-029 (IM Lab)
    One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
 	- Read [How to use the L298 Motor Driver](https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5)
 	- Watch Tim Hunkin [Prototypes](https://www.timhunkin.com/a258_Prototypes.htm)
-- Browse the [resources] paying particular attention to artists, projects,
+- Browse the [https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources] paying particular attention to artists, projects,
 	devices, installations, machines, etc.
 	- choose topic for a paper and presentation that you will make later in the
 		semester
