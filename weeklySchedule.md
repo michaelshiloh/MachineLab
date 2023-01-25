@@ -28,8 +28,12 @@ Class location: C3-029 (IM Lab)
 
 ##### todays-assignment
 #### Assignment due Monday 30 January
+- If you haven't already done so, join Discord
 - If you don't already have one, create a Github account 
+	- If you are new to Github read
+		[this](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
 	- In that account, create a repository called "machineLab"
+	- Post a link to your github repository (**not your account!**) in Discord
 - **Closed toed shoes and no loose garments next week!** for wood shop
 	training
 - Read
@@ -51,10 +55,13 @@ Class location: C3-029 (IM Lab)
    One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
 	- Read [How to use the L298 Motor Driver](https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5)
 	- Watch Tim Hunkin [Prototypes](https://www.timhunkin.com/a258_Prototypes.htm)
-- Browse the [https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources] paying particular attention to artists, projects,
-	devices, installations, machines, etc.
+- Browse the [mechatronic
+	resources](https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
+	paying particular attention to artists, projects, devices, installations,
+	machines, etc. The whole page is full of interesting resources.
 	- choose topic for a paper and presentation that you will make later in the
 		semester
+- Find something related to this class and post it on Discord
 
 ### Week 2 January 30, February 1
 
