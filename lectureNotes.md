@@ -52,14 +52,14 @@ Inspiring examples
 - [1001 Inventions](https://www.1001inventions.com/feature/top7clocks/)
 - [Famous Mechanical Clocks in Europe](https://trendingtravel.org/famous-mechanical-clocks-in-europe/)
 - [Anker Clock](https://www.wien.info/en/sightseeing/sights/from-a-to-z/anker-clock-339092)
-- ![](images/FestivalClock.jpg)
+- The Guinness Festival Clock series
+	- ![](images/FestivalClock.jpg)
 	- [The Guinness Clock in Battersea Park](https://vimeo.com/89823385)
-	- https://www.guinntiques.com/festivalclock.aspx
-	- Another version at the [Festival of Britian](https://vimeo.com/89823385)
-	- Some [details](https://www.guinntiques.com/festivalclock.aspx)
-- Tim Hunkin's [Southwold
+	- [Description](https://www.guinntiques.com/festivalclock.aspx)
+- Tim Hunkin
+	- [Southwold
 	waterclock](https://www.timhunkin.com/63_southwold_water_clock.htm)
-- Tim Hunkin's clock at the [Exploratorium](https://www.exploratorium.edu/video/tim-hunkins-tinkerers-clock)
+	- [Exploratorium](https://www.exploratorium.edu/video/tim-hunkins-tinkerers-clock)
 	- Tim's [other clocks](https://www.timhunkin.com/control/d_clocks_index.htm)
 - Wikipedia entry on [Automaton Clocks](https://en.wikipedia.org/wiki/Automaton_clock)
 
