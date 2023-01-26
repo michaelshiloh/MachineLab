@@ -24,4 +24,5 @@ Class location: C3-029 (IM Lab)
 
 This file: Student Github Repositories:
 
-[Soojin](https://github.com/Soojin-Lee0819/machineLab)
+[Soojin](https://github.com/Soojin-Lee0819/machineLab)  
+[Sarah](https://github.com/sarahalyahya/machineLab)  
