@@ -53,7 +53,8 @@ Class location: C3-029 (IM Lab)
      [here](https://github.com/michaelshiloh/resourcesForClasses#basic-arduino-resources-from-arduino)
 	- Read [Motors and Selecting the Right
    One](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
-	- Read [How to use the L298 Motor Driver](https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5)
+	- Learn How to use the L298 Motor Driver using either
+		[this](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/), [this](https://www.etechnophiles.com/l298n-motor-driver-pin-diagram/), [this](http://www.handsontec.com/dataspecs/L298N%20Motor%20Driver.pdf), or find your own by searching using words like "l298 arduino Tutorial". If you find one you like, post it to our Discord channel.
 	- Watch Tim Hunkin [Prototypes](https://www.timhunkin.com/a258_Prototypes.htm)
 - Browse the [mechatronic
 	resources](https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
