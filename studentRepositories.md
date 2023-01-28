@@ -30,3 +30,4 @@ This file: Student Github Repositories:
 - [Shreya](https://github.com/shreya81601/MachineLab)
 - [Sashank](https://github.com/sashanksilwal/MachineLab)
 - [Nouf](https://github.com/Nouf-Alabbasi/machineLab)
+- [Amina](https://github.com/ak7588/machineLab)
