@@ -26,3 +26,4 @@ This file: Student Github Repositories:
 
 [Soojin](https://github.com/Soojin-Lee0819/machineLab)  
 [Sarah](https://github.com/sarahalyahya/machineLab)  
+[Amina](https://github.com/ak7588/machineLab)
