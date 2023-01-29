@@ -34,8 +34,6 @@ Class location: C3-029 (IM Lab)
 		[this](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
 	- In that account, create a repository called "machineLab"
 	- Post a link to your github repository (**not your account!**) in Discord
-- **Closed toed shoes and no loose garments next week!** for wood shop
-	training
 - Read
 	- Read 
    [How to Design and Make Automata](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/howToDesignAndMakeAutomata_RobertAdams.pdf)
@@ -90,6 +88,7 @@ Mechanics
 	- Repair
 	- It must run for 60 seconds without breaking
 	- Document
+- **Closed toed shoes and no loose garments next week!** for wood shop training
 
 ### Week 3 February 6, 8
 
