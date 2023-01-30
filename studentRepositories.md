@@ -32,3 +32,5 @@ This file: Student Github Repositories:
 - [Nouf](https://github.com/Nouf-Alabbasi/machineLab)
 - [Amina](https://github.com/ak7588/machineLab)
 - [Alpha](https://github.com/Alphaam/machineLab)
+- [Cole](https://github.com/crb596/machineLab)
+
