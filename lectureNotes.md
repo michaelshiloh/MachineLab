@@ -155,6 +155,11 @@ dedicated space, dedicated tools, and dedicated materials.
 - Attendance
 
 ### Plan for today
+- Working with cardboard
+- Materials
+- Movement
+- Mechanics
+- Motors
 
 Working with cardboard
 - Precision cutting
@@ -180,7 +185,12 @@ Mechanics
 	- Friction
 	- Alignment
 
-- Hardware
-  - Nuts and bolts
-  - Shaft couplers
+Motors
+- Using Arduino for power
+- Attaching a motor to the crank
+
+Hardware
+- Nuts and bolts
+- Shaft couplers
+
 
