@@ -26,12 +26,7 @@ This document: Lecture Notes
 
 ## Week 1 
 
-##### todays-lecture
 ## Wednesday 25 January 2023
-# todays-lecture
-### Administration
-- Attendance
-
 ### Plan for today
 - What is the class about
 - Rules
@@ -153,3 +148,39 @@ dedicated space, dedicated tools, and dedicated materials.
 	- [Survival Research Labs](srl.org)
 - You
 	- What experience do you have with mechanisms and mechanical construction?
+
+## Monday 30 January 2023
+##### todays-lecture
+### Administration
+- Attendance
+
+### Plan for today
+
+Working with cardboard
+- Precision cutting
+- Hot glue
+- Safety
+
+Materials
+- Cardboard
+- Wood
+- Plastic
+- Other
+
+Movement
+- Cams
+- [Crank](http://www.benchtophybrid.com/FB_Slider_Crank.html)
+- [4 Bar Linkage](https://singsurf.org/things/fourbar.php) 
+
+Mechanics
+- Statics
+	- Strength
+	- Bracing
+- Dynamics
+	- Friction
+	- Alignment
+
+- Hardware
+  - Nuts and bolts
+  - Shaft couplers
+
