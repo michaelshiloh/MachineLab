@@ -33,4 +33,4 @@ This file: Student Github Repositories:
 - [Amina](https://github.com/ak7588/machineLab)
 - [Alpha](https://github.com/Alphaam/machineLab)
 - [Cole](https://github.com/crb596/machineLab)
-
+- [Debbie](https://github.com/deborah-74/Machine-Lab)
