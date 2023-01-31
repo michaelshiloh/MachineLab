@@ -34,3 +34,7 @@ This file: Student Github Repositories:
 - [Alpha](https://github.com/Alphaam/machineLab)
 - [Cole](https://github.com/crb596/machineLab)
 - [Debbie](https://github.com/deborah-74/Machine-Lab)
+- [Nathan](https://github.com/Nathan213/machineLab)
+- [Muhammad](https://github.com/MuhammadBinNauman/Machine_Lab)
+- [Yashaswi](https://github.com/yashaswiim/machineLab)
+- []()
