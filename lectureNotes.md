@@ -13,8 +13,8 @@ Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com
 Instructor: Michael Shiloh mshiloh@nyu.edu    
 Office hours: By appointment  
 Meeting times:    
-	3:35 PM - 6:15 PM Monday
-	3:35 PM - 4:50 PM Wednesday
+	3:35 PM - 6:15 PM Monday  
+	3:35 PM - 4:50 PM Wednesday  
 Session: Spring 2023  
 Class location: C3-029 (IM Lab)  
 - [Lecture notes](lectureNotes.md)
@@ -150,10 +150,6 @@ dedicated space, dedicated tools, and dedicated materials.
 	- What experience do you have with mechanisms and mechanical construction?
 
 ## Monday 30 January 2023
-##### todays-lecture
-### Administration
-- Attendance
-
 ### Plan for today
 - Working with cardboard
 - Materials
@@ -185,7 +181,26 @@ Mechanics
 	- Friction
 	- Alignment
 
-Motors
+## Wednesday 1 February 2023
+##### todays-lecture
+### Administration
+- Attendance
+
+### Plan for today
+- Questions? Problems?
+- Crank considerations
+- Motors
+
+#### Crank considerations 
+"This mechanism is composed of three important parts: The crank which is the
+rotating disc, the slider which slides inside the tube and the connecting rod
+which joins the parts together."
+- What are the implications of changing the size of each?
+	- Crank
+	- Connecting rod
+	- Slider
+
+#### Motors
 - Using Arduino for power
 - Attaching a motor to the crank
 

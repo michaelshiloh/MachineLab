@@ -13,8 +13,8 @@ Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com
 Instructor: Michael Shiloh mshiloh@nyu.edu    
 Office hours: By appointment  
 Meeting times:    
-	3:35 PM - 6:15 PM Monday
-	3:35 PM - 4:50 PM Wednesday
+	3:35 PM - 6:15 PM Monday  
+	3:35 PM - 4:50 PM Wednesday  
 Session: Spring 2023  
 Class location: C3-029 (IM Lab)  
 - [Lecture notes](lectureNotes.md)
