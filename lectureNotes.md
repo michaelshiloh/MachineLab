@@ -150,6 +150,7 @@ dedicated space, dedicated tools, and dedicated materials.
 	- What experience do you have with mechanisms and mechanical construction?
 
 ## Monday 30 January 2023
+
 ### Plan for today
 - Working with cardboard
 - Materials
@@ -182,9 +183,6 @@ Mechanics
 	- Alignment
 
 ## Wednesday 1 February 2023
-##### todays-lecture
-### Administration
-- Attendance
 
 ### Plan for today
 - Questions? Problems?
@@ -209,3 +207,40 @@ Hardware
 - Shaft couplers
 
 
+## Monday 6 February 2023
+##### todays-lecture
+### Administration
+- Attendance
+
+### Plan for today
+- Arduino review
+- Motors
+- Position sensing
+- More mechanisms
+
+#### Arduino review
+- Pins
+- Software
+- Digital IO
+- Analog output
+
+#### Motors
+	- External power for motors
+	- DC motors
+		- DC gear motors
+	- H-bridge
+	- Servo motors
+	- Stepper motors
+#### Position sensing
+	- What are the position sensing needs and abilities of DC, servo, 
+		and stepper motors?
+	- Hall effect sensors and magnets
+	- Inductive proximity sensors 
+	- Snap action switches
+#### More mechanisms
+	- Lead screw
+	- Scissor
+
+qs
+- arduinos
+- is the pot multiturn or continuous rotation?

@@ -81,32 +81,35 @@ Mechanics
 
 #### Assignment due Monday 6 February
 
-- Build a hand-crank mechanism of some sort
-	- Document
+- Take some pictures while you are building
+- Build a hand-crank mechanism with at least
+	- One cam
+	- One crank and slider mechanism
 - Connect a motor to your mechanism
 	- Document failure modes
 	- Repair
 	- It must run for 60 seconds without breaking
 	- Document
-- **Closed toed shoes and no loose garments next week!** for wood shop training
+		- A new Github folder named "6February"
+		- README.md to include
+			- A brief description of your experience
+			- A few process pictures
+			- A short video
+			- discuss 2-3 things that went wrong and what you did to overcome them
+- Install the [Arduino IDE](https://www.arduino.cc/en/software)
 
 ### Week 3 February 6, 8
 
 #### Topics: Arduino, motors, motor shields, position sensing, power supplies
 
-- Arduino
+- Arduino review
 - Motors
-	- "DC" motor
-	- Servo motor
-	- Stepper motor
-	- Motor shield(s)
-	- External power supply for motor
--	Position sensors
-	- Inductive proximity sensor
-	- Mechanical limit switch
+- Position sensing
+- More mechanisms
 
 #### Assignment due Monday 13 February
 
+- **Closed toed shoes and no loose garments next week!** for wood shop training
 - Build a new motorized mechanism of some sort 
 	- Your mechanism must use a position sensor of some sort to control some
 		aspect of its behavior, e.g. when it reaches a certain position it should
