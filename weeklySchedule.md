@@ -26,7 +26,6 @@ Class location: C3-029 (IM Lab)
 
 #### Introduction
 
-##### todays-assignment
 #### Assignment due Monday 30 January
 - If you haven't already done so, join Discord
 - If you don't already have one, create a Github account 
@@ -79,6 +78,7 @@ Mechanics
 	- shaft couplers
 	- cutting steel
 
+##### todays-assignment
 #### Assignment due Monday 6 February
 
 - Take some pictures while you are building
