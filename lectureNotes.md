@@ -208,9 +208,6 @@ Hardware
 
 
 ## Monday 6 February 2023
-##### todays-lecture
-### Administration
-- Attendance
 
 ### Plan for today
 - Arduino review
@@ -225,22 +222,47 @@ Hardware
 - Analog output
 
 #### Motors
-	- External power for motors
 	- DC motors
 		- DC gear motors
 	- H-bridge
+		- How to use the [L298 motor
+			driver](https://components101.com/modules/l293n-motor-driver-module)
 	- Servo motors
+		- Giant servo motor
 	- Stepper motors
+
+## Wednesday 8 February 2023
+##### todays-lecture
+### Administration
+- Attendance
+- Legislative day on Saturday
+- Wood shop training next Monday
+- Punctuality
+
+### Plan for today
+- External power for motors
+- Stepper motor
+- Position sensing
+- More mechanisms
+- IM Instructors and lab rules
+
+#### External power for motors
+
+#### Stepper motor
+- Manually
+- Using the Adafruit Accelstepper library
+	- [Thorough
+		tutorial](https://hackaday.io/project/183713-using-the-arduino-accelstepper-library) for this library
+
 #### Position sensing
 	- What are the position sensing needs and abilities of DC, servo, 
 		and stepper motors?
 	- Hall effect sensors and magnets
 	- Inductive proximity sensors 
 	- Snap action switches
+
 #### More mechanisms
 	- Lead screw
 	- Scissor
+	- What breaks?
 
-qs
-- arduinos
-- is the pot multiturn or continuous rotation?
