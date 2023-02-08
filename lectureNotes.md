@@ -246,6 +246,7 @@ Hardware
 - Position sensing
 - More mechanisms
 - IM Instructors and lab rules
+- Please return your Redboards
 
 #### Review
 - Can I use a 12V power supply with the L298 H-bridge module?
