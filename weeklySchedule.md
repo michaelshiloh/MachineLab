@@ -78,7 +78,6 @@ Mechanics
 	- shaft couplers
 	- cutting steel
 
-##### todays-assignment
 #### Assignment due Monday 6 February
 
 - Take some pictures while you are building
@@ -107,16 +106,41 @@ Mechanics
 - Position sensing
 - More mechanisms
 
+##### todays-assignment
 #### Assignment due Monday 13 February
 
 - **Closed toed shoes and no loose garments next week!** for wood shop training
-- Build a new motorized mechanism of some sort 
-	- Your mechanism must use a position sensor of some sort to control some
-		aspect of its behavior, e.g. when it reaches a certain position it should
-		reverse and return to its "home" position
-		- Document
-	- It must run for 10 cycles without breaking
-		- Document failure modes; repair; document success
+- Use an L298 H-bridge to control a stepper motor
+	- Use an external 12V power supply
+	- Write a program to make it rotate first in one direction, and then the
+		other
+	- Connect two limit switches (switch A and switch B) to your Arduino
+	- Modify your program so that 
+		- At first nothing happens
+		- When switch A is activated momentarily the motor turns in one direction 
+		- When switch B is activated momentarily, the motor reverses 
+		- When switch A is activated momentarily, and the motor stops.
+	- Document
+		- A new Github folder named "13February"
+		- README.md to include
+			- A schematic
+			- A photograph of your setup
+			- A brief description of your experience
+			- A few process pictures
+			- A short video
+			- discuss 2-3 things that went wrong and what you did to overcome them
+- Prepare a presentation on a mechanical machine:
+	- Machine must have moving parts
+	- Machine can be purely mechanical or electro-mechanical
+	- Examples include lathe, mill, printing press, loom, engine, clock,
+		sewing machine, [farm
+		machinery](https://www.youtube.com/watch?v=ge8CBC3vVgs), automatic milking
+		machine, VHS video tape recorders, etc.
+	- Research the mechanical mechanism of the machine. How does it do what it's
+		supposed to do?
+	- What is your favorite part of this machine? Why?
+	- Identify 3-5 [simple
+		machines](https://en.wikipedia.org/wiki/Simple_machine) in your machine
 
 ### Week 4 February 13, 15
 

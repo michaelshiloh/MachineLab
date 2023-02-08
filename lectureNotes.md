@@ -240,26 +240,36 @@ Hardware
 - Punctuality
 
 ### Plan for today
+- Review
 - External power for motors
 - Stepper motor
 - Position sensing
 - More mechanisms
 - IM Instructors and lab rules
 
+#### Review
+- Can I use a 12V power supply with the L298 H-bridge module?
+- Can I use a 5A power supply with a motor that is rated for 1A?
+
 #### External power for motors
 
 #### Stepper motor
+- Theory
+	- Internal wiring
+- Determining windings
+	- Multimeter to measure resistance
 - Manually
 - Using the Adafruit Accelstepper library
 	- [Thorough
 		tutorial](https://hackaday.io/project/183713-using-the-arduino-accelstepper-library) for this library
 
 #### Position sensing
-	- What are the position sensing needs and abilities of DC, servo, 
-		and stepper motors?
-	- Hall effect sensors and magnets
-	- Inductive proximity sensors 
-	- Snap action switches
+- What are the position sensing needs and abilities of DC, servo, 
+	and stepper motors?
+- Hall effect sensors and magnets
+- Inductive proximity sensors 
+- Snap action switches
+	- How to connect a switch to Arduino
 
 #### More mechanisms
 	- Lead screw
