@@ -110,6 +110,20 @@ Mechanics
 #### Assignment due Monday 13 February
 
 - **Closed toed shoes and no loose garments next week!** for wood shop training
+- Prepare a presentation on a mechanical machine:
+	- Machine must have moving parts
+	- Machine can be purely mechanical or electro-mechanical
+	- Examples include lathe, mill, printing press, loom, engine, clock,
+		sewing machine, [farm
+		machinery](https://www.youtube.com/watch?v=ge8CBC3vVgs), automatic milking
+		machine, VHS video tape recorders, bicycle derailleur, etc.
+	- Research the mechanical mechanism of the machine. How does it do what it's
+		supposed to do?
+	- What is your favorite part of this machine? Why?
+	- Identify 3-5 [simple
+		machines](https://en.wikipedia.org/wiki/Simple_machine) in the machine
+
+this is delayed until further notice:
 - Use an L298 H-bridge to control a stepper motor
 	- Use an external 12V power supply
 	- Write a program to make it rotate first in one direction, and then the
@@ -129,18 +143,6 @@ Mechanics
 			- A few process pictures
 			- A short video
 			- discuss 2-3 things that went wrong and what you did to overcome them
-- Prepare a presentation on a mechanical machine:
-	- Machine must have moving parts
-	- Machine can be purely mechanical or electro-mechanical
-	- Examples include lathe, mill, printing press, loom, engine, clock,
-		sewing machine, [farm
-		machinery](https://www.youtube.com/watch?v=ge8CBC3vVgs), automatic milking
-		machine, VHS video tape recorders, etc.
-	- Research the mechanical mechanism of the machine. How does it do what it's
-		supposed to do?
-	- What is your favorite part of this machine? Why?
-	- Identify 3-5 [simple
-		machines](https://en.wikipedia.org/wiki/Simple_machine) in your machine
 
 ### Week 4 February 13, 15
 
