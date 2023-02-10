@@ -232,21 +232,11 @@ Hardware
 	- Stepper motors
 
 ## Wednesday 8 February 2023
-##### todays-lecture
-### Administration
-- Attendance
-- Legislative day on Saturday
-- Wood shop training next Monday
-- Punctuality
 
 ### Plan for today
 - Review
 - External power for motors
 - Stepper motor
-- Position sensing
-- More mechanisms
-- IM Instructors and lab rules
-- Please return your Redboards
 
 #### Review
 - Can I use a 12V power supply with the L298 H-bridge module?
@@ -259,6 +249,21 @@ Hardware
 	- Internal wiring
 - Determining windings
 	- Multimeter to measure resistance
+
+## Saturday 11 February 2023
+##### todays-lecture
+### Administration
+- Attendance
+- Wood shop training next Monday
+
+### Plan for today
+- Stepper motor 
+- Position sensing
+- More mechanisms
+- Please return your Redboards
+
+
+#### Stepper motor
 - Manually
 - Using the Adafruit Accelstepper library
 	- [Thorough
