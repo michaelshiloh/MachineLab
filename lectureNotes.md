@@ -255,12 +255,13 @@ Hardware
 ### Administration
 - Attendance
 - Wood shop training next Monday
+- Please return your Redboards
+- Homework
 
 ### Plan for today
 - Stepper motor 
 - Position sensing
 - More mechanisms
-- Please return your Redboards
 
 
 #### Stepper motor
