@@ -126,6 +126,9 @@ Mechanics
 		machines](https://en.wikipedia.org/wiki/Simple_machine) in the machine
 	- Pay particular attention to interesting, unusual, or inspiring features
 		which you might incorporate into your final project
+	- Create a new folder on Github called "machinePresentation". Create a
+		README.md which then links to your presentation, whether it's also
+		uploaded to your repo or elsewhere online.
 
 this is delayed until further notice:
 - Use an L298 H-bridge to control a stepper motor
