@@ -110,6 +110,8 @@ Mechanics
 #### Assignment due Monday 13 February
 
 - **Closed toed shoes and no loose garments next week!** for wood shop training
+
+#### Assignment due Wednesday 15 February
 - Prepare a presentation on a mechanical machine:
 	- Machine must have moving parts
 	- Machine can be purely mechanical or electro-mechanical
@@ -122,6 +124,8 @@ Mechanics
 	- What is your favorite part of this machine? Why?
 	- Identify 3-5 [simple
 		machines](https://en.wikipedia.org/wiki/Simple_machine) in the machine
+	- Pay particular attention to interesting, unusual, or inspiring features
+		which you might incorporate into your final project
 
 this is delayed until further notice:
 - Use an L298 H-bridge to control a stepper motor
