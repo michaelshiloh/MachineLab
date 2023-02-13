@@ -251,13 +251,6 @@ Hardware
 	- Multimeter to measure resistance
 
 ## Saturday 11 February 2023
-##### todays-lecture
-### Administration
-- Attendance
-- Wood shop training next Monday
-- Please return your Redboards
-- Homework
-
 ### Plan for today
 - Stepper motor 
 - Position sensing
@@ -283,3 +276,15 @@ Hardware
 	- Scissor
 	- What breaks?
 
+## Monday 13 February 2023
+##### todays-lecture
+### Administration
+- Attendance
+
+### Plan for today
+- Wood shop training! Yay!
+- Build a scissor mechanism out of wood
+
+
+Wednesday:
+- Presentations

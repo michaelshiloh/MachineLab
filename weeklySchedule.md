@@ -130,6 +130,13 @@ Mechanics
 		README.md which then links to your presentation, whether it's also
 		uploaded to your repo or elsewhere online.
 
+#### Assignment due Monday 20 February
+- Lesson from those who researched how to use the sensors
+	- Hall Effect sensor
+	- Inductive Proximity sensor
+
+
+
 this is delayed until further notice:
 - Use an L298 H-bridge to control a stepper motor
 	- Use an external 12V power supply
