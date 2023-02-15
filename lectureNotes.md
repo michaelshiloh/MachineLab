@@ -284,6 +284,7 @@ Hardware
 ## Wednesday 15 February 2023
 ##### todays-lecture
 ### Administration
+- [Zoom](https://nyu.zoom.us/j/91200072519)
 - Attendance
 
 ### Plan for today
