@@ -106,11 +106,11 @@ Mechanics
 - Position sensing
 - More mechanisms
 
-##### todays-assignment
 #### Assignment due Monday 13 February
 
 - **Closed toed shoes and no loose garments next week!** for wood shop training
 
+##### todays-assignment
 #### Assignment due Wednesday 15 February
 - Prepare a presentation on a mechanical machine:
 	- Machine must have moving parts
@@ -134,10 +134,22 @@ Mechanics
 - Lesson from those who researched how to use the sensors
 	- Hall Effect sensor
 	- Inductive Proximity sensor
+- Inspired by the presentations of machines along with any other sources,
+	sketch a very rough first draft of a mechanism for the clock. This is a very
+	early idea and is expected to change, so don't worry about being committed
+	to it. Features it must have:
+	- Three different levels of activity for the quarter, half, and full hour
+	- Consider how you will achieve the motions you need
+	- Consider the types of motors and sensors you might need
+	- Consider any audio and visuals (LEDs) effects which will enhance the piece
+	- Create a new folder on Github called "20February". In that
+		folder create a README.md with a description of your very rough first
+		draft along with your sketch, pictures, and any other
+		relevant sources of inspiration or information
 
 
 
-this is delayed until further notice:
+Delayed until further notice:
 - Use an L298 H-bridge to control a stepper motor
 	- Use an external 12V power supply
 	- Write a program to make it rotate first in one direction, and then the

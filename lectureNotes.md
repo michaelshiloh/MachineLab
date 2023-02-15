@@ -277,14 +277,19 @@ Hardware
 	- What breaks?
 
 ## Monday 13 February 2023
+
+### Plan for today
+- Wood shop training! Yay!
+
+## Wednesday 15 February 2023
 ##### todays-lecture
 ### Administration
 - Attendance
 
 ### Plan for today
-- Wood shop training! Yay!
-- Build a scissor mechanism out of wood
-
-
-Wednesday:
 - Presentations
+- Homework
+	- Example 
+		- [Welcome to Duloc](https://www.youtube.com/watch?v=X81AoBcVnaA)
+		- [Guinness Festival Clock](https://vimeo.com/89823385#t=1:00)
+
