@@ -135,17 +135,19 @@ Mechanics
 	- Hall Effect sensor
 	- Inductive Proximity sensor
 - Inspired by the presentations of machines along with any other sources,
-	sketch a very rough first draft of a mechanism for the clock. This is a very
-	early idea and is expected to change, so don't worry about being committed
-	to it. Features it must have:
+	sketch a very rough first draft of an imaginary mechanism for the clock.
+	This is a very early idea and is expected to change, so don't worry about
+	being committed to it. This is a thought exercise: How would you imagine
+	your mechanism, and how would you make it move.
+	Features it must have:
 	- Three different levels of activity for the quarter, half, and full hour
 	- Consider how you will achieve the motions you need
 	- Consider the types of motors and sensors you might need
 	- Consider any audio and visuals (LEDs) effects which will enhance the piece
-	- Create a new folder on Github called "20February". In that
-		folder create a README.md with a description of your very rough first
-		draft along with your sketch, pictures, and any other
-		relevant sources of inspiration or information
+	- Create a new folder on Github called "20February". In that folder create a
+		README.md with a description of your very rough first draft along with
+		your sketch, pictures, and any other relevant sources of inspiration or
+		information
 
 
 
