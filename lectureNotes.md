@@ -282,15 +282,41 @@ Hardware
 - Wood shop training! Yay!
 
 ## Wednesday 15 February 2023
+### Plan for today
+- Presentations
+
+## Monday 20 February 2023
 ##### todays-lecture
 ### Administration
-- [Zoom](https://nyu.zoom.us/j/91200072519)
+- [Zoom](https://nyu.zoom.us/j/94095846718)
 - Attendance
 
 ### Plan for today
-- Presentations
-- Homework
-	- Example 
-		- [Welcome to Duloc](https://www.youtube.com/watch?v=X81AoBcVnaA)
-		- [Guinness Festival Clock](https://vimeo.com/89823385#t=1:00)
+- Presentations on location sensors
+- New sensors
+- Hypothetical final project ideas
+- Final project discussion
 
+#### Presentations on location sensors
+	- Hall Effect sensor
+	- Inductive Proximity sensor
+- Inspired by the presentations of machines along with any other sources,
+
+##### How to sense rotation?
+- How does a servo motor do it?
+- Potentiometer
+	- Potentiometer variation
+- Quadrature rotary encoder
+
+###### Who is next?
+- Potentiometer
+- Potentiometer variation
+- Quadrature rotary encoder
+
+#### Hypothetical final project ideas
+
+#### Final project discussion
+- Should there be a unifying theme?
+- Should there be different levels of activation on the 15, 30, and full
+	hours or should it always be full?
+- Should it be non-standard times? How should we indicate this?

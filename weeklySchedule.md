@@ -110,7 +110,6 @@ Mechanics
 
 - **Closed toed shoes and no loose garments next week!** for wood shop training
 
-##### todays-assignment
 #### Assignment due Wednesday 15 February
 - Prepare a presentation on a mechanical machine:
 	- Machine must have moving parts
@@ -130,6 +129,7 @@ Mechanics
 		README.md which then links to your presentation, whether it's also
 		uploaded to your repo or elsewhere online.
 
+##### todays-assignment
 #### Assignment due Monday 20 February
 - Lesson from those who researched how to use the sensors
 	- Hall Effect sensor
@@ -148,29 +148,6 @@ Mechanics
 		README.md with a description of your very rough first draft along with
 		your sketch, pictures, and any other relevant sources of inspiration or
 		information
-
-
-
-Delayed until further notice:
-- Use an L298 H-bridge to control a stepper motor
-	- Use an external 12V power supply
-	- Write a program to make it rotate first in one direction, and then the
-		other
-	- Connect two limit switches (switch A and switch B) to your Arduino
-	- Modify your program so that 
-		- At first nothing happens
-		- When switch A is activated momentarily the motor turns in one direction 
-		- When switch B is activated momentarily, the motor reverses 
-		- When switch A is activated momentarily, and the motor stops.
-	- Document
-		- A new Github folder named "13February"
-		- README.md to include
-			- A schematic
-			- A photograph of your setup
-			- A brief description of your experience
-			- A few process pictures
-			- A short video
-			- discuss 2-3 things that went wrong and what you did to overcome them
 
 ### Week 4 February 13, 15
 
