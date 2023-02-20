@@ -314,6 +314,13 @@ Hardware
 - Quadrature rotary encoder
 
 #### Hypothetical final project ideas
+Feedback and critique
+- Is it interesting?
+- Is it engaging?
+- Is it achievable?
+	- Mechanisms
+	- Materials
+	- Difficult parts
 
 #### Final project discussion
 - Should there be a unifying theme?
