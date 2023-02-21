@@ -22,9 +22,7 @@ Class location: C3-029 (IM Lab)
 
 **Everything here is subject to change**
 
-### Week 1 January 25
-
-#### Introduction
+# Weekly schedule of homework
 
 #### Assignment due Monday 30 January
 - If you haven't already done so, join Discord
@@ -60,24 +58,6 @@ Class location: C3-029 (IM Lab)
 - Do your own search for something related this class and post your most
 	interesting find(s) on Discord
 
-### Week 2 January 30, February 1
-
-#### Topics: Cardboard, mechanisms, basic motors, wood shop training
-
-#### Activity:
-- build cardboard automata
-
-Mechanics
-- linkages
-- pulleys
-- bearings
-- bracing
-- alignment
-- hardware
-	- nuts and bolts
-	- shaft couplers
-	- cutting steel
-
 #### Assignment due Monday 6 February
 
 - Take some pictures while you are building
@@ -96,15 +76,6 @@ Mechanics
 			- A short video
 			- discuss 2-3 things that went wrong and what you did to overcome them
 - Install the [Arduino IDE](https://www.arduino.cc/en/software)
-
-### Week 3 February 6, 8
-
-#### Topics: Arduino, motors, motor shields, position sensing, power supplies
-
-- Arduino review
-- Motors
-- Position sensing
-- More mechanisms
 
 #### Assignment due Monday 13 February
 
@@ -129,7 +100,6 @@ Mechanics
 		README.md which then links to your presentation, whether it's also
 		uploaded to your repo or elsewhere online.
 
-##### todays-assignment
 #### Assignment due Monday 20 February
 - Lesson from those who researched how to use the sensors
 	- Hall Effect sensor
@@ -149,14 +119,44 @@ Mechanics
 		your sketch, pictures, and any other relevant sources of inspiration or
 		information
 
+##### todays-assignment
+#### Assignment due Wednesday 22 February
+- Think about a theme or story we will tell with our clock
+- Should our clock be interactive i.e. should we allow any interaction with
+	users?
+
+# Weekly schedule of topics
+
+### Week 1 January 25
+#### Introduction
+
+### Week 2 January 30, February 1
+#### Topics: Cardboard, mechanisms, basic motors, wood shop training
+#### Activity:
+- build cardboard automata
+Mechanics
+- linkages
+- pulleys
+- bearings
+- bracing
+- alignment
+- hardware
+	- nuts and bolts
+	- shaft couplers
+	- cutting steel
+
+### Week 3 February 6, 8
+#### Topics: Arduino, motors, motor shields, position sensing, power supplies
+- Arduino review
+- Motors
+- Position sensing
+- More mechanisms
+
 ### Week 4 February 13, 15
-
 #### Topics: time, sound, noise, Neopixels
-
 - Real Time Clocks
 - Relays
 - MP3 Music Maker Shield
-
 Electricity
 - power
 	- power supplies
@@ -169,9 +169,7 @@ Electricity
 	- how
 
 ### Week 5 February 20, 22
-
 #### Topics: Digital fabrication, electrical assembly considerations
-
 Electrical assembly
 - leave room for wires
 - where to put power supplies
