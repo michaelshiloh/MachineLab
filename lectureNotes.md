@@ -286,10 +286,6 @@ Hardware
 - Presentations
 
 ## Monday 20 February 2023
-##### todays-lecture
-### Administration
-- [Zoom](https://nyu.zoom.us/j/94095846718)
-- Attendance
 
 ### Plan for today
 - Presentations on location sensors
@@ -302,17 +298,6 @@ Hardware
 	- Inductive Proximity sensor
 - Inspired by the presentations of machines along with any other sources,
 
-##### How to sense rotation?
-- How does a servo motor do it?
-- Potentiometer
-	- Potentiometer variation
-- Quadrature rotary encoder
-
-###### Who is next?
-- Potentiometer
-- Potentiometer variation
-- Quadrature rotary encoder
-
 #### Hypothetical final project ideas
 Feedback and critique
 - Is it interesting?
@@ -322,8 +307,45 @@ Feedback and critique
 	- Materials
 	- Difficult parts
 
+## Wednesday 22 February 2023
+##### todays-lecture
+### Administration
+- [Zoom](https://nyu.zoom.us/j/94095846718)
+- Attendance
+
+### Plan for today
+- Quiz
+- Sensing rotation
+- Homework
+- Final project discussion
+- More of your final project ideas
+
+#### Draw a circuit showing how you would connect the following:
+- Arduino
+- Two L298 H-Bridge modules
+- Two DC gearmotors operating on 12VDC
+- One stepper motor operating on 24VDC
+- One location sensor (your choice of limit switch, Hall Effect sensor, or
+	inductive proximity sensor) for the stepper motor's home position
+- Bonus: 
+- Two limit switches to prevent one of the DC gearmotors from going too far in
+	either direction
+
+#### How to sense rotation?
+- How does a servo motor do it?
+- Potentiometer
+	- Potentiometer variation
+- Quadrature rotary encoder
+
+#### Who is next?
+- Potentiometer
+- Potentiometer variation
+- Quadrature rotary encoder
+
 #### Final project discussion
 - Should there be a unifying theme?
 - Should there be different levels of activation on the 15, 30, and full
 	hours or should it always be full?
 - Should it be non-standard times? How should we indicate this?
+
+#### More of your final project ideas

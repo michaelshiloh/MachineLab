@@ -119,11 +119,24 @@ Class location: C3-029 (IM Lab)
 		your sketch, pictures, and any other relevant sources of inspiration or
 		information
 
-##### todays-assignment
 #### Assignment due Wednesday 22 February
 - Think about a theme or story we will tell with our clock
 - Should our clock be interactive i.e. should we allow any interaction with
 	users?
+
+##### todays-assignment
+#### Assignment due Monday 27 February
+- Choose one of the following topics for a paper of approximately 3 pages,
+	excluding pictures. You will also make a short (less than 5 minutes)
+	presentation on the topic.  The paper and presentation will be due at a
+	later date. Post, on Discord, the subject you have chosen. Each of you must
+	choose a different subject: 
+	- A specific artist or art collective working with machines 
+	- The history of one of the following machines, including what it does and
+		how it works:
+		- Lathe
+		- Mill
+		- You may propose others which I may accept
 
 # Weekly schedule of topics
 
