@@ -320,11 +320,13 @@ Feedback and critique
 - Final project discussion
 - More of your final project ideas
 
-#### Draw a circuit showing how you would connect the following:
+#### Draw a circuit schematic showing how you would connect the following:
 - Arduino
 - Two L298 H-Bridge modules
 - Two DC gearmotors operating on 12VDC
 - One stepper motor operating on 24VDC
+- One 12VDC power supply
+- One 24VDC power supply
 - One location sensor (your choice of limit switch, Hall Effect sensor, or
 	inductive proximity sensor) for the stepper motor's home position
 - Bonus: 
