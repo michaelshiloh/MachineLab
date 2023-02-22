@@ -342,6 +342,9 @@ Feedback and critique
 - Potentiometer variation
 - Quadrature rotary encoder
 
+#### Homework
+Shortcut to [today's assignment](weeklySchedule.md#todays-assignment)  
+
 #### Final project discussion
 - Should there be a unifying theme?
 - Should there be different levels of activation on the 15, 30, and full
