@@ -22,18 +22,13 @@ Class location: C3-029 (IM Lab)
 
 **Everything here is subject to change**
 
-This file: Student Github Repositories:
+This file: Student papers:
 
-- [Soojin](https://github.com/Soojin-Lee0819/machineLab)  
-- [Sarah](https://github.com/sarahalyahya/machineLab)  
-- [Gautham](https://github.com/gauthamdk/machineLab)
-- [Shreya](https://github.com/shreya81601/MachineLab)
-- [Sashank](https://github.com/sashanksilwal/MachineLab)
-- [Nouf](https://github.com/Nouf-Alabbasi/machineLab)
-- [Amina](https://github.com/ak7588/machineLab)
-- [Alpha](https://github.com/Alphaam/machineLab)
-- [Cole](https://github.com/crb596/machineLab)
-- [Debbie](https://github.com/deborah-74/Machine-Lab)
-- [Nathan](https://github.com/Nathan213/machineLab)
-- [Muhammad](https://github.com/MuhammadBinNauman/Machine_Lab)
-- [Yashaswi](https://github.com/yashaswiim/machineLab)
+- Yashaswiw: [Nemo Gould](https://nemogould.com/)
+- Cole Mills: [specifically a 5 axis mill used in machining](https://www.haascnc.com/machines/multi-axis/5-axis-mills.html)
+- Soojin: [Wintergatan](https://www.youtube.com/watch?v=IvUU8joBb1Q)
+- Muhammad: [Chico MacMurtrie](http://amorphicrobotworks.org/)
+- Nouf: Ismail al-Jazari
+- Sarah: [Zimoun](https://www.zimoun.net/)
+- Sashank: [Arthur Ganson](https://www.arthurganson.com/)
+- Gautham: [Paul Spooner]()
