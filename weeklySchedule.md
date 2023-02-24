@@ -138,6 +138,27 @@ Class location: C3-029 (IM Lab)
 		- Mill
 		- You may propose others which I may accept
 
+- Prepare for Monday's lecture on using Fusion 360 to design parts for laser
+	cutting and 3D printing
+	- Make an [Autodesk educational
+	account](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual).
+	You will need to submit a picture of you university ID to verify educational
+	eligibility.
+	- Download and install Fusion 360
+	- Watch the following videos in order. This will provide a pretty basic
+		understanding of all the processes that will be discussed and should also
+		generate questions:
+		- [Introduction to Fusion 360](https://help.autodesk.com/view/fusion360/ENU/courses/AP-GET-STARTED-OVERVIEW)
+		- [User interface overview](https://help.autodesk.com/view/fusion360/ENU/courses/AP-USER-INTERFACE-OVERVIEW)
+		- [Set preferences](https://help.autodesk.com/view/fusion360/ENU/courses/AP-SET-PREFERENCES)
+		- [Adjust display settings](https://help.autodesk.com/view/fusion360/ENU/courses/AP-ADJUST-DISPLAY-SETTINGS)
+		- [Sketch fundamentals](https://help.autodesk.com/view/fusion360/ENU/courses/AP-SKETCH-FUNDAMENTALS)
+		- [Create and modify sketch geometry](https://help.autodesk.com/view/fusion360/ENU/courses/AP-SKETCH-CREATE-MODIFY)
+		- [Extrude solid bodies](https://help.autodesk.com/view/fusion360/ENU/courses/AP-SOLID-EXTRUDE)
+		- [Create component](https://help.autodesk.com/view/fusion360/ENU/courses/AP-CREATE-COMPONENT)
+		- [Assemblies and joints](https://help.autodesk.com/view/fusion360/ENU/courses/AP-ASSEMBLIES-AND-JOINTS)
+		- [Assembly motion](https://help.autodesk.com/view/fusion360/ENU/courses/AP-ASSEMBLY-MOTION)
+
 # Weekly schedule of topics
 
 ### Week 1 January 25
