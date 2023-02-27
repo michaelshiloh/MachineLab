@@ -308,11 +308,6 @@ Feedback and critique
 	- Difficult parts
 
 ## Wednesday 22 February 2023
-##### todays-lecture
-### Administration
-- [Zoom](https://nyu.zoom.us/j/94095846718)
-- Attendance
-
 ### Plan for today
 - Quiz
 - Sensing rotation
@@ -354,3 +349,22 @@ Shortcut to [today's assignment](weeklySchedule.md#todays-assignment)
 - Should it be non-standard times? How should we indicate this?
 
 #### More of your final project ideas
+
+## Monday 27 February 2023
+##### todays-lecture
+### Administration
+- Attendance
+
+### Plan for today
+- Theme
+- Homework
+- Fusion 360
+
+#### Theme
+- Either time or region
+
+#### Homework
+- Rotation sensors due next Monday 
+- New sketch based on theme due Wednesday
+
+#### Fusion 360

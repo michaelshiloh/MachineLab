@@ -32,3 +32,7 @@ This file: Student papers:
 - Sarah: [Zimoun](https://www.zimoun.net/)
 - Sashank: [Arthur Ganson](https://www.arthurganson.com/)
 - Gautham: [Paul Spooner]()
+- Shreya: Artist [Peter Flemming](https://peterflemming.ca/works)
+- Amina: Artist [Wilf Lunn](http://wilflunn.com/index.html)
+
+
