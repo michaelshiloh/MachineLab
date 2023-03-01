@@ -351,6 +351,13 @@ Shortcut to [today's assignment](weeklySchedule.md#todays-assignment)
 #### More of your final project ideas
 
 ## Monday 27 February 2023
+### Plan for today
+- Fusion 360
+
+#### Fusion 360
+[Here](https://a360.co/3m8wo7w) is the model that Dustin showed us in class
+
+## Wednesday 1 March 2023
 ##### todays-lecture
 ### Administration
 - Attendance
@@ -358,13 +365,17 @@ Shortcut to [today's assignment](weeklySchedule.md#todays-assignment)
 ### Plan for today
 - Theme
 - Homework
-- Fusion 360
+- Monday
 
 #### Theme
 - Either time or region
 
-#### Homework
-- Rotation sensors due next Monday 
-- New sketch based on theme due Wednesday
+#### Homework: When should this be due?
+- New sketch based on theme 
+	- Identify most complicated mechanism 
+	- Prototype that using any materials and methods you wish
+- Rotation sensors 
+- Papers/presentations (artist and/or machine)
 
-#### Fusion 360
+#### Monday
+Tour of Advanced Manufacturing Workshop

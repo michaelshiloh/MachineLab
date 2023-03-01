@@ -31,8 +31,12 @@ This file: Student papers:
 - Nouf: Ismail al-Jazari
 - Sarah: [Zimoun](https://www.zimoun.net/)
 - Sashank: [Arthur Ganson](https://www.arthurganson.com/)
-- Gautham: [Paul Spooner]()
+- Gautham (DarK_Night): [Paul Spooner]()
 - Shreya: Artist [Peter Flemming](https://peterflemming.ca/works)
 - Amina: Artist [Wilf Lunn](http://wilflunn.com/index.html)
+- Nathan: [Survival Research Labs](srl.org)
+- Ilya: [Bio Que](https://www.bloque.studio/dialogo)
+- Alpha: [Jennifer Townley](https://youtu.be/csOqX_DfIQg)
+- Debbie: Jordan Woulfson's [The Coloured Puppet](https://www.youtube.com/watch?v=w1PxJatd9LE) or [Benjamin Cowden](https://www.exploratorium.edu/tinkering/projects)
 
 
