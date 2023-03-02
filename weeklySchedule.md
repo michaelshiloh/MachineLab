@@ -124,7 +124,6 @@ Class location: C3-029 (IM Lab)
 - Should our clock be interactive i.e. should we allow any interaction with
 	users?
 
-##### todays-assignment
 #### Assignment due Monday 27 February
 - Choose one of the following topics for a paper of approximately 3 pages,
 	excluding pictures. You will also make a short (less than 5 minutes)
@@ -136,7 +135,8 @@ Class location: C3-029 (IM Lab)
 		how it works:
 		- Lathe
 		- Mill
-		- You may propose others which I may accept
+		- Wind up clock
+		- You may propose other machines which I may accept
 
 - Prepare for Monday's lecture on using Fusion 360 to design parts for laser
 	cutting and 3D printing
@@ -158,6 +158,28 @@ Class location: C3-029 (IM Lab)
 		- [Create component](https://help.autodesk.com/view/fusion360/ENU/courses/AP-CREATE-COMPONENT)
 		- [Assemblies and joints](https://help.autodesk.com/view/fusion360/ENU/courses/AP-ASSEMBLIES-AND-JOINTS)
 		- [Assembly motion](https://help.autodesk.com/view/fusion360/ENU/courses/AP-ASSEMBLY-MOTION)
+
+##### todays-assignment
+#### Assignment due Wednesday 8 March 
+- Design your portion of the clock. Describe it in some detail. Include
+	pictures and links to inspiration.  This is an early idea and is expected to
+	change, so don't worry about being committed to it.  Features it must have:
+	- In our chosen theme: The UAE
+	- Sketch out how you will achieve the motions you need
+	- Identify the types of motors and sensors you might need
+	- Identify the most difficult mechanism and sketch that out in detail. This
+		is the mechanism that you will build first.
+	- Describe roughly any audio and visuals (LEDs) effects which will enhance
+		your piece
+	- Create a new folder on Github called "6March". In that folder create a
+		README.md with a description of your very rough first draft along with
+		your sketch, pictures, and any other relevant sources of inspiration or
+		information
+
+#### Assignments due Monday 27 March 
+- Build a prototype of the mechanism you have identified as the most
+	difficult. You may use any materials you wish.
+- Your paper and presentation on the artist or machine that you have chosen
 
 # Weekly schedule of topics
 
