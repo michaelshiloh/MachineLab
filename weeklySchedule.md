@@ -161,6 +161,9 @@ Class location: C3-029 (IM Lab)
 
 ##### todays-assignment
 #### Assignment due Wednesday 8 March 
+- Come to class on time as we will be leaving for a tour of the Advanced
+	Manufacturing Workshop. If you think you might be late have the contact
+	number of someone in class so that you can find us.
 - Design your portion of the clock. Describe it in some detail. Include
 	pictures and links to inspiration.  This is an early idea and is expected to
 	change, so don't worry about being committed to it.  Features it must have:
