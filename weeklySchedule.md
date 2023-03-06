@@ -211,13 +211,36 @@ Mechanics
 	- cutting steel
 
 ### Week 3 February 6, 8
-#### Topics: Arduino, motors, motor shields, position sensing, power supplies
-- Arduino review
-- Motors
-- Position sensing
-- More mechanisms
+#### Arduino, motors, H-bridge, power supplies, stepper motors
+
+### Week 3.5 Saturday 11 February 2023
+#### stepper motors, position sensing, more mechanisms
 
 ### Week 4 February 13, 15
+#### Wood shop training, presentations of mechanisms
+
+### Week 5 February 20, 22
+#### Location sensor presentations, final project concepts, rotation sensing
+
+### Week 6 February 27, March 1
+#### CAD, final project decision
+
+### Week 7 March 6, 8
+#### Tours of ERB, AMW, soldering
+
+
+
+
+
+
+
+TO be schedule
+
+
+
+
+
+
 #### Topics: time, sound, noise, Neopixels
 - Real Time Clocks
 - Relays
@@ -233,8 +256,6 @@ Electricity
 	- why it needs to be kept separate from signals
 	- how
 
-### Week 5 February 20, 22
-#### Topics: Digital fabrication, electrical assembly considerations
 Electrical assembly
 - leave room for wires
 - where to put power supplies
@@ -245,65 +266,7 @@ Electrical assembly
 Digital fabrication
 - 3d printer
 - Laser cutter
-- Fusion360 or other
 
-#### Assignment due Monday 27 February
-
-Working in teams of two, design and prototype a mechanism for the clock. It
-should have three different modes:
-- Minimal level of activity on the quarter hour
-- Medium level of activity on the half hour
-- Full activity on the hour
-
-One week is short for this; I expect a rough prototype that might need
-occasional human hand intervention
-
-Your design should include sound but that does not need to be implemented yet
-
-### Week 6 February 27, 29
-
-#### Activity: Demonstrate and critique rough prototype
-
-#### Assignment due March 6
-
-Refine the rough prototype 
-- Incorporate critique and feedback
-- Make it operate reliably
-
-### Week 7 March 6, 8
-
-#### Assignment due March 27
-
-Implement the rough prototype in the final form
-
-### Spring break March 10 - 22
-
-### Week 8 March 27, 29
-
-#### Activity: Demonstrate and critique progress
-
-#### Assignment due 3 April
-- Incorporate critique and feedback
-- Fix problems
-- Test repeatedly
-- Repair
-- Document
-
-### Week 9 April 3, 5
-### Week 10 April 10, 12
-### Week 11 April 17, 19
-### Week 12 April 24, 26
-
-#### Activity: Start assembling group projects into final class installation
-
-#### Assignment 
 - Test; repair, document, repeat
 
-### Week 13 May 1, 3
-
-#### Activity: Start assembling group projects into final class installation
-
-#### Assignment 
-- Test; repair, document, repeat
-
-### Week 13 May 8, 10
+Start assembling group projects into final class installation

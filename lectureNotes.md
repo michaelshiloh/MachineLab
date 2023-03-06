@@ -358,11 +358,6 @@ Shortcut to [today's assignment](weeklySchedule.md#todays-assignment)
 [Here](https://a360.co/3m8wo7w) is the model that Dustin showed us in class
 
 ## Wednesday 1 March 2023
-##### todays-lecture
-### Administration
-- Attendance
-
-### Plan for today
 - Theme
 - Homework
 - Monday
@@ -379,3 +374,19 @@ Shortcut to [today's assignment](weeklySchedule.md#todays-assignment)
 
 #### Monday
 Tour of Advanced Manufacturing Workshop
+
+## Monday 6 March 2023
+##### todays-lecture
+### Administration
+- Attendance
+
+### Plan for today
+- Tour of Advanced Manufacturing Workshop
+- Homework Wednesday
+- Soldering 
+
+#### Soldering 
+- Wires
+- Components to wires
+- Components to perf board
+- Prototyping shield
