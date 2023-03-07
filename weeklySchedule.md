@@ -180,7 +180,7 @@ Class location: C3-029 (IM Lab)
 		is the mechanism that you will build first.
 	- Describe roughly any audio and visuals (LEDs) effects which will enhance
 		your piece
-	- Create a new folder on Github called "6March". In that folder create a
+	- Create a new folder on Github called "8March". In that folder create a
 		README.md with a description of your very rough first draft along with
 		your sketch, pictures, and any other relevant sources of inspiration or
 		information

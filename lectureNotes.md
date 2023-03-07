@@ -395,6 +395,7 @@ Tour of Advanced Manufacturing Workshop
 
 ### Plan for today
 - ERB Machine Shop tour (meet outside of C1 ERB)
+- Project proposals
 - Soldering 
 
 #### Soldering 
