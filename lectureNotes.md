@@ -402,6 +402,7 @@ Tour of Advanced Manufacturing Workshop
 - Visit our new workspace
 - Demo prototypes
 - Tour of tools and parts
+- Discussion of teams
 - Soldering 
 
 #### Soldering 
