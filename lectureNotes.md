@@ -397,6 +397,8 @@ Tour of Advanced Manufacturing Workshop
 ##### todays-lecture
 ### Administration
 - Attendance
+- Zoom join URL: [https://nyu.zoom.us/j/96784756738](Join URL:
+	https://nyu.zoom.us/j/96784756738)
 
 ### Plan for today
 - Visit our new workspace
