@@ -388,14 +388,20 @@ Tour of Advanced Manufacturing Workshop
 - Prototyping shield
 
 ## Wednesday 8 March 2023
-##### todays-lecture
-### Administration
-- Attendance
-- [Zoom](https://nyu.zoom.us/j/2437886410)
-
 ### Plan for today
 - ERB Machine Shop tour (meet outside of C1 ERB)
 - Project proposals
+- Soldering 
+
+## Wednesday 8 March 2023
+##### todays-lecture
+### Administration
+- Attendance
+
+### Plan for today
+- Visit our new workspace
+- Demo prototypes
+- Tour of tools and parts
 - Soldering 
 
 #### Soldering 
