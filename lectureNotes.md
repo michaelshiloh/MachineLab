@@ -400,8 +400,8 @@ Tour of Advanced Manufacturing Workshop
 - Zoom join URL: [https://nyu.zoom.us/j/96784756738](https://nyu.zoom.us/j/96784756738)
 
 ### Plan for today
-- Visit our new workspace
 - Demo prototypes
+- Visit our new workspace
 - Tour of tools and parts
 - Discussion of teams
 - Soldering 
