@@ -191,7 +191,8 @@ Class location: C3-029 (IM Lab)
 ##### todays-assignment
 #### Assignments due Monday 29 March 
 - Decide who you would like to work with and come up with an initial idea and
-	rough sketch of what you'd like to make
+	rough sketch of what you'd like to make. This can be based on a previous
+	idea or a new idea.
 #### Assignments due Wednesday April 5 
 - We will start giving presentations next Wednesday, April 5. 
 	The schedule for presentations is [here](studentPapers.md)
