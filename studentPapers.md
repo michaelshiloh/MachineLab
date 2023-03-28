@@ -24,19 +24,27 @@ Class location: C3-029 (IM Lab)
 
 This file: Student papers:
 
-- Yashaswiw: [Nemo Gould](https://nemogould.com/)
-- Cole Mills: [specifically a 5 axis mill used in machining](https://www.haascnc.com/machines/multi-axis/5-axis-mills.html)
-- Soojin: [Wintergatan](https://www.youtube.com/watch?v=IvUU8joBb1Q)
-- Muhammad: [Chico MacMurtrie](http://amorphicrobotworks.org/)
-- Nouf: Ismail al-Jazari
-- Sarah: [Zimoun](https://www.zimoun.net/)
-- Sashank: [Arthur Ganson](https://www.arthurganson.com/)
-- Gautham (DarK_Night): [Paul Spooner]()
-- Shreya: Artist [Peter Flemming](https://peterflemming.ca/works)
-- Amina: Artist [Wilf Lunn](http://wilflunn.com/index.html)
-- Nathan: [Survival Research Labs](srl.org)
+
+##### Wednesday April 5
 - Ilya: [Bio Que](https://www.bloque.studio/dialogo)
 - Alpha: [Jennifer Townley](https://youtu.be/csOqX_DfIQg)
 - Debbie: Jordan Woulfson's [The Coloured Puppet](https://www.youtube.com/watch?v=w1PxJatd9LE) or [Benjamin Cowden](https://www.exploratorium.edu/tinkering/projects)
 
+##### Wednesday April 12
+- Shreya: Artist [Peter Flemming](https://peterflemming.ca/works)
+- Amina: Artist [Wilf Lunn](http://wilflunn.com/index.html)
+- Nathan: [Survival Research Labs](srl.org)
 
+##### Wednesday April 19
+- Sarah: [Zimoun](https://www.zimoun.net/)
+- Sashank: [Arthur Ganson](https://www.arthurganson.com/)
+- Gautham (DarK_Night): [Paul Spooner]()
+
+##### Wednesday April 26
+- Soojin: [Wintergatan](https://www.youtube.com/watch?v=IvUU8joBb1Q)
+- Muhammad: [Chico MacMurtrie](http://amorphicrobotworks.org/)
+- Nouf: Ismail al-Jazari
+
+##### Wednesday May 3
+- Yashaswiw: [Nemo Gould](https://nemogould.com/)
+- Cole Mills: [specifically a 5 axis mill used in machining](https://www.haascnc.com/machines/multi-axis/5-axis-mills.html)

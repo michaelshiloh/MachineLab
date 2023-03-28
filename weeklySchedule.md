@@ -159,8 +159,6 @@ Class location: C3-029 (IM Lab)
 		- [Assemblies and joints](https://help.autodesk.com/view/fusion360/ENU/courses/AP-ASSEMBLIES-AND-JOINTS)
 		- [Assembly motion](https://help.autodesk.com/view/fusion360/ENU/courses/AP-ASSEMBLY-MOTION)
 
-##### todays-assignment
-
 #### Assignment due Monday 6 March 
 - Come to class on time as we will be leaving for a tour of the Advanced
 	Manufacturing Workshop. If you think you might be late have the contact
@@ -189,6 +187,15 @@ Class location: C3-029 (IM Lab)
 - Build a prototype of the mechanism you have identified as the most
 	difficult. You may use any materials you wish.
 - Your paper and presentation on the artist or machine that you have chosen
+
+##### todays-assignment
+#### Assignments due Monday 29 March 
+- Decide who you would like to work with and come up with an initial idea and
+	rough sketch of what you'd like to make
+#### Assignments due Wednesday April 5 
+- We will start giving presentations next Wednesday, April 5. 
+	The schedule for presentations is [here](studentPapers.md)
+	We will do three presentations each Wednesday.
 
 # Weekly schedule of topics
 
