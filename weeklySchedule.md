@@ -193,6 +193,7 @@ Class location: C3-029 (IM Lab)
 - Decide who you would like to work with and come up with an initial idea and
 	rough sketch of what you'd like to make. This can be based on a previous
 	idea or a new idea.
+
 #### Assignments due Monday April 3
 - Work with your team mates and decide how you're going to start building your
 	structure. One of you should create a new folder ("finalProject" and in it a
@@ -203,7 +204,9 @@ Class location: C3-029 (IM Lab)
 		work in more solid, less forgiving material)
 	- Skip the prototype and start on the final project, whether in wood, metal,
 		or plastic
-	- Something else #### Assignments due Wednesday April 5 
+	- Something else 
+
+#### Assignments due Wednesday April 5 
 - We will start giving presentations next Wednesday, April 5.  The schedule
 	for presentations is [here](studentPapers.md) We will do three presentations
 	each Wednesday.
