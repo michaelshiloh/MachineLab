@@ -393,12 +393,7 @@ Tour of Advanced Manufacturing Workshop
 - Project proposals
 - Soldering 
 
-## Wednesday 8 March 2023
-##### todays-lecture
-### Administration
-- Attendance
-- Zoom join URL: [https://nyu.zoom.us/j/96784756738](https://nyu.zoom.us/j/96784756738)
-
+## Monday 27 March 2023
 ### Plan for today
 - Demo prototypes
 - Visit our new workspace
@@ -411,3 +406,13 @@ Tour of Advanced Manufacturing Workshop
 - Components to wires
 - Components to perf board
 - Prototyping shield
+
+## Wednesday 29 March 2023
+##### todays-lecture
+### Administration
+- Attendance
+- Zoom join URL: [https://nyu.zoom.us/j/96784756738](https://nyu.zoom.us/j/96784756738)
+
+### Plan for today
+- Photograph prototypes
+- Working with aluminium

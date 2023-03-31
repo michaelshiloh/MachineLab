@@ -189,14 +189,24 @@ Class location: C3-029 (IM Lab)
 - Your paper and presentation on the artist or machine that you have chosen
 
 ##### todays-assignment
-#### Assignments due Monday 29 March 
+#### Assignments due Wednesday 29 March 
 - Decide who you would like to work with and come up with an initial idea and
 	rough sketch of what you'd like to make. This can be based on a previous
 	idea or a new idea.
-#### Assignments due Wednesday April 5 
-- We will start giving presentations next Wednesday, April 5. 
-	The schedule for presentations is [here](studentPapers.md)
-	We will do three presentations each Wednesday.
+#### Assignments due Monday April 3
+- Work with your team mates and decide how you're going to start building your
+	structure. One of you should create a new folder ("finalProject" and in it a
+	"README.mD" in which you will document your progress) in your Github
+	repository. Document what you plan to do on Monday. You have many choices:
+	- Cardboard prototype 
+	- Wood prototype (much stronger, and it gives you a feel for how it will
+		work in more solid, less forgiving material)
+	- Skip the prototype and start on the final project, whether in wood, metal,
+		or plastic
+	- Something else #### Assignments due Wednesday April 5 
+- We will start giving presentations next Wednesday, April 5.  The schedule
+	for presentations is [here](studentPapers.md) We will do three presentations
+	each Wednesday.
 
 # Weekly schedule of topics
 
