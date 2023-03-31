@@ -197,7 +197,7 @@ Class location: C3-029 (IM Lab)
 #### Assignments due Monday April 3
 - Work with your team mates and decide how you're going to start building your
 	structure. One of you should create a new folder ("finalProject" and in it a
-	"README.mD" in which you will document your progress) in your Github
+	"README.md" in which you will document your progress) in your Github
 	repository. Document what you plan to do on Monday. You have many choices:
 	- Cardboard prototype 
 	- Wood prototype (much stronger, and it gives you a feel for how it will
