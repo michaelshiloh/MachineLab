@@ -437,13 +437,13 @@ Tour of Advanced Manufacturing Workshop
 	- Alpha
 	- Sarah 
 	- Muhammad
-	- Debbie
+	- Debbie - edit construction video
 - Groups
-	- amina nouf shreya - myths in the UAE
-	- cole - sailing ships
-	- nathan (gautham, soojin) - falcon and hourglass
-	- sashank muhammad yashaswi - air/land/ocean
-	- Debbie Alpha Sara - rotating images
+	- Amina Nouf Shreya - myths in the UAE
+	- Cole - sailing ships
+	- Nathan Gautham, Soojin - falcon and hourglass
+	- Sashank Muhammad Yashaswi - air/land/ocean
+	- Debbie Ilya Alpha Sara - rotating images
 
 
 
