@@ -208,7 +208,7 @@ Class location: C3-029 (IM Lab)
 
 #### Assignments due Wednesday April 5 
 - We will start giving presentations next Wednesday, April 5.  The schedule
-	for presentations is [here](studentPapers.md) We will do three presentations
+	for presentations is [here](studentPapers.md). We will do three presentations
 	each Wednesday.
 
 # Weekly schedule of topics

@@ -408,11 +408,28 @@ Tour of Advanced Manufacturing Workshop
 - Prototyping shield
 
 ## Wednesday 29 March 2023
+### Plan for today
+- Photograph prototypes
+- Working with aluminium
+
+## Monday 3 April 2023
 ##### todays-lecture
 ### Administration
 - Attendance
 - Zoom join URL: [https://nyu.zoom.us/j/96784756738](https://nyu.zoom.us/j/96784756738)
 
 ### Plan for today
-- Photograph prototypes
-- Working with aluminium
+- Proposals: Sarah, Ilya
+- Reminder: Presentations start on Wednesday. The schedule
+  for presentations is [here](studentPapers.md). 
+	We will do three presentations each Wednesday.
+- Who did what for sensors?
+	- Limit switch
+	- Limit switch
+	- Hall Effect sensor
+	- Hall Effect sensor
+	- Potentiometer 
+	- Continuous turn potentiometer
+	- Rotary encoder
+
+
