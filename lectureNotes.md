@@ -419,18 +419,31 @@ Tour of Advanced Manufacturing Workshop
 - Zoom join URL: [https://nyu.zoom.us/j/96784756738](https://nyu.zoom.us/j/96784756738)
 
 ### Plan for today
-- Proposals: Sarah, Ilya, Debbie
+- Proposals: Sarah, Ilya, Debbie, Nathan
 - Reminder: Presentations start on Wednesday. The schedule
   for presentations is [here](studentPapers.md). 
 	We will do three presentations each Wednesday.
 - Who did what for sensors?
-	- Limit switch
-	- Limit switch
-	- Hall Effect sensor
-	- Hall Effect sensor
-	- Potentiometer 
-	- Continuous turn potentiometer
-	- Rotary encoder
-- STart!
+	- Inductive Proximity sensor - Nouf
+	- Inductive Proximity sensor - Gautham
+	- Hall Effect sensor - Cole
+	- Hall Effect sensor - Shreya
+	- Potentiometer - Soojin
+	- Continuous turn potentiometer - Sashank
+	- Rotary encoder - Nathan
+	- Ilya
+	- Amina
+	- Yashaswi
+	- Alpha
+	- Sarah 
+	- Muhammad
+	- Debbie
+- Groups
+	- amina nouf shreya - myths in the UAE
+	- cole - sailing ships
+	- nathan (gautham, soojin) - falcon and hourglass
+	- sashank muhammad yashaswi - air/land/ocean
+	- Debbie Alpha Sara - rotating images
+
 
 
