@@ -210,6 +210,7 @@ Class location: C3-029 (IM Lab)
 - We will start giving presentations next Wednesday, April 5.  The schedule
 	for presentations is [here](studentPapers.md). We will do three presentations
 	each Wednesday.
+- Photograph and dismantle your cam and crank mechanism
 
 # Weekly schedule of topics
 
