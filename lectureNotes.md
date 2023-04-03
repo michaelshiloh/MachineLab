@@ -419,7 +419,7 @@ Tour of Advanced Manufacturing Workshop
 - Zoom join URL: [https://nyu.zoom.us/j/96784756738](https://nyu.zoom.us/j/96784756738)
 
 ### Plan for today
-- Proposals: Sarah, Ilya
+- Proposals: Sarah, Ilya, Debbie
 - Reminder: Presentations start on Wednesday. The schedule
   for presentations is [here](studentPapers.md). 
 	We will do three presentations each Wednesday.
@@ -431,5 +431,6 @@ Tour of Advanced Manufacturing Workshop
 	- Potentiometer 
 	- Continuous turn potentiometer
 	- Rotary encoder
+- STart!
 
 
