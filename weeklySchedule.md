@@ -188,7 +188,6 @@ Class location: C3-029 (IM Lab)
 	difficult. You may use any materials you wish.
 - Your paper and presentation on the artist or machine that you have chosen
 
-##### todays-assignment
 #### Assignments due Wednesday 29 March 
 - Decide who you would like to work with and come up with an initial idea and
 	rough sketch of what you'd like to make. This can be based on a previous
@@ -206,6 +205,7 @@ Class location: C3-029 (IM Lab)
 		or plastic
 	- Something else 
 
+##### todays-assignment
 #### Assignments due Wednesday April 5 
 - We will start giving presentations next Wednesday, April 5.  The schedule
 	for presentations is [here](studentPapers.md). We will do three presentations
