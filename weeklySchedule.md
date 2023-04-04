@@ -216,7 +216,7 @@ Class location: C3-029 (IM Lab)
 	repository store all your notes and files, and later code, and
 	additionally create a journal (journal.md) in which you record your
 	progress. In the journal document what you've done so far and what you
-	intend to do next.
+	intend to do next. Be prepared to share your progress at each class meeting.
 
 # Weekly schedule of topics
 
