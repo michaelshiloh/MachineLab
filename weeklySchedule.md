@@ -210,7 +210,13 @@ Class location: C3-029 (IM Lab)
 - We will start giving presentations next Wednesday, April 5.  The schedule
 	for presentations is [here](studentPapers.md). We will do three presentations
 	each Wednesday.
-- Photograph and dismantle your cam and crank mechanism
+- Photograph and dismantle your cam and crank slider mechanism
+- In each team one of you creates a new repository in your Github account for
+	the group project, and add your team mates as collaborators. In that
+	repository store all your notes and files, and later code, and
+	additionally create a journal (journal.md) in which you record your
+	progress. In the journal document what you've done so far and what you
+	intend to do next.
 
 # Weekly schedule of topics
 
