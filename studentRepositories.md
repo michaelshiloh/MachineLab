@@ -45,5 +45,5 @@ Teams
   - Nathan Gautham, Soojin - falcon and hourglass
   - Sashank Muhammad Yashaswi - air/land/ocean
   - Debbie Ilya Alpha Sarah - [Rotating
-		Images](https://github.com/sarahalyahya/machineLab_PanelStory/tree/main]
+		Images](https://github.com/sarahalyahya/machineLab_PanelStory/tree/main)
 
