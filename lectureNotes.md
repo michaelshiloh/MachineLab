@@ -413,11 +413,6 @@ Tour of Advanced Manufacturing Workshop
 - Working with aluminium
 
 ## Monday 3 April 2023
-##### todays-lecture
-### Administration
-- Attendance
-- Zoom join URL: [https://nyu.zoom.us/j/96784756738](https://nyu.zoom.us/j/96784756738)
-
 ### Plan for today
 - Proposals: Sarah, Ilya, Debbie, Nathan
 - Reminder: Presentations start on Wednesday. The schedule
@@ -445,5 +440,16 @@ Tour of Advanced Manufacturing Workshop
 	- Sashank Muhammad Yashaswi - air/land/ocean
 	- Debbie Ilya Alpha Sara - rotating images
 
+## Wednesday 5 April 2023
+##### todays-lecture
+### Administration
+- Attendance
+- Zoom join URL: [https://nyu.zoom.us/j/96784756738](https://nyu.zoom.us/j/96784756738)
 
-
+### Plan for today
+- Presentations: Debbie, Ilya, Alpha
+- Group progress report
+- Staffed hours in the Scene Shop
+	- By appointment or set aside hours?
+- Homework
+- Calendar

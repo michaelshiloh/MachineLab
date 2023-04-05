@@ -47,4 +47,4 @@ This file: Student papers:
 
 ##### Wednesday May 3
 - Yashaswiw: [Nemo Gould](https://nemogould.com/)
-- Cole Mills: [specifically a 5 axis mill used in machining](https://www.haascnc.com/machines/multi-axis/5-axis-mills.html)
+- Cole: Mills [specifically a 5 axis mill used in machining](https://www.haascnc.com/machines/multi-axis/5-axis-mills.html)
