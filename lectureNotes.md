@@ -438,7 +438,7 @@ Tour of Advanced Manufacturing Workshop
 	- Cole - sailing ships
 	- Nathan Gautham, Soojin - falcon and hourglass
 	- Sashank Muhammad Yashaswi - air/land/ocean
-	- Debbie Ilya Alpha Sara - rotating images
+	- Debbie Ilya Alpha Sarah - rotating images
 
 ## Wednesday 5 April 2023
 ##### todays-lecture

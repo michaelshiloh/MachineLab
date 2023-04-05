@@ -37,3 +37,13 @@ This file: Student Github Repositories:
 - [Nathan](https://github.com/Nathan213/machineLab) (EastO)
 - [Muhammad](https://github.com/MuhammadBinNauman/Machine_Lab)
 - [Yashaswi](https://github.com/yashaswiim/machineLab)
+
+Teams
+  - Amina Nouf Shreya - [Myths in the
+		UAE](https://github.com/Nouf-Alabbasi/Machine_Lab_Clock_automata)
+  - Cole - sailing ships
+  - Nathan Gautham, Soojin - falcon and hourglass
+  - Sashank Muhammad Yashaswi - air/land/ocean
+  - Debbie Ilya Alpha Sarah - [Rotating
+		Images](https://github.com/sarahalyahya/machineLab_PanelStory/tree/main]
+
