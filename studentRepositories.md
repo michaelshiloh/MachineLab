@@ -26,7 +26,7 @@ This file: Student Github Repositories:
 
 - [Soojin](https://github.com/Soojin-Lee0819/machineLab)  
 - [Sarah](https://github.com/sarahalyahya/machineLab)  
-- [Gautham](https://github.com/gauthamdk/machineLab)
+- [Gautham](https://github.com/gauthamdk/machineLab) (Dark_Knight)
 - [Shreya](https://github.com/shreya81601/MachineLab) (SG)
 - [Sashank](https://github.com/sashanksilwal/MachineLab)
 - [Nouf](https://github.com/Nouf-Alabbasi/machineLab)
@@ -42,8 +42,10 @@ Teams
   - Amina Nouf Shreya - [Myths in the
 		UAE](https://github.com/Nouf-Alabbasi/Machine_Lab_Clock_automata)
   - Cole - sailing ships
-  - Nathan Gautham, Soojin - falcon and hourglass
-  - Sashank Muhammad Yashaswi - air/land/ocean
+  - Nathan Gautham, Soojin - 
+		[Falcon and hourglass](https://github.com/gauthamdk/hourglass)
+  - Sashank Muhammad Yashaswi -
+		[Air/Land/Ocean](https://github.com/yashaswiim/machineLab_finalProject)
   - Debbie Ilya Alpha Sarah - [Rotating
 		Images](https://github.com/sarahalyahya/machineLab_PanelStory/tree/main)
 
