@@ -441,7 +441,6 @@ Tour of Advanced Manufacturing Workshop
 	- Debbie Ilya Alpha Sarah - rotating images
 
 ## Wednesday 5 April 2023
-##### todays-lecture
 ### Administration
 - Attendance
 - Zoom join URL: [https://nyu.zoom.us/j/96784756738](https://nyu.zoom.us/j/96784756738)
@@ -453,3 +452,10 @@ Tour of Advanced Manufacturing Workshop
 	- By appointment or set aside hours?
 - Homework
 - Calendar
+
+##### todays-lecture
+## Monday 10 April 2023
+### Plan for today
+- Homework
+- Calendar
+- Work

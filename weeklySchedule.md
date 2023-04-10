@@ -205,7 +205,6 @@ Class location: C3-029 (IM Lab)
 		or plastic
 	- Something else 
 
-##### todays-assignment
 #### Assignments due Wednesday April 5 
 - We will start giving presentations next Wednesday, April 5.  The schedule
 	for presentations is [here](studentPapers.md). We will do three presentations
@@ -217,6 +216,18 @@ Class location: C3-029 (IM Lab)
 	additionally create a journal (journal.md) in which you record your
 	progress. In the journal document what you've done so far and what you
 	intend to do next. Be prepared to share your progress at each class meeting.
+
+##### todays-assignment
+#### Assignments due Wednesday April 12 
+- Make a schedule for your project
+	- List the necessary tasks
+	- Create a schedule so that all these tasks 
+		will be finished by May 3 
+		(this allows a week for integration)
+- Document in your team project journal:
+	- What you did since your last work session
+	- Did your design change as a result of your work? If so, How?
+	- What you plan to do next, and by when
 
 # Weekly schedule of topics
 
