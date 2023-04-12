@@ -500,3 +500,9 @@ Research projects for the rest of you
 	- Yashaswi
 - Debbie - edit construction video
 
+
+To get support in the Scene Shop for using the big power tools:
+- mshiloh@nyu.edu
+- Nelson  ngreyes@nyu.edu
+- Jon Bonner jbonner@nyu.edu
+- Steven Doughty sd155@nyu.edu
