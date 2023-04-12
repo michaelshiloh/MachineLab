@@ -453,9 +453,50 @@ Tour of Advanced Manufacturing Workshop
 - Homework
 - Calendar
 
-##### todays-lecture
 ## Monday 10 April 2023
 ### Plan for today
 - Homework
 - Calendar
 - Work
+
+##### todays-lecture
+## Wednesday 12 April 2023
+### Administration
+- Attendance
+
+### Plan for today
+- Presentations: Shreya, Amina, Nathan
+- Team schedules
+- Research projects for the rest of you
+
+Team schedules
+- [Myths in the
+	UAE](https://github.com/Nouf-Alabbasi/Machine_Lab_Clock_automata)
+- [Sailing
+	Ships](https://github.com/crb596/machineLab/tree/main/finalProject)
+- [Falcon and hourglass](https://github.com/gauthamdk/hourglass)
+- [Air/Land/Ocean](https://github.com/yashaswiim/machineLab_finalProject)
+- [Rotating
+	Images](https://github.com/sarahalyahya/machineLab_PanelStory/tree/main)
+
+Research projects for the rest of you
+- Clock 
+	- Design and fabricate a clock face including mounting abilities
+	- Mount the motors to the face
+	- Mount the hands to the motors
+	- Mount sensors to detect where the hands are
+	- Ilya
+	- Amina
+- Real time clock (RTC) 
+	- Set the RTC to the current time (one-time only)
+	- Read the clock 
+	- Provide the information in variables (hours, minutes)
+	- Sarah
+	- Alpha
+- Clock control software 
+	- Get information from the clock variables (hours, minutes)
+	- Control the motors to indicate this time
+	- Muhammad
+	- Yashaswi
+- Debbie - edit construction video
+

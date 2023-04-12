@@ -41,7 +41,8 @@ This file: Student Github Repositories:
 Teams
   - Amina Nouf Shreya - [Myths in the
 		UAE](https://github.com/Nouf-Alabbasi/Machine_Lab_Clock_automata)
-  - Cole - sailing ships
+  - Cole - [Sailing
+		Ships](https://github.com/crb596/machineLab/tree/main/finalProject)
   - Nathan Gautham, Soojin - 
 		[Falcon and hourglass](https://github.com/gauthamdk/hourglass)
   - Sashank Muhammad Yashaswi -
