@@ -502,7 +502,7 @@ Research projects for the rest of you
 
 
 To get support in the Scene Shop for using the big power tools:
-- mshiloh@nyu.edu
+- mshiloh@nyu.edu or Discord
 - Nelson  ngreyes@nyu.edu
 - Jon Bonner jbonner@nyu.edu
 - Steven Doughty sd155@nyu.edu
