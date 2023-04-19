@@ -459,11 +459,7 @@ Tour of Advanced Manufacturing Workshop
 - Calendar
 - Work
 
-##### todays-lecture
 ## Wednesday 12 April 2023
-### Administration
-- Attendance
-
 ### Plan for today
 - Presentations: Shreya, Amina, Nathan
 - Team schedules
@@ -500,6 +496,23 @@ Research projects for the rest of you
 	- Yashaswi
 - Debbie - edit construction video
 
+
+## Wednesday 19 April 2023
+##### todays-lecture
+### Administration
+- Attendance
+
+### Plan for today
+- Presentations: Sarah, Sashank, Gautham
+- Progress
+- Support
+
+##### Progress
+- Does every group have a frame?
+- Clean up
+	- Lab
+	- Scene Shop
+	- Tools
 
 ##### To get support in the Scene Shop for using the big power tools:
 - mshiloh@nyu.edu or Discord
