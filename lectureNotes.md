@@ -514,7 +514,7 @@ Research projects for the rest of you
 	- Scene Shop
 	- Tools
 
-##### To get support:
+##### To get access to various workshops:
 - mshiloh@nyu.edu or Discord
 - Nelson Reyes ngreyes@nyu.edu (Scene Shop)
 - Jon Bonner jbonner@nyu.edu (Scene Shop)
