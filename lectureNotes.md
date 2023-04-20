@@ -514,8 +514,10 @@ Research projects for the rest of you
 	- Scene Shop
 	- Tools
 
-##### To get support in the Scene Shop for using the big power tools:
+##### To get support:
 - mshiloh@nyu.edu or Discord
-- Nelson Reyes ngreyes@nyu.edu
-- Jon Bonner jbonner@nyu.edu
-- Steven Doughty sd155@nyu.edu
+- Nelson Reyes ngreyes@nyu.edu (Scene Shop)
+- Jon Bonner jbonner@nyu.edu (Scene Shop)
+- Steven Doughty sd155@nyu.edu (Scene Shop)
+- Jorge jmontalvon@nyu.edu (Advanced Manufacturing Workshop)
+- Vijay vijay.dhanvi@nyu.edu (machine shop in the Science Building (ERB, C1))
