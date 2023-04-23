@@ -498,10 +498,6 @@ Research projects for the rest of you
 
 
 ## Wednesday 19 April 2023
-##### todays-lecture
-### Administration
-- Attendance
-
 ### Plan for today
 - Presentations: Sarah, Sashank, Gautham
 - Progress
@@ -513,6 +509,22 @@ Research projects for the rest of you
 	- Lab
 	- Scene Shop
 	- Tools
+
+## Wednesday 26 April 2023
+##### todays-lecture
+### Administration
+- Attendance
+
+### Plan for today
+- Presentations: 
+- Making connections
+
+##### Making connections
+To Arduino
+- Prototyping shield
+Power and interface to the main clock
+- DIN connectors
+- DIN rails
 
 ##### To get access to various workshops:
 - mshiloh@nyu.edu or Discord

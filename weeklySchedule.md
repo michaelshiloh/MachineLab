@@ -228,13 +228,17 @@ Class location: C3-029 (IM Lab)
 	- Did your design change as a result of your work? If so, How?
 	- What you plan to do next, and by when
 
-##### todays-assignment
 #### Assignments due Monday April 17 
 - Make progress on your project
 - Write an entry in your journal
 	- What you did since your last work session
 	- Did your design change as a result of your work? If so, How?
 	- What you plan to do next, and by when
+
+##### todays-assignment
+#### Assignments due Wednesday May 3
+Mechanism complete, working, tested, and in its cube, ready to be attached to
+other cubes
 
 # Weekly schedule of topics
 
