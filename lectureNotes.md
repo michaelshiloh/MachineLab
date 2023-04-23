@@ -516,7 +516,7 @@ Research projects for the rest of you
 - Attendance
 
 ### Plan for today
-- Presentations: 
+- Presentations: Soojin, Muhammad, Nouf
 - Making connections
 
 ##### Making connections
