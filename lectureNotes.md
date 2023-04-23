@@ -517,7 +517,12 @@ Research projects for the rest of you
 
 ### Plan for today
 - Presentations: Soojin, Muhammad, Nouf
+- Where to put the Arduino and H-Bridge
 - Making connections
+
+##### Where to put the Arduino and H-Bridge
+- Standoffs
+- DIN rail
 
 ##### Making connections
 To Arduino
