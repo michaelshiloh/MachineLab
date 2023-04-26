@@ -263,12 +263,16 @@ other cubes
   `currentTimeSeconds` and the input from the inductive proximity sensor
   detecting the motor's "zero" position. On reset, you rotate the motor until
   you find the "zero" position and then you set a global variable indicating
-  the motor's position (e.g.  motorCurrentPosition).  In the `loop()`, you
-  check the time and then move the motor to the position representing the
-  time, knowing how many steps the motor takes per revolution (I think it's
-  200) and how far the motor's "zero" position is from noon (we'll set this in
-  a global constant e.g. ZERO_TO_NOON_OFFSET). Whenever you move the motor,
-  you must update motorCurrentPosition to keep track of where the motor is.
+  the motor's position (e.g.  `motorCurrentPosition`).  In the `loop()`
+  function, you check the time and then move the motor to the position
+  representing the time, knowing how many steps the motor takes per revolution
+  (I think it's 200) and how far the motor's "zero" position is from noon
+  (we'll set this in a global constant e.g. ZERO_TO_NOON_OFFSET). Whenever you
+  move the motor, you must update `motorCurrentPosition` to keep track of
+  where the motor is. You can also have fun with this, for instance at noon
+  the hands can dance around before returning to noon, and every hour the
+  hands can go backwards before settling on the correct hour. Whatever you
+  want.
 
 
 
