@@ -43,8 +43,8 @@ This file: Student papers:
 ##### Wednesday April 26
 - Soojin: [Wintergatan](https://www.youtube.com/watch?v=IvUU8joBb1Q)
 - Muhammad: [Chico MacMurtrie](http://amorphicrobotworks.org/)
-- Nouf: Ismail al-Jazari
 
 ##### Wednesday May 3
 - Yashaswiw: [Nemo Gould](https://nemogould.com/)
 - Cole: Mills [specifically a 5 axis mill used in machining](https://www.haascnc.com/machines/multi-axis/5-axis-mills.html)
+- Nouf: Ismail al-Jazari
