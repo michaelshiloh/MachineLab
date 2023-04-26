@@ -240,7 +240,41 @@ Class location: C3-029 (IM Lab)
 Mechanism complete, working, tested, and in its cube, ready to be attached to
 other cubes
 
-# Weekly schedule of topics
+#### Extra pieces of the clock
+- @Sarah @alpha: Learn how to use the DS1307 Real Time Clock (RTC) module. You
+  can google "DS1307" and "arduino" for a ton of information. Also in our book
+  it's in the chapter on the garden irrigation system. You need first of all
+  to set the correct time in the clock. That's a one-time operation that does
+  not need to be done again on the clock. Your running program should check
+  the RTC every second and update 3 global variables: `currentTimeHours`,
+  `currentTimeMinutes`, and `currentTimeSeconds`. You'll solder a prototyping
+  shield to hold the RTC (this is actually described in the book in detail)
+- @ilya @amina: for the clock face let's assume a piece of wood with holes
+  drilled for the shaft, and a bracket to hold the motor and the inductive
+  proximity sensor. I'll sketch for you what I want the bracket to look like
+  and we'll get the Machine Shop to make it for us. The inductive proximity
+  sensor will detect one of the screws on the shaft coupler which will
+  determine the motor's "zero" position. (Maybe the bracket should also hold
+  the L298 H-Bridge). You'll also design a clock face to be etched on the
+  laser cutter. You have quite a bit of creative license here: How should the
+  hands be organized? What should they look like? What about the numbers?
+- @Muhammad @Yashaswi: For the software, you have as input the 3 global
+  variables from the RTC: `currentTimeHours`, `currentTimeMinutes`, and
+  `currentTimeSeconds` and the input from the inductive proximity sensor
+  detecting the motor's "zero" position. On reset, you rotate the motor until
+  you find the "zero" position and then you set a global variable indicating
+  the motor's position (e.g.  motorCurrentPosition).  In the `loop()`, you
+  check the time and then move the motor to the position representing the
+  time, knowing how many steps the motor takes per revolution (I think it's
+  200) and how far the motor's "zero" position is from noon (we'll set this in
+  a global constant e.g. ZERO_TO_NOON_OFFSET). Whenever you move the motor,
+  you must update motorCurrentPosition to keep track of where the motor is.
+
+
+
+
+
+# Potential schedule and topics for discussion
 
 ### Week 1 January 25
 #### Introduction
