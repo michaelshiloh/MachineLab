@@ -528,6 +528,9 @@ Power and interface to the main clock
 
 ### Plan for today
 - Presentations
+  - Yashaswi
+  - Nouf
+  - Cole
 - Evaluations
 - Next steps
   - Cleaning up
