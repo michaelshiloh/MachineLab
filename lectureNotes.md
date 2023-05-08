@@ -528,8 +528,13 @@ Power and interface to the main clock
 
 ### Plan for today
 - Presentations
--Evaluations
+- Evaluations
 - Next steps
+  - Cleaning up
+  - Unused components
+    - Wood
+    - Sensors/motors/
+    - Screws etc.
 
 ## Resources
 
