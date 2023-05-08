@@ -433,12 +433,6 @@ Tour of Advanced Manufacturing Workshop
 	- Sarah 
 	- Muhammad
 	- Debbie - edit construction video
-- Groups
-	- Amina Nouf Shreya - myths in the UAE
-	- Cole - sailing ships
-	- Nathan Gautham, Soojin - falcon and hourglass
-	- Sashank Muhammad Yashaswi - air/land/ocean
-	- Debbie Ilya Alpha Sarah - rotating images
 
 ## Wednesday 5 April 2023
 ### Administration
@@ -511,10 +505,6 @@ Research projects for the rest of you
 	- Tools
 
 ## Wednesday 26 April 2023
-##### todays-lecture
-### Administration
-- Attendance
-
 ### Plan for today
 - Presentations: Soojin, Muhammad, Nouf
 - Where to put the Arduino and H-Bridge
@@ -531,6 +521,18 @@ Power and interface to the main clock
 - DIN connectors
 - DIN rails
 
+## Monday 8 May 2023
+##### todays-lecture
+### Administration
+- Attendance
+
+### Plan for today
+- Presentations
+-Evaluations
+- Next steps
+
+## Resources
+
 ##### To get access to various workshops:
 - mshiloh@nyu.edu or Discord
 - Nelson Reyes ngreyes@nyu.edu (Scene Shop)
@@ -538,3 +540,22 @@ Power and interface to the main clock
 - Steven Doughty sd155@nyu.edu (Scene Shop)
 - Jorge jmontalvon@nyu.edu (Advanced Manufacturing Workshop)
 - Vijay vijay.dhanvi@nyu.edu (machine shop in the Science Building (ERB, C1))
+
+##### Project groups
+- Amina Nouf Shreya - myths in the UAE
+    - 3 dc motors (9V)
+    - 4 6v servos
+    - 3 12V servos
+    - 1 12V stepper 
+- Cole - sailing ships
+    - 6 6V servos
+- Nathan Gautham, Soojin - falcon and hourglass
+    - 1 12V servo
+    - Neopixels (5V)
+- Sashank Muhammad Yashaswi - air/land/ocean
+    - 1 12V stepper 
+    - 1 dc motors (9V)
+    - 1 12V servos
+    - 1 6v servos
+- Debbie Ilya Alpha Sarah - rotating images
+    - 6 12V servos
