@@ -522,10 +522,6 @@ Power and interface to the main clock
 - DIN rails
 
 ## Monday 8 May 2023
-##### todays-lecture
-### Administration
-- Attendance
-
 ### Plan for today
 - Presentations
   - Yashaswi
@@ -538,6 +534,20 @@ Power and interface to the main clock
     - Wood
     - Sensors/motors/
     - Screws etc.
+
+## Wednesday 10 May 2023
+##### todays-lecture
+### Administration
+- Attendance
+
+### Plan for today
+- Evaluations
+- What's working? What should I change for next time?
+- Connections to the main clock controller (MCC)
+  - I want 3 wires: 
+    - Ground
+    - Signal from the MCC to your project which initiates your module
+    - Signal from your project to the MCC indicating that you are done
 
 ## Resources
 
