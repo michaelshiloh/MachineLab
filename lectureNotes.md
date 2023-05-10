@@ -543,6 +543,15 @@ Power and interface to the main clock
 ### Plan for today
 - Evaluations
 - What's working? What should I change for next time?
+- Connections to power
+  - Everyone should have separate power connectors for each different voltage,
+    carefully labelled with voltage 
+    - 12V for H-bridges controlling stepper motors 
+    - 9V for H-bridges controlling yellow plastic gear motors
+    - 6V for the small "standard" servo motors
+    - 12V for the huge servo motors
+    - 5V for Neopixels
+    - I will separately be providing power to your Arduino
 - Connections to the main clock controller (MCC)
   - I want 3 wires: 
     - Ground
