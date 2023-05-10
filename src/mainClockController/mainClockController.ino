@@ -16,3 +16,5 @@ const int STEPPIN A0
 
 const int HOURZEROPIN A1
 const int MINZEROPIN A2
+
+const int RTCGNDPIN 

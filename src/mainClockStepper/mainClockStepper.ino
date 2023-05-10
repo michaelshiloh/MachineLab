@@ -1,4 +1,3 @@
-
 const int WHICHHANDPIN 12
 const int WHICHDIRECTION PIN 13
 const int STEPPIN A0
