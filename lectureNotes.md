@@ -543,6 +543,7 @@ Power and interface to the main clock
 ### Plan for today
 - Evaluations
 - What's working? What should I change for next time?
+- Put all your code on Github!
 - Connections to power
   - Everyone should have separate power connectors for each different voltage,
     carefully labelled with voltage 
