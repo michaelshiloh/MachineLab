@@ -156,7 +156,7 @@ In summary:
 
 ### Homework
 
-All homework will be given in the [Homework](homework.md) file. It is your
+All homework will be given in the [homework](homework.md) file. It is your
 responsibility to know what's due. I will send a message on Discord and
 Brightspace whenever I make a change.
 
@@ -178,18 +178,16 @@ Discuss
 #### Circuits
 
 The most confusing part of this lecture will be the solderless breadboard:
-![](media/breadboard.jpg)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/breadboard.png)
 Image courtesy of
 [SparkFun](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
 
-
 Let's extend our blinking LED to the breadboard:
 
-![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoControllingAnLED.png)
 ![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoControllingLED_bb.png)
 
 #### Review
-- Code
+- Code or program
 - Circuit
 - Input and Output (I/O) pins
 	- 20 IO pins
@@ -206,6 +204,7 @@ Let's extend our blinking LED to the breadboard:
 	- Where is the power coming from?
 	- What other components are there in the circuit?
 	- How are they connected?
+- Schematic for the circuit we built above
 - Schematic conventions
     - Positive voltage on top, ground at the bottom
     - Inputs on the left, outputs on the right
@@ -239,34 +238,24 @@ Build this circuit. Try to follow the schematic and not the breadboard view:
 ![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoPhotoresistor_bb.png)
 
 - Analog Inputs, `analogRead()`, and (some) sensors go together
-	- This only works on the six analog input pins (A0-A5)
-	- Digital sensors, like a switch, have only one of two values 
-	and so are more suited to a digital input
+	- `analogRead()` only works on the six analog input pins (A0-A5)
+        - In contrast, `digitalRead()` works on all 20 pins
+        - Digital sensors, like a switch, have only one of two values 
+        and so are more suited to a digital input
 - Remember that the so-called analog input pins can do digital input and
 	output as well
 - Since you have so few analog input pins, when you decide which pins to use
 	for which device, reserve the analog input pins for analog input devices
 	as much as possible
 
-#### Functions that you know from p5.js which are useful here:
+#### Programming
+
 - `map()`
 - `constrain()`
 - `if()`
-
-Remember how we used `print()` in p5.js to help us find problems in our 
-program? You can do that in Arduino to but the function has a slightly
-different name: `Serial.println()`
-- Must be initialized `Serial.begin()`
-- Can not concatenate strings with the `+` function
-	- Instead, you need multiple calls to `Serial.print()` e.g.:
-
-````
-Serial.print("First value = ");
-Serial.print(firstValue);
-Serial.print(" Second value = ");
-Serial.print(secondValue);
-Serial.println();
-````
+- Getting information from Arduino
+    - `Serial.println()`
+    - Must be initialized `Serial.begin()`
 
 Example using an analog input to control the brightness of an LED
 
