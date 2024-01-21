@@ -178,7 +178,7 @@ Discuss
 #### Circuits
 
 The most confusing part of this lecture will be the solderless breadboard:
-![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/breadboard.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/breadboard.jpg)
 Image courtesy of
 [SparkFun](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
 
