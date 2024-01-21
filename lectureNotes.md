@@ -32,14 +32,15 @@ This document: Lecture Notes
 ### Plan for today
 - What is the class about
 - Rules
-- Introductions
+- Introduction to Arduino
+- Homework
 
 ### What is this class about
 - Machines: building them, using them
 - Mechanics (statics and dynamics)
 - Design
 - Creativity
-- History, including critique
+- History and critique of technology
 
 Inspiring examples
 - [Astronomical clock
@@ -95,26 +96,26 @@ when you run into trouble.
 
 I am deeply committed to teaching. I expect you to be fully engaged in this
 class. If you are not interested in this material and are taking this class
-strictly to fullfill a requirement, I urge you to drop this class and allow
-someone who is interested to to take your place.
+strictly to fulfill a requirement, I urge you to drop this class and allow
+someone who is interested take your place.
+
 I do not tolerate the use of cellphones, earphones, watches, or laptops in
 class for anything other than what we're actively working on.  If you need any
 exceptions, talk to me.  
-
 
 I strongly recommend that you take notes on paper.  In particular, when I help
 you, I like being able to make notes on paper, so I require that each of you
 will have a notebook on hand when you ask for my help.
 
 I understand that there is more going on in your lives than this class.  If
-there is stuff going on your life that is making it difficult to get your work
-done, contact me and we'll work something out.  Email is appropriate for these
+there is stuff going on that is making it difficult to get your work done,
+contact me and we'll work something out.  Email is appropriate for these
 discussions.
 
 One last thing: I don't want to get sick.  If you're feeling sick, please stay
 at home.
 
-### Class Logistics
+#### Logistics
 
 Each of you will write a paper and make a presentation related broadly to the
 topic of this class.
@@ -131,7 +132,7 @@ arrange such training.
 You are encouraged to use Discord to ask all questions related to class,
 whether technical, logistic, or otherwise. Reserve email for personal matters.
 
-### Cleaning up
+#### Cleaning up
 
 We will be building things. We will use lots of tools and materials. It is
 your responsibility to clean up after yourselves, to return tools and
@@ -159,16 +160,4 @@ All homework will be given in the [Homework](homework.md) file. It is your
 responsibility to know what's due. I will send a message on Discord and
 Brightspace whenever I make a change.
 
-### Introductions
-- Me
-	- [Power Tool Drag Races](https://www.powertooldragraces.com/)
-	- [Survival Research Labs](srl.org)
-- You
-	- What experience do you have with mechanisms and mechanical construction?
-
-## Monday 22 January 2023
-
-### Plan for today
-- Introduction to Arduino 
-
-### Homework
+#### Homework for Wednesday
