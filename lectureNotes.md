@@ -210,25 +210,19 @@ Let's extend our blinking LED to the breadboard:
     - Inputs on the left, outputs on the right
         - Information flows from left to right
     - Unused pins can be left off
-
-**Schematics are an important way to show a circuit. You will be required to
-understand and use them**
+- Schematics are an important way to show a circuit. You will be required to
+  understand and use them
 
 #### Analog Output
 
 - Analog output uses the `analogWrite()` function
 - The `analogWrite()` function only works on the six PWM pins (3, 5, 6, 9, 10,
   and 11).
-- Analog Outputs, `analogWrite()`, PWM and (some) actuators go together
-    - LEDs, motors, and some other actuators respond properly to PWM
-    - Other actuators, like a solenoid, do not respond well to PWM and really
-      should be considered digital actuators
-    - Since you have so few analog outputs, when you decide which pins to use
-      for which device, reserve the analog output pins for analog output
-      devices as much as possible
+- Usually only suitable for LEDs and motors
 
-- Not true analog voltage. PWM = Pulse Width Modulation
-- Works for LEDs and motors
+Your turn:
+- How can we modify our circuit to test an analog output?
+- How can we modify the `blink` program to test the `analogWrite()` function?
 
 #### Analog Input
 

@@ -27,3 +27,12 @@ Class location: C3-029 (IM Lab)
 This document: Homework
 
 ## Homework due Wednesday 24 January 2023
+
+Reading homework:
+- Read (or re-read if you've seen this before):
+    - [Sparkfun breadboard tutorial](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
+    - [Microcontrollers, the basics](https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/)
+    - [Digital Input &
+      Output](https://itp.nyu.edu/physcomp/lessons/digital-input-output/)
+    - [Analog output](https://itp.nyu.edu/physcomp/lessons/analog-output/)
+    - [Analog Input](https://itp.nyu.edu/physcomp/lessons/analog-input/)
