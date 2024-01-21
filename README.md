@@ -7,7 +7,7 @@ Credit Hours: 4
 Prerequisites: None       
 
 Shortcut to [today's lecture](lectureNotes.md/#todays-lecture)  
-Shortcut to [today's assignment](weeklySchedule.md#todays-assignment)  
+Shortcut to [today's assignment](homework.md#todays-assignment)  
 
 Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab)      
 Instructor: Michael Shiloh mshiloh@nyu.edu    

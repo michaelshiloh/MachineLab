@@ -7,7 +7,7 @@ Credit Hours: 4
 Prerequisites: None       
 
 Shortcut to [today's lecture](lectureNotes.md/#todays-lecture)  
-Shortcut to [today's assignment](weeklySchedule.md#todays-assignment)  
+Shortcut to [today's assignment](homework.md#todays-assignment)  
 
 Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab)      
 Instructor: Michael Shiloh mshiloh@nyu.edu    
@@ -31,7 +31,7 @@ This document: Lecture Notes
 ## Monday 22 January 2023
 ### Plan for today
 - What is the class about
-- Rules
+- Rules and Logistics
 - Introduction to Arduino
 - Homework
 
@@ -160,4 +160,198 @@ All homework will be given in the [Homework](homework.md) file. It is your
 responsibility to know what's due. I will send a message on Discord and
 Brightspace whenever I make a change.
 
-#### Homework for Wednesday
+### Introduction to Arduino
+
+- Upload the Blink example
+- Change the parameter in delay()
+- Upload again and verify that the LED blinks at the new rate
+
+Discuss
+
+- What's going on here?
+- What role does Arduino play?
+- LEDs and other actuators
+- What is the opposite of an actuator?
+- Reading from a sensor vs. writing to an actuator
+
+
+#### Circuits
+
+The most confusing part of this lecture will be the solderless breadboard:
+![](media/breadboard.jpg)
+Image courtesy of
+[SparkFun](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
+
+
+Let's extend our blinking LED to the breadboard:
+
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoControllingAnLED.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoControllingLED_bb.png)
+
+#### Review
+- Code
+- Circuit
+- Input and Output (I/O) pins
+	- 20 IO pins
+	- All 20 pins can do digital input and digital output
+	- Many of the pins have additional special functionality
+- Built-in LED
+	- On the Arduino Uno this LED is on pin 13
+	- On the Arduino Uno LED_BUILTIN = 13 
+
+#### Schematics
+- Schematics are ways to capture the important features of a circuit
+	without getting distracted by details (e.g. subway maps)
+- What's important in an electrical circuit?
+	- Where is the power coming from?
+	- What other components are there in the circuit?
+	- How are they connected?
+- Schematic conventions
+    - Positive voltage on top, ground at the bottom
+    - Inputs on the left, outputs on the right
+        - Information flows from left to right
+    - Unused pins can be left off
+
+**Schematics are an important way to show a circuit. You will be required to
+understand and use them**
+
+#### Analog Output
+
+- Analog output uses the `analogWrite()` function
+- The `analogWrite()` function only works on the six PWM pins (3, 5, 6, 9, 10,
+  and 11).
+- Analog Outputs, `analogWrite()`, PWM and (some) actuators go together
+    - LEDs, motors, and some other actuators respond properly to PWM
+    - Other actuators, like a solenoid, do not respond well to PWM and really
+      should be considered digital actuators
+    - Since you have so few analog outputs, when you decide which pins to use
+      for which device, reserve the analog output pins for analog output
+      devices as much as possible
+
+- Not true analog voltage. PWM = Pulse Width Modulation
+- Works for LEDs and motors
+
+#### Analog Input
+
+Build this circuit. Try to follow the schematic and not the breadboard view:
+
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoPhotoresistor_schem.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoPhotoresistor_bb.png)
+
+- Analog Inputs, `analogRead()`, and (some) sensors go together
+	- This only works on the six analog input pins (A0-A5)
+	- Digital sensors, like a switch, have only one of two values 
+	and so are more suited to a digital input
+- Remember that the so-called analog input pins can do digital input and
+	output as well
+- Since you have so few analog input pins, when you decide which pins to use
+	for which device, reserve the analog input pins for analog input devices
+	as much as possible
+
+#### Functions that you know from p5.js which are useful here:
+- `map()`
+- `constrain()`
+- `if()`
+
+Remember how we used `print()` in p5.js to help us find problems in our 
+program? You can do that in Arduino to but the function has a slightly
+different name: `Serial.println()`
+- Must be initialized `Serial.begin()`
+- Can not concatenate strings with the `+` function
+	- Instead, you need multiple calls to `Serial.print()` e.g.:
+
+````
+Serial.print("First value = ");
+Serial.print(firstValue);
+Serial.print(" Second value = ");
+Serial.print(secondValue);
+Serial.println();
+````
+
+Example using an analog input to control the brightness of an LED
+
+````
+const int LED_PIN = 3;           // the PWM pin the LED is attached to
+const int POT_PIN = A2;
+int brightness = 0;    // how bright the LED is
+
+// the setup routine runs once when you press reset:
+void setup() {
+  // declare pin 9 to be an output:
+  pinMode(LED_PIN, OUTPUT);
+  Serial.begin(9600);
+}
+
+// the loop routine runs over and over again forever:
+void loop() {
+  int pot_value = analogRead(POT_PIN); // 0-1023
+  brightness = map(pot_value, 0, 1023, 255, 0);
+  Serial.println(brightness);
+  analogWrite(LED_PIN, brightness); // 0-255
+}
+````
+#### Digital Input
+
+Adding a switch
+
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoLEDMomentarySwitch_schem.png)
+![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoLEDMomentarySwitch_bb.png)
+
+````
+void setup() {
+  pinMode(8, OUTPUT);
+  pinMode(13, OUTPUT);
+  pinMode(A2, INPUT);
+}
+
+void loop() {
+
+  int switchPosition = digitalRead(A2);
+
+  if (switchPosition == HIGH) {
+    digitalWrite(8, HIGH);   // turn the LED on (HIGH is the voltage level)
+    digitalWrite(13, LOW);
+  } else  {
+    digitalWrite(8, LOW);    // turn the LED off by making the voltage LOW
+    digitalWrite(13, HIGH);
+  }
+}
+````
+
+An example:
+
+````
+
+const int pushButton = A2;
+const int redLEDPin = A0;
+const int greenLEDPin = 8;
+
+void setup() {
+  pinMode(redLEDPin, OUTPUT);
+  pinMode(greenLEDPin, OUTPUT);
+}
+
+void loop() {
+
+  int buttonState = digitalRead(pushButton);
+
+  if (buttonState == HIGH) {
+    digitalWrite(redLEDPin, HIGH);
+    digitalWrite(greenLEDPin, HIGH);
+    delay(500);
+    digitalWrite(greenLEDPin, LOW);
+    delay(300);
+    digitalWrite(redLEDPin, LOW);
+    digitalWrite(greenLEDPin, HIGH);
+    delay(700);
+  }
+  allOff();
+  delay(1000);
+}
+
+void allOff() {
+  digitalWrite(redLEDPin, LOW);
+  digitalWrite(greenLEDPin, LOW);
+}
+````
+
