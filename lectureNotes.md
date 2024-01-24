@@ -174,8 +174,24 @@ Discuss
 - What is the opposite of an actuator?
 - Reading from a sensor vs. writing to an actuator
 
+## Wednesday 24 January 2023
+### Admin
+### Plan for today
+- Last year's project
+- Breadboard circuits
+- Soldering 
+- Theme
 
-#### Circuits
+### Last year's project
+- Visit
+- Theme
+- Inspect
+    - Mechanisms
+    - Construction Techniques
+- Document
+- Disassemble
+
+#### Breadboard Circuits
 
 The most confusing part of this lecture will be the solderless breadboard:
 ![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/breadboard.jpg)
