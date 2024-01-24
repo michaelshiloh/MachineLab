@@ -62,7 +62,14 @@ Lewis Mumford: Lewis Mumford was an American historian, sociologist,
 philosopher of technology, and literary critic. Particularly noted for his
 study of cities and urban architecture, he had a broad career as a writer.  He
 made signal contributions to social philosophy, American literary and cultural
-history, and the history of technology.
+history, and the history of technology. Of particular relevance to this class,
+Mumford criticized the modern trend of technology, which emphasizes constant,
+unrestricted expansion, production, and replacement. He contends that these
+goals work against technical perfection, durability, social efficiency, and
+overall human satisfaction. Modern technology, which he called "megatechnics,"
+fails to produce lasting, quality products by using devices such as consumer
+credit, installment buying, non-functioning and defective designs, planned
+obsolescence, and frequent superficial "fashion" changes.
 - https://en.wikipedia.org/wiki/Lewis_Mumford
 
 The Lathe: The lathe is a machine tool which holds the workpiece between two
@@ -71,7 +78,9 @@ revolved.  The cutting tool is rigidly held and supported in a tool post which
 is fed against the revolving work. The normal cutting operations are performed
 with the cutting tool fed either parallel or at right angles to the axis of
 the work. Because of the rotation, lathes are generally used for making round
-parts
+parts. Metal working lathes typically have extremely high precision, allowing
+them to be used to make parts for other machines, which is why the lathe is
+called a "machine tool".
 - https://engineering.myindialist.com/2009/working-principle-of-lathe-machine/
 
 Arthur Ganson: Arthur Ganson is a kinetic sculptor. He makes mechanical art
