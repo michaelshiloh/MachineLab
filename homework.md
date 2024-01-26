@@ -40,9 +40,10 @@ Reading homework:
 ##### todays-assignment
 ## Homework due Monday 29 January 2023
 
-1. If you don't already have one, create a Github account. Instructions are here. 
+1. If you don't already have one, create a Github account. Instructions are 
+[here](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#github-resources). 
 I encourage you to name your account with your name to make it easier for me to 
-know belongs to each account
+tell who belongs to each account. 
 
 1. In your Github account, create a repository called "MachineLab"
 
