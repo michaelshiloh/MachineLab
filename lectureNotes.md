@@ -28,7 +28,7 @@ This document: Lecture Notes
 
 ## Week 1 
 
-## Monday 22 January 2023
+## Monday 22 January 2024
 ### Plan for today
 - What is the class about
 - Rules and Logistics
@@ -174,7 +174,7 @@ Discuss
 - What is the opposite of an actuator?
 - Reading from a sensor vs. writing to an actuator
 
-## Wednesday 24 January 2023
+## Wednesday 24 January 2024
 ### Plan for today
 - Last year's project
 - Breadboard circuits
@@ -257,7 +257,8 @@ Build this circuit. Try to follow the schematic and not the breadboard view:
 	for which device, reserve the analog input pins for analog input devices
 	as much as possible
 
-## Wednesday 24 January 2023
+#####todays-lecture)  
+## Monday 28 January 2024
 ### Admin
 ### Plan for today
 - Theme
