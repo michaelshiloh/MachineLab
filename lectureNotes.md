@@ -175,7 +175,6 @@ Discuss
 - Reading from a sensor vs. writing to an actuator
 
 ## Wednesday 24 January 2023
-### Admin
 ### Plan for today
 - Last year's project
 - Breadboard circuits
@@ -257,6 +256,32 @@ Build this circuit. Try to follow the schematic and not the breadboard view:
 - Since you have so few analog input pins, when you decide which pins to use
 	for which device, reserve the analog input pins for analog input devices
 	as much as possible
+
+## Wednesday 24 January 2023
+### Admin
+### Plan for today
+- Theme
+- Research topics
+- Programming
+- Servo motors
+- Power supplies
+
+
+#### Theme
+
+- Water: A potential theme for the clock can be around bodies of water, marine
+  life, coral reefs, and anything related to underwater life.
+- Nature: The clock can be themed around nature that draws inspiration from
+  elements such as waterfalls, mountains, forests, and wildlife.
+- Global Cultures: As NYUAD is a diverse community the clock can encompass
+  this diversity. Each group can be in charge of representing a specific
+  culture by using’s symbols, landmarks, and other related elements to that
+  specific culture.
+- Alice in the wonderland
+- hour before the deadline
+- lifecycle (of a plant/bug/human/etc)
+
+
 
 #### Programming
 
@@ -354,3 +379,20 @@ void allOff() {
 }
 ````
 
+#### Servo motors
+
+- [Schematic](https://www.arduino.cc/en/Tutorial/Knob)
+- [Reference page](https://www.arduino.cc/en/Reference/Servo)
+
+##### Giant Servo motors
+
+- Torque
+    - Ability to lift a certain weight at a certain distance from the center
+
+[How to configure and
+power](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#giant-servo-motors-resources)
+
+#### Power supplies
+
+How to use external power supplies, by which I mean how to use power that
+doesn't come from the Arduino's 5V pin
