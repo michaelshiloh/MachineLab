@@ -15,7 +15,7 @@ Office hours: By appointment
 Meeting times:    
 	2:10 PM - 3:25 PM Monday  
 	2:10 PM - 4:50 PM Wednesday  
-Session: Spring 2023  
+Session: Spring 2024  
 Class location: C3-029 (IM Lab)  
 - [Lecture notes](lectureNotes.md)
 - [Previous sessions](previousSessions/previousSessions.md)

@@ -16,7 +16,7 @@ Office hours: If you want to meet schedule an appointment [here](https://calendl
 Meeting times:    
 	2:10 PM - 3:25 PM Monday  
 	2:10 PM - 4:50 PM Wednesday  
-Session: Spring 2023  
+Session: Spring 2024  
 Class location: C3-029 (IM Lab)  
 - [Lecture notes](lectureNotes.md)
 - [Previous sessions](previousSessions/previousSessions.md)
@@ -26,7 +26,7 @@ Class location: C3-029 (IM Lab)
 
 This document: Homework
 
-## Homework due Wednesday 24 January 2023
+## Homework due Wednesday 24 January 2024
 
 Reading homework:
 - Read (or re-read if you've seen this before):
@@ -37,8 +37,7 @@ Reading homework:
     - [Analog output](https://itp.nyu.edu/physcomp/lessons/analog-output/)
     - [Analog Input](https://itp.nyu.edu/physcomp/lessons/analog-input/)
 
-##### todays-assignment
-## Homework due Monday 29 January 2023
+## Homework due Monday 29 January 2024
 
 1. If you don't already have one, create a Github account. Instructions are 
 [here](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#github-resources). 
@@ -110,4 +109,5 @@ range of speeds and torques is achieved
 - https://www.micromotors.eu/en/what-is-a-gear-motor/
 
 
-
+##### todays-assignment
+## Homework due Wednesday 31 January 2024

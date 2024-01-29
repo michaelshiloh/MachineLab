@@ -16,7 +16,7 @@ Office hours: If you want to meet schedule an appointment [here](https://calendl
 Meeting times:    
 	2:10 PM - 3:25 PM Monday  
 	2:10 PM - 4:50 PM Wednesday  
-Session: Spring 2023  
+Session: Spring 2024  
 Class location: C3-029 (IM Lab)  
 - [Lecture notes](lectureNotes.md)
 - [Previous sessions](previousSessions/previousSessions.md)
@@ -281,6 +281,17 @@ Build this circuit. Try to follow the schematic and not the breadboard view:
 - Alice in the wonderland
 - hour before the deadline
 - lifecycle (of a plant/bug/human/etc)
+- Nature/Flower Field- mood board with some aesthetic art pieces as an
+  inspiration.
+  ([example](https://www.pinterest.ca/gabitayazhan/flowernature-moodboard/)
+  Each scene could have some different flowers moving, butterflies flying and
+  a forest scene with other animals, and so on.
+- 12 hours-12 Zodiac Signs. Inspiration from the [Dior clock in NYC](https://www.youtube.com/watch?v=Lds3eUNVZXU). [Article](https://www.timeout.com/newyork/news/heres-why-theres-a-giant-zodiac-display-on-the-saks-fifth-avenue-facade-102023)
+- University life/Life at NYUAD- depicting everyday scenes that the audience
+  could relate to in a fascinating moving machine performance.  8am could be
+  waking up in a hurry and running to a class.  1pm-going to lunch with
+  friends at d2.  4pm-playing with cats.  22pm-cramming and studying hard at
+  the library and so on.
 
 
 
