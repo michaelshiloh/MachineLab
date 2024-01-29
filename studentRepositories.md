@@ -34,7 +34,7 @@ This document: Student Repositories
 - [Ehtisham](https://github.com/ehtishamoas/MachineLab)
 - [Noah](https://github.com/npietrafesa/MachineLab)
 - [Juanma](https://github.com/juanrozu23/MachineLab)
-- [Aigerim](https://github.com/aigerimZhusubalievab/MachineLab)
+- [Aigerim](https://github.com/aigerimZhusubalieva/MachineLab)
 - [Liza](https://github.com/lizadat/MachineLab)
 - [Evalyn](https://github.com/)
 - [Ronit](https://github.com/rs7358/MachineLab)
