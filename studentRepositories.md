@@ -28,3 +28,4 @@ This document: Student Repositories
 
 - [Fatema Alhameli](https://github.com/FatemaAlhameli/MachineLab)
 - [Dania Ezz](https://github.com/daniaezz/machineLab)
+- [Ayazhan Gabitkyzy (Aya)](https://github.com/ayag03/MachineLab)

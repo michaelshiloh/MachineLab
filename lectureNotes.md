@@ -257,7 +257,7 @@ Build this circuit. Try to follow the schematic and not the breadboard view:
 	for which device, reserve the analog input pins for analog input devices
 	as much as possible
 
-##### todays-lecture)  
+##### todays-lecture
 ## Monday 28 January 2024
 ### Admin
 ### Plan for today
