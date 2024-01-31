@@ -288,8 +288,102 @@ Build this circuit. Try to follow the schematic and not the breadboard view:
   waking up in a hurry and running to a class.  1pm-going to lunch with
   friends at d2.  4pm-playing with cats.  22pm-cramming and studying hard at
   the library
-
-
+- Windows Outside - looking into a window and out at the same time
+- Snow Globe - a microcosm of a small scene
+- Waves - exploring rhythm and movement in machines (clockwork)
+- nature in the desert
+- a linear story (with a character moving through different elements of the
+  clock, e.g. Hugo Cabret) 
+- a hotel with different elaborate rooms, e.g. The Grand Budapest Hotel
+- Golden Sands: The clock design features a vast expanse of golden sands with
+  occasional palm trees swaying in the breeze. The sun (with leds behind) will
+  move over the clock to indicate time, with its brightness (and colors)
+  change according to the time of the day. At night, moon takes its place and
+  moves across the clock to indicate time. The sand background, at night, also
+  changes color to show moonlight.
+- Dhow and Waves: Daytime: The clock showcases a seascape with traditional
+  dhows sailing on calm waters. The clock hands could be replaced by miniature
+  dhows, moving to indicate the time. Nighttime: The scene transitions to a
+  moonlit ocean, and the clock hands transform into waves. Soft reflections on
+  the water highlight the nighttime hours.
+- Arabian Nights: The clock features a bustling market scene inspired by UAE
+  folklore, with characters from local tales and legends. Iconic characters
+  like "Juha" and "Umm Duwais", or certain mythical elements, places, etc.
+  could be depicted. The sun in the day and moon in the night, shaped like a
+  mystical symbol from folklore, moves across the sky to indicate the time. We
+  can also incorporate interactive elements, like for certain hour(s) only a
+  certain character appears, and touching that character (or pressing some
+  button) would narrate its short story.
+- Nature and Technology: Inspired by Nam-June Paik's TV Garden, I think it
+  would be really interesting to have a clock that utilizes plants alongside
+  an Arduino. Perhaps the clock can utilize the plants in some way, or have
+  timed watering or something like that.
+- Time Zones: I think an interesting idea would be to explore the idea of
+  different time zones all over the world. While it may be day time in the
+  UAE, it could be evening or night in another country. Making parts that
+  represent the time of day of other countries could be interesting, having a
+  true world clock.
+- Music: I love music, so I will always be interested in implementing music
+  into a project in some kind of way. Perhaps we could use the Arduinos to
+  create user-interactive musical modules, or ones that could play at certain
+  times of day, similar to church bells ringing at certain times of the day.
+  Having a clock where the minute and hour hands are the black and white piano
+  keys sounds interesting to me.
+- Theme Park: Imagine a clock with a mini roller coaster, figures screaming in
+  fear, swings of death, and slow rivers. We will make our audience wish they
+  could attend the MachineLab Land Park! 🎢
+- Mini IM Showcase: This clock's theme will be an ode to our journeys in the
+  IM department. Each team would chose a project they worked on during their
+  time here and make it the theme of their part. This would make a mini IM
+  showcase within the IM showcase!! 🤖
+- MachineLab Cafe: What if we all owned a cafe together. The clock would be
+  the center piece of our cafe and each piece would correspond to a step in
+  the coffee value chain. (i.e coffee farmers picking the beans, roasting,
+  shipping). Maybe even one part could pour actual cold brew coffee. 🧋
+- NYU Abu Dhabi:
+- Represent the 4-year cycle that students go through. The storyline goes from
+  admissions/Marhaba through studyaways, J-terms, and other components of the
+  NYUAD experience, and ends with commencement. We can incorporate a lot of
+  different references to the campus such as the palms, d2, flights, the
+  library, etc.
+- Astronomy/Space: Create a clock with many different astronomical references
+  such as the constellations, the planets, the satellites, and different space
+  exploration components. We can have the first moon landing as one of the
+  historical moments to represent in the clock.  Disco:
+- Make the clock very unserious and shiny, disco-inspired with a big disco
+  ball and a lot of light and musical elements.
+- The time travel (from the ancient times to nowadays: ancient Egypt,
+  First/Second Industrial revolution, 60s and 70s, modern world, future)
+- The future (we can each create a part how we imagine the world will be in a
+  couple of years, some fantasy)
+- Parts of the world (As we are from different countries we can collaborate to
+  recreate each continent of the earth)
+- Quantum Mechanics Theme
+- Space Exploration Timeline Clock
+- Ancient Greek Theme
+- Inspired by famous paintings or artworks e.g. starry night
+- Nature: plants, flowers and trees
+- Music: sound made by objects like marbles etc
+- Greatest Games through the years (Personal Favorite) This theme celebrates
+  the evolution of video games. Each segment represents a different era in
+  gaming history, featuring iconic games like Pac-Man, Super Mario Bros,
+  Pokémon, GTA, Among Us, etc. The design mimics an arcade, complete with
+  pixel art and game sound effects, creating a nostalgic and immersive journey
+  through the most influential games of each period.
+    - The space below the clock can have a loading bar that gets filled up
+      from one side to the other as we move through the different ages of the
+      games.
+- Cosmic Voyage Clock This concept visualizes the history of the universe in
+  an hour. It begins with the Big Bang and progresses through major cosmic
+  events, transitioning to significant moments in Earth's history, possibly
+  including the formation of the solar system, the emergence of life, and key
+  milestones in human development. It's a grand depiction of time on a cosmic
+  scale.
+- Musical Eras Symphony This theme takes viewers on a journey through the
+  history of music. Each segment of the clock represents a different musical
+  era, from classical compositions to modern electronic music. The transitions
+  are marked by iconic melodies or instruments characteristic of each period,
+  providing a harmonious and educational exploration of musical evolution.
 
 #### Programming
 

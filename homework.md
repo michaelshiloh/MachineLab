@@ -111,3 +111,5 @@ range of speeds and torques is achieved
 
 ##### todays-assignment
 ## Homework due Wednesday 31 January 2024
+
+from now on all homework must be markdown (except code)
