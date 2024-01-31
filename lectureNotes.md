@@ -486,7 +486,7 @@ void allOff() {
 - [Schematic](https://www.arduino.cc/en/Tutorial/Knob)
 - [Reference page](https://www.arduino.cc/en/Reference/Servo)
 
-## Monday 31 January 2024
+## Wednesday 31 January 2024
 ##### todays-lecture
 ### Admin
 ### Plan for today
