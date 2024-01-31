@@ -257,15 +257,11 @@ Build this circuit. Try to follow the schematic and not the breadboard view:
 	for which device, reserve the analog input pins for analog input devices
 	as much as possible
 
-##### todays-lecture
-## Monday 28 January 2024
-### Admin
+## Monday 29 January 2024
 ### Plan for today
 - Theme
-- Research topics
 - Programming
 - Servo motors
-- Power supplies
 
 
 #### Theme
@@ -288,10 +284,10 @@ Build this circuit. Try to follow the schematic and not the breadboard view:
   a forest scene with other animals, and so on.
 - 12 hours-12 Zodiac Signs. Inspiration from the [Dior clock in NYC](https://www.youtube.com/watch?v=Lds3eUNVZXU). [Article](https://www.timeout.com/newyork/news/heres-why-theres-a-giant-zodiac-display-on-the-saks-fifth-avenue-facade-102023)
 - University life/Life at NYUAD- depicting everyday scenes that the audience
-  could relate to in a fascinating moving machine performance.  8am could be
+  could relate to e.g.  8am could be
   waking up in a hurry and running to a class.  1pm-going to lunch with
   friends at d2.  4pm-playing with cats.  22pm-cramming and studying hard at
-  the library and so on.
+  the library
 
 
 
@@ -396,15 +392,37 @@ void allOff() {
 - [Schematic](https://www.arduino.cc/en/Tutorial/Knob)
 - [Reference page](https://www.arduino.cc/en/Reference/Servo)
 
+## Monday 31 January 2024
+##### todays-lecture
+### Admin
+### Plan for today
+- Theme: start thinking
+- Giant Servo motors
+- Power supplies
+- Research topics
+- Theme: tentative teams
+
 ##### Giant Servo motors
 
-- Torque
-    - Ability to lift a certain weight at a certain distance from the center
+Torque: The ability to lift a certain weight at a certain distance from the center
+- [Tower-Pro MG-995](https://www.adafruit.com/product/1142)
+- ["DS3225 25KG Metal Gear High Torque Waterproof Digital CNC Aluminium Middle
+  Shell Red Steering
+  Engine"](https://www.amazon.com/DS3225-Waterproof-Digital-Aluminium-Steering/dp/B08RJGVH7D/ref=sr_1_10?th=1)
+- ["ASMC-04B Robot Servo High power high torque servo Support 12V~24V
+  180kg.cm"](https://www.amazon.com/ASMC-04B-Support-12V-24V-180kg-cm-Quadcopter/dp/B07GDJBDW9/ref=sr_1_fkmr0_2)
+  - Note 12-24 volts
 
 [How to configure and
 power](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#giant-servo-motors-resources)
 
 #### Power supplies
+
+- What is a power supply? How is this different from a converter or an
+  adapter?
+- What are the important factors of a power supply?
+- What is the relationship of voltage to current?
+- What does it mean that a power supply has a certain current?
 
 How to use external power supplies, by which I mean how to use power that
 doesn't come from the Arduino's 5V pin
