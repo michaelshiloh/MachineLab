@@ -109,7 +109,60 @@ range of speeds and torques is achieved
 - https://www.micromotors.eu/en/what-is-a-gear-motor/
 
 
-##### todays-assignment
 ## Homework due Wednesday 31 January 2024
 
 from now on all homework must be markdown (except code)
+
+##### todays-assignment
+## Homework due Monday 5 February 2024
+
+(1)
+
+- Inspired by all the [proposed
+  themes](https://github.com/michaelshiloh/MachineLab/blob/master/lectureNotes.md#theme)
+  as well as anything else you can think of, chose one or at most two themes
+  that you would be excited to work on. 
+- Discuss with other classmates either on Discord or in other ways, and 
+  find two or three other people to work with. You may find that you
+  all need to modify your ideas in order to find one that you all would be
+  excited to work on.
+- As a group, develop the idea more fully. 
+- Give rough suggestions for 4 of the projects. Assume these will be worked on
+  by the other groups.
+- Assume that one project will be the one your group is working on, and
+  develop it in more detail: 
+    - What would it depict? Make a rough sketch, to the best of your ability. 
+    - What materials will you use for each part? 
+    - How would you animate anything moving?  
+    - Will there be sound? What?
+    - Will there be lights? (We have lots of NeoPixels.) 
+    - What mechanical components will you need?
+    - What electronic components will you need?
+    - Draw a block diagram showing very roughly how these components are
+      connected. You don't need to show the circuit or specific wires, just in
+      general what is connected to what. 
+    - What tools or equipment or skills will you need?
+- Write this up in your Github repository, in a file named "homework_05Feb".
+  - Remember to use MarkDown and format it properly. 
+  - Include any sketches or pictures (maybe inspiration, or a look you're
+    going for). Look in my lecture notes to see how to include images.
+  - You can divide the report up into parts and each of you in your group can
+    do one part, then make sure that each of you provide a link in your report
+    to the others. Look in my lecture notes to see how to create links.
+
+
+(2)
+
+You will make two presentations during the course of this class:
+- An artist, inventor, designer, historian, or other human figure who
+  works (or worked) with or about machines
+- A machine, technology, invention, artwork, or device that is somehow about
+  machines
+
+Choose your topics for each of these presentations. The presentations will be
+due later in the semester, but you need to select the topics now. Email me the
+topics before Monday's class. If two of you chose the same topic then the
+first one gets it and those that come later will need to select a different
+topic.
+
+You can look at each other's homework to get more ideas.

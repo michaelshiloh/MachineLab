@@ -384,6 +384,7 @@ Build this circuit. Try to follow the schematic and not the breadboard view:
   era, from classical compositions to modern electronic music. The transitions
   are marked by iconic melodies or instruments characteristic of each period,
   providing a harmonious and educational exploration of musical evolution.
+- nature - activities of volcano
 
 #### Programming
 
