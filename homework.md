@@ -120,35 +120,39 @@ from now on all homework must be markdown (except code)
 
 - Inspired by all the [proposed
   themes](https://github.com/michaelshiloh/MachineLab/blob/master/lectureNotes.md#theme)
-  as well as anything else you can think of, chose one or at most two themes
+  as well as anything else you can think of, chose one or two themes
   that you would be excited to work on. 
 - Discuss with other classmates either on Discord or in other ways, and 
   find two or three other people to work with. You may find that you
   all need to modify your ideas in order to find one that you all would be
-  excited to work on.
+  excited to work on. You may end up discarding all your original ideas and
+  come up with a brand new theme. That's OK.
 - As a group, develop the idea more fully. 
-- Give rough suggestions for 4 of the projects. Assume these will be worked on
-  by the other groups.
+- Give rough suggestions for 4 projects on this theme. Assume these will be
+  worked on by the other groups.
 - Assume that one project will be the one your group is working on, and
   develop it in more detail: 
-    - What would it depict? Make a rough sketch, to the best of your ability. 
+    - What would it depict? 
     - What materials will you use for each part? 
     - How would you animate anything moving?  
     - Will there be sound? What?
     - Will there be lights? (We have lots of NeoPixels.) 
+    - Make a rough sketch, to the best of your ability. 
     - What mechanical components will you need?
     - What electronic components will you need?
     - Draw a block diagram showing very roughly how these components are
       connected. You don't need to show the circuit or specific wires, just in
       general what is connected to what. 
     - What tools or equipment or skills will you need?
-- Write this up in your Github repository, in a file named "homework_05Feb".
+- Write this up in your Github repository, in a file named "homework_05Feb.md".
   - Remember to use MarkDown and format it properly. 
-  - Include any sketches or pictures (maybe inspiration, or a look you're
-    going for). Look in my lecture notes to see how to include images.
+  - Include any sketches or pictures (maybe inspiration, a look you're
+    going for, or a mood board, etc.). Look in my lecture notes to see how to
+    include images.
   - You can divide the report up into parts and each of you in your group can
-    do one part, then make sure that each of you provide a link in your report
-    to the others. Look in my lecture notes to see how to create links.
+    do one part. Make sure you address all the requirements above. 
+    In each of your parts provide a link to the other parts.  Look in my
+    lecture notes to see how to create links.
 
 
 (2)
