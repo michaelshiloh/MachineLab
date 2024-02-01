@@ -36,7 +36,7 @@ This document: Student Repositories
 - [Juanma](https://github.com/juanrozu23/MachineLab)
 - [Aigerim](https://github.com/aigerimZhusubalieva/MachineLab)
 - [Liza](https://github.com/lizadat/MachineLab)
-- [Evelyn](https://github.com/)
+- [Evelyn](https://github.com/eve1yniq/MachineLab)
 - [Ronit](https://github.com/rs7358/MachineLab)
 - [Salama](https://github.com/salamaAlmheiri/MachineLab)
 - [Swostik](https://github.com/swostikpati/Machine-Lab)
