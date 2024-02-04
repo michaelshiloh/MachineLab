@@ -488,8 +488,6 @@ void allOff() {
 - [Reference page](https://www.arduino.cc/en/Reference/Servo)
 
 ## Wednesday 31 January 2024
-##### todays-lecture
-### Admin
 ### Plan for today
 - Theme: start thinking
 - Giant Servo motors
@@ -521,3 +519,19 @@ power](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#g
 
 How to use external power supplies, by which I mean how to use power that
 doesn't come from the Arduino's 5V pin
+
+## Monday 5 February 2024
+##### todays-lecture
+### Admin
+- Dressing for tool training on Wednesday
+### Plan for today
+- Theme
+- Homework
+
+### Theme
+- Finalize the theme 
+- Form teams
+
+### Homework
+Look at some of the assignments and provide feedback 
+

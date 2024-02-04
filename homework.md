@@ -113,7 +113,6 @@ range of speeds and torques is achieved
 
 from now on all homework must be markdown (except code)
 
-##### todays-assignment
 ## Homework due Monday 5 February 2024
 
 (1)
@@ -170,3 +169,16 @@ first one gets it and those that come later will need to select a different
 topic.
 
 You can look at each other's homework to get more ideas.
+
+##### todays-assignment
+## Homework due Wednesday 7 February 2024
+
+1. Work with your teammates to design the technical details of your project.
+Document this in a file named "homework_07Feb.md". Address all the questions
+from Monday's homework, and incorporate the feedback provided in class. For
+the next assignment you will build prototypes of your project, so think about
+all the details that you will need in order to start building.
+
+1. On Wednesday you will all be given tool training in the IM lab. Please
+   dress appropriately for such work. Closed toed shoes are recommended, no
+   loose clothing, and clothes that you don't mind getting a little dirty.

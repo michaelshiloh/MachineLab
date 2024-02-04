@@ -24,7 +24,9 @@ Class location: C3-029 (IM Lab)
 **Everything here is subject to change**
 
 
-This document: Student Repositories
+This document: Student Repositories and other contributions
+
+#### Links to student repositories
 
 - [Fatema Alhameli](https://github.com/FatemaAlhameli/MachineLab)
 - [Dania Ezz](https://github.com/daniaezz/machineLab)
@@ -40,3 +42,18 @@ This document: Student Repositories
 - [Ronit](https://github.com/rs7358/MachineLab)
 - [Salama](https://github.com/salamaAlmheiri/MachineLab)
 - [Swostik](https://github.com/swostikpati/Machine-Lab)
+
+#### Student research topics
+
+- Fatema
+    - Al-Jazari and his works 
+    - The technology of 3D printing
+- Aliza
+    - Mikuláš of Kadaň, who created the Prague Astronomical Clock
+    - The Kinetoscope, the first motion picture camera
+- Aigerim
+    - Teamlab
+    - Designing aesthetic laser cut models
+- Jackie
+    - Salvador Dalí 
+    - Zines
