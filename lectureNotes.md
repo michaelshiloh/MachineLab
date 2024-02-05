@@ -522,7 +522,9 @@ doesn't come from the Arduino's 5V pin
 
 ## Monday 5 February 2024
 ##### todays-lecture
-[Video](https://www.stanwinstonschool.com/blog/creating-animatronic-cat-and-mouse-for-mouse-hunt-1997-behind-the-scenes-at-stan-winston-studio)
+[Video](https://www.stanwinstonschool.com/blog/creating-animatronic-cat-and-mouse-for-mouse-hunt-1997-behind-the-scenes-at-stan-winston-studio). 
+Curious? More details
+[here](https://www.stanwinstonschool.com/blog/creating-animatronic-cat-and-mouse-for-mouse-hunt-1997-behind-the-scenes-at-stan-winston-studio#Puppeteering%20the%20Giant%20Mouse%20for%20Mouse%20Hunt)
 ### Admin
 - Dressing for tool training on Wednesday
 ### Plan for today
