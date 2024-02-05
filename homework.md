@@ -176,7 +176,8 @@ You can look at each other's homework to get more ideas.
 1. I have listed the [teams](https://github.com/michaelshiloh/MachineLab/blob/master/lectureNotes.md#teams) in our lecture notes. 
 
 	1. As I mentioned in class, I expect there to be some changes. In particular
-I encourage some of you to move to other teams to balance out the numbers. 
+I encourage some of you to move to other teams to balance out the numbers. But
+you don't need to do this right away.
 
 	1. With your team, sketch out your initial overall plan for your project. 
 
