@@ -75,3 +75,6 @@ This document: Student Repositories and other contributions
 - Juanma
     - LaMarcus Thompson
     - The espresso machine
+- Salama
+    - Rafeal Lozano-Hemmer
+    - Robotic arms used for art and sculpting

@@ -532,8 +532,13 @@ Curious? More details
 - Homework
 
 ### Theme
-- Finalize the theme 
-- Form teams
+##### Finalize the theme: THEME PARK!!
+##### Teams:
+- Roller Coaster: Swostik, Dania
+- Candy Store: Sunny, Jackie, Juanma, Aigerim
+- Sky Ride: Ronit, Liza
+- Swinging Boat ride: Fatima, Salama, Noah
+- Carousel: Aya, Evelyn, Ehtisham
 
 ### Homework
 Look at some of the assignments and provide feedback 
