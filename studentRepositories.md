@@ -66,7 +66,12 @@ This document: Student Repositories and other contributions
 - Ehtisham
     - Jean Tinguely
     - Hydraulic systems
-
 - Swostik
     - Alan Turing and his turing machine
     - MIT Cheetah robot
+- Noah
+    - Nam June Paik
+    - Electronic circuits
+- Juanma
+    - LaMarcus Thompson
+    - The espresso machine
