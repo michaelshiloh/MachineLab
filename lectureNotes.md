@@ -529,7 +529,6 @@ Curious? More details
 - Dressing for tool training on Wednesday
 ### Plan for today
 - Theme
-- Homework
 
 ### Theme
 ##### Finalize the theme: THEME PARK!!
@@ -539,7 +538,4 @@ Curious? More details
 - Sky Ride: Ronit, Liza
 - Swinging Boat ride: Fatima, Salama, Noah
 - Carousel: Aya, Evelyn, Ehtisham
-
-### Homework
-Look at some of the assignments and provide feedback 
 
