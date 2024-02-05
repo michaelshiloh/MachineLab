@@ -175,22 +175,22 @@ You can look at each other's homework to get more ideas.
 
 1. I have listed the [teams](https://github.com/michaelshiloh/MachineLab/blob/master/lectureNotes.md#teams) in our lecture notes. 
 
-1.1. As I mentioned in class, I expect there to be some changes. In particular
+	1. As I mentioned in class, I expect there to be some changes. In particular
 I encourage some of you to move to other teams to balance out the numbers. 
 
-1.1. With your team, sketch out your initial overall plan for your project. 
+	1. With your team, sketch out your initial overall plan for your project. 
 
-1.1. Identify the most risky, complicated, or frightening element of your
+	1. Identify the most risky, complicated, or frightening element of your
 project. This is what you will work on first. 
 
-1.1. Make a rough sketch of how you will build this most frightening element.
+	1. Make a rough sketch of how you will build this most frightening element.
 Include as many details as you can. After I review this, you will start
 building, so you should include whatever information you think you will need
 in order to start working. This also helps catch gaps in your concept.
 
-1.1. Don't be afraid to ask questions! I may have answers!
+	1. Don't be afraid to ask questions! I may have answers!
 
-1.1. Document this in a file named "homework_07Feb.md". As before,
+	1. Document this in a file named "homework_07Feb.md". As before,
 different members of the team can document different parts, and you should all
 link to each other's part.
 
