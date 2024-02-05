@@ -57,3 +57,16 @@ This document: Student Repositories and other contributions
 - Jackie
     - Salvador Dalí 
     - Zines
+- Dania
+    - Rube Goldberg
+    - Sewing machines
+- Aya
+    - Leonardo DaVinci 
+    - Automatons
+- Ehtisham
+    - Jean Tinguely
+    - Hydraulic systems
+
+- Swostik
+    - Alan Turing and his turing machine
+    - MIT Cheetah robot
