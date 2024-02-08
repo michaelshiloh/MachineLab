@@ -521,12 +521,6 @@ How to use external power supplies, by which I mean how to use power that
 doesn't come from the Arduino's 5V pin
 
 ## Monday 5 February 2024
-##### todays-lecture
-[Video](https://www.stanwinstonschool.com/blog/creating-animatronic-cat-and-mouse-for-mouse-hunt-1997-behind-the-scenes-at-stan-winston-studio). 
-Curious? More details
-[here](https://www.stanwinstonschool.com/blog/creating-animatronic-cat-and-mouse-for-mouse-hunt-1997-behind-the-scenes-at-stan-winston-studio#Puppeteering%20the%20Giant%20Mouse%20for%20Mouse%20Hunt)
-### Admin
-- Dressing for tool training on Wednesday
 ### Plan for today
 - Theme
 
@@ -539,3 +533,11 @@ Curious? More details
 - Swinging Boat ride: Fatima, Salama, Noah
 - Carousel: Aya, Evelyn, Ehtisham
 
+## Wednesday 7 February 2024
+##### todays-lecture
+### Admin
+- Tool training has moved to next Wednesday
+- Failure to clean up after yourselves
+### Plan for today
+- update on teams
+- motors, mechanisms, and assembly techniques

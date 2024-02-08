@@ -78,3 +78,6 @@ This document: Student Repositories and other contributions
 - Salama
     - Rafeal Lozano-Hemmer
     - Robotic arms used for art and sculpting
+- Sunny
+    - Mechanical arcade machines
+    - Tim Hunkin
