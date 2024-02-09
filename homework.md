@@ -170,7 +170,6 @@ topic.
 
 You can look at each other's homework to get more ideas.
 
-##### todays-assignment
 ## Homework due Wednesday 7 February 2024
 
 1. I have listed the [teams](https://github.com/michaelshiloh/MachineLab/blob/master/lectureNotes.md#teams) in our lecture notes. 
@@ -198,3 +197,44 @@ link to each other's part.
 1. On Wednesday you will all be given tool training in the IM lab. Please
    dress appropriately for such work. Closed toed shoes are recommended, no
    loose clothing, and clothes that you don't mind getting a little dirty.
+
+##### todays-assignment
+## Homework due Monday 12 February 2024
+
+Start building your most difficult thing. In some cases you can start building
+on the wooden frames; in other cases you will be prototyping in some other
+way. I think you all know what areas I'm most concerned about and how to get
+started; if you're unsure please reach out to me.
+
+Your assignment this week is to get something moving. I want you to get
+experience working with the motors and solving problems. You will need to
+figure out:
+- How to attach the motor to your base (probably some sort of bracket)
+- how to attach whatever you need moving to the motor (probably a hub)
+- How to control the motor (speed, direction, how far it goes) to get the
+  motion you want
+
+I expect you will discover things that may not work the first time.
+
+As always, document your work in one of your repositories. Name the file
+"homework_12Feb.md". Include initial sketches and photographs of whatever you
+make. Don't wait for your project to be done! In fact, I don't even care about
+the finished piece. I want you to document what doesn't work.
+Include pictures of the work in progress and how things failed.
+Discuss how things didn't work. Include details. List your ideas
+for solving the problem, and then describe what you tried and whether that
+worked or whether you discovered a different problem.
+
+You will probably need some equipment from me such as:
+- Motors
+- Power supply
+- Gears/pulleys/hubs/axles/bearings
+- Motor bracket or metal to make your own bracket
+
+Remember that if you need any tools you will have to ask me, one of the IM
+instructors (Ume or Stefania), or one of the lab assistants. I know that this
+will be a limitation. Do the best you can. You may want to build everything
+using cardboard and hot glue, because you can access cardboard, scissors, and
+the hot glue guns without tool training. 
+
+Discuss any needs or issues on Discord so that I can help.
