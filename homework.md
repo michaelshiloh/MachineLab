@@ -201,10 +201,10 @@ link to each other's part.
 ##### todays-assignment
 ## Homework due Monday 12 February 2024
 
-Start building your most difficult thing. In some cases you can start building
-on the wooden frames; in other cases you will be prototyping in some other
-way. I think you all know what areas I'm most concerned about and how to get
-started; if you're unsure please reach out to me.
+Start building your most difficult thing. You can start building
+on the wooden frames or on a scrap of wood or cardboard.
+I think you all know what areas I'm most concerned about and how to get
+started; if you're unsure please reach out to me on Discord.
 
 Your assignment this week is to get something moving. I want you to get
 experience working with the motors and solving problems. You will need to
@@ -221,6 +221,8 @@ As always, document your work in one of your repositories. Name the file
 make. Don't wait for your project to be done! In fact, I don't even care about
 the finished piece. I want you to document what doesn't work.
 Include pictures of the work in progress and how things failed.
+Was the bracket too weak to hold the motor? Did the thing your moving fall of
+the hub? Did the motor get stuck? Did it go the wrong way and break something?
 Discuss how things didn't work. Include details. List your ideas
 for solving the problem, and then describe what you tried and whether that
 worked or whether you discovered a different problem.
@@ -236,5 +238,8 @@ instructors (Ume or Stefania), or one of the lab assistants. I know that this
 will be a limitation. Do the best you can. You may want to build everything
 using cardboard and hot glue, because you can access cardboard, scissors, and
 the hot glue guns without tool training. 
+
+I'm waiting to see whether we can staff the lab on the weekend. I will keep
+you updated. I am available Saturday and Sunday afternoons.
 
 Discuss any needs or issues on Discord so that I can help.
