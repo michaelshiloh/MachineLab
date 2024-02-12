@@ -198,7 +198,6 @@ link to each other's part.
    dress appropriately for such work. Closed toed shoes are recommended, no
    loose clothing, and clothes that you don't mind getting a little dirty.
 
-##### todays-assignment
 ## Homework due Monday 12 February 2024
 
 Start building your most difficult thing. You can start building
@@ -243,3 +242,15 @@ I'm waiting to see whether we can staff the lab on the weekend. I will keep
 you updated. I am available Saturday and Sunday afternoons.
 
 Discuss any needs or issues on Discord so that I can help.
+
+##### todays-assignment
+## Homework due Wednesday 14 February 2024
+1. Wear close toed shoes for tool training!
+1. Arrange to pick up things you need for your next step:
+    1. Carousel team: DC motor with tire and a piece of wood. Design bracket.
+    1. Swinging boat: What do you need for your next step?
+    1. Sky Ride: Get the very slow 10RPM motor from me. Design the pulleys
+        to be 3D printed.
+    1. Candy store: Get a DC motor and lazy susan from me
+    1. Roller Coaster: Get a DC motor and the longer belt from me. Design
+       bracket to hold the motor.

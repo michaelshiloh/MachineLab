@@ -527,17 +527,74 @@ doesn't come from the Arduino's 5V pin
 ### Theme
 ##### Finalize the theme: THEME PARK!!
 ##### Teams:
-- Roller Coaster: Swostik, Dania
-- Candy Store: Sunny, Jackie, Juanma, Aigerim
+- Roller Coaster: Swostik, Dania, Sunny
+- Candy Store: Jackie, Juanma, Aigerim
 - Sky Ride: Ronit, Liza
-- Swinging Boat ride: Fatima, Salama, Noah
+- Swinging Boat ride: Fatema, Salama, Noah
 - Carousel: Aya, Evelyn, Ehtisham
 
 ## Wednesday 7 February 2024
-##### todays-lecture
-### Admin
-- Tool training has moved to next Wednesday
-- Failure to clean up after yourselves
 ### Plan for today
 - update on teams
 - motors, mechanisms, and assembly techniques
+
+## Monday 12 February 2024
+##### todays-lecture
+### Admin
+- Tool training on Wednesday - dress appropriately
+### Plan for today
+Review homework, discuss problems, discuss solutions
+
+- Carousel: Aya, Evelyn, Ehtisham
+slipring
+stepper motor
+- DC motor with tire
+- piece of wood
+
+- Swinging Boat ride: Fatema, Salama, Noah
+Fatema
+neopixels
+figures
+waves
+shells
+
+- Sky Ride: Ronit, Liza
+- 10rpm motors
+- clouds
+crank? individual servo motors
+thin flexible wires
+
+
+- Candy Store: Jackie, Juanma, Aigerim
+lazy susan
+tree
+stepper motor or DC motor
+how to animate the lolypops
+where to hide the motor
+do we need the lazy susan
+
+
+- Roller Coaster: Swostik, Dania, Sunny
+how to get the roller coaster car up the slope
+- motor heat
+- proximity of magnet to car
+- multiple magnets
+- belt
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next week
+--------
+Parts and box redistribution 
+Point out phones
+
