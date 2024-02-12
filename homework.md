@@ -245,7 +245,7 @@ Discuss any needs or issues on Discord so that I can help.
 
 ##### todays-assignment
 ## Homework due Wednesday 14 February 2024
-1. Wear close toed shoes for tool training!
+1. Wear closed toed shoes for tool training!
 1. Arrange to pick up things you need for your next step:
     1. Carousel team: DC motor with tire and a piece of wood. Design bracket.
     1. Swinging boat: What do you need for your next step?
