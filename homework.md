@@ -261,7 +261,7 @@ I know that many of you will do this work on the weekend, so I will be
 available for a little while on the weekend, but not all day, and not late.
 
 As always, document your work in one of your repositories. Name the file
-"homework_12Feb.md". Include initial sketches and photographs of whatever you
+"homework_19Feb.md". Include initial sketches and photographs of whatever you
 make. Don't wait for your project to be done! In fact, I don't even care about
 the finished piece. I want you to document what doesn't work.
 Include pictures of the work in progress and how things failed.
@@ -270,6 +270,22 @@ the hub? Did the motor get stuck? Did it go the wrong way and break something?
 Discuss how things didn't work. Include details. List your ideas
 for solving the problem, and then describe what you tried and whether that
 worked or whether you discovered a different problem.
+
+Most of you are using 12V DC motors. We have not used them yet in class but
+they are simple to use:
+1. Connect the motor to Arduino using the motor driver and the 12V power
+   supply that we used in class for the stepper motor. To connect the motor
+   follow
+   [this](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
+   tutorial. Scroll down to where it says "Arduino and L298N Motor Driver" and
+   shows a picture of only one motor. That is how you should wire up your
+   motor and Arduino. You don't need the potentiometer and resistor shown on
+   the right side of the drawing. 
+1. Note that this circuit has an error: they
+   left off a ground connection to the Arduino. Look in your notes to see how
+   to attach a ground wire between your Arduino and the L298 Motor driver.
+1. Use your Arduino to make the motor rotate. You may want to reduce the speed
+   as the full speed may be too fast. This is described in the tutorial.
 
 Each of you have different goals for Monday:
 
@@ -285,22 +301,10 @@ as you discover what works and what doesn't:
 1. You'll need a bigger base so that you can mount the motor. You can use any
    of the scrap wood you can find in the IM lab, or you can ask me or Nelson
    to get you some from the Scene Shop. 
-1. Mount the motor in the bracket and mount the motoron the frame on a hinge
+1. Mount the motor in the bracket and mount the motor to the frame on a hinge
    so that it can swing towards the carousel and apply pressure between the
    tire and the carousel. You will need a hinge. I think there are some in our
    tip out bins behind the white board - let me know if not
-1. Connect the motor to Arduino using the motor driver and the 12V power
-   supply that we used in class for the stepper motor. To control the motor
-   follow
-   [this](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
-   tutorial. Scroll down to where it says "Arduino and L298N Motor Driver" and
-   shows a picture of only one motor. That is how you should wire up your
-   motor and Arduino. You don't need the potentiometer and resistor shown on
-   the right side of the drawing. Note that this circuit has an error: they
-   left off a ground connection to the Arduino. Look in your notes to see how
-   to attach a ground wire between your Arduino and the L298 Motor driver.
-1. Use your Arduino to make the motor rotate. You may want to reduce the speed
-   as the full speed may be too fast.
 1. Press the motor and wheel against the carousel and confirm that it can turn
    it. 
 
