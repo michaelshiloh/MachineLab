@@ -243,7 +243,6 @@ you updated. I am available Saturday and Sunday afternoons.
 
 Discuss any needs or issues on Discord so that I can help.
 
-##### todays-assignment
 ## Homework due Wednesday 14 February 2024
 1. Wear closed toed shoes for tool training!
 1. Arrange to pick up things you need for your next step:
@@ -254,3 +253,108 @@ Discuss any needs or issues on Discord so that I can help.
     1. Candy store: Get a DC motor and lazy susan from me
     1. Roller Coaster: Get a DC motor and the longer belt from me. Design
        bracket to hold the motor.
+
+##### todays-assignment
+## Homework due Monday 19 February 2024
+
+I know that many of you will do this work on the weekend, so I will be
+available for a little while on the weekend, but not all day, and not late.
+
+As always, document your work in one of your repositories. Name the file
+"homework_12Feb.md". Include initial sketches and photographs of whatever you
+make. Don't wait for your project to be done! In fact, I don't even care about
+the finished piece. I want you to document what doesn't work.
+Include pictures of the work in progress and how things failed.
+Was the bracket too weak to hold the motor? Did the thing your moving fall of
+the hub? Did the motor get stuck? Did it go the wrong way and break something?
+Discuss how things didn't work. Include details. List your ideas
+for solving the problem, and then describe what you tried and whether that
+worked or whether you discovered a different problem.
+
+Each of you have different goals for Monday:
+
+Carousel team: 
+You now have the DC motor with a wheel and tire. I want you to mount this so
+that it will turn your carousel. I suggest the following, but it might change
+as you discover what works and what doesn't:
+1. You will need to make your carousel circular. Ideally find a piece of
+   plywood that is already circular, or ask Nelson to help you. This is due on
+   Monday, and Nelson doesn't work on the weekend, so you will have to do this
+   on Friday. That's tomorrow so you had better hurry up
+1. Mount your circular piece of plywood on top of the lazy susan
+1. You'll need a bigger base so that you can mount the motor. You can use any
+   of the scrap wood you can find in the IM lab, or you can ask me or Nelson
+   to get you some from the Scene Shop. 
+1. Mount the motor in the bracket and mount the motoron the frame on a hinge
+   so that it can swing towards the carousel and apply pressure between the
+   tire and the carousel. You will need a hinge. I think there are some in our
+   tip out bins behind the white board - let me know if not
+1. Connect the motor to Arduino using the motor driver and the 12V power
+   supply that we used in class for the stepper motor. To control the motor
+   follow
+   [this](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
+   tutorial. Scroll down to where it says "Arduino and L298N Motor Driver" and
+   shows a picture of only one motor. That is how you should wire up your
+   motor and Arduino. You don't need the potentiometer and resistor shown on
+   the right side of the drawing. Note that this circuit has an error: they
+   left off a ground connection to the Arduino. Look in your notes to see how
+   to attach a ground wire between your Arduino and the L298 Motor driver.
+1. Use your Arduino to make the motor rotate. You may want to reduce the speed
+   as the full speed may be too fast.
+1. Press the motor and wheel against the carousel and confirm that it can turn
+   it. 
+
+Swinging Boat team:
+1. Build a frame out of wood to hold your motor and the boat itself. 
+1. I can't remember what motor your using in the end. I think the large servo
+   motor. You will need to make a bracket to mount it. Make an appointment to
+   meet me today, tomorrow, or Saturday so that I can help you make a bracket.
+   Do not wait until Sunday.
+1. Build a better model of the boat so that you can get a sense of how it will
+   act as it is swung. You can still use cardboard.
+1. Add a short strand (5-10 pixels) of Neopixels to the boat and run the wires
+   to it so that you can see how the wires behave when the boat swings. You
+   will have to construct some sort of guide to keep the wires where you want
+   them and to let them swing with the boat.
+1. Research
+   [Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
+   and do a quick test to make sure that you understand how to control the
+   colors and brightness of the pixels
+
+Sky Ride team:
+1. I have given you the 10 RPM motor.  You will need to make a bracket to
+   mount it. Make an appointment to meet me today, tomorrow, or Saturday so
+   that I can help you make a bracket.  Do not wait until Sunday.
+1. Design and 3Dprint a pair of pulleys, one to fit on the motor, and one to
+   fit on a bearing that will spin on a shaft. I suggest a 5mm shaft. I have
+   bearings that have a 5mm internal diameter and a 14mm outside diameter.
+   Design something to hold the bearing.
+1. What will you use as the cable? Do you want the green urethane belting that
+   I showed in class? Arrange to get some from me.
+1. Build a better prototoype of your ride so that the motor turns the pulleys
+   and the cable
+1. Make a prototype of a car and figure out how to attach it to the cable
+
+Candy Store team: 
+1. You have now a DC motor and lazy susan. Built the rotating tree.
+1. Research
+   [Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
+   and get a short strand (5-10 pixels) of Neopixels.  Do a quick test to make
+   sure that you understand how to control the colors and brightness of the
+   pixels
+1. I feel there is not enough motion in your project. What else can you
+   animate? Some animals? Dolls? Make a face where the eyes move from side to
+   side? Hands and arms that move? A candy farm where candy grows out of the
+   ground? 
+
+Roller Coaster team: 
+1. I have given you the 10 RPM motor.  You will need to make a bracket to
+   mount it. Make an appointment to meet me today, tomorrow, or Saturday so
+   that I can help you make a bracket.  Do not wait until Sunday.
+1. At the same time work with me to get the longer belt out of last year's
+   project.
+1. Build a better prototype of your project using wood
+1. Answer the question of how you will make the tracks. 
+1. Design the cars so that they can ride on the track. Maybe you can use some
+   toy cars that you can buy, or you can design your own from scratch. Build
+   one and test that it stays on the track.
