@@ -279,7 +279,7 @@ they are simple to use:
    [this](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
    tutorial. Scroll down to where it says "Arduino and L298N Motor Driver" and
    shows a picture of only one motor. That is how you should wire up your
-   motor and Arduino. You don't need the potentiometer and resistor shown on
+   motor and Arduino. You don't need the potentiometer and switch shown on
    the right side of the drawing. 
 1. Note that this circuit has an error: they
    left off a ground connection to the Arduino. Look in your notes to see how
@@ -289,7 +289,7 @@ they are simple to use:
 
 Each of you have different goals for Monday:
 
-Carousel team: 
+**Carousel team**: 
 You now have the DC motor with a wheel and tire. I want you to mount this so
 that it will turn your carousel. I suggest the following, but it might change
 as you discover what works and what doesn't:
@@ -308,7 +308,7 @@ as you discover what works and what doesn't:
 1. Press the motor and wheel against the carousel and confirm that it can turn
    it. 
 
-Swinging Boat team:
+**Swinging Boat team**:
 1. Build a frame out of wood to hold your motor and the boat itself. 
 1. I can't remember what motor your using in the end. I think the large servo
    motor. You will need to make a bracket to mount it. Make an appointment to
@@ -325,7 +325,7 @@ Swinging Boat team:
    and do a quick test to make sure that you understand how to control the
    colors and brightness of the pixels
 
-Sky Ride team:
+**Sky Ride team**:
 1. I have given you the 10 RPM motor.  You will need to make a bracket to
    mount it. Make an appointment to meet me today, tomorrow, or Saturday so
    that I can help you make a bracket.  Do not wait until Sunday.
@@ -339,7 +339,7 @@ Sky Ride team:
    and the cable
 1. Make a prototype of a car and figure out how to attach it to the cable
 
-Candy Store team: 
+**Candy Store team**: 
 1. You have now a DC motor and lazy susan. Built the rotating tree.
 1. Research
    [Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
@@ -351,7 +351,7 @@ Candy Store team:
    side? Hands and arms that move? A candy farm where candy grows out of the
    ground? 
 
-Roller Coaster team: 
+**Roller Coaster team**: 
 1. I have given you the 10 RPM motor.  You will need to make a bracket to
    mount it. Make an appointment to meet me today, tomorrow, or Saturday so
    that I can help you make a bracket.  Do not wait until Sunday.
