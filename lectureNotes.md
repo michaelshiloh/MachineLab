@@ -539,9 +539,6 @@ doesn't come from the Arduino's 5V pin
 - motors, mechanisms, and assembly techniques
 
 ## Monday 12 February 2024
-##### todays-lecture
-### Admin
-- Tool training on Wednesday - dress appropriately
 ### Plan for today
 Review homework, discuss problems, discuss solutions
 
@@ -581,20 +578,17 @@ how to get the roller coaster car up the slope
 - multiple magnets
 - belt
 
+## Wednesday 14 February 2024
+### Plan for today
+Tool training
 
-
-
-
-
-
-
-
-
-
-
-
-Next week
---------
-Parts and box redistribution 
-Point out phones
-
+## Monday 19 February 2024
+##### todays-lecture
+### Admin
+Phones
+### Plan for today
+- Parts and box redistribution 
+- Field trips to AMW, ERB
+- Review homework 
+- Presentations
+- Working with metal
