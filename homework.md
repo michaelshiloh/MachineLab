@@ -392,7 +392,7 @@ next week?
 
 You may either name your homework file "homework_26Feb.md", or, if you prefer
 to have everything in one long journal, simply call it "journal.md".
-Documentation for a team needs can be in any of your repositories, but all
+Documentation for a team can be in any of your repositories, but all
 other team members must include a link to it. The link should be in a file as
 named above. It's OK if this is in different repositories.
 
@@ -420,9 +420,9 @@ You're mostly on track. I'm a little concerned about the amount of swing and
 the size and shape of the space you have. I'd like to see the proportions
 worked out so that you know how big the boat is and how far it swings. This
 will also tell you what space you have left, and I'd like to see some sketches
-for the empty space. Since you've already demonstrated your mechanism and
-have a rough boat prototype, you can do this assignment on paper (or
-computer). 
+for how you intend to fill that empty space. Since you've already demonstrated
+your mechanism and have a rough boat prototype, you can do this assignment on
+paper (or computer). 
 
 **Carousel team** (Aya, Evelyn, Ehtisham):
 Verify that you can reliable power an Arduino, a couple of NeoPixels, and a
