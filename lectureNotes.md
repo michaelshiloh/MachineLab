@@ -583,12 +583,14 @@ how to get the roller coaster car up the slope
 Tool training
 
 ## Monday 19 February 2024
-##### todays-lecture
 ### Admin
-Phones
 ### Plan for today
+- Presentations
+- Working with metal
 - Parts and box redistribution 
 - Field trips to AMW, ERB
 - Review homework 
-- Presentations
-- Working with metal
+
+##### todays-lecture
+## Monday 19 February 2024
+### Plan for today

@@ -254,7 +254,6 @@ Discuss any needs or issues on Discord so that I can help.
     1. Roller Coaster: Get a DC motor and the longer belt from me. Design
        bracket to hold the motor.
 
-##### todays-assignment
 ## Homework due Monday 19 February 2024
 
 I know that many of you will do this work on the weekend, so I will be
@@ -362,3 +361,73 @@ as you discover what works and what doesn't:
 1. Design the cars so that they can ride on the track. Maybe you can use some
    toy cars that you can buy, or you can design your own from scratch. Build
    one and test that it stays on the track.
+
+##### todays-assignment
+## Homework due Monday 26 February 2024
+
+Announcements:
+
+1. I don't expect to be in the lab on Saturday but I am still available later in
+the afternoon if you have any needs. On Sunday I expect to be in my office in
+the afternoon.
+1. On Monday we will visit the Machine Shop. Please try to be in class on time
+   so that we can all walk over together to the back of C1. If you can't be
+   there on time make sure that you can contact one of your classmates to
+   coordinate meeting us along the way. The back of C1 is accessed from the
+   road that runs behind the campus.
+
+As always, document your work in one of your repositories. 
+Include initial sketches and photographs of whatever you
+make. Don't wait for your project to be done! In fact, I don't even care about
+the finished piece. I want you to document what doesn't work.
+Include pictures of the work in progress and how things failed.
+Was the bracket too weak to hold the motor? Did the thing your moving fall of
+the hub? Did the motor get stuck? Did it go the wrong way and break something?
+Discuss how things didn't work. Include details. List your ideas
+for solving the problem, and then describe what you tried and whether that
+worked or whether you discovered a different problem.
+
+There is a new section I want you to add each week: What will you get done for
+next week?
+
+You may either name your homework file "homework_26Feb.md", or, if you prefer
+to have everything in one long journal, simply call it "journal.md".
+Documentation for a team needs can be in any of your repositories, but all
+other team members must include a link to it. The link should be in a file as
+named above. It's OK if this is in different repositories.
+
+I think I described to you on Wednesday pretty clearly what I want to see on
+Monday, so I will list it here only briefly:
+
+**Sky Ride team** (Liza, Ronit):
+On Monday I want to see the belt moving with at least one car that goes around
+the motor pulley. 
+If you can't get everything 3D printed you need to come up
+with another way to prototype. If you can't demonstrate this then I think you
+need to come up with a different ride.
+
+**Candy Store team** (Jackie, Juanma, Aigerim): 
+I think you're on track.
+
+**Roller Coaster team** (Swostik, Dania, Sunny): 
+On Monday I want to see a train that can climb a hill. 
+If you can't get everything 3D printed you need to come up
+with another way to prototype. If you can't demonstrate this then I think you
+need to come up with a different ride.
+
+**Swinging Boat team** (Fatema, Salama, Noah):
+You're mostly on track. I'm a little concerned about the amount of swing and
+the size and shape of the space you have. I'd like to see the proportions
+worked out so that you know how big the boat is and how far it swings. This
+will also tell you what space you have left, and I'd like to see some sketches
+for the empty space. Since you've already demonstrated your mechanism and
+have a rough boat prototype, you can do this assignment on paper (or
+computer). 
+
+**Carousel team** (Aya, Evelyn, Ehtisham):
+Verify that you can reliable power an Arduino, a couple of NeoPixels, and a
+servo motor through the slipring while it's rotating, and start working out
+the structure for the top part of the carousel and the mechanisms for the
+horses.
+
+
