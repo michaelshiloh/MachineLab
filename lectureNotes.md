@@ -591,6 +591,12 @@ Tool training
 - Field trips to AMW, ERB
 - Review homework 
 
-##### todays-lecture
-## Monday 19 February 2024
+## Wednesday 21 February 2024
 ### Plan for today
+Work day!
+
+## Monday 26 February 2024
+##### todays-lecture
+### Plan for today
+Class will meet behind C2, near the path to the north field, 
+at our usual class time of 2:10 
