@@ -596,9 +596,15 @@ Tool training
 Work day!
 
 ## Monday 26 February 2024
-##### todays-lecture
 ### Plan for today
 1. Class will meet behind C2, near the path to the north field, 
 at our usual class time of 2:10 
 1. Please select your time slots for your presentations
    [here](https://docs.google.com/spreadsheets/d/19HCuk5-NCF-PobeBE8HsrbsLqfSdZQaEY3s8nDGBKpI/edit?usp=sharing)
+
+## Wednesday 28 February 2024
+##### todays-lecture
+### Plan for today
+- don't work only on wednesday inclass
+- machine tool training
+

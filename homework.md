@@ -362,7 +362,6 @@ as you discover what works and what doesn't:
    toy cars that you can buy, or you can design your own from scratch. Build
    one and test that it stays on the track.
 
-##### todays-assignment
 ## Homework due Monday 26 February 2024
 
 Announcements:
@@ -431,3 +430,8 @@ the structure for the top part of the carousel and the mechanisms for the
 horses.
 
 
+##### todays-assignment
+## Homework due Monday 4 March 2024
+
+1) Keep making progress, keep updating your journal as described above
+2) On Monday we will tour the Advanced Manufacturing Workshop located in building A5. Please meet in the lobby of A5. Please be on time.
