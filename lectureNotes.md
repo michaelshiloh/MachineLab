@@ -602,9 +602,25 @@ at our usual class time of 2:10 
 1. Please select your time slots for your presentations
    [here](https://docs.google.com/spreadsheets/d/19HCuk5-NCF-PobeBE8HsrbsLqfSdZQaEY3s8nDGBKpI/edit?usp=sharing)
 
-## Wednesday 28 February 2024
+## Wednesday 05 March 2024
 ##### todays-lecture
 ### Plan for today
-- don't work only on wednesday inclass
-- machine tool training
+- Homework
+- Fix presentation schedule
+- Advanced Manufacturing Workshop: Jorge Montalvo Navarrete jmontalvon@nyu.edu
 
+##### Homework
+- I'm not going to assign homework every week but I want you to update your
+  journals at least once a week before Sunday at 5pm
+- You will not finish your project on time if you only work on Wednesdays.
+  You must manage your own schedules and find time outside of class to work on
+  your project.
+
+##### Fix presentation schedule
+- [Schedule](https://docs.google.com/spreadsheets/d/19HCuk5-NCF-PobeBE8HsrbsLqfSdZQaEY3s8nDGBKpI/edit?usp=sharing)
+- Only 24 slots; we need 28
+- Options
+    - Shorter presentations
+    - Include Wednesdays
+    - Add Monday May 6
+- Swap conflicts
