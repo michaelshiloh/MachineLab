@@ -618,9 +618,5 @@ at our usual class time of 2:10 
 
 ##### Fix presentation schedule
 - [Schedule](https://docs.google.com/spreadsheets/d/19HCuk5-NCF-PobeBE8HsrbsLqfSdZQaEY3s8nDGBKpI/edit?usp=sharing)
-- Only 24 slots; we need 28
-- Options
-    - Shorter presentations
-    - Include Wednesdays
-    - Add Monday May 6
 - Swap conflicts
+- added a week
