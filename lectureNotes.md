@@ -635,10 +635,6 @@ at our usual class time of 2:10 
 - Sound
     - Adafruit Music Maker Shield
     - Loudspeaker
-- Control software
-    - Initiating your activity
-    - Blocking vs. non-blocking functions
-    - Doing multiple things at the same time (multitasking)
 - Mounting electronics
     - Arduino + any shields
     - L298 Motor Driver
@@ -657,6 +653,14 @@ at our usual class time of 2:10 
     - Servos and Neopixels can use any 
         - that leaves 5 and the analog input pins for servos, neopixels, and
           interfacing with the master clock
+- Control software
+    - Initiating your activity
+    - Blocking vs. non-blocking functions
+    - Doing multiple things at the same time (multitasking)
+    - Sample code [musicShieldAndMotor](https://github.com/michaelshiloh/MachineLab/blob/master/src/musicShieldAndMotor/musicShieldAndMotor.ino)
+
+
+
 - Schedule
     - 27 (today)
     - 3
@@ -665,6 +669,9 @@ at our usual class time of 2:10 
     - 24
     - 1
     - 8 -> 10
+
+
+
 
 homework for next wednesday
 - mount electronics on back wall
