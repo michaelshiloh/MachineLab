@@ -603,7 +603,6 @@ at our usual class time of 2:10 
    [here](https://docs.google.com/spreadsheets/d/19HCuk5-NCF-PobeBE8HsrbsLqfSdZQaEY3s8nDGBKpI/edit?usp=sharing)
 
 ## Wednesday 05 March 2024
-##### todays-lecture
 ### Plan for today
 - Homework
 - Fix presentation schedule
@@ -620,3 +619,55 @@ at our usual class time of 2:10 
 - [Schedule](https://docs.google.com/spreadsheets/d/19HCuk5-NCF-PobeBE8HsrbsLqfSdZQaEY3s8nDGBKpI/edit?usp=sharing)
 - Swap conflicts
 - added a week
+
+## Monday 25 March 2024
+##### todays-lecture
+### Plan for today
+- presentations
+    - Juanma
+    - Liza
+    - Aigerim
+    - Aya
+
+## Wednesday 27 March 2024
+##### todays-lecture
+### Plan for today
+- Sound
+    - Adafruit Music Maker Shield
+    - Loudspeaker
+- Control software
+    - Initiating your activity
+    - Blocking vs. non-blocking functions
+    - Doing multiple things at the same time (multitasking)
+- Mounting electronics
+    - Arduino + any shields
+    - L298 Motor Driver
+    - Loudspeaker
+    - Anything else?
+- Wiring
+    - Power!
+        - 5V for Arduino
+        - 12V motors
+        - 24V motors
+        - 5V for Neopixels and "standard" servo motors
+- Pins
+    - Music Maker Shield uses 13, 12, 11, 7, 6, 4, 3
+    - L298 can use any pins, but for speed control need PWM 5, 9, 10
+        - let's say 9 and 10 for PWM, and 2, 8 for the others
+    - Servos and Neopixels can use any 
+        - that leaves 5 and the analog input pins for servos, neopixels, and
+          interfacing with the master clock
+- Schedule
+    - 27 (today)
+    - 3
+    - 10
+    - 17
+    - 24
+    - 1
+    - 8 -> 10
+
+homework for next wednesday
+- mount electronics on back wall
+- pushbutton and LED
+- ok to mount solderless breadboard for testing but all circuitry must be
+  soldered for final
