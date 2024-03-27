@@ -429,9 +429,24 @@ servo motor through the slipring while it's rotating, and start working out
 the structure for the top part of the carousel and the mechanisms for the
 horses.
 
-
-##### todays-assignment
 ## Homework due Monday 4 March 2024
 
 1) Keep making progress, keep updating your journal as described above
 2) On Monday we will tour the Advanced Manufacturing Workshop located in building A5. Please meet in the lobby of A5. Please be on time.
+
+
+
+##### todays-assignment
+## Homework due Wednesday 3 April 2024
+
+1. Mount the Arduino holder on the back of your frame. If you don't want to
+   drill holes in the back wall you can mount the Arduino holder to one of the
+   ribs in the back for now.
+1. Stick your solderless breadboard to the back wall as well
+1. Start wiring up your motors using the solderless breadboard. Use
+   **stranded** wires everywhere. You can solder on a short piece of **solid**
+   wire to the end that needs to go into the solderless breadboard
+1. Leave all the wires longer than necessary so that you can move things
+   around as necessary
+1. Label your power connectors very clearly so we don't plug the wrong voltage
+   in and damage anything

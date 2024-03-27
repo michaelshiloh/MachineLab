@@ -621,7 +621,6 @@ at our usual class time of 2:10 
 - added a week
 
 ## Monday 25 March 2024
-##### todays-lecture
 ### Plan for today
 - presentations
     - Juanma
@@ -672,9 +671,3 @@ at our usual class time of 2:10 
 
 
 
-
-homework for next wednesday
-- mount electronics on back wall
-- pushbutton and LED
-- ok to mount solderless breadboard for testing but all circuitry must be
-  soldered for final
