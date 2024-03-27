@@ -670,4 +670,8 @@ at our usual class time of 2:10 
     - 8 -> 10
 
 
+Bonus link:
+
+[Adafruit Multitasking Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+for doing multiple things at the same time (e.g. moving a servo, dimming a Neopixel) 
 
