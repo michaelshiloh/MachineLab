@@ -629,7 +629,6 @@ at our usual class time of 2:10 
     - Aya
 
 ## Wednesday 27 March 2024
-##### todays-lecture
 ### Plan for today
 - Sound
     - Adafruit Music Maker Shield
@@ -675,3 +674,8 @@ Bonus link:
 [Adafruit Multitasking Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
 for doing multiple things at the same time (e.g. moving a servo, dimming a Neopixel) 
 
+## Monday 1 April 2024
+##### todays-lecture
+### Plan for today
+
+Presentations! Aigerim, Juanma, Aya, Sunny
