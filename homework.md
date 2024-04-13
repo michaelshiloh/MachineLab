@@ -457,11 +457,9 @@ horses.
 - Prepare your 12V and 5V power feeds:
     - Any of your 12V devices (DC gearmotors and giant servo motors) should be
       connected to one 12V power feed and any of your 5V devices (NeoPixels
-      and "normal" servo motors) to one 5V power feed.  In other words, if you
-      have multiple servos, the 5V line should all be connected together to
-      one coax plug.
+      and "normal" servo motors) to one 5V power feed.  
     - Each power feed should end in a **clearly labelled** coax connector:
-      ![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/coaxConnector.png)
+      - ![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/coaxConnector.png)
 - Your breadboard should have a button and an LED. Your activity should start
   when the button is pressed. When your activity stops the LED should turn on.
   - You can use [my
