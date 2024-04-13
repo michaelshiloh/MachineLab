@@ -473,4 +473,4 @@ horses.
   sounds, actions, decorations. *At the bare minimum you should have one
   action and one sound that responds to the button, runs for  awhile, and then
   turns on the LED.*
-
+- Your Arduino can still be plugged into your laptop for now
