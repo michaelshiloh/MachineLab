@@ -454,24 +454,25 @@ horses.
 - Add your Music Maker Shield and a loudspeaker to your project. The
   loudspeaker can be mounted in a temporary position such as to one of the
   ribs in the back of your frame.
-- All your power feeds should be clearly labeled, one each for 12V and/or 5V (NeoPixels and servo
-  motors). Is anyone using any other voltages? 
-- Each power feed should end in a **clearly labelled** coax connector:   
-![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/coaxConnector.png)
-- There should be at most one of
-  each, in other words, if you have multiple servos, the 5V line should all be
-  connected together to one coax plug.
+- Prepare your 12V and 5V power feeds:
+    - Any of your 12V devices (DC gearmotors and giant servo motors) should be
+      connected to one 12V power feed and any of your 5V devices (NeoPixels
+      and "normal" servo motors) to one 5V power feed.  In other words, if you
+      have multiple servos, the 5V line should all be connected together to
+      one coax plug.
+    - Each power feed should end in a **clearly labelled** coax connector:
+      ![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/coaxConnector.png)
 - Your breadboard should have a button and an LED. Your activity should start
   when the button is pressed. When your activity stops the LED should turn on.
-  You can use [my
-  example](https://github.com/michaelshiloh/MachineLab/blob/master/src/musicShieldAndMotor/musicShieldAndMotor.ino)
-  as an example of the overall concept, and you may need my multitasking
-  examples for [many servos without
-  delay](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/noDelay/manyServosNoDelay/manyServosNoDelay.ino)
-  or [fading NeoPixels without
-  delay](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/noDelay/fadeNeoWithoutDelay/fadeNeoWithoutDelay.ino)
+  - You can use [my
+    example](https://github.com/michaelshiloh/MachineLab/blob/master/src/musicShieldAndMotor/musicShieldAndMotor.ino)
+    as an example of the overall concept, and you may need my multitasking
+    examples for [many servos without
+    delay](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/noDelay/manyServosNoDelay/manyServosNoDelay.ino)
+    or [fading NeoPixels without
+    delay](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/noDelay/fadeNeoWithoutDelay/fadeNeoWithoutDelay.ino)
 - Your project does not need to be completed: you may still be working on the
-  sounds, actions, decorations. *At the bare minimum you should have one action
-  and one sound that responds to the button, runs for  awhile, and then turns
-  on the LED.*
+  sounds, actions, decorations. *At the bare minimum you should have one
+  action and one sound that responds to the button, runs for  awhile, and then
+  turns on the LED.*
 
