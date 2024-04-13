@@ -435,8 +435,6 @@ horses.
 2) On Monday we will tour the Advanced Manufacturing Workshop located in building A5. Please meet in the lobby of A5. Please be on time.
 
 
-
-##### todays-assignment
 ## Homework due Wednesday 3 April 2024
 
 1. Mount the Arduino holder on the back of your frame. If you don't want to
@@ -450,3 +448,24 @@ horses.
    around as necessary
 1. Label your power connectors very clearly so we don't plug the wrong voltage
    in and damage anything
+
+##### todays-assignment
+## Homework due Wednesday 24 April 2024
+- Add your Music Maker Shield and a loudspeaker. The loudspeaker can be
+  mounted in a temporary position such as to one of the ribs in the back
+  of your frame.
+- All your power feeds should be clearly labeled: 12V, 5V (NeoPixels and servo
+  motors). Is anyone using any other voltages? There should be at most one of
+  each, in other words, if you have multiple servos, the 5V line should all be
+  connected together to one coax plug
+- Each power feed should end in a coax connector:
+![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/coaxConnector.png)
+- Your breadboard should have a button and an LED. Your activity should start
+  when the button is pressed. When your activity stops the LED should turn on.
+  You can use [my
+  example](https://github.com/michaelshiloh/MachineLab/blob/master/src/musicShieldAndMotor/musicShieldAndMotor.ino) as an example of the overall concept, and you may need my multitasking examples for [many servos without delay](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/noDelay/manyServosNoDelay/manyServosNoDelay.ino) or [fading NeoPixels without delay](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/noDelay/fadeNeoWithoutDelay/fadeNeoWithoutDelay.ino)
+- Your project does not need to be completed: you may still be working on the
+  sounds, actions, decorations. At the bare minimum you should have one action
+  and one sound that responds to the button, runs for  awhile, and then turns
+  on the LED.
+
