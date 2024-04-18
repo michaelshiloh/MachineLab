@@ -81,3 +81,6 @@ This document: Student Repositories and other contributions
 - Sunny
     - Mechanical arcade machines
     - Tim Hunkin
+- Evelyn
+    - Toaster
+    - Lei Ban
