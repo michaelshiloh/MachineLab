@@ -675,7 +675,21 @@ Bonus link:
 for doing multiple things at the same time (e.g. moving a servo, dimming a Neopixel) 
 
 ## Monday 1 April 2024
+### Plan for today
+
+
+Presentations! Aigerim, Juanma, Aya, Sunny
+## Monday 22 April 2024
 ##### todays-lecture
 ### Plan for today
 
-Presentations! Aigerim, Juanma, Aya, Sunny
+Presentations! Ehtisham, Evelyn, Salama, Noah
+
+Schedule for the rest of the semester:
+
+* April 24 Wednesday: demonstrate button operation
+* May 1 Wednesday: Test operation in the frame with the control computer
+* May 1 - May 6: Finish technical work
+* May 6: Return projects to the finished frame, test entire system
+* May 6 - May 8: Decorations, painting, aesthetics, etc.
+* May 8: Return projects to the finished frame, verify entire system
