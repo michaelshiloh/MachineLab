@@ -685,7 +685,7 @@ Presentations! Aigerim, Juanma, Aya, Sunny
 
 Presentations! Ehtisham, Evelyn, Salama, Noah
 
-Schedule for the rest of the semester:
+###### Schedule for the rest of the semester:
 
 * April 24 Wednesday: demonstrate button operation
 * May 1 Wednesday: Test operation in the frame with the control computer
