@@ -449,7 +449,6 @@ horses.
 1. Label your power connectors very clearly so we don't plug the wrong voltage
    in and damage anything
 
-##### todays-assignment
 ## Homework due Wednesday 24 April 2024
 - Add your Music Maker Shield and a loudspeaker to your project. The
   loudspeaker can be mounted in a temporary position such as to one of the
@@ -474,3 +473,6 @@ horses.
   action and one sound that responds to the button, runs for  awhile, and then
   turns on the LED.*
 - Your Arduino can still be plugged into your laptop for now
+
+##### todays-assignment
+## Homework due Wednesday 24 April 2024
