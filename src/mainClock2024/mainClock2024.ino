@@ -1,16 +1,30 @@
 // Date and time functions using a DS1307 RTC connected via I2C and Wire lib
 #include "RTClib.h"
 
-RTC_DS1307 rtc;
+// Pin definitions
+// Note that rtc uses SDA and SCL which is pins A4 and A5 so don't use them
 
-char daysOfTheWeek[7][12] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
+// Each project has a trigger and a done signal
+const int P1TriggerPin = 2;
+const int P1DonePin = 3;
+const int P2TriggerPin = 4;
+const int P2DonePin = 5;
+const int P3TriggerPin = 6;
+const int P3DonePin = 7;
+const int P4TriggerPin = 8;
+const int P4DonePin = 9;
+const int P5TriggerPin = 10;
+const int P5DonePin = 11;
+
+// For debugging our own trigger and NeoPixels for output
+const int myTriggerPin = 12;
+const int neoPixelsPin = 13;
+
+
+RTC_DS1307 rtc;
 
 void setup () {
   Serial.begin(9600);
-
-#ifndef ESP8266
-  while (!Serial); // wait for serial port to connect. Needed for native USB
-#endif
 
   if (! rtc.begin()) {
     Serial.println("Couldn't find RTC");
@@ -39,14 +53,6 @@ void setup () {
 void loop () {
     DateTime now = rtc.now();
 
-//    Serial.print(now.year(), DEC);
-//    Serial.print('/');
-//    Serial.print(now.month(), DEC);
-//    Serial.print('/');
-//    Serial.print(now.day(), DEC);
-//    Serial.print(" (");
-//    Serial.print(daysOfTheWeek[now.dayOfTheWeek()]);
-//    Serial.print(") ");
     Serial.print(now.hour(), DEC);
     Serial.print(':');
     Serial.print(now.minute(), DEC);
@@ -63,29 +69,6 @@ void loop () {
     if (0 == now.minute()) {
       Serial.println("On the hour");
     }
-//
-//    Serial.print(" since midnight 1/1/1970 = ");
-//    Serial.print(now.unixtime());
-//    Serial.print("s = ");
-//    Serial.print(now.unixtime() / 86400L);
-//    Serial.println("d");
-//
-//    // calculate a date which is 7 days, 12 hours, 30 minutes, and 6 seconds into the future
-//    DateTime future (now + TimeSpan(7,12,30,6));
-//
-//    Serial.print(" now + 7d + 12h + 30m + 6s: ");
-//    Serial.print(future.year(), DEC);
-//    Serial.print('/');
-//    Serial.print(future.month(), DEC);
-//    Serial.print('/');
-//    Serial.print(future.day(), DEC);
-//    Serial.print(' ');
-//    Serial.print(future.hour(), DEC);
-//    Serial.print(':');
-//    Serial.print(future.minute(), DEC);
-//    Serial.print(':');
-//    Serial.print(future.second(), DEC);
-//    Serial.println();
 
-    delay(3000);
+    delay(1000);
 }

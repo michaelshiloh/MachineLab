@@ -475,4 +475,19 @@ horses.
 - Your Arduino can still be plugged into your laptop for now
 
 ##### todays-assignment
-## Homework due Wednesday 24 April 2024
+## Homework due Wednesday 1 May 2024
+
+Note the schedule for the rest of the semester:
+https://github.com/michaelshiloh/MachineLab/blob/master/lectureNotes.md/#schedule-for-the-rest-of-the-semester
+
+- Be ready to install your project into the larger frame physically and
+  electrically. That means that last week's assignment must be finished,
+  everything must be attached to your wooden frame, and the connectors for
+  power must be present and clearly labelled. 
+- Pay attention to physical stability. You must be able to lift your project
+  up and insert it into the big frame, and it must operate without any human
+  intervention e.g. holding things together or pushing things that aren't
+  working. It must be autonomous. Even if it's not the final sequence of
+  motion, LEDs, or sounds, each feature must be demonstrated.
+- This assignment, as is true for all assignments, is due at the beginning of
+  class. 

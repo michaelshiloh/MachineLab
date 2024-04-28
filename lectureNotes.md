@@ -679,8 +679,8 @@ for doing multiple things at the same time (e.g. moving a servo, dimming a Neopi
 
 
 Presentations! Aigerim, Juanma, Aya, Sunny
+
 ## Monday 22 April 2024
-##### todays-lecture
 ### Plan for today
 
 Presentations! Ehtisham, Evelyn, Salama, Noah
@@ -693,3 +693,27 @@ Presentations! Ehtisham, Evelyn, Salama, Noah
 * May 6: Return projects to the finished frame, test entire system
 * May 6 - May 8: Decorations, painting, aesthetics, etc.
 * May 8: Return projects to the finished frame, verify entire system
+
+## Monday 28 April 2024
+##### todays-lecture
+### Plan for today
+
+- Presentations! Fatema, Ronit, Ronit, Dania
+- A few words about your projects
+
+#### A few words about your projects
+- Don't solder wires directly to the Music Maker Shield. You should solder
+  wires to a prototyping shield, and plug the prototyping shield into the
+  Music Maker Shield. 
+- Always use stacking headers in all your shields
+- Never use the jumper wires. They are too thin and will tear easily
+- Never use solid core wire except going from point to point on the same
+  board.
+- Never use copper tape to make any connections. It is unreliable
+- use enough heat shrink tubing to completely cover any joints. If it shrinks
+  and leaves a gap, put another piece over that. Heat shrink tubing is cheap,
+  fixing a short circuit is not.
+- I warned you at the beginning of the semester that this class will require a
+  lot of work and that you would have to put in a lot of time outside of class
+  time.
+- Homework for Wednesday
