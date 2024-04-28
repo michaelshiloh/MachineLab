@@ -700,6 +700,7 @@ Presentations! Ehtisham, Evelyn, Salama, Noah
 
 - Presentations! Fatema, Ronit, Ronit, Dania
 - A few words about your projects
+- Your opinion matters
 
 #### A few words about your projects
 - Don't solder wires directly to the Music Maker Shield. You should solder
@@ -717,3 +718,7 @@ Presentations! Ehtisham, Evelyn, Salama, Noah
   lot of work and that you would have to put in a lot of time outside of class
   time.
 - Homework for Wednesday
+
+#### Your opinion matters
+- Should this be a clock or not?
+- Decorations?
