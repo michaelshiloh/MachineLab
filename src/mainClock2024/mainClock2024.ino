@@ -20,7 +20,6 @@ const int P5DonePin = 11;
 const int myTriggerPin = 12;
 const int neoPixelsPin = 13;
 
-
 RTC_DS1307 rtc;
 
 void setup () {
@@ -48,6 +47,18 @@ void setup () {
   // This line sets the RTC with an explicit date & time, for example to set
   // January 21, 2014 at 3am you would call:
   // rtc.adjust(DateTime(2014, 1, 21, 3, 0, 0));
+
+  pinMode (P1TriggerPin, OUTPUT);
+  pinMode (P2TriggerPin, OUTPUT);
+  pinMode (P3TriggerPin, OUTPUT);
+  pinMode (P4TriggerPin, OUTPUT);
+  pinMode (P5TriggerPin, OUTPUT);
+  
+  digitalWrite(P1TriggerPin, LOW);
+  digitalWrite(P2TriggerPin, LOW);
+  digitalWrite(P3TriggerPin, LOW);
+  digitalWrite(P4TriggerPin, LOW);
+  digitalWrite(P5TriggerPin, LOW);
 }
 
 void loop () {
@@ -62,13 +73,24 @@ void loop () {
     
     if (15 == now.minute()) {
       Serial.println("Quarter hour");
+      triggerProjects();
     }
     if (30 == now.minute()) {
       Serial.println("Half hour");
+      triggerProjects();
     }
     if (0 == now.minute()) {
       Serial.println("On the hour");
+      triggerProjects();
     }
 
     delay(1000);
+}
+
+void triggerProjects() {
+  digitalWrite(P1TriggerPin, HIGH);
+  while (!digitalRead(P1DonePin)) {
+    delay(1000);
+  }
+  digitalWrite(P1TriggerPin, LOW);
 }
