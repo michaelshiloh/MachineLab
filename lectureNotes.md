@@ -695,7 +695,6 @@ Presentations! Ehtisham, Evelyn, Salama, Noah
 * May 8: Return projects to the finished frame, verify entire system
 
 ## Monday 28 April 2024
-##### todays-lecture
 ### Plan for today
 
 - Presentations! Fatema, Ronit, Ronit, Dania
@@ -722,3 +721,16 @@ Presentations! Ehtisham, Evelyn, Salama, Noah
 #### Your opinion matters
 - Should this be a clock or not?
 - Decorations?
+
+## Wednesday 1 May 2024
+##### todays-lecture
+### Plan for today
+- Who is going first next Monday: Fatema, Dania, Jackie, Jackie
+- More technical info
+- Your opinions
+
+
+#### More technical info
+- Mounting plates for the L298 motor driver
+    - How to tap holes
+- Strain relief
