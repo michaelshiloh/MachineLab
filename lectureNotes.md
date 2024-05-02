@@ -744,3 +744,4 @@ Presentations! Ehtisham, Evelyn, Salama, Noah
 - Cut access holes in back of frame
 - Individual button to activate each project
 - Power to each project
+- Second power for Arduino cable for the Sky Ride
