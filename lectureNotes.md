@@ -728,9 +728,19 @@ Presentations! Ehtisham, Evelyn, Salama, Noah
 - Who is going first next Monday: Fatema, Dania, Jackie, Jackie
 - More technical info
 - Your opinions
+- Michael's list
 
 
 #### More technical info
 - Mounting plates for the L298 motor driver
     - How to tap holes
 - Strain relief
+
+#### Michael's list
+- Relay for Carousel
+- Swinging boat Arduino
+- Small stones for Sky Ride
+- Test Ferris Wheel in frame
+- Cut access holes in back of frame
+- Individual button to activate each project
+- Power to each project
