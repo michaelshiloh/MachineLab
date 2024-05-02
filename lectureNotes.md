@@ -727,7 +727,7 @@ Presentations! Ehtisham, Evelyn, Salama, Noah
 ### Plan for today
 - Who is going first next Monday: Fatema, Dania, Jackie, Jackie
 - More technical info
-- Your opinions
+- Decision regarding clock vs. buttons or what
 - Michael's list
 
 
@@ -736,7 +736,7 @@ Presentations! Ehtisham, Evelyn, Salama, Noah
     - How to tap holes
 - Strain relief
 
-#### Michael's list
+#### Michael's todo list
 - Relay for Carousel
 - Swinging boat Arduino
 - Small stones for Sky Ride
