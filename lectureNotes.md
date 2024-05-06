@@ -723,25 +723,28 @@ Presentations! Ehtisham, Evelyn, Salama, Noah
 - Decorations?
 
 ## Wednesday 1 May 2024
-##### todays-lecture
 ### Plan for today
 - Who is going first next Monday: Fatema, Dania, Jackie, Jackie
 - More technical info
 - Decision regarding clock vs. buttons or what
 - Michael's list
 
+## Monday 6 May 2024
+##### todays-lecture
+### Plan for today
+- Presentations: Fatema, Dania, Jackie, Jackie, Salama
+- Evaluations
+- Michael's todo list
+- Your todo list
 
-#### More technical info
+#### More technical info (discuss with each team as needed)
 - Mounting plates for the L298 motor driver
     - How to tap holes
 - Strain relief
 
 #### Michael's todo list
-- Relay for Carousel
-- Swinging boat Arduino
 - Small stones for Sky Ride
 - Test Ferris Wheel in frame
-- Cut access holes in back of frame
-- Individual button to activate each project
 - Power to each project
-- Second power for Arduino cable for the Sky Ride
+- Cut access holes in back of frame - random holes done; others as necessary
+- Install front panel pushbuttons; decide on connections
