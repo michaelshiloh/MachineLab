@@ -88,7 +88,7 @@ creative machine
 #### Additional Learning Goals
 - Acquire a basic understanding of electronics, programming, and
 mechatronics
-- Be able to idenfiry and produce a Minimum Viable Project (MVP) and adapt
+- Be able to identify and produce a Minimum Viable Project (MVP) and adapt
 product dependencies (e.g. scripts) to changing abilities
 - Understand how to select and use various manual, powered, and computer controlled tools
 - Develop skills to analyze, design, and build mechatronic assemblies
