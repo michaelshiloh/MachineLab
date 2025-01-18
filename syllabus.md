@@ -19,6 +19,7 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 * Faculty Details
     * Professor: Michael Shiloh mshiloh@nyu.edu   
     * Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
+    * Office phone number: 02-628-5185
 
 * Session: Spring 2024
 * Meeting times:    
@@ -73,7 +74,7 @@ engagement and curiosity.
 
 | CLO number | Upon successful completion of this course the student will be able to: | Linked to Program Learning Outcome * (Level of Contribution - High/Medium/Low) |
 | --- | ---------------------- | ---------------------- |
-| 1 | Work in a team to conceptualize and fabricate an electromechanical device that is robust, long lasting, technically sound, and aesthetically pleasing | PLO 8: High, PLO 3: High, PLO 5: High, PLO 6, Medium | 
+| 1 | Work in a team to conceptualize and fabricate an electromechanical device that is creative, robust, long lasting, technically sound, and aesthetically pleasing | PLO 8: High, PLO 3: High, PLO 5: High, PLO 6, Medium | 
 | 2 | Understand how choice and availability of tools affects design, and how
 to adjust a design to most closely achieve the desired outcome using available
 tools | PLO 3: High, PLO PLO 6: Medium|
@@ -82,8 +83,7 @@ creative machine | PLO 6: Medium |
 | 4 | Develop technical skills in programming, electronics, mechatronics, and debugging | PLO 5: High, PLO 4: Medium |
 | 5 | Learn how to constantly monitor and revise a plan based on unexpected developments to deliver a Minimum Viable Project (MVP) on a deadline | PLO 4: Medium, PLO 7: Medium |
 | 6 | Analyze and critique the history and co-development of humans and machines | PLO 1: High, PLO 4: High |
-| 7 | Research and make an insightful presentation on the historical and contemporary use of
-machines in the creative sphere | PLO 1: High, PLO 4: High |
+| 7 | Research and make an insightful presentation on the historical and contemporary use of machines in the creative sphere | PLO 1: High, PLO 4: High |
 
 \* The Program Learning Outcomes (PLOs) are described in [Appendix 1: Interactive Media Major Program Learning Outcomes.](#appendix-1-interactive-media-major-program-learning-outcomes-plos)
 
@@ -107,8 +107,8 @@ and group work. Group work will require coordinating with other
 members of the group to schedule group meetings.
 
 Students are required to 
-operate their robots during a performance
-as part of the Interactive Media End of Semester Showcase.
+present their projects
+at the Interactive Media End of Semester Showcase.
 
 
 ### Graded Activities
@@ -136,12 +136,14 @@ Rubric:
 
 #### Weekly assignment 
 
-- Weekly assignments consist primarily, but not exclusively, of steps in the
-  development and construction of your robots
-- Unless you have built many robots in the past, you are unlikely to have a
-  good sense of how long tasks should take. Weekly assignments help keep the
-  robot construction on track, alert me to difficulties, and break up the
-  project into manageable chunks.
+- Weekly assignments at the beginning of the semester present hands-on
+  opportunities to put into practice the concepts presented in class. Later in
+  the semesterweekly assignments consist primarily, but not exclusively, of
+  steps in the development and construction of each individual project
+- Unless you have built many complex electromechanical projects in the past,
+  you are unlikely to have a good sense of how long tasks should take. Weekly
+  assignments help keep the project development and construction on track,
+  alert me to difficulties, and break up the project into manageable chunks.
 - Each week you are expected to report on your progress in your Github
   repository journal. Each journal entry should include a description of the
   assignment and how you addressed it. Include pictures, videos, and code
@@ -161,7 +163,10 @@ Rubric:
 
 | Excellent (2 points) | Poor (1 point) | Incomplete (0 points) |
 | ---- | ---- | ---- | 
-| All parts of the assignment have been completed reliably and robustly; journal documentation is complete and well written | Most parts of the assignment have been completed and are mostly reliable and robost; documentation is mostly present and well written | Most parts of the assignment have been not been completed or are unreliable or not robust; journal entry is incomplete or absent |
+| All parts of the assignment have been completed reliably and robustly; journal documentation is complete and well written | Most parts of the assignment have been completed and are mostly reliable and robust; documentation is mostly present and well written | Most parts of the assignment have been not been completed or are unreliable or not robust; journal entry is incomplete or absent |
+
+HERE
+
 
 #### Midterm 
 
@@ -413,39 +418,21 @@ group projects chosen
 | Week | Topic(s) | Homework | CLOs Assessed |
 | --- | --- | --- | --- |
 | Week 1 | Arduino review | Arduino review, Github and Discord accounts | 4 |
-| Week 2 | Motors with external power supplies | Motor control with switch, potentiometer | 4 |
-| Week 3 | Discuss project theme; construction techniques | Select project theme, select presentation topics, identify and prototype most risky mechanical component | 1 |
-| Week 4 | Electronic construction techniques, electronic fabrication rules, soldering | L298 interface board, prototype 50% complete | 3, 4 |
-| Week 5 | Tool Training | Prototype 80% complete | 3, 4 |
-| Week 6 | | | 1 |
-| Week 7 | | | 3, 4 |
-| Week 8 | | | 1, 2, 3, 4 |
-| Week 9 | Fabrication techniques: cardboard, wood, aluminium | robot body 90%, prototype mechanical features | 1, 2, 3, 4, 5 |
-| Week 10 | | | 1, 2, 3, 4, 5 |
-| Week 11 | | | 1, 2, 3, 4, 5 |
-| Week 12 | | Complete any late assignmensts | 1, 2, 3, 4, 5 |
-| Week 13 | | Complete any late assignmensts | 1, 2, 3, 4, 5 |
-| Week 14 | | na |
-
-esraa
-jeanh
-tom
-
-1 arduino, etc.
-2 basic machines, cardboard construction
-4 constraining movement, crank mechanism
-assignment: hand crank
-3 wood, metal, motors, bearings
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
+| Week 2 | Basic machines; cardboard construction techniques | Static
+construction | |
+| Week 3 | Constraining motion; friction | Select presentation topics; Hand crank mechanism | |
+| Week 4 | Working with wood and metal; motors; bearings; flexible joints | Motorized Cams | |
+| Week 5 | Tool Training | Project and teams selected; | 3, 4 |
+| Week 6 | Servo motors; Power supplies; Multitasking | Door lock mechanism | 1 |
+| Week 7 | Advanced: metal, plastic, bushings and bearings | Prototype most
+difficult part | 3, 4 |
+| Week 8 | Music Maker Shield | Implement most difficult part | 1, 2, 3, 4 |
+| Week 9 | Soldering, servo shield, L298 adapter | Project 20% done | 1, 2, 3, 4, 5 |
+| Week 10 | NeoPixels; Multitasking | Project 50% done | 1, 2, 3, 4, 5 |
+| Week 11 | In-class work on projects | Project 95% done | |
+| Week 12 | In-class work on projects | Project 100% done | |
+| Week 13 | Project integration | Project 100% done | |
+| Week 14 | Project critique | | |
 
 ### Other Course Information
 
