@@ -62,10 +62,13 @@ Course material will incorporate both theoretical and practical components.
 Students will be exposed to critical analysis regarding the historical and
 contemporary use of machines in the context of art and theatrical
 performance. In parallel, students will also learn about electronics,
-programming, robotics and mechanical construction techniques. Over the
-course of the semester, students will iterate through multiple robotic
-projects culminating with their own performative robot. The course will
-finish with a public performance by the robots.
+programming, machines, and mechanical construction techniques. Over the
+course of the semester, students will iterate through multiple machine
+exercises culminating in a team project consistent with the class theme
+and physically integrated in a class enclosure.
+The course will
+finish with a public presentation of the class project at the Interactive
+Media End Of Semester Showcase.
 
 You do not need to prove your brilliance, but do prove your intellectual
 engagement and curiosity.
@@ -237,7 +240,7 @@ The final project receives a maximum of 20 points,
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
 | Concept and creativity | Project shows excellent concept and creativity; creative use of standard components to give the project a unique design | Very good concept and creativity; very good evidence of intentional design | Good concept and creativity; good evidence of intentional design, but some evidence of standard unimaginative design | Marginal concept and creativity; much evidence of standard unimaginative design; very few surprises; very little excitement | Almost no evidence of creativity | Incomplete |
 | Functionality | Excellent functionality; all features are implemented | Very good functionality; almost all all features are implemented | Good functionality; most features work as designed | Marginal; only those features necessary for the script are implemented | Poor functionality: many features unimplemented; some necessary features unimplemented | Incomplete |
-| Technical implementation | Excellent implementation; very high standard of construction, extremely highly reliable behavior, excellent layout allowing access for repair and modification | Very good functionality; high construction standard; very good reliability and layout | Good functionality; reliability, robustness, and ease of modification are quite good | Marginal; reliability and robustness are intermittent; construction in barely adequate; layout makes access possible but difficult | Poor implementation; robot is unreliable; construction is flimsy, layout makes access impossible or very difficult unimplemented | Incomplete |  
+| Technical implementation | Excellent implementation; very high standard of construction, extremely highly reliable behavior, excellent layout allowing access for repair and modification | Very good functionality; high construction standard; very good reliability and layout | Good functionality; reliability, robustness, and ease of modification are quite good | Marginal; reliability and robustness are intermittent; construction in barely adequate; layout makes access possible but difficult | Poor implementation; project is unreliable; construction is flimsy, layout makes access impossible or very difficult unimplemented | Incomplete |  
 | Appearance | Evidence of great attention to appearance; finish is refined; excellent use of construction materials such as fabrics, metal, etc.; painting or other decorations well implemented and contribute effectively to the project |  Very good appearance; finish is very good, with evidence of very good attention to appearance; very good use of paint or other decorations |  Good appearance; good attention to detail; good use of paint, fabrics, and other decorations |  Project is primarily functional with barely adequate but uninspiring appearance |  Very little evidence of consideration to appearance | Incomplete |
 
 #### Grade Distribution
@@ -416,17 +419,17 @@ group projects chosen
 | --- | --- | --- | --- |
 | Week 1 | Arduino review | Arduino review, Github and Discord accounts | 4 |
 | Week 2 | Basic machines; cardboard construction techniques | Static construction | |
-| Week 3 | Constraining motion; friction | Select presentation topics; Hand crank mechanism | |
+| Week 3 | Machine Considerations: constraining motion, friction | Select presentation topics; Hand crank mechanism | |
 | Week 4 | Working with wood and metal; motors; bearings; flexible joints | Motorized Cams | |
 | Week 5 | Tool Training | Project and teams selected; | 3, 4 |
 | Week 6 | Servo motors; Power supplies; Multitasking | Door lock mechanism | 1 |
-| Week 7 | Advanced: metal, plastic, bushings and bearings | Prototype most difficult part | 3, 4 |
+| Week 7 | Advanced Machine Considerations: Working with metal and plastic; Bushings and Bearings | Prototype most difficult part | 3, 4 |
 | Week 8 | Music Maker Shield | Implement most difficult part | 1, 2, 3, 4 |
 | Week 9 | Soldering, servo shield, L298 adapter | Project 20% done | 1, 2, 3, 4, 5 |
 | Week 10 | NeoPixels; Multitasking | Project 50% done | 1, 2, 3, 4, 5 |
 | Week 11 | In-class work on projects | Project 95% done | |
 | Week 12 | In-class work on projects | Project 100% done | |
-| Week 13 | Project integration | Project 100% done | |
+| Week 13 | Project integration | Project integrated into class system | |
 | Week 14 | Project critique | | |
 
 ### Other Course Information
@@ -448,7 +451,7 @@ group projects chosen
 1. Pay attention when things go wrong. Try to understand why. Ask questions,
    do research on the internet. The ability to approach debugging with 
    a logical and critical mind is a superpower.
-1. Aim to have your robot assignments done two days before they are due
+1. Aim to have your weekly assignments done two days before they are due
 1. Expect things to take much longer than you think. Be pleasantly surprised
    when they don't. 
    Feel free to tell me that I was wrong
@@ -456,7 +459,8 @@ group projects chosen
    something new. 
 1. Expect things to not work when you think they should
 1. Beware of the word "should", such as "this shouldn't take too long" or
-   "this should work". Unless you've built many robots in the past, you have
+   "this should work". Unless you've built many machine projects in the past, 
+   you have
    no basis for making this judgement and you are probably wrong.
 1. Put serious effort into solving problems, but at the same time be ready to
    change your design or plan to avoid the issue. Knowing when to abandon a
