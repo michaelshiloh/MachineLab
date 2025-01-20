@@ -204,7 +204,7 @@ Each student is free to select their topics but must communicate their
 choices to me for approval by week 3.
 A spreadsheet
 will be provided for each student to 
-select the two dates for giving their 
+select the dates for giving their 
 presentations and participating in the panel discussions
 on a "first-come, first-served" basis.
 
@@ -227,8 +227,6 @@ This class culminates in the construction of a large
 semi-permanent electromechanical installation consisting
 of five individual group projects based on a common theme.
 
-
-HERE 
 
 Rubric:
 
