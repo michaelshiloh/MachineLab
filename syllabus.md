@@ -78,8 +78,8 @@ engagement and curiosity.
 | CLO number | Upon successful completion of this course the student will be able to: | Linked to Program Learning Outcome * (Level of Contribution - High/Medium/Low) |
 | --- | ---------------------- | ---------------------- |
 | 1 | Work in a team to conceptualize and fabricate an electromechanical device that is creative, robust, long lasting, technically sound, and aesthetically pleasing | PLO 8: High, PLO 3: High, PLO 5: High, PLO 6, Medium | 
-| 2 | Understand how choice and availability of tools affects design, and how to adjust a design to most closely achieve the desired outcome using available tools | PLO 3: High, PLO PLO 6: Medium|
-| 3 | Gain the ability to conceptualize, design, construct, program, and debug a creative machine | PLO 6: Medium |
+| 2 | Understand how choice and availability of tools affects design, and how to adjust a design to most closely achieve the desired outcome using available tools | PLO 3: High, PLO 6: Medium|
+| 3 | Gain the ability to conceptualize, design, construct, program, and debug a creative machine | PLO 5: High, PLO 6: Medium |
 | 4 | Develop technical skills in programming, electronics, mechatronics, and debugging | PLO 5: High, PLO 4: Medium |
 | 5 | Learn how to constantly monitor and revise a plan based on unexpected developments to deliver a Minimum Viable Project (MVP) on a deadline | PLO 4: Medium, PLO 7: Medium |
 | 6 | Analyze and critique the history and co-development of humans and machines | PLO 1: High, PLO 4: High |
@@ -243,10 +243,10 @@ The final project receives a maximum of 20 points,
 
 #### Grade Distribution
 
-| Activity | Percentage of final grade | Submission Date (week) | CLO |
+| Activity | Percentage of final grade | Submission Date (week) | CLOs assessed |
 | --- | --- | --- | --- |
 | Participation | 10 | Weekly | 6 |
-| Weekly assignment | 20 | Weekly | See [Schedule](#schedule)
+| Weekly assignment | 20 | Weekly | See [Schedule](#schedule) |
 | Midterm | 20 | Week 7 | 1, 2, 3, 4 |
 | Panel | 20 | na | 6, 7 |
 | Final project | 30 | Week 14 | 1, 2, 3, 4, 5 |
@@ -416,19 +416,20 @@ group projects chosen
 | Week | Topic(s) | Homework | CLOs Assessed |
 | --- | --- | --- | --- |
 | Week 1 | Arduino review | Arduino review, Github and Discord accounts | 4 |
-| Week 2 | Basic machines; cardboard construction techniques | Static construction | |
-| Week 3 | Machine Considerations: constraining motion, friction | Select presentation topics; Hand crank mechanism | |
-| Week 4 | Working with wood and metal; motors; bearings; flexible joints | Motorized Cams | |
-| Week 5 | Tool Training | Project and teams selected; | 3, 4 |
-| Week 6 | Servo motors; Power supplies; Multitasking | Door lock mechanism | 1 |
-| Week 7 | Advanced Machine Considerations: Working with metal and plastic; Bushings and Bearings | Prototype most difficult part | 3, 4 |
+| Week 2 | Basic machines; cardboard construction techniques | Static construction | 3, 4 |
+| Week 3 | Machine Considerations: constraining motion, friction | Select presentation topics; Hand crank mechanism | 3, 4 |
+| Week 4 | Working with wood and metal; motors; bearings; flexible joints | Motorized Cams | 3, 4 |
+| Week 5 | Tool Training | Project and teams selected; | 1, 3 |
+| Week 6 | Servo motors; Power supplies; Multitasking | Door lock mechanism | 1, 2, 4 |
+| Week 7 | Advanced Machine Considerations: Working with metal and plastic; Bushings and Bearings | Prototype most difficult part | 1, 2, 3, 4 |
 | Week 8 | Music Maker Shield | Implement most difficult part | 1, 2, 3, 4 |
 | Week 9 | Soldering, servo shield, L298 adapter | Project 20% done | 1, 2, 3, 4, 5 |
 | Week 10 | NeoPixels; Multitasking | Project 50% done | 1, 2, 3, 4, 5 |
-| Week 11 | In-class work on projects | Project 95% done | |
-| Week 12 | In-class work on projects | Project 100% done | |
-| Week 13 | Project integration | Project integrated into class system | |
-| Week 14 | Project critique | | |
+| Week 11 | In-class work on projects | Project 95% done | 1, 2, 3, 4, 5 |
+| Week 12 | In-class work on projects | Project 100% done | 1, 2, 3, 4, 5 |
+| Week 13 | Project integration | Project integrated into class system | 1, 2,
+3, 4, 5 |
+| Week 14 | Project critique | Group critique | 6 |
 
 ### Other Course Information
 
@@ -473,22 +474,14 @@ group projects chosen
 
 Upon completion of the major in Interactive Media at NYU Abu Dhabi, all
 students are expected to have fulfilled the following:
-1. Research and Understanding: IM students will cultivate a substantive
-   understanding of the past, present, and future landscape of Interactive
-   Media.
-1. Analytical Thinking: IM students will be challenged to answer fundamental
-   questions relating to the field of Interactive Media.
-1. Conceptual Thinking: IM students will develop conceptual skills through the
-   use of computational and interactive media tools to create project-based
-   work and project oriented research.
-1. Critical Thinking: IM students will refine their critical thinking skills
-   by analyzing and critiquing work in cultural, social, historical, ethical,
-   and aesthetic contexts.
-1. Technical Implementation: IM students will cultivate technical skills with
-   contemporary media technologies to execute their coursework.
-1. Creative Processes: IM students will gain the ability to explore, innovate,
-   and realize creative ideas in multiple fields of inquiry and interest.
-1. Organization and Communication: IM students will develop professional
-   practices of delivering and sharing their work.
-1. Collaboration: IM Students will gain experience in collaboration through
-   active participation in group and team-based work.
+
+| Program Learning Outcome (PLO) | Description |
+| --- | --- |
+| 1 | Research and Understanding: IM students will cultivate a substantive understanding of the past, present, and future landscape of Interactive Media. |
+| 2 | Analytical Thinking: IM students will be challenged to answer fundamental questions relating to the field of Interactive Media. |
+| 3 | Conceptual Thinking: IM students will develop conceptual skills through the use of computational and interactive media tools to create project-based work and project oriented research. |
+| 4 | Critical Thinking: IM students will refine their critical thinking skills by analyzing and critiquing work in cultural, social, historical, ethical, and aesthetic contexts. |
+| 5 | Technical Implementation: IM students will cultivate technical skills with contemporary media technologies to execute their coursework. |
+| 6 | Creative Processes: IM students will gain the ability to explore, innovate, and realize creative ideas in multiple fields of inquiry and interest. |
+| 7 | Organization and Communication: IM students will develop professional practices of delivering and sharing their work. |
+| 8 | Collaboration: IM Students will gain experience in collaboration through active participation in group and team-based work. |
