@@ -75,11 +75,8 @@ engagement and curiosity.
 | CLO number | Upon successful completion of this course the student will be able to: | Linked to Program Learning Outcome * (Level of Contribution - High/Medium/Low) |
 | --- | ---------------------- | ---------------------- |
 | 1 | Work in a team to conceptualize and fabricate an electromechanical device that is creative, robust, long lasting, technically sound, and aesthetically pleasing | PLO 8: High, PLO 3: High, PLO 5: High, PLO 6, Medium | 
-| 2 | Understand how choice and availability of tools affects design, and how
-to adjust a design to most closely achieve the desired outcome using available
-tools | PLO 3: High, PLO PLO 6: Medium|
-| 3 | Gain the ability to conceptualize, design, construct, program, and debug a
-creative machine | PLO 6: Medium |
+| 2 | Understand how choice and availability of tools affects design, and how to adjust a design to most closely achieve the desired outcome using available tools | PLO 3: High, PLO PLO 6: Medium|
+| 3 | Gain the ability to conceptualize, design, construct, program, and debug a creative machine | PLO 6: Medium |
 | 4 | Develop technical skills in programming, electronics, mechatronics, and debugging | PLO 5: High, PLO 4: Medium |
 | 5 | Learn how to constantly monitor and revise a plan based on unexpected developments to deliver a Minimum Viable Project (MVP) on a deadline | PLO 4: Medium, PLO 7: Medium |
 | 6 | Analyze and critique the history and co-development of humans and machines | PLO 1: High, PLO 4: High |
@@ -165,8 +162,6 @@ Rubric:
 | ---- | ---- | ---- | 
 | All parts of the assignment have been completed reliably and robustly; journal documentation is complete and well written | Most parts of the assignment have been completed and are mostly reliable and robust; documentation is mostly present and well written | Most parts of the assignment have been not been completed or are unreliable or not robust; journal entry is incomplete or absent |
 
-HERE
-
 
 #### Midterm 
 
@@ -191,12 +186,10 @@ The midterm assignment receives a maximum of 5 points,
 
 #### Panel presentations
 
-| 7 | Research and make an insightful presentation on the historical and contemporary use of
-
-Each student will research two cultural, social, historical, ethical, technical,
+Each student will research two cultural, social, historical, contemporary, ethical, technical,
 or aesthetic topics in the field of machine art, and develop and defend a thesis
 in each one with proper supporting evidence. This can include an individual
-artist, an art collective, or an art movement.
+artist, an art collective, an art project, or an art movement.
 
 Students will give their presentations in
 panels consisting of four students. Each panel will work together to read and
@@ -232,6 +225,8 @@ semi-permanent electromechanical installation consisting
 of five individual group projects based on a common theme.
 
 
+HERE 
+
 Rubric:
 
 The final project receives a maximum of 20 points,
@@ -240,10 +235,10 @@ The final project receives a maximum of 20 points,
 
 | Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points | Poor (1 point) | Incomplete (0 points | 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
-| Concept and creativity | Robot shows excellent concept and creativity; the personality of the robot is evident in the design; creative use of standard components to give the robot a unique design | Very good concept and creativity; very good evidence of intentional design | Good concept and creativity; good evidence of intentional design, but some evidence of standard robotic tropes | Marginal concept and creativity; much evidence of standard robotic tropes, very few surprises; very little excitement | Almost no evidence of creativity | Incomplete |
+| Concept and creativity | Project shows excellent concept and creativity; creative use of standard components to give the project a unique design | Very good concept and creativity; very good evidence of intentional design | Good concept and creativity; good evidence of intentional design, but some evidence of standard unimaginative design | Marginal concept and creativity; much evidence of standard unimaginative design; very few surprises; very little excitement | Almost no evidence of creativity | Incomplete |
 | Functionality | Excellent functionality; all features are implemented | Very good functionality; almost all all features are implemented | Good functionality; most features work as designed | Marginal; only those features necessary for the script are implemented | Poor functionality: many features unimplemented; some necessary features unimplemented | Incomplete |
 | Technical implementation | Excellent implementation; very high standard of construction, extremely highly reliable behavior, excellent layout allowing access for repair and modification | Very good functionality; high construction standard; very good reliability and layout | Good functionality; reliability, robustness, and ease of modification are quite good | Marginal; reliability and robustness are intermittent; construction in barely adequate; layout makes access possible but difficult | Poor implementation; robot is unreliable; construction is flimsy, layout makes access impossible or very difficult unimplemented | Incomplete |  
-| Appearance | Evidence of great attention to appearance; finish is refined; excellent use of construction materials such as fabrics, metal, etc.; painting or other decorations well implemented and contribute effectively to the personality of the robot |  Very good appearance; finish is very good, with evidence of very good attention to appearance; very good use of paint or other decorations |  Good appearance; good attention to detail; good use of paint, fabrics, and other decorations |  Robot is primarily functional with barely adequate but uninspiring appearance |  Very little evidence of consideration to appearance | Incomplete |
+| Appearance | Evidence of great attention to appearance; finish is refined; excellent use of construction materials such as fabrics, metal, etc.; painting or other decorations well implemented and contribute effectively to the project |  Very good appearance; finish is very good, with evidence of very good attention to appearance; very good use of paint or other decorations |  Good appearance; good attention to detail; good use of paint, fabrics, and other decorations |  Project is primarily functional with barely adequate but uninspiring appearance |  Very little evidence of consideration to appearance | Incomplete |
 
 #### Grade Distribution
 
@@ -275,7 +270,7 @@ The final project receives a maximum of 20 points,
 ### Course Materials
 
 All required course materials will be provided. Students may optionally
-elect to purchase additional accessories for their robot, but this is not
+elect to purchase additional accessories for their project, but this is not
 required.
 
 A list of optional supplemental textbooks 
@@ -292,7 +287,7 @@ need an extension please contact the professor in advance.
 #### Attendance
 
 This is an intense course.  You should be prepared to spend many hours working
-on your robot.  I expect your attendance, attention, and engagement throughout
+on your project.  I expect your attendance, attention, and engagement throughout
 the semester.  If you do not feel that you can remain fully engaged in this
 course, consider dropping it.  Your attendance is demonstrated by showing up
 for every class on time. Your attention is demonstrated by not using phones or
@@ -310,10 +305,12 @@ notes, by asking questions, and by participating in discussions.
 
 Rubric:
 
-- Arriving late by more than 10 minutes will count as an unexcused absence.
-- More than two unexcused absences will result in a final grade of F.
-- More than four excused absences will result in a final grade of F.
-- Absences due to holiday or vacation travel will not be excused.
+- Arriving late by more than 10 minutes, either at the start of class or
+  following a break, will count as an unexcused absence.
+- Each unexcused absence reduces your final grade by 5%.
+- You may have four excused absences with no penalty. After four excused
+  absences, each additional excused absence reduces your final grade by 3%.
+- Absences due to holiday travel or vacation travel will not be excused.
 
 #### Laptops, cellphones, tablets, watches, earphones, earbuds, etc.
 
@@ -418,14 +415,12 @@ group projects chosen
 | Week | Topic(s) | Homework | CLOs Assessed |
 | --- | --- | --- | --- |
 | Week 1 | Arduino review | Arduino review, Github and Discord accounts | 4 |
-| Week 2 | Basic machines; cardboard construction techniques | Static
-construction | |
+| Week 2 | Basic machines; cardboard construction techniques | Static construction | |
 | Week 3 | Constraining motion; friction | Select presentation topics; Hand crank mechanism | |
 | Week 4 | Working with wood and metal; motors; bearings; flexible joints | Motorized Cams | |
 | Week 5 | Tool Training | Project and teams selected; | 3, 4 |
 | Week 6 | Servo motors; Power supplies; Multitasking | Door lock mechanism | 1 |
-| Week 7 | Advanced: metal, plastic, bushings and bearings | Prototype most
-difficult part | 3, 4 |
+| Week 7 | Advanced: metal, plastic, bushings and bearings | Prototype most difficult part | 3, 4 |
 | Week 8 | Music Maker Shield | Implement most difficult part | 1, 2, 3, 4 |
 | Week 9 | Soldering, servo shield, L298 adapter | Project 20% done | 1, 2, 3, 4, 5 |
 | Week 10 | NeoPixels; Multitasking | Project 50% done | 1, 2, 3, 4, 5 |
