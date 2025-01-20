@@ -427,8 +427,7 @@ group projects chosen
 | Week 10 | NeoPixels; Multitasking | Project 50% done | 1, 2, 3, 4, 5 |
 | Week 11 | In-class work on projects | Project 95% done | 1, 2, 3, 4, 5 |
 | Week 12 | In-class work on projects | Project 100% done | 1, 2, 3, 4, 5 |
-| Week 13 | Project integration | Project integrated into class system | 1, 2,
-3, 4, 5 |
+| Week 13 | Project integration | Project integrated into class system | 1, 2, 3, 4, 5 |
 | Week 14 | Project critique | Group critique | 6 |
 
 ### Other Course Information
