@@ -309,8 +309,6 @@ Rubric:
 - Arriving late by more than 10 minutes, either at the start of class or
   following a break, will count as an unexcused absence.
 - Each unexcused absence reduces your final grade by 5%.
-- You may have four excused absences with no penalty. After four excused
-  absences, each additional excused absence reduces your final grade by 3%.
 - Absences due to holiday travel or vacation travel will not be excused.
 
 #### Laptops, cellphones, tablets, watches, earphones, earbuds, etc.
