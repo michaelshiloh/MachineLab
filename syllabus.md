@@ -10,6 +10,7 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
     * Credit Hours: 4     
     * This is a 14 week course consisting of fourteen 75 minute meetings and
       fourteen 150 minute meetings
+    * Instructional time requirements are met by the scheduled meeting times
     * Class location: C3-029 (IM Lab in the Art Center)
     * Prerequisites: None     
 * This course counts toward the following NYUAD degree requirements:
@@ -43,6 +44,28 @@ Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com
 
 ### Course Description
 
+#### Short (Albert) Version
+
+The saying goes, "If all you have is a hammer, then every problem looks like a
+nail." What if all you have is a 3D Printer?  In this course, students will be
+introduced to, and engage critically with, a range of contemporary machines
+inside and around the Interactive Media Lab. Leveraging historical
+perspectives, current use-cases, and hands-on making, the course will explore
+how machines enhance, or limit, our creative processes. Readings and
+discussion will be paired with practical designing, prototyping, and making of
+creative computer controlled devices, such as drawing machines, musical
+instruments, or Rube Goldberg contraptions. Over the course of
+the semester, students will be exposed to a variety of tools, materials, and
+fabrication techniques.  By thinking about machines, using machines, and
+making machines, the course will offer insight into our creative relationships
+with our tools.
+
+Course material will incorporate both theoretical and practical components.
+Students will be exposed to critical analysis regarding the historical and
+contemporary use of machines in the context of art and theatrical performance.
+
+#### Long (Syllabus) Version
+
 The saying goes, "If all you have is a hammer, then every problem looks like a
 nail." What if all you have is a 3D Printer?  In this course, students will be
 introduced to, and engage critically with, a range of contemporary machines
@@ -60,15 +83,13 @@ insight into our creative relationships with our tools.
 
 Course material will incorporate both theoretical and practical components.
 Students will be exposed to critical analysis regarding the historical and
-contemporary use of machines in the context of art and theatrical
-performance. In parallel, students will also learn about electronics,
-programming, machines, and mechanical construction techniques. Over the
-course of the semester, students will iterate through multiple machine
-exercises culminating in a team project consistent with the class theme
-and physically integrated in a class enclosure.
-The course will
-finish with a public presentation of the class project at the Interactive
-Media End Of Semester Showcase.
+contemporary use of machines in the context of art and theatrical performance.
+In parallel, students will also learn about electronics, programming,
+machines, and mechanical construction techniques. Over the course of the
+semester, students will iterate through multiple machine exercises culminating
+in a team project consistent with the class theme and physically integrated in
+a class enclosure.  The course will finish with a public presentation of the
+class project at the Interactive Media End Of Semester Showcase.
 
 You do not need to prove your brilliance, but do prove your intellectual
 engagement and curiosity.
@@ -79,9 +100,9 @@ engagement and curiosity.
 | --- | ---------------------- | ---------------------- |
 | 1 | Work in a team to conceptualize and fabricate an electromechanical device that is creative, robust, long lasting, technically sound, and aesthetically pleasing | PLO 8: High, PLO 3: High, PLO 5: High, PLO 6, Medium | 
 | 2 | Understand how choice and availability of tools affects design, and how to adjust a design to most closely achieve the desired outcome using available tools | PLO 3: High, PLO 6: Medium|
-| 3 | Gain the ability to conceptualize, design, construct, program, and debug a creative machine | PLO 5: High, PLO 6: Medium |
-| 4 | Develop technical skills in programming, electronics, mechatronics, and debugging | PLO 5: High, PLO 4: Medium |
-| 5 | Learn how to constantly monitor and revise a plan based on unexpected developments to deliver a Minimum Viable Project (MVP) on a deadline | PLO 4: Medium, PLO 7: Medium |
+| 3 | Conceptualize, design, construct, program, and debug a creative machine | PLO 5: High, PLO 6: Medium |
+| 4 | Improve their technical skills in programming, electronics, mechatronics, and debugging | PLO 5: High, PLO 4: Medium |
+| 5 | Constantly monitor and revise a plan based on unexpected developments to deliver a Minimum Viable Project (MVP) on a deadline | PLO 4: Medium, PLO 7: Medium |
 | 6 | Analyze and critique the history and co-development of humans and machines | PLO 1: High, PLO 4: High |
 | 7 | Research and make an insightful presentation on the historical and contemporary use of machines in the creative sphere | PLO 1: High, PLO 4: High |
 
@@ -183,7 +204,7 @@ The midterm assignment receives a maximum of 5 points,
     then prorated according to the
   [Grade Distribution](#grade-distribution)
 
-| Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points | Poor (1 point) | Incomplete (0 points | 
+| Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points) | Poor (1 point) | Incomplete (0 points) | 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
 | Assignment Quality | All exercise criteria are fulfilled and work shows excellent level of effort and attention to detail.  | Assignment is slightly incomplete or is not implemented to an extremely high standard; documentation is almost entirely complete or is complete but the writing quality does not rise to the level of excellent.  | Assignment is moderately complete or is implemented to a moderate standard; documentation is almost entirely complete or is complete but is only of a moderate quality | Assignment is marginally complete or is implemented to a marginal standard; documentation is marginally complete or is complete but is only of a marginal quality | Assignment is barely complete or is implemented to a very low standard; documentation is barely complete or is only of a poor quality | Hardly any required components are present or assignment was not submitted |
 
@@ -256,26 +277,25 @@ The final project receives a maximum of 20 points,
 
 | Letter Grade | Minimum Percentage | 
 | --- | --- | 
-| A | 94 |
-| A- | 90 |
-| B+ | 86 |
-| B | 83 |
-| B- | 80 |
-| C+ | 76 |
-| C | 73 |
-| C- | 70 |
-| D+ | 66 |
-| D | 63 |
-| F | 0 |
+| --- | --- | 
+| A | 100 - 95 |
+| A- | 94 - 90 |
+| B+ | 89 - 87 |
+| B | 86 - 83 |
+| B- | 82 - 80 |
+| C+ | 79 - 77 |
+| C | 76 - 73 |
+| C- | 72 - 70 |
+| D+ | 69 - 67 |
+| D | 66 - 63 |
+| F | 62 - 0 |
+Scores will be rounded up at precisely .5, so 89.5 becomes 90 but 89.49 does not.
 
 ### Course Materials
 
 All required course materials will be provided. Students may optionally
 elect to purchase additional accessories for their project, but this is not
 required.
-
-A list of optional supplemental textbooks 
-may be found [here](references.md#books).
 
 ### Academic Policies and Resources
 
