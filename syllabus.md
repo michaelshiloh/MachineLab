@@ -1,5 +1,7 @@
 Shortcut to [today's assignment](homework.md#todays-assignment)  
 Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
+Shortcut to [student presentations](studentPresentations)
+Shortcut to [student Github repositories](studentRepositories.md)
 
 #### New York University Abu Dhabi  
 #### Interactive Media Program
@@ -22,14 +24,14 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
     * Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
     * Office phone number: 02-628-5185
 
-* Session: Spring 2024
+* Session: Spring 2026
 * Meeting times:    
-	- 2:10-3:25 Monday
-	- 2:10-4:50 Wednesday
+	- 8:30 - 11:10 Tuesday
+	- 9:55 - 11:10 Thursday
 * Instructional time requirements are met by the scheduled meeting times
 
 Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com/michaelshiloh/MachineLab)
-* This file: syllabus
+
 * This is subject to change
 
 #### Table of Contents
@@ -159,22 +161,22 @@ Rubric:
 
 - Weekly assignments at the beginning of the semester present hands-on
   opportunities to put into practice the concepts presented in class. Later in
-  the semesterweekly assignments consist primarily, but not exclusively, of
+  the semester weekly assignments consist primarily, but not exclusively, of
   steps in the development and construction of each individual project
 - Unless you have built many complex electromechanical projects in the past,
   you are unlikely to have a good sense of how long tasks should take. Weekly
   assignments help keep the project development and construction on track,
-  alert me to difficulties, and break up the project into manageable chunks.
-- Each week you are expected to report on your progress in your Github
-  repository journal. Each journal entry should include a description of the
-  assignment and how you addressed it. Include pictures, videos, and code
-  snippets, as appropriate. Include the sources of any information you found
-  useful such as code, schematics, explanations, etc.  Copying code or
-  techniques without attribution is plagiarism.  Few ideas come out of the
-  blue, and your readers can learn a lot from the sources from which you
-  learned and by which you were were inspired.  The writing is expected to be
-  well reasoned, grammatically correct, and written as if it were a paper
-  being turned in. 
+  alert me to difficulties, and break up the project into manageable pieces.
+- Each week you are expected to report on your progress in your journal in
+  your Github repository. Each journal entry should include a description of
+  the assignment and how you addressed it along with hand drawn sketches,
+  pictures, videos, or code snippets, as appropriate. Include the sources of
+  any information you found useful such as code, schematics, explanations,
+  etc.  Copying code or techniques without attribution is plagiarism.  Few
+  ideas come out of the blue, and your readers can learn a lot from the
+  sources from which you learned and by which you were were inspired.  The
+  writing is expected to be well reasoned, grammatically correct, and written
+  as if it were a paper being turned in. 
 
 Rubric:
 
@@ -323,6 +325,22 @@ notes, by asking questions, and by participating in discussions.
   you must ask in advance, and receive written permission from me.
 - If you plan on not attending more than two meetings during the semester,
   consider taking the course at some other time.
+
+Excused absences:
+- Your own illness or hospitalization
+- Immediate family illness, hospitalization, or death
+- National holidays
+
+Unexcused absences
+- Competitions, debates, conferences, etc.
+- Exteneded family illness, hospitalization, or death
+- Candidate weekend ambassador
+- The real AD show
+- Travel
+- Family gathering
+- Field trips for other classes
+- Transportation failures (car trouble, traffic, public transportation)
+
 
 Rubric:
 
