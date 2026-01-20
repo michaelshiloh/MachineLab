@@ -165,7 +165,8 @@ about what should be happening, what is happening, and why there is a
 difference. Learn how to use test equipment and print statements to
 understand what is going on. Practice soldering and don't be satisfied
 with poor soldering. Ask questions. Reach out to me for help. Sit in the
-front and pay attention.
+front and pay attention. Leave your phone in your bag when you go to the
+bathroom.
 
 
 ### What is this class about
