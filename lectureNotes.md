@@ -36,6 +36,7 @@ Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com
 
 ## Week 1 
 
+#### todays-lecture
 ## Tuesday January 20 2026
 ### Plan for today
 - Syllabus

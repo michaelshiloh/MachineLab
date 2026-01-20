@@ -34,6 +34,7 @@ Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com
 
 * This is subject to change
 
+#### todays-assignment
 ## Homework due Thursday 22 January 2026
 
 ### Reading homework
