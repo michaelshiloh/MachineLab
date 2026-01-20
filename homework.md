@@ -37,7 +37,12 @@ Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com
 ## Homework due Thursday 22 January 2026
 
 ### Reading homework
-Read (or re-read if you've seen this before):
+If you missed the first class:
+- Read the course syllabus
+- Read today's lecture notes
+
+Everyone:
+Read or review as necessary:
 - [Sparkfun breadboard tutorial](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
 - [Microcontrollers, the basics](https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/)
 - [Digital Input &
@@ -45,6 +50,9 @@ Read (or re-read if you've seen this before):
 - [Analog output](https://itp.nyu.edu/physcomp/lessons/analog-output/)
 - [Analog Input](https://itp.nyu.edu/physcomp/lessons/analog-input/)
 - Read or watch a tutorial of your own choosing on how to use a servo motor with Arduino
+
+Everyone:
+Read:
 - Read at least one of of the [Blink Without Delay
   Resources](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#blink-without-delay-resources)
 - Read the [Adafruit Multitasking
@@ -61,13 +69,14 @@ to try to do it, if possible, so as to get some experience with how structures
 and motors behave.
 
 To access the required tools and materials, some options include:
-1. Coordinate with a capstone student (using Discord!) to work on this
-   assignment at the same time. Capstone students should have access to the
-   lab.
+1. If you are a capstone student, you should have access to the lab.
+1. If you are not a capstone student, coordinate with a capstone student
+   (using Discord!) to work on this assignment at the same time. 
 1. Use your own tools and materials, if you have them
 1. Coordinate with me (using Discord!) to get access to the lab or to use my
    tools and work near my office (C3-156)
 
+Details:
 - Using cardboard and hot glue, and whatever else you wish, construct a simple
   crane structure consisting of a vertical column and a horizontal arm. Do not
   attach the arm to the column yet.
