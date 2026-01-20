@@ -142,29 +142,30 @@ In summary:
 	so will result in a lower grade.
 - Return tools and unused materials to their proper places
 - Discard trash and recycling in the proper bins
-- Keep our tools and materials in our space
+- Keep **our** tools and materials in **our** space
 - If you see anyone outside of our class using our tools, materials, or space,
 	please get their names and inform me.
 
+#### How to make me unhappy
+
+Use your cellphone or laptop in class. Sit in the back, don't ask
+questions, and don't participate in discussions. Don't clean up after
+yourself. Leave tip-out bins open, and spill out contents. Don't put
+tools and parts back where they belong. Use jumper wires. Make poor
+connections. Leave lots of exposed wire for short circuits. Come to class late
+and return late from breaks.
+
 #### How to make me happy 
 
-1. Raise your hand in class. Interrupt me. Ask questions. Have a different
+Raise your hand in class. Interrupt me. Ask questions. Have a different
 point of view. Make connections to other projects, artists, things you
 have read, conversations you have had. Be critical. Cite your sources. Do
-research. When debugging, don't try things at random. Think logically
+research. When debugging, don't try things at random: think logically
 about what should be happening, what is happening, and why there is a
 difference. Learn how to use test equipment and print statements to
 understand what is going on. Practice soldering and don't be satisfied
 with poor soldering. Ask questions. Reach out to me for help. Sit in the
 front and pay attention.
-
-#### How to make me unhappy
-
-1. Use your cellphone or laptop in class. Sit in the back, don't ask
-questions, and don't participate in discussions. Don't clean up after
-yourself. Leave tip-out bins open, and spill out contents. Don't put
-tools and parts back where they belong. Use jumper wires. Make poor
-connections. Leave lots of exposed metal for short circuits.
 
 
 ### What is this class about
