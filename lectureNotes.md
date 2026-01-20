@@ -206,8 +206,6 @@ Demo: Working with hot glue and cardboard
 - T profile
 - Box 
 
-In-class exercise: Build a crane
-
 
 ### Arduino Review 
 
@@ -245,10 +243,9 @@ Discuss
 - What is the opposite of an actuator?
 - Reading from a sensor vs. writing to an actuator
 
-## Thursday
+## Thursday (tentative)
 ### Plan for today
 - Last year's project
-- Breadboard circuits
 - Soldering 
 - Theme
 
@@ -261,77 +258,6 @@ Discuss
 - Document
 - Disassemble
 
-#### Breadboard Circuits
+### Theme
 
-The most confusing part of this lecture will be the solderless breadboard:
-![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/breadboard.jpg)
-Image courtesy of
-[SparkFun](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
-
-Let's extend our blinking LED to the breadboard:
-
-![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoControllingLED_bb.png)
-
-#### Review
-- Code or program
-- Circuit
-- Input and Output (I/O) pins
-	- 20 IO pins
-	- All 20 pins can do digital input and digital output
-	- Many of the pins have additional special functionality
-- Built-in LED
-	- On the Arduino Uno this LED is on pin 13
-	- On the Arduino Uno LED_BUILTIN = 13 
-
-#### Schematics
-- Schematics are ways to capture the important features of a circuit
-	without getting distracted by details (e.g. subway maps)
-- What's important in an electrical circuit?
-	- Where is the power coming from?
-	- What other components are there in the circuit?
-	- How are they connected?
-- Schematic for the circuit we built above
-- Schematic conventions
-    - Positive voltage on top, ground at the bottom
-    - Inputs on the left, outputs on the right
-        - Information flows from left to right
-    - Unused pins can be left off
-- Schematics are an important way to show a circuit. You will be required to
-  understand and use them
-
-#### Analog Output
-
-- Analog output uses the `analogWrite()` function
-- The `analogWrite()` function only works on the six PWM pins (3, 5, 6, 9, 10,
-  and 11).
-- Usually only suitable for LEDs and motors
-
-Your turn:
-- How can we modify our circuit to test an analog output?
-- How can we modify the `blink` program to test the `analogWrite()` function?
-
-#### Analog Input
-
-Build this circuit. Try to follow the schematic and not the breadboard view:
-
-![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoPhotoresistor_schem.png)
-![](https://github.com/michaelshiloh/IntroductionToInteractiveMedia/blob/master/media/ArduinoPhotoresistor_bb.png)
-
-- Analog Inputs, `analogRead()`, and (some) sensors go together
-	- `analogRead()` only works on the six analog input pins (A0-A5)
-        - In contrast, `digitalRead()` works on all 20 pins
-        - Digital sensors, like a switch, have only one of two values 
-        and so are more suited to a digital input
-- Remember that the so-called analog input pins can do digital input and
-	output as well
-- Since you have so few analog input pins, when you decide which pins to use
-	for which device, reserve the analog input pins for analog input devices
-	as much as possible
-
-- Theme
-- Programming
-- Servo motors
-
-
-#### Theme
-
+### Soldering (time permitting)
