@@ -101,3 +101,8 @@ tell who belongs to each account.
    completed the assignment.
 1. In the class Discord channel, suggest at least one them for the class
    project
+1. If you have a modern laptop with only USB-C ports, you will need a USB-C to
+  USB-A adapter, something like this:
+![](media/USBC-USBA_adapter.jpg). Bring this to every class meeting.
+
+
