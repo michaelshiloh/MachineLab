@@ -1,7 +1,7 @@
-Shortcut to [today's assignment](homework.md#todays-assignment)  
-Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
-Shortcut to [student presentations](studentPresentations)
-Shortcut to [student Github repositories](studentRepositories.md)
+Shortcut to [today's assignment](homework.md#todays-assignment)    
+Shortcut to [today's lecture](lectureNotes.md#todays-lecture)  
+Shortcut to [student presentations](studentPresentations)  
+Shortcut to [student Github repositories](studentRepositories.md)  
 
 #### New York University Abu Dhabi  
 #### Interactive Media Program
