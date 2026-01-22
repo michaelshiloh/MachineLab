@@ -254,6 +254,7 @@ Discuss
 - Visit
 - Theme
 - Inspect
+    - Debugging
     - Mechanisms
     - Construction Techniques
 - Document
