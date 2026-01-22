@@ -36,7 +36,6 @@ Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com
 
 ## Week 1 
 
-#### todays-lecture
 ## Tuesday January 20 2026
 ### Plan for today
 - Syllabus
@@ -244,7 +243,8 @@ Discuss
 - What is the opposite of an actuator?
 - Reading from a sensor vs. writing to an actuator
 
-## Thursday (tentative)
+#### todays-lecture
+## Thursday 
 ### Plan for today
 - Last year's project
 - Soldering 
