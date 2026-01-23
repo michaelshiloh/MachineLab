@@ -34,7 +34,6 @@ Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com
 
 * This is subject to change
 
-#### todays-assignment
 ## Homework due Thursday 22 January 2026
 
 ### Reading homework
@@ -107,3 +106,17 @@ tell who belongs to each account.
 ![](media/USBC-USBA_adapter.jpg). Bring this to every class meeting.
 
 
+#### todays-assignment
+## Homework due Tuesday 27 January 2026
+
+- Send me email with a link to your MachineLab repository on Github **and**
+  your Discord screen name
+- Read and watch my [Soldering
+  Resources](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#soldering-resources)
+- Practice soldering some wires and some header pins to a circuit board from
+  the "practice" bin. Bring the board to class and show us your five best
+  wires and five best pins.
+- Read and watch my [Debugging
+  Resources](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#debugging-resources)
+- Read and watch my [Digital Multimeter (DMM)
+  resources](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#digital-multimeter-dmm-resources)

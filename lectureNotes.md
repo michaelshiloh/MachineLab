@@ -34,9 +34,8 @@ Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com
 
 * This is subject to change
 
-## Week 1 
 
-## Tuesday January 20 2026
+## Tuesday January 20 2026 Week 1 
 ### Plan for today
 - Syllabus
 - About this class
@@ -243,23 +242,43 @@ Discuss
 - What is the opposite of an actuator?
 - Reading from a sensor vs. writing to an actuator
 
-#### todays-lecture
-## Thursday 
+## Thursday January 22 2026 Week 1 
 ### Plan for today
-- Last year's project
 - Soldering 
 - Theme
-
-### Last year's project
-- Visit
-- Theme
-- Inspect
-    - Debugging
-    - Mechanisms
-    - Construction Techniques
-- Document
-- Disassemble
 
 ### Theme
 
 ### Soldering (time permitting)
+
+#### todays-lecture
+## Tuesday January 27 2026 Week 2
+### Plan for today
+- Homework
+- Multitasking with Arduino
+- Last year's project
+
+### Homework
+Take a look at the soldering homework
+
+### Multitasking with Arduino
+- Build and code the multitasking exercise
+- Add a potentiometer to control something (LED blink rate, servo range,
+  whatever)
+- Measure voltage at servo motor and LED
+- Measure voltage at 5V, Vin, and 3.3V
+- Measure voltage of potentiometer at its input pin
+- Measure voltage of one of the outputs controlling an LED
+- How can we check if a pin is working as an output?
+
+### Last year's project
+- Inspect and document
+    - What is supposed to happen?
+    - Mechanisms
+    - Construction Techniques
+- Debugging
+    - What can we learn without taking the modules out? 
+    - How would we do this differently to make it easier?
+    - What might we check when we take the modules out?
+- Document thoroughly
+- Disassemble
