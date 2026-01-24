@@ -333,13 +333,14 @@ Excused absences:
 
 Unexcused absences
 - Competitions, debates, conferences, etc.
-- Exteneded family illness, hospitalization, or death
+- Illness, hospitalization, or death of extended family member
 - Candidate weekend ambassador
 - The real AD show
 - Travel
 - Family gathering
 - Field trips for other classes
 - Transportation failures (car trouble, traffic, public transportation)
+- Job related activities, whether an NYUAD job or not
 
 
 Rubric:
