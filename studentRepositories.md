@@ -37,3 +37,4 @@ Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com
 - [Ghadir Madani](https://github.com/GhadirMadani/machinelab) Discord: Ghadir Madani 
 - [Yumi Omori](https://github.com/Okyumi/Machine-Lab) Discord: Yumi Omori
 - [Mustafa Bakir](https://github.com/MustafaBakir0/MachineLab) Discord: a_7x
+- [Pierre Maged](https://github.com/zuett/Pierre-MachineLab) Discord: Pierre
