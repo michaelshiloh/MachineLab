@@ -38,3 +38,9 @@ Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com
 - [Yumi Omori](https://github.com/Okyumi/Machine-Lab) Discord: Yumi Omori
 - [Mustafa Bakir](https://github.com/MustafaBakir0/MachineLab) Discord: a_7x
 - [Pierre Maged](https://github.com/zuett/Pierre-MachineLab) Discord: Pierre
+- [Sara Bin Dalmook](https://github.com/sarabindalmook/MachineLab) Discord: Sara, sarabindalmook
+- [Hafizh Ahmad Dahlan](https://hafizh-log.vercel.app/tags/machine-lab) or on [Github](https://github.com/ADAHafizh/hafizh-log) Discord: Ahmad 
+- [Ziya Vhora](https://github.com/zv2029/MachineLab) Discord: ziya_87906
+- [?](https://github.com/Darkstone007/MachineLab) Discord: Sei
+
+
