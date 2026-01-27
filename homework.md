@@ -14,7 +14,7 @@ Shortcut to [student Github repositories](studentRepositories.md)
       fourteen 150 minute meetings
     * Instructional time requirements are met by the scheduled meeting times
     * Class location: C3-029 (IM Lab in the Art Center)
-    * Prerequisites: None     
+    * Prerequisites: IM-UH 1010 or INTM-SHU 101 Interaction Lab or IMNY-UT 101 Creative Computing or DM-UY 1133 Creative Coding
 * This course counts toward the following NYUAD degree requirements:
     * Majors > Interactive Media
     * Majors > Interactive Media > Physical Computing 
@@ -106,7 +106,6 @@ tell who belongs to each account.
 ![](media/USBC-USBA_adapter.jpg). Bring this to every class meeting.
 
 
-#### todays-assignment
 ## Homework due Tuesday 27 January 2026
 
 - Send me email with a link to your MachineLab repository on Github **and**
@@ -120,3 +119,26 @@ tell who belongs to each account.
   Resources](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#debugging-resources)
 - Read and watch my [Digital Multimeter (DMM)
   resources](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#digital-multimeter-dmm-resources)
+
+#### todays-assignment
+## Homework due Thursday 29 January 2026
+
+1. Build a circuit with one servo motor, one potentiometer, and one momentary
+   switch (often called a pushbutton). Draw a schematic (hand drawn is fine)
+   and upload a picture to your journal.
+1. Load the example from the [Adafruit Multitasking
+   Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+   which uses the new class `Sweeper` to cause the servo motor to sweep
+   without using the `delay()` function
+1. Modify the code to read the switch, and make the servo motor stop sweeping
+   when the button is not pressed.  
+   Commit this code to your Github repo when you first start working on it.
+   Once you get this working, commit the working code.
+   Include a link to this code in your journal.
+2. Modify the code further to use the reading from the potentiometer to
+   control the speed of the servo sweeps.
+   Commit this code to your Github repo, and provide a link in your journal
+1. Describe in your journal any issues you had and how you approached the
+   debugging. Describe the tools and method you used to help understand and solve any problems.
+
+

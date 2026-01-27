@@ -14,7 +14,7 @@ Shortcut to [student Github repositories](studentRepositories.md)
       fourteen 150 minute meetings
     * Instructional time requirements are met by the scheduled meeting times
     * Class location: C3-029 (IM Lab in the Art Center)
-    * Prerequisites: None     
+    * Prerequisites: IM-UH 1010 or INTM-SHU 101 Interaction Lab or IMNY-UT 101 Creative Computing or DM-UY 1133 Creative Coding
 * This course counts toward the following NYUAD degree requirements:
     * Majors > Interactive Media
     * Majors > Interactive Media > Physical Computing 
