@@ -245,18 +245,13 @@ Discuss
 ## Thursday January 22 2026 Week 1 
 ### Plan for today
 - Soldering 
-- Theme
-
-### Theme
 
 ### Soldering (time permitting)
 
-#### todays-lecture
 ## Tuesday January 27 2026 Week 2
 ### Plan for today
 - Homework
 - Multitasking with Arduino
-- Last year's project
 
 ### Homework
 Take a look at the soldering homework
@@ -265,6 +260,23 @@ Take a look at the soldering homework
 - Build and code the multitasking exercise
 - Add a potentiometer to control something (LED blink rate, servo range,
   whatever)
+
+
+#### todays-lecture
+## Thursday January 29 2026 Week 2 
+### Plan for today
+- Homework
+- Debugging
+- Last year's project
+- Theme
+
+### Homework
+What did you learn about solving problems?
+
+#### Debugging
+What are some techniques that you use?
+
+Digital Multimeter (DMM) demonstration
 - Measure voltage at servo motor and LED
 - Measure voltage at 5V, Vin, and 3.3V
 - Measure voltage of potentiometer at its input pin
@@ -276,9 +288,15 @@ Take a look at the soldering homework
     - What is supposed to happen?
     - Mechanisms
     - Construction Techniques
+    - Document failure modes. What can we learn so that they can be avoided?
+    - Are there things that should be done differently?
 - Debugging
     - What can we learn without taking the modules out? 
     - How would we do this differently to make it easier?
     - What might we check when we take the modules out?
 - Document thoroughly
 - Disassemble
+
+Time permitting:
+
+### Theme
