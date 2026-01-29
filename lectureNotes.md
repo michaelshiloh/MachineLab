@@ -265,13 +265,24 @@ Take a look at the soldering homework
 #### todays-lecture
 ## Thursday January 29 2026 Week 2 
 ### Plan for today
+- Announcements
 - Homework
 - Debugging
 - Last year's project
 - Theme
 
-### Homework
-What did you learn about solving problems?
+### Announcements
+Thanks to the wonderful work of the ARC and for funding from the division, we
+now have peer tutors for IM available in the IM lab. Please find the
+IM Drop-in schedule
+[here](https://docs.google.com/spreadsheets/d/1j4KPN6QxLCA3Yo8UX07DAF0X8Im89mgtUR9B8ofNmW4/edit?gid=308586751#gid=308586751).
+
+For now, students can just walk in, and tutors will record their details.
+Students' sign-in will be more automated once the NYU Connect setup is
+completed for IM tutoring.  
+
+### Homework What did you learn about solving
+problems?
 
 #### Debugging
 What are some techniques that you use?
