@@ -142,7 +142,7 @@ tell who belongs to each account.
 
 
 #### todays-assignment
-## Homework due Tuesday 27 January 2026
+## Homework due Tuesday 3 February 2026
 
 1. Visit and inspect the project from two years ago. In your journal, document:
     - For each module, try to identify what's working and what isn't
