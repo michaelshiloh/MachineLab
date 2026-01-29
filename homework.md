@@ -160,3 +160,13 @@ tell who belongs to each account.
     - Sketch out some ideas for your project. What features might your project
       have? 
     - Do the best of your ability, sketch out details of how you might activate your project mechanically
+1. Read [Circuit 5A: Motor
+   Basics](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41/circuit-5a-motor-basics) of the SparkFun Inventor's Kit Experiment Guide. 
+   - When you get to the section called "Integrated Circuits (ICs) and
+     Breakout Boards", pause and read the Wikipedia article on the
+     [H-bridge](https://en.wikipedia.org/wiki/H-bridge), up to but not
+     including the section
+     titled "Primary coil driver of switching power converter"
+    - Go back and finish the rest of [Circuit 5A: Motor
+   Basics](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41/circuit-5a-motor-basics)
+    - Try to understand the logic of the H-bridge and how the code controls it
