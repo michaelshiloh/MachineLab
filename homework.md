@@ -120,7 +120,6 @@ tell who belongs to each account.
 - Read and watch my [Digital Multimeter (DMM)
   resources](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#digital-multimeter-dmm-resources)
 
-#### todays-assignment
 ## Homework due Thursday 29 January 2026
 
 1. Build a circuit with one servo motor, one potentiometer, and one momentary
@@ -142,3 +141,22 @@ tell who belongs to each account.
    debugging. Describe the tools and method you used to help understand and solve any problems.
 
 
+#### todays-assignment
+## Homework due Tuesday 27 January 2026
+
+1. Visit and inspect the project from two years ago. In your journal, document:
+    - For each module, try to identify what's working and what isn't
+    - Describe how you might start debugging each non-working issue
+    - What is making it harder to debug? What would make it easier?
+    - For some features, it might be hard to know whether it's malfunctioning
+      or perhaps working as intended, but is not a good design. Document any
+      of these which you identify.
+1. Make an entry in your journal about your project. This is a very early,
+   very rough draft, and is not a commitment to any of these. It is an
+   opportunity to explore and be creative.
+    - What game (or games) would you choose?
+    - Create a mood board for your project, perhaps using images from the
+      game, or other images
+    - Sketch out some ideas for your project. What features might your project
+      have? 
+    - Do the best of your ability, sketch out details of how you might activate your project mechanically
