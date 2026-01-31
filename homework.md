@@ -170,7 +170,7 @@ tell who belongs to each account.
     - Go back and finish the rest of [Circuit 5A: Motor
    Basics](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41/circuit-5a-motor-basics)
     - Try to understand the logic of the H-bridge and how the code controls it
-1. From now on we might be working in the Scene Shop or the IM fabrication
+1. From now on we might be working in the Scene Shop or the IM lab fabrication
    area, and both of these spaces require suitable clothes for safety:
     - Closed toed shoes
     - No loose clothing (smocks can be provided)
