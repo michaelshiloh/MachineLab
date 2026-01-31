@@ -174,5 +174,5 @@ tell who belongs to each account.
    area, and both of these spaces require suitable clothes for safety:
     - Closed toed shoes
     - No loose clothing (smocks can be provided)
-    - No necklaces or bracelets or other dangling jewelery
+    - No necklaces or bracelets or other dangling jewelry
     - Expect to get dusty (sawdust, metal shavings)
