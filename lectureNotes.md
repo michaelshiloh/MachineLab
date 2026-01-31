@@ -262,7 +262,6 @@ Take a look at the soldering homework
   whatever)
 
 
-#### todays-lecture
 ## Thursday January 29 2026 Week 2 
 ### Plan for today
 - Announcements
@@ -311,3 +310,33 @@ Digital Multimeter (DMM) demonstration
 Time permitting:
 
 ### Theme
+Decision made! Theme: video games
+
+#### todays-lecture
+## Tuesday 2026 Week 3
+### Plan for today
+- homework feedback
+    - schematics
+        - i/o, power
+    - organize your github
+    
+
+
+
+
+meetings w/ jack and web site assistants
+Ume, Evi: 1) use HBC 2) observe their classes
+2250 aed all day
+200aed per hour 2 day minimum
+02 657 6348
+
+shawn re ruslan
+
+mmarzooq@@dctabudhabi.ae
+
+oleksander
+john fadi
+hatira kazimi
+
+adobe after effects
+leah and other guy
