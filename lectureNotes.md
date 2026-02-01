@@ -323,20 +323,3 @@ Decision made! Theme: video games
 
 
 
-
-meetings w/ jack and web site assistants
-Ume, Evi: 1) use HBC 2) observe their classes
-2250 aed all day
-200aed per hour 2 day minimum
-02 657 6348
-
-shawn re ruslan
-
-mmarzooq@@dctabudhabi.ae
-
-oleksander
-john fadi
-hatira kazimi
-
-adobe after effects
-leah and other guy
