@@ -293,22 +293,6 @@ Digital Multimeter (DMM) demonstration
 - Measure voltage of one of the outputs controlling an LED
 - How can we check if a pin is working as an output?
 
-### Last year's project
-- Inspect and document
-    - What is supposed to happen?
-    - Mechanisms
-    - Construction Techniques
-    - Document failure modes. What can we learn so that they can be avoided?
-    - Are there things that should be done differently?
-- Debugging
-    - What can we learn without taking the modules out? 
-    - How would we do this differently to make it easier?
-    - What might we check when we take the modules out?
-- Document thoroughly
-- Disassemble
-
-Time permitting:
-
 ### Theme
 Decision made! Theme: video games
 
@@ -342,6 +326,7 @@ In groups, study and assess
 - How might you make it easier?
 - Sketch each mechanism
 - Sketch the schematic
+- Note construction methods
 
 ### Project rough drafts
 
