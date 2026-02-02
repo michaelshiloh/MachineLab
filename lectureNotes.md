@@ -313,13 +313,40 @@ Time permitting:
 Decision made! Theme: video games
 
 #### todays-lecture
-## Tuesday 2026 Week 3
+## Tuesday 3 February 2026 Week 3
 ### Plan for today
-- homework feedback
+- Last week's homework feedback
+- Assess project
+- Assess modules
+- Project rough drafts
+
+### Last week's homework feedback
     - schematics
         - i/o, power
     - organize your github
-    
 
+### Assess project
 
+- For each module, try to identify what's working and what isn't
+- Describe how you might start debugging each non-working issue
+- What is making it harder to debug? What would make it easier?
+- For some features, it might be hard to know whether it's malfunctioning or
+  perhaps working as intended, but is not a good design. Document any of these
+  which you identify.
 
+### Assess modules
+
+In groups, study and assess
+- Is everything working the way it should? 
+- How might you debug?
+- How might you make it easier?
+- Sketch each mechanism
+- Sketch the schematic
+
+### Project rough drafts
+
+- Coalesce
+- Teams
+- Design a mechanism 
+- Share and critique
+- Start building working prototype
