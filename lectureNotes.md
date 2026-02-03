@@ -296,7 +296,6 @@ Digital Multimeter (DMM) demonstration
 ### Theme
 Decision made! Theme: video games
 
-#### todays-lecture
 ## Tuesday 3 February 2026 Week 3
 ### Plan for today
 - Last week's homework feedback
@@ -351,3 +350,69 @@ Decision made! Theme: video games
 - Week 13: Paint frame
 - Week 12: Additional features, final cleanup
 - Week 14: Showcase
+
+
+Hours
+- Scene Shop: 9am - 5pm
+- Your ID card provides access to the IM lab 8am-9pm weekdays, and 9am-5pm on weekends. 
+- IM lab staffed hours, at least currently (may change towards end of
+  semester):
+    - 11am - 10pm Monday - Thursday
+    - 2:30 - 6pm on Fridays
+    - noon - 6pm on weekends
+
+#### todays-lecture
+## Thursday 5 February 2026 Week 3
+### Plan for today
+- Motors
+- Prototype your first mechanism
+
+### Motors
+
+#### L298 Motor Driver with external power supply and large motor
+
+To control a large motor, 
+we need an intermediate device called a motor driver. Our
+particular motor driver is based on the L298. To find out how we use it, we
+simply Google "L298 Arduino".
+[Here](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
+is the first thing that showed up for me. The point here is that many of the
+components we use are quite generic and there is a lot of information on using
+components with Arduino, but we can not follow the instructions blindly. We do
+need to understand how it works.
+
+**Warning** there is an error in the schematic under *Arduino and L298N Motor
+Driver*. Can you spot the problem? Hint: Look at the schematic under *Arduino
+Robot Car Control using L298N Motor Driver* and see if you can find the added
+connection that was missing.
+
+##### Code
+Before you look at the code here, think about the circuit.
+- `EN` needs to be `HIGH` in order to turn on the motor driver
+- IN1 and IN2 need to be opposite (if one is `HIGH` then the other should be
+  `LOW`) in order to make the motor turn
+- Can you think of how to do this? (Hint: you can do this with 4 lines of code
+  in `setup()` function and an empty `loop()` function)
+
+
+Sample code, assuming you used these pins: 
+```
+void setup() {
+  // Pins 2 and 3 are connected to In1 and In2 respectively
+  // of the L298 motor driver
+  pinMode(2, OUTPUT);
+  pinMode(3, OUTPUT);
+}
+
+void loop() {
+  // make the motor turn in one direction
+  digitalWrite(2, LOW);
+  digitalWrite(3, HIGH);
+  delay(5000); // let it turn for 5 seconds
+
+  // now reverse direction
+  digitalWrite(2, HIGH);
+  digitalWrite(3, LOW);
+  delay(5000);
+}
+```

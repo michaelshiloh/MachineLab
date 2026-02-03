@@ -141,7 +141,6 @@ tell who belongs to each account.
    debugging. Describe the tools and method you used to help understand and solve any problems.
 
 
-#### todays-assignment
 ## Homework due Tuesday 3 February 2026
 
 1. Visit and inspect the project from two years ago. In your journal, document:
@@ -176,3 +175,11 @@ tell who belongs to each account.
     - No loose clothing (smocks can be provided)
     - No necklaces or bracelets or other dangling jewelry
     - Expect to get dusty (sawdust, metal shavings)
+
+#### todays-assignment
+## Homework due Thursday 5 February 2026
+Now that you've seen some mechanisms, think about how you would animate one of
+the features of your project. Sketch it out as best you can, and add it to
+your journal. Can be hand-drawn or computer drawn or copied from somewhere or
+even AI generated. Think about how you will make it, because that's what we
+will start doing on Thursday.
