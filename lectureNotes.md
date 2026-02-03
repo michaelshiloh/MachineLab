@@ -306,9 +306,8 @@ Decision made! Theme: video games
 - Rough plan for rest of semester
 
 ### Last week's homework feedback
-    - schematics
-        - i/o, power
-    - organize your github
+- schematics
+- organize your github
 
 ### Assess project
 
@@ -321,7 +320,6 @@ Decision made! Theme: video games
 
 ### Assess modules
 
-In groups, study and assess
 - Is everything working the way it should? 
 - How might you debug?
 - How might you make it easier?
@@ -346,9 +344,9 @@ In groups, study and assess
 - Week 5: NeoPixels, finish first component
 - Week 6: Music Maker Shield, prototype second component
 - Week 7: Midterm: finish two components with lights and sound
-- Week 7: Remaining components prototyped
-- Week 9: First integration test
-- Week 10: Finish all mechanical components
+- Week 8: Remaining components prototyped
+- Week 9: First integration test; finish all components
+- Week 10: Fusion 360 for laser cutting and 3D printing
 - Week 11: Decorations
 - Week 13: Paint frame
 - Week 12: Additional features, final cleanup
