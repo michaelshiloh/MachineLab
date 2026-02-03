@@ -339,16 +339,17 @@ In groups, study and assess
 
 ### Rough plan for rest of semester
 
-Week 1: Introduction, Arduino review, construction
-Week 2: Soldering, multitasking, debugging
-Week 3: Assess last year's project, motors, start first component prototype 
-Week 4: Tool training, platform, refine prototype
-Week 5: NeoPixels, finish first component
-Week 6: Music Maker Shield, prototype second component
-Week 7: Midterm: finish two components with lights and sound
-Week 9: First integration test
-Week 10: Finish mechanisms
-Week 11: Decorations
-Week 13: Paint frame
-Week 12: Additional features, final cleanup
-Week 14: Showcase
+- Week 1: Introduction, Arduino review, construction
+- Week 2: Soldering, multitasking, debugging
+- Week 3: Assess last year's project, motors, start first component prototype 
+- Week 4: Tool training, platform, refine prototype
+- Week 5: NeoPixels, finish first component
+- Week 6: Music Maker Shield, prototype second component
+- Week 7: Midterm: finish two components with lights and sound
+- Week 7: Remaining components prototyped
+- Week 9: First integration test
+- Week 10: Finish all mechanical components
+- Week 11: Decorations
+- Week 13: Paint frame
+- Week 12: Additional features, final cleanup
+- Week 14: Showcase
