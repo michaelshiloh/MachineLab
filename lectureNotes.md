@@ -303,6 +303,7 @@ Decision made! Theme: video games
 - Assess project
 - Assess modules
 - Project rough drafts
+- Rough plan for rest of semester
 
 ### Last week's homework feedback
     - schematics
@@ -335,3 +336,19 @@ In groups, study and assess
 - Design a mechanism 
 - Share and critique
 - Start building working prototype
+
+### Rough plan for rest of semester
+
+Week 1: Introduction, Arduino review, construction
+Week 2: Soldering, multitasking, debugging
+Week 3: Assess last year's project, motors, start first component prototype 
+Week 4: Tool training, platform, refine prototype
+Week 5: NeoPixels, finish first component
+Week 6: Music Maker Shield, prototype second component
+Week 7: Midterm: finish two components with lights and sound
+Week 9: First integration test
+Week 10: Finish mechanisms
+Week 11: Decorations
+Week 13: Paint frame
+Week 12: Additional features, final cleanup
+Week 14: Showcase
