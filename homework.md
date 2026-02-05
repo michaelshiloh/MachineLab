@@ -176,10 +176,24 @@ tell who belongs to each account.
     - No necklaces or bracelets or other dangling jewelry
     - Expect to get dusty (sawdust, metal shavings)
 
-#### todays-assignment
 ## Homework due Thursday 5 February 2026
 Now that you've seen some mechanisms, think about how you would animate one of
 the features of your project. Sketch it out as best you can, and add it to
 your journal. Can be hand-drawn or computer drawn or copied from somewhere or
 even AI generated. Think about how you will make it, because that's what we
 will start doing on Thursday.
+
+#### todays-assignment
+## Homework due Tuesday 10 February 2026
+1. Finish the motor exercise we started in class. Document your success in
+   your journal. If you had any issues, explain them and how you overcame
+   them. Include a schematic and your code. Use markdown to format your code
+   properly. You can look in the lecture notes to see an example.
+2. In your last homework assignment (the one due Thursday 5 February 2026
+   above) you designed your first mechanism. Your assignment now is to
+   prototype that mechanism using your motor. This is a very rough prototype
+   which you will use only to validate that your design can animate the
+   feature of your project as you had envisioned. Use cardboard and hot glue,
+   and other materials as needed. At some point you will need a hub to attach
+   to your motor to connect it to your mechanism. I will provide these on
+   Saturday. As always, document your work in your journal.
