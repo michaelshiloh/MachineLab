@@ -352,7 +352,15 @@ Decision made! Theme: video games
 - Week 14: Showcase
 
 
-Hours
+#### todays-lecture
+## Thursday 5 February 2026 Week 3
+### Plan for today
+- Hours
+- Dustin 10-10:20
+- Motors
+- Prototype your first mechanism
+
+### Hours
 - Scene Shop: 9am - 5pm
 - Your ID card provides access to the IM lab 8am-9pm weekdays, and 9am-5pm on weekends. 
 - IM lab staffed hours, at least currently (may change towards end of
@@ -361,11 +369,7 @@ Hours
     - 2:30 - 6pm on Fridays
     - noon - 6pm on weekends
 
-#### todays-lecture
-## Thursday 5 February 2026 Week 3
-### Plan for today
-- Motors
-- Prototype your first mechanism
+### Dustin
 
 ### Motors
 
