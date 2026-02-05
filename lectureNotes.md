@@ -368,6 +368,8 @@ Decision made! Theme: video games
     - 11am - 10pm Monday - Thursday
     - 2:30 - 6pm on Fridays
     - noon - 6pm on weekends
+(I need to double check these against the revised hours that Dustin gave in
+class today)
 
 ### Dustin
 
