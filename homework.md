@@ -183,7 +183,6 @@ your journal. Can be hand-drawn or computer drawn or copied from somewhere or
 even AI generated. Think about how you will make it, because that's what we
 will start doing on Thursday.
 
-#### todays-assignment
 ## Homework due Tuesday 10 February 2026
 1. Finish the motor exercise we started in class. Document your success in
    your journal. If you had any issues, explain them and how you overcame
@@ -197,3 +196,16 @@ will start doing on Thursday.
    and other materials as needed. At some point you will need a hub to attach
    to your motor to connect it to your mechanism. I will provide these on
    Saturday. As always, document your work in your journal.
+
+#### todays-assignment
+## Homework due Thursday 12 February 2026
+- Many of you did not complete the homework that was due today (Tuesday). I
+  want you to do it before Thursday so that we can discuss in class. If you
+  find that the mechanism you chose is too difficult, you may choose a
+  different mechanism.
+- If you did the homework already, think about refining it or prototyping
+  another mechanism. If your motor is already attached to the first you can do
+  the second one without a motor. Or if you are feeling ambitious I am happy
+  to give you another motor - write to me on the class channel and I will get
+  one to you.
+

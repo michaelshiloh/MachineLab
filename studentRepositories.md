@@ -34,20 +34,17 @@ Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com
 
 * This is subject to change
 
-- [Ghadir Madani](https://github.com/GhadirMadani/machinelab) Discord: Ghadir Madani 
-- [Yumi Omori](https://github.com/Okyumi/Machine-Lab) Discord: Yumi Omori
+- [Rashed Alshamsi](https://github.com/BundleofRashes/MachineLab) Discord: Rashed (BundleofRashes)
 - [Mustafa Bakir](https://github.com/MustafaBakir0/MachineLab) Discord: a_7x
-- [Pierre Maged](https://github.com/zuett/Pierre-MachineLab) Discord: Pierre
+- [Flevin Baraka](https://github.com/GreatB1/MachineLab) Discord: Great
+- [Kamalika](https://github.com/Kamalika-bot/MachineLab) Discord: kamalika_66831
 - [Sara Bin Dalmook](https://github.com/sarabindalmook/MachineLab) Discord: Sara, sarabindalmook
-- [Hafizh Ahmad Dahlan](https://hafizh-log.vercel.app/tags/machine-lab) or on [Github](https://github.com/ADAHafizh/hafizh-log) Discord: Ahmad 
-- [Ziya Vhora](https://github.com/zv2029/MachineLab) Discord: ziya_87906
 - [David](https://github.com/Darkstone007/MachineLab) Discord: Sei
+- [Hafizh Ahmad Dahlan](https://hafizh-log.vercel.app/tags/machine-lab) or on [Github](https://github.com/ADAHafizh/hafizh-log) Discord: Ahmad 
+- [Ghadir Madani](https://github.com/GhadirMadani/machinelab) Discord: Ghadir Madani 
 - [Ali Noor](https://github.com/alinoorisnerd/Machine_lab) Discord:
 - [Stefania](https://github.com/stefaniapetre30/machine-lab) Discord: Stefania Petre
-- [Flevin Baraka](https://github.com/GreatB1/MachineLab) Discord: Great
-- [Rashed Alshamsi](https://github.com/BundleofRashes/MachineLab) Discord: Rashed (BundleofRashes)
+- [Ziya Vhora](https://github.com/zv2029/MachineLab) Discord: ziya_87906
 
-
-
-
-
+- [Yumi Omori](https://github.com/Okyumi/Machine-Lab) Discord: Yumi Omori
+- [Pierre Maged](https://github.com/zuett/Pierre-MachineLab) Discord: Pierre

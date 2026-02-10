@@ -3,6 +3,20 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 Shortcut to [student presentations](studentPresentations)  
 Shortcut to [student Github repositories](studentRepositories.md)  
 
+### IM Lab and Scene Shop Hours
+- Scene Shop: 9am - 5pm
+- Your ID card provides access to the IM lab 8am-9pm weekdays, and 9am-5pm on weekends. 
+- IM lab staffed hours (may change towards end of semester):
+    - 11am - 10pm Monday - Thursday
+    - 2:30 - 6pm on Fridays
+    - noon - 6pm on weekends
+
+### Useful information
+- Dustin's email: dustinfoster@nyu.edu
+- Tony's email: anb6202@nyu.edu
+- IM lab [User guide](https://sites.google.com/nyu.edu/nyuad-arts/interactive-media/new-029-interactive-media-lab)
+for lab equipment and materials (in progress)  
+
 #### New York University Abu Dhabi  
 #### Interactive Media Program
 
@@ -352,24 +366,12 @@ Decision made! Theme: video games
 - Week 14: Showcase
 
 
-#### todays-lecture
 ## Thursday 5 February 2026 Week 3
 ### Plan for today
 - Hours
 - Dustin 10-10:20
 - Motors
 - Prototype your first mechanism
-
-### Hours
-- Scene Shop: 9am - 5pm
-- Your ID card provides access to the IM lab 8am-9pm weekdays, and 9am-5pm on weekends. 
-- IM lab staffed hours, at least currently (may change towards end of
-  semester):
-    - 11am - 10pm Monday - Thursday
-    - 2:30 - 6pm on Fridays
-    - noon - 6pm on weekends
-(I need to double check these against the revised hours that Dustin gave in
-class today)
 
 ### Dustin
 
@@ -422,3 +424,30 @@ void loop() {
   delay(5000);
 }
 ```
+
+## Tuesday 10 February 2026 Week 4
+Tool training!
+
+#### todays-lecture
+## Thursday 12 February 2026 Week 4
+### Plan for today
+- Administration
+- Homework feedback
+- Review sketches and mechanisms
+- Groups
+
+### Administration
+I have made the following rule change in the syllabus for this class:
+1. You will be considered late if you arrive in class more than **five**
+   minutes after the scheduled class start time
+
+
+### Homework feedback
+- Wires into screw terminal
+
+### Review sketches and mechanisms
+- What did you think would be difficult but turned out to be simple?
+- What did you think would be simple but turned out to be difficult?
+- Can we come up with some general principles?
+
+### Groups
