@@ -3,6 +3,20 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 Shortcut to [student presentations](studentPresentations)  
 Shortcut to [student Github repositories](studentRepositories.md)  
 
+### IM Lab and Scene Shop Hours
+- Scene Shop: 9am - 5pm
+- Your ID card provides access to the IM lab 8am-9pm weekdays, and 9am-5pm on weekends. 
+- IM lab staffed hours (may change towards end of semester):
+    - 11am - 10pm Monday - Thursday
+    - 2:30 - 6pm on Fridays
+    - noon - 6pm on weekends
+
+### Useful information
+- Dustin's email: dustinfoster@nyu.edu
+- Tony's email: anb6202@nyu.edu
+- IM lab [User guide](https://sites.google.com/nyu.edu/nyuad-arts/interactive-media/new-029-interactive-media-lab)
+for lab equipment and materials (in progress)  
+
 #### New York University Abu Dhabi  
 #### Interactive Media Program
 
@@ -346,7 +360,7 @@ Unexcused absences
 
 Rubric:
 
-- Arriving late by more than 10 minutes, either at the start of class or
+- Arriving late by more than 5 minutes, either at the start of class or
   following a break, will count as an unexcused absence.
 - Each unexcused absence reduces your final grade by 5%.
 - Absences due to holiday travel or vacation travel will not be excused.
