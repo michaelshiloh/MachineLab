@@ -437,9 +437,15 @@ Tool training!
 - Groups
 
 ### Administration
-I have made the following rule change in the syllabus for this class:
-1. You will be considered late if you arrive in class more than **five**
-   minutes after the scheduled class start time
+1. I have made the following rule change in the syllabus for this class:
+    1. You will be considered late if you arrive in class more than **five**
+       minutes after the scheduled class start time
+1. Each team will create a poster which will be attached to the large frame,
+   which will describe your project, your intentions, and most importantly,
+   your process. It will include pictures and words. We will talk more about
+   this later in the semester, but I wanted to tell you now so that you can
+   prepare for that by documenting your process well, meaning good photographs
+   and good descriptions in your journal.
 
 
 ### Homework feedback
