@@ -223,7 +223,8 @@ will start doing on Thursday.
   one to you.
 
 #### todays-assignment
-## Homework due Tuesday 17 February 2026 Working in your teams:
+## Homework due Tuesday 17 February 2026 Working in your groups:
+[Groups](https://github.com/michaelshiloh/MachineLab/blob/master/lectureNotes.md#groups)
 - Brainstorm together and come up with the mechanised features that will be
   central to your project. Choose at least two, but you may have more ideas as
   backup plans or as additional features.  Expect these to change as you learn
@@ -236,6 +237,9 @@ will start doing on Thursday.
   depending on 3D printing or laser cutting because you have limited access to
   them. Homework delayed because of limited access to these resources is not
   an acceptable excuse.
+- As I mentioned in class, I have stepper motors of different sizes, DC gear
+  motors of different sizes, and servo motors of different sizes and strength.
+  If you are unfamiliar with a particular type, I will show you how to use it.
 - I will be on campus on both Saturday and Sunday from 3:30-6pm.  I will
   **not** be available on Monday. Homework delayed because you didn't ask me
   for help is not an acceptable excuse.
