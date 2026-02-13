@@ -223,8 +223,9 @@ will start doing on Thursday.
   one to you.
 
 #### todays-assignment
-## Homework due Tuesday 17 February 2026 Working in your groups:
-[Groups](https://github.com/michaelshiloh/MachineLab/blob/master/lectureNotes.md#groups)
+## Homework due Tuesday 17 February 2026 
+Working in your 
+[groups](https://github.com/michaelshiloh/MachineLab/blob/master/lectureNotes.md#groups):
 - Brainstorm together and come up with the mechanised features that will be
   central to your project. Choose at least two, but you may have more ideas as
   backup plans or as additional features.  Expect these to change as you learn
