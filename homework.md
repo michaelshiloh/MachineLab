@@ -240,8 +240,9 @@ will start doing on Thursday.
 - As I mentioned in class, I have stepper motors of different sizes, DC gear
   motors of different sizes, and servo motors of different sizes and strength.
   If you are unfamiliar with a particular type, I will show you how to use it.
-- I will be on campus on both Saturday and Sunday from 3:30-6pm.  I will
-  **not** be available on Monday. Homework delayed because you didn't ask me
-  for help is not an acceptable excuse.
+- I will be on campus on both Saturday and Sunday from 3:30-6pm.  I expect
+  I'll be either in the IM lab, or the scene shop, or my office.
+- I will *not* be available on Monday. Homework delayed because you didn't
+  ask me for help is not an acceptable excuse.
 - Since there are only four modules, you have a bit more space. I'll add the
   dimensions to this file tomorrow after measuring.
