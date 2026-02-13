@@ -244,10 +244,14 @@ Working in your
   ask me for help is not an acceptable excuse.
 - Since there are only four modules, you have a bit more space. I'll add the
   dimensions to this file tomorrow after measuring.
-- As I mentioned in class, I have stepper motors of different sizes and
+- I have a range of different hubs for attaching things to motors that are
+  much stronger than the plastic ones in the consumables bin.
+- I have stepper motors of different sizes and
   strengths, DC gear
   motors of different sizes and strengths, and servo motors of different sizes and strength.
   If you are unfamiliar with a particular type, I will show you how to use it.
+  ![](images/smallGearedStepperMotor.png)
+  ![](images/nema17StepperMotor.png)
   ![](images/roundDCGearmotor.png)
   ![](images/giantServo.png)
   ![](images/25kgServo.png)
