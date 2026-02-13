@@ -237,9 +237,15 @@ will start doing on Thursday.
   depending on 3D printing or laser cutting because you have limited access to
   them. Homework delayed because of limited access to these resources is not
   an acceptable excuse.
-- As I mentioned in class, I have stepper motors of different sizes, DC gear
-  motors of different sizes, and servo motors of different sizes and strength.
+- As I mentioned in class, I have stepper motors of different sizes and
+  strengths, DC gear
+  motors of different sizes and strengths, and servo motors of different sizes and strength.
   If you are unfamiliar with a particular type, I will show you how to use it.
+  ![](images/roundDCGearmotor.png)
+  ![](images/giantServo.png)
+  ![](images/miniServo.png)
+  ![](images/25kgServo.png)
+  ![](images/35kgServo.png)
 - I will be on campus on both Saturday and Sunday from 3:30-6pm.  I expect
   I'll be either in the IM lab, or the scene shop, or my office.
 - I will *not* be available on Monday. Homework delayed because you didn't
