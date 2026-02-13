@@ -211,7 +211,6 @@ will start doing on Thursday.
    to your motor to connect it to your mechanism. I will provide these on
    Saturday. As always, document your work in your journal.
 
-#### todays-assignment
 ## Homework due Thursday 12 February 2026
 - Many of you did not complete the homework that was due today (Tuesday). I
   want you to do it before Thursday so that we can discuss in class. If you
@@ -223,3 +222,22 @@ will start doing on Thursday.
   to give you another motor - write to me on the class channel and I will get
   one to you.
 
+#### todays-assignment
+## Homework due Tuesday 17 February 2026 Working in your teams:
+- Brainstorm together and come up with the mechanised features that will be
+  central to your project. Choose at least two, but you may have more ideas as
+  backup plans or as additional features.  Expect these to change as you learn
+  more about mechanisms.
+- If you have more than two, identify the two features that are most critical,
+  that without them your project fails.
+- Of these two mechanisms, choose one to prototype.
+- Prototype this one mechanism functionally. You may use any of the techniques
+  we have learned about, or any others available to you. Be very cautious of
+  depending on 3D printing or laser cutting because you have limited access to
+  them. Homework delayed because of limited access to these resources is not
+  an acceptable excuse.
+- I will be on campus on both Saturday and Sunday from 3:30-6pm.  I will
+  **not** be available on Monday. Homework delayed because you didn't ask me
+  for help is not an acceptable excuse.
+- Since there are only four modules, you have a bit more space. I'll add the
+  dimensions to this file tomorrow after measuring.

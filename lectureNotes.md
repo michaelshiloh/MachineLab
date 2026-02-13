@@ -457,3 +457,23 @@ Tool training!
 - Can we come up with some general principles?
 
 ### Groups
+
+Team Flappy Bird
+- Ahmad
+- Ziya
+- Flevin
+
+Team Need for Speed
+- Ali
+- Mustafa
+- Ghadir
+
+Team Cyberpunk 2077
+- Yumi
+- Kamalika
+- David
+
+Team Minecraft
+- Sara
+- Rashed
+- Stefania
