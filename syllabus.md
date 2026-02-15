@@ -35,7 +35,8 @@ for lab equipment and materials (in progress)
     * Minors > Interactive Media
 * Faculty Details
     * Professor: Michael Shiloh mshiloh@nyu.edu   
-    * Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
+    * Office hours: Schedule an appointment
+      [here](https://calendar.app.google/TX6pbh4f9K4xdsrn6)
     * Office phone number: 02-628-5185
 
 * Session: Spring 2026
