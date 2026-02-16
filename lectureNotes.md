@@ -427,9 +427,9 @@ void loop() {
 ```
 
 ## Tuesday 10 February 2026 Week 4
+### Plan for today
 Tool training!
 
-#### todays-lecture
 ## Thursday 12 February 2026 Week 4
 ### Plan for today
 - Administration
@@ -478,3 +478,63 @@ Team Minecraft
 - Sara
 - Rashed
 - Stefania
+
+#### todays-lecture
+## Tuesday 17 February 2026 Week 5
+### Plan for today
+- Share homework from the 4 team
+- Different motor types
+- Mechanism examples
+- Sensors
+- Using stepper motors
+- Using the servo shield
+- Music Maker Shield
+- NeoPixels
+- Midterm project
+- Schedule
+
+### Share homework from the 4 team
+
+### Different motor types
+- Brackets for motors
+
+### Mechanism examples
+[Cabaret Mechanical Theatre](https://cabaret.co.uk/)
+
+### Sensors
+Light based
+- [IR Beam Break sensor](https://www.adafruit.com/product/2168)
+- IR Slotted Optical Sensor [this](https://38-3d.co.uk/products/ir-infrared-slotted-optical-sensor-module) or [this](https://www.communica.co.za/products/hkd-mini-speed-sensor-74hc14)
+- [IR reflected beam
+  sensor](https://www.amazon.com/Infrared-Avoidance-Transmitting-Receiving-Photoelectric/dp/B07PFCC76N/ref=sr_1_3?th=1)
+
+Other sensors
+- [Hall Effect Sensor](https://www.adafruit.com/product/158)
+- [Inductive Proximity
+  Sensor](https://www.amazon.com/Inductive-Proximity-Sensor-Detection-Switch/dp/B01LNOIAT4/ref=sr_1_4?th=1)
+
+### Using stepper motors
+
+- [How stepper motors
+  work](https://learn.adafruit.com/all-about-stepper-motors?view=all) also has
+  pictures of many different types and sizes
+- Scroll down to [Stepper Motor Driving Techniques](https://www.monolithicpower.com/en/learning/resources/stepper-motors-basics-types-uses) 
+- [Why we need to accelerate stepper motors if we want to turn
+  fast](https://dovermotion.com/resources/motion-control-handbook/stepper-motors/)
+- [AccelSTepper](https://docs.arduino.cc/libraries/accelstepper/) library to
+  the rescue!
+- AccelSTepper [missing manual](https://hackaday.io/project/183279-accelstepper-the-missing-manual/details
+
+### Using the servo shield
+
+### Music Maker Shield
+
+### NeoPixels
+
+### Midterm project
+- Due 2 March which is two weeks away but Ramadan
+
+### Schedule
+Thursday 
+- Drill Press
+- Working with Aluminium
