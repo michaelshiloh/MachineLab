@@ -479,7 +479,6 @@ Team Minecraft
 - Rashed
 - Stefania
 
-#### todays-lecture
 ## Tuesday 17 February 2026 Week 5
 ### Plan for today
 - Share homework from the 4 team
@@ -487,9 +486,6 @@ Team Minecraft
 - Mechanism examples
 - Sensors
 - Using stepper motors
-- Using the servo shield
-- Music Maker Shield
-- NeoPixels
 - Midterm project
 - Schedule
 
@@ -523,18 +519,27 @@ Other sensors
   fast](https://dovermotion.com/resources/motion-control-handbook/stepper-motors/)
 - [AccelSTepper](https://docs.arduino.cc/libraries/accelstepper/) library to
   the rescue!
-- AccelSTepper [missing manual](https://hackaday.io/project/183279-accelstepper-the-missing-manual/details
+- AccelSTepper [missing manual](https://hackaday.io/project/183279-accelstepper-the-missing-manual/details)
+
+### Midterm project
+- Due 2 March which is two weeks away but Ramadan
+
+#### todays-lecture
+## Thursday 19 February 2026 Week 5
+### Plan for today
+- Drill Press
+- Working with Aluminium
+- Tour of Scene Shop, pointing out available tools and materials
+- Scene Shop hours during Ramadan
+
+## Tuesday 24 February 2026 Week 6
+### Plan for today
+- Using the servo shield
+- Music Maker Shield
+- NeoPixels
 
 ### Using the servo shield
 
 ### Music Maker Shield
 
 ### NeoPixels
-
-### Midterm project
-- Due 2 March which is two weeks away but Ramadan
-
-### Schedule
-Thursday 
-- Drill Press
-- Working with Aluminium
