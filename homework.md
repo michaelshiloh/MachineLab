@@ -223,7 +223,6 @@ will start doing on Thursday.
   to give you another motor - write to me on the class channel and I will get
   one to you.
 
-#### todays-assignment
 ## Homework due Tuesday 17 February 2026 
 Working in your 
 [groups](https://github.com/michaelshiloh/MachineLab/blob/master/lectureNotes.md#groups):
@@ -258,3 +257,15 @@ Working in your
   ![](images/25kgServo.png)
   ![](images/35kgServo.png)
   ![](images/miniServo.png)
+
+#### todays-assignment
+## Homework due Tuesday 03 March 2026 
+Build one of the main mechanisms for your project. 
+- It must be functional and be built to last one year of intermittent use. 
+- Decorations, painting, and other aesthetic elements are not required and are
+  discouraged so that the focus is on functionality and reliability. 
+- It should be built on a stable base ready to be installed on your group's
+  modular platform.
+- Circuitry can use the solderless breadboard
+- Wires to any motors or sensors must be long enough to allow flexible
+  placement on your group's modular platform.
