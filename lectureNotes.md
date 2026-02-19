@@ -527,6 +527,8 @@ Other sensors
 #### todays-lecture
 ## Thursday 19 February 2026 Week 5
 ### Plan for today
+- Ramadan
+- Homework
 - Drill Press
 - Working with Aluminium
 - Tour of Scene Shop, pointing out available tools and materials
