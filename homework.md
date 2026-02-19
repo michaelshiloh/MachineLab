@@ -269,3 +269,8 @@ Build one of the main mechanisms for your project.
 - Circuitry can use the solderless breadboard
 - Wires to any motors or sensors must be long enough to allow flexible
   placement on your group's modular platform.
+- You have access to tools in the IM lab only while the lab is
+  staffed
+- Scene shop hours are reduced during Ramadan
+- I will be available at various times by request, and for the next two weekends between
+  3:30-6pm on both Saturdays and Sundays.
