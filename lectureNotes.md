@@ -4,7 +4,8 @@ Shortcut to [student presentations](studentPresentations)
 Shortcut to [student Github repositories](studentRepositories.md)  
 
 ### IM Lab and Scene Shop Hours
-- Scene Shop: 9am - 5pm
+- Scene Shop: Ramadan hours: 9am - 2pm M-R, 9am-noon F
+- Scene Shop: non-Ramadan hours: 9am - 5pm
 - Your ID card provides access to the IM lab 8am-9pm weekdays, and 9am-5pm on weekends. 
 - IM lab staffed hours (may change towards end of semester):
     - 11am - 10pm Monday - Thursday
@@ -530,17 +531,33 @@ Other sensors
 - Ramadan
 - Homework
 - Drill Press
-- Working with Aluminium
 - Tour of Scene Shop, pointing out available tools and materials
 - Scene Shop hours during Ramadan
 
 ## Tuesday 24 February 2026 Week 6
 ### Plan for today
+- Intentional Design and visit from Erin Collins
+- Eating and drinking in the lab
+- Working with Aluminium
 - Using the servo shield
-- Music Maker Shield
-- NeoPixels
+
+### Working with Aluminium
+- Measuring and marking
+    - Machinist's square
+    - Scribe
+    - Center punch
+- Cutting and drilling
+- Nuts and bolts
+    - Nyloc nuts
+- Transferring holes that have to line up
+    - Fine pen
+    - One hole at a time
+    - Drilling oversize and wide washer
+
 
 ### Using the servo shield
+
+(time permitting)
 
 ### Music Maker Shield
 
