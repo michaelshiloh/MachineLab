@@ -536,12 +536,14 @@ Other sensors
 
 ## Tuesday 24 February 2026 Week 6
 ### Plan for today
+- Working with Aluminium part 1
 - Intentional Design and visit from Erin Collins
-- Eating and drinking in the lab
-- Working with Aluminium
+- Administration
+- Working with Aluminium part 2
 - Using the servo shield
 
 ### Working with Aluminium
+- Changing your design to use available materials 
 - Measuring and marking
     - Machinist's square
     - Scribe
@@ -549,11 +551,19 @@ Other sensors
 - Cutting and drilling
 - Nuts and bolts
     - Nyloc nuts
+- Metal servo hubs
 - Transferring holes that have to line up
     - Fine pen
     - One hole at a time
     - Drilling oversize and wide washer
 
+### Administration
+- Eating and drinking in the lab
+- Changing your design to use available materials 
+- Homework
+    - do it
+    - document it
+    - use due date of the assignment
 
 ### Using the servo shield
 
