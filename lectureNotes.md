@@ -525,7 +525,6 @@ Other sensors
 ### Midterm project
 - Due 2 March which is two weeks away but Ramadan
 
-#### todays-lecture
 ## Thursday 19 February 2026 Week 5
 ### Plan for today
 - Ramadan
@@ -538,17 +537,24 @@ Other sensors
 ### Plan for today
 - Working with Aluminium part 1
 - Intentional Design and visit from Erin Collins
-- Administration
-- Working with Aluminium part 2
-- Using the servo shield
 
-### Working with Aluminium
+### Working with Aluminium Part 1
 - Changing your design to use available materials 
 - Measuring and marking
     - Machinist's square
     - Scribe
     - Center punch
 - Cutting and drilling
+
+#### todays-lecture
+## Thursday 19 February 2026 Week 5
+### Plan for today
+- Working with Aluminium part 2
+- Administration
+- Using the servo shield
+
+### Working with Aluminium part 2
+
 - Nuts and bolts
     - Nyloc nuts
 - Metal servo hubs
@@ -556,9 +562,16 @@ Other sensors
     - Fine pen
     - One hole at a time
     - Drilling oversize and wide washer
+- Working with rotating parts
+    - Shafts
+    - Hubs
+    - Coupling to motors
+    - Addressing misalignment
 
 ### Administration
+
 - Eating and drinking in the lab
+- Arriving late
 - Changing your design to use available materials 
 - Homework
     - do it
@@ -567,8 +580,3 @@ Other sensors
 
 ### Using the servo shield
 
-(time permitting)
-
-### Music Maker Shield
-
-### NeoPixels
