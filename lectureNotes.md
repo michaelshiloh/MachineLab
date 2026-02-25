@@ -551,7 +551,9 @@ Other sensors
 ### Plan for today
 - Working with Aluminium part 2
 - Administration
-- Using the servo shield
+- Working with Rotating Parts
+- Using the Servo Shield
+- Rules for Working with Electronics 
 
 ### Working with Aluminium part 2
 
@@ -562,11 +564,6 @@ Other sensors
     - Fine pen
     - One hole at a time
     - Drilling oversize and wide washer
-- Working with rotating parts
-    - Shafts
-    - Hubs
-    - Coupling to motors
-    - Addressing misalignment
 
 ### Administration
 
@@ -578,5 +575,32 @@ Other sensors
     - document it
     - use due date of the assignment
 
-### Using the servo shield
+### Working With Rotating Parts
 
+    - Shafts
+    - Hubs
+    - Coupling to motors
+    - Addressing misalignment
+
+### Using the Servo Shield
+- What is a shield
+- Power
+- Feed through headers
+- Servo motor extension wires
+
+### Rules for Working with Electronics 
+- Always use the correct color wire
+- Never use jumper wires. They are too thin and will tear easily
+- Never use solid core wire except going from point to point on the same
+  board.
+- Don't solder wires directly to the Arduino or any shield.  Instead, solder
+  header pins to a Prototyping Shield, and solder a header socket to your
+  wires (which are stranded, right?) which can then be plugged onto the header
+  pins on the prototyping shield.
+- Always use stacking headers in all your shields
+- Use enough heat shrink tubing to completely cover any joints. If it shrinks
+  and leaves a gap, put another piece over that. Heat shrink tubing is cheap,
+  fixing a short circuit is not.
+- I warned you at the beginning of the semester that this class will require a
+  lot of work and that you would have to put in a lot of time outside of class
+  time.
