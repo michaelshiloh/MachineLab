@@ -28,8 +28,7 @@
 	- Some bookstore staff members don't seem to know where our books are.
 		If you are told they are not available ask for Jocelyn.
 - **Read**
-	- [Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
-	- [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
+	- [Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf) - [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
 	- Both soldering tutorials
 [here](https://github.com/michaelshiloh/resourcesForClasses#soldering)
 

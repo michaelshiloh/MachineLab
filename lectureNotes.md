@@ -546,8 +546,7 @@ Other sensors
     - Center punch
 - Cutting and drilling
 
-#### todays-lecture
-## Thursday 19 February 2026 Week 5
+## Thursday 26 February 2026 Week 6
 ### Plan for today
 - Working with Aluminium part 2
 - Administration
@@ -604,3 +603,30 @@ Other sensors
 - I warned you at the beginning of the semester that this class will require a
   lot of work and that you would have to put in a lot of time outside of class
   time.
+
+#### todays-lecture
+## 03 March 2026 Week 7
+### Plan for today
+- Checkin
+- Project Status
+- Machine Resources
+- What is Machine Art?
+- Machine Artists
+
+### Checkin
+### Project Status
+### What is Machine Art?
+Machine Art
+[lecture](https://github.com/michaelshiloh/understandinginteractivemedia/blob/main/lectureNotes.md#machine-art)
+from *Understanding Interactive Media*
+### Machine Artists
+### Machine Resources
+- [How to Design and Make Automata](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/howToDesignAndMakeAutomata_RobertAdams.pdf)
+- [How To Design and Make Simple Automata](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/howToDesignAndMakeSimpleAutomata_RobertAdams.pdf)
+- [Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
+- [Basic Mechanisms](http://www.mechanical-toys.com/mechanisums.htm)
+- [Making Things Move](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/making_things_move.pdf)
+- [Machine Art in the Twentieth Century, chapter 1](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/MachineArtInTheTwentiethCentury_Chapter1.pdf)
+- [Machine Art in the Twentieth Century, chapter 2](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machineArtInTheTwentiethCentury_chapter2.pdf)
+- [The_Machine_as_Art_in_the_20th_Century_An_Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/The_Machine_as_Art_in_the_20th_Century_An_Introduc.pdf)
+

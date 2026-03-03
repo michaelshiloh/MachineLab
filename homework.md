@@ -274,3 +274,4 @@ Build one of the main mechanisms for your project.
 - Scene shop hours are reduced during Ramadan
 - I will be available at various times by request, and for the next two weekends between
   3:30-6pm on both Saturdays and Sundays.
+
