@@ -604,14 +604,11 @@ Other sensors
   lot of work and that you would have to put in a lot of time outside of class
   time.
 
-#### todays-lecture
-## 03 March 2026 Week 7
+## Tuesday 03 March 2026 Week 7
 ### Plan for today
 - Checkin
 - Project Status
-- Machine Resources
 - What is Machine Art?
-- Machine Artists
 
 ### Checkin
 ### Project Status
@@ -619,7 +616,22 @@ Other sensors
 Machine Art
 [lecture](https://github.com/michaelshiloh/understandinginteractivemedia/blob/main/lectureNotes.md#machine-art)
 from *Understanding Interactive Media*
-### Machine Artists
+
+
+#### todays-lecture
+## Thursday 05 March 2026 Week 7
+### Plan for today
+- Checkin
+- Plans
+- Machine Resources
+
+### Checkin
+
+### Plans
+- Rest of semester online
+- Who is on campus? Who plans to leave?
+- What we will do
+
 ### Machine Resources
 - [How to Design and Make Automata](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/howToDesignAndMakeAutomata_RobertAdams.pdf)
 - [How To Design and Make Simple Automata](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/howToDesignAndMakeSimpleAutomata_RobertAdams.pdf)
