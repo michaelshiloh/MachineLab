@@ -632,17 +632,17 @@ from *Understanding Interactive Media*
 - What we will do
 
 #### todays-lecture
-## Tuesday 03 March 2026 Week 8
+## Tuesday 24 March 2026 Week 8
 ### Plan for today
 - Plan
 - Demo
-- Who needs what
+- Machine Resources
 
 ### Plan
 
 #### Concept
 
-As a creative technologiest, whether artist or engineer, you will always work
+As a creative technologist, whether artist or engineer, you will always work
 with some limitations whether due to cost, availability, or skills.  Your
 success will depend on your ability to design a project that can achieve your
 goals within these limitations.
@@ -669,7 +669,7 @@ It may not be a surprise to you that this is an iterative process:
 - Repeat as necessary
 
 The important thing to note here is that your project **will take multiple
-iterations!**. This is not to be avoided because **this is where the learning
+iterations!** This is not to be avoided because **this is where the learning
 happens!** You will not develop this skill if you don't run into problems,
 figure out a way around the problem, and they try again. Minimizing
 iterations gives you fewer chances to learn this important problem solving
@@ -677,8 +677,8 @@ skill.
 
 #### Methodology
 
-You will build a number of "machines" of increasing complexity using an Intro
-to IM kit along with additional tools and supplies.  
+You will build a number of machines of increasing complexity using an Intro
+to IM kit along and common household objects.
 
 In class, I will demonstrate a variety of techniques. My resources are limited
 as well, and you will see me run into problems. You will then see me try to
@@ -702,6 +702,7 @@ You are encourage to be whimsical and imaginative.
 
 
 ### Machine Resources
+
 - [How to Design and Make Automata](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/howToDesignAndMakeAutomata_RobertAdams.pdf)
 - [How To Design and Make Simple Automata](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/howToDesignAndMakeSimpleAutomata_RobertAdams.pdf)
 - [Machinations-Mechanisms](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machinations-mechanisms.pdf)
