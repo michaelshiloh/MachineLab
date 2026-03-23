@@ -275,3 +275,7 @@ Build one of the main mechanisms for your project.
 - I will be available at various times by request, and for the next two weekends between
   3:30-6pm on both Saturdays and Sundays.
 
+#### todays-assignment
+## Homework due Tuesday 10 March 2026 
+- make educational OnShape account
+- do the following videos courses

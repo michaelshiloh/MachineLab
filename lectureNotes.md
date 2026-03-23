@@ -618,7 +618,6 @@ Machine Art
 from *Understanding Interactive Media*
 
 
-#### todays-lecture
 ## Thursday 05 March 2026 Week 7
 ### Plan for today
 - Checkin
@@ -632,6 +631,76 @@ from *Understanding Interactive Media*
 - Who is on campus? Who plans to leave?
 - What we will do
 
+#### todays-lecture
+## Tuesday 03 March 2026 Week 8
+### Plan for today
+- Plan
+- Demo
+- Who needs what
+
+### Plan
+
+#### Concept
+
+As a creative technologiest, whether artist or engineer, you will always work
+with some limitations whether due to cost, availability, or skills.  Your
+success will depend on your ability to design a project that can achieve your
+goals within these limitations.
+
+This ability is developed by practice. As you work with different technologies
+and materials, you develop a better intuition about how difficult they 
+are to use and how easily they can be modified to fit a particular need.
+
+When limitations seem insurmountable, you may modify your design to avoid this
+particular limitation.
+
+It may not be a surprise to you that this is an iterative process:
+
+- Assess your resources: For physical tools and materials consider what
+  you already have, what you can borrow from family or friends, what you can
+  buy locally, what you can order
+- Design your project so that can be built with these parts and tools and
+  capabilities
+- Acquire the necessary tools and materials, and try to create your project
+- When you run into problems, think about how to work around them, either by
+  changing the materials or the design of the project
+- Acquire the new tools or materials, if necessary
+- Try again
+- Repeat as necessary
+
+The important thing to note here is that your project **will take multiple
+iterations!**. This is not to be avoided because **this is where the learning
+happens!** You will not develop this skill if you don't run into problems,
+figure out a way around the problem, and they try again. Minimizing
+iterations gives you fewer chances to learn this important problem solving
+skill.
+
+#### Methodology
+
+You will build a number of "machines" of increasing complexity using an Intro
+to IM kit along with additional tools and supplies.  
+
+In class, I will demonstrate a variety of techniques. My resources are limited
+as well, and you will see me run into problems. You will then see me try to
+figure out how to work around those problems, either by using different
+materials or techniques, or by changing the design.
+
+The first machine will be a simple hand crank automata using cams, which you
+will then automate with a motor. This will be a warm up exercise.
+
+You are encouraged to use whatever materials you find around you. These can be
+things you buy or things you find. You can use broken toys, cardboard boxes,
+bis of wood, etc.
+
+You are encourage to be whimsical and imaginative.
+
+### Demo 
+
+- Hand crank automata
+
+- Elevator
+
+
 ### Machine Resources
 - [How to Design and Make Automata](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/howToDesignAndMakeAutomata_RobertAdams.pdf)
 - [How To Design and Make Simple Automata](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/howToDesignAndMakeSimpleAutomata_RobertAdams.pdf)
@@ -641,4 +710,3 @@ from *Understanding Interactive Media*
 - [Machine Art in the Twentieth Century, chapter 1](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/MachineArtInTheTwentiethCentury_Chapter1.pdf)
 - [Machine Art in the Twentieth Century, chapter 2](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machineArtInTheTwentiethCentury_chapter2.pdf)
 - [The_Machine_as_Art_in_the_20th_Century_An_Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/The_Machine_as_Art_in_the_20th_Century_An_Introduc.pdf)
-
