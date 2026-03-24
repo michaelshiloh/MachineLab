@@ -651,8 +651,8 @@ This ability is developed by practice. As you work with different technologies
 and materials, you develop a better intuition about how difficult they 
 are to use and how easily they can be modified to fit a particular need.
 
-When limitations seem insurmountable, you may modify your design to avoid this
-particular limitation.
+When limitations seem insurmountable, it is wise to modify your design to
+avoid this particular limitation.
 
 It may not be a surprise to you that this is an iterative process:
 
@@ -674,6 +674,20 @@ happens!** You will not develop this skill if you don't run into problems,
 figure out a way around the problem, and they try again. Minimizing
 iterations gives you fewer chances to learn this important problem solving
 skill.
+
+Success is measured not by how few iterations you make,  but by how your
+skills develop as you identify problems, come up with solutions, modify your
+design, and make progress.
+
+#### Discussion
+
+What do you think you can do to increase your successes?
+
+What are factors outside of your control?
+
+What are factors you can control?
+
+What experiences have you had that are similar to this process?
 
 #### Methodology
 
