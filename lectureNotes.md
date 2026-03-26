@@ -631,7 +631,6 @@ from *Understanding Interactive Media*
 - Who is on campus? Who plans to leave?
 - What we will do
 
-#### todays-lecture
 ## Tuesday 24 March 2026 Week 8
 ### Plan for today
 - Plan
@@ -725,3 +724,15 @@ You are encourage to be whimsical and imaginative.
 - [Machine Art in the Twentieth Century, chapter 1](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/MachineArtInTheTwentiethCentury_Chapter1.pdf)
 - [Machine Art in the Twentieth Century, chapter 2](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machineArtInTheTwentiethCentury_chapter2.pdf)
 - [The_Machine_as_Art_in_the_20th_Century_An_Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/The_Machine_as_Art_in_the_20th_Century_An_Introduc.pdf)
+
+#### todays-lecture
+## Thursday 26 March 2026 Week 8
+### Plan for today
+- Funding update
+- Machine Art
+
+### Machine Art
+- What is it
+- Examples
+- Definition
+    - Breakout rooms
