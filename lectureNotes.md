@@ -725,7 +725,6 @@ You are encourage to be whimsical and imaginative.
 - [Machine Art in the Twentieth Century, chapter 2](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/machineArtInTheTwentiethCentury_chapter2.pdf)
 - [The_Machine_as_Art_in_the_20th_Century_An_Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/The_Machine_as_Art_in_the_20th_Century_An_Introduc.pdf)
 
-#### todays-lecture
 ## Thursday 26 March 2026 Week 8
 ### Plan for today
 - Funding update
@@ -736,3 +735,29 @@ You are encourage to be whimsical and imaginative.
 - Examples
 - Definition
     - Breakout rooms
+
+#### todays-lecture
+## Tuesday 31 March 2026 Week 9
+### Plan for today
+- Funds
+- Asynch
+- Mechanisms
+
+### Stipend
+- $300 (I think)
+- "expect to receive by 15th of April"
+- What should you get?
+    - $290 - Arduino Engineering Kit REV2
+    - $20 - K&S Precision Metals Bag O' Metal 707
+
+### Asynch
+- What time zones are we in? 
+- What window of time is your preferred learning time?
+- Can we come up with a time that works for everyone?
+
+### Mechanisms
+- Working in your groups, pick one of the mechanisms of your project from
+  before the war
+- Discuss in your group how you would implement it
+
+
