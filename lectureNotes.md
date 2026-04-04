@@ -746,18 +746,6 @@ You are encourage to be whimsical and imaginative.
 ### Stipend
 - $300 (I think)
 - "expect to receive by 15th of April"
-- What should you get?
-    - $290 - Arduino Engineering Kit REV2
-    - $20 - K&S Precision Metals Bag O' Metal 707
-
-### Asynch
-- What time zones are we in? 
-- What window of time is your preferred learning time?
-- Can we come up with a time that works for everyone?
-
-### Mechanisms
-- Working in your groups, pick one of the mechanisms of your project from
-  before the war
-- Discuss in your group how you would implement it
-
-
+- You can use your own money now if you want, and then pay yourself back when
+  you receive the 
+- Individual projects; individual meetings 

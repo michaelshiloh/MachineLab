@@ -276,6 +276,13 @@ Build one of the main mechanisms for your project.
   3:30-6pm on both Saturdays and Sundays.
 
 #### todays-assignment
-## Homework due Tuesday 10 March 2026 
-- make educational OnShape account
-- do the following videos courses
+## Homework due at our second individual meeting (April 9-12)
+In your journal, document your progress
+- Start each entry with the date
+- Add the date to the first entry you made when we switched to individual
+  projects
+- Create an entry for our first meeting. Date it, and describe briefly what we
+  talked about and what your next steps would be
+- Add an entry (or multiple entries) when you work on these next steps, and
+  describe your progress
+- In all your entries you are welcome to add photographs, hand drawn pictures, links, references, etc.
