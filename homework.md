@@ -258,7 +258,6 @@ Working in your
   ![](images/35kgServo.png)
   ![](images/miniServo.png)
 
-#### todays-assignment
 ## Homework due Tuesday 03 March 2026 
 Build one of the main mechanisms for your project. 
 - It must be functional and be built to last one year of intermittent use. 
