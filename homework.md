@@ -274,7 +274,6 @@ Build one of the main mechanisms for your project.
 - I will be available at various times by request, and for the next two weekends between
   3:30-6pm on both Saturdays and Sundays.
 
-#### todays-assignment
 ## Homework due at our second individual meeting (April 9-12)
 In your journal, document your progress
 - Start each entry with the date
@@ -285,3 +284,16 @@ In your journal, document your progress
 - Add an entry (or multiple entries) when you work on these next steps, and
   describe your progress
 - In all your entries you are welcome to add photographs, hand drawn pictures, links, references, etc.
+
+#### todays-assignment
+## Homework due at our third individual meeting (April 13--19)
+- Continue to work on your projects as discussed in our individual meetings
+- Continue to document your work in your journals as detailed
+  [above](https://github.com/michaelshiloh/MachineLab/blob/master/homework.md#homework-due-at-our-second-individual-meeting-april-9-12)
+- We will not meet as a class on April 14 or 16. I will continue to hold
+  individual meetings with each of you, and I expect to see progress each
+  week.
+- We **will** meet as a class on April 21 and 23 at 9:55am GST via Zoom, and
+  each of you will share your progress. If this time is very difficult for
+  you, or if you have technical issues, send me **email** and we will discuss
+  alternatives.
