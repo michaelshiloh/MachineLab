@@ -56,10 +56,11 @@ Course website: [https://github.com/michaelshiloh/MachineLab](https://github.com
 - [Sara Bin Dalmook](https://github.com/sarabindalmook/MachineLab) Discord: Sara, sarabindalmook
 - [David](https://github.com/Darkstone007/MachineLab) Discord: Sei
 - [Hafizh Ahmad Dahlan](https://hafizh-log.vercel.app/tags/machine-lab) or on [Github](https://github.com/ADAHafizh/hafizh-log) Discord: Ahmad 
-- [Ghadir Madani](https://github.com/GhadirMadani/machinelab) Discord: Ghadir Madani 
+- [Ghadir Madani](https://github.com/GhadirMadani/machinelab) or [Notion](https://www.notion.so/Machine-Lab-30accb08e40b80949f48f57d92fdc262?source=copy_link) Discord: Ghadir Madani 
 - [Ali Noor](https://github.com/alinoorisnerd/Machine_lab) Discord:
 - [Stefania](https://github.com/stefaniapetre30/machine-lab) Discord: Stefania Petre
-- [Ziya Vhora](https://github.com/zv2029/MachineLab) Discord: ziya_87906
+- [Ziya Vhora](https://github.com/zv2029/MachineLab) or
+  [Notion](https://www.notion.so/Machine-Lab-34050f8bf3bf801497a3c27674f5b755) Discord: ziya_87906
 
 - [Yumi Omori](https://github.com/Okyumi/Machine-Lab) Discord: Yumi Omori
 - [Pierre Maged](https://github.com/zuett/Pierre-MachineLab) Discord: Pierre
