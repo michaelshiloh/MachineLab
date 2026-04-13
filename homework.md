@@ -292,7 +292,13 @@ In your journal, document your progress
   [above](https://github.com/michaelshiloh/MachineLab/blob/master/homework.md#homework-due-at-our-second-individual-meeting-april-9-12)
 - We will not meet as a class on April 14 or 16. I will continue to hold
   individual meetings with each of you, and I expect to see progress each
-  week.
+  week. During each individual meeting we will together agree on your next
+  steps.
+- After each of our individual meetings, you must add a dated entry in your
+  journal indicating what will be your next steps. It is your responsibility
+  to come away from each individual meeting with clear next steps. If you feel
+  they weren't clear, it is your responsibility to reach out to me to clarify
+  them.
 - We **will** meet as a class on April 21 and 23 at 9:55am GST via Zoom, and
   each of you will share your progress. If this time is very difficult for
   you, or if you have technical issues, send me **email** and we will discuss
