@@ -311,7 +311,10 @@ In your journal, document your progress
   progress so far.  Discuss briefly:
     - Your concept (after we moved to the online situation)
     - The resources available to you
-    - how you modified your concept so that you could achieve it with the available resources 
+    - how you modified your concept so that you could achieve it with the
+      available resources. Remember that the most important lesson is how you
+      adapt your concept to the reality of your resources, so make sure to
+      identify these.
     - The current state of your project
     - What your next steps are
     - All of this information should be in your journal, so you can scroll
@@ -321,4 +324,5 @@ In your journal, document your progress
     - If possible, show your project itself
 - We will hold these presentations on both Tuesday and Thursday. Please sign
   up for a slot on either day on
-  [this](https://docs.google.com/spreadsheets/d/1rLvFrvov_JIJ8TG0T4piZ2xYDy4QHTi1vHfbHhRuAK0/edit?gid=0#gid=0) Google sheet
+  [this](https://docs.google.com/spreadsheets/d/1rLvFrvov_JIJ8TG0T4piZ2xYDy4QHTi1vHfbHhRuAK0/edit?gid=0#gid=0)
+  Google sheet
