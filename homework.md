@@ -285,7 +285,6 @@ In your journal, document your progress
   describe your progress
 - In all your entries you are welcome to add photographs, hand drawn pictures, links, references, etc.
 
-#### todays-assignment
 ## Homework due at our third individual meeting (April 13--19)
 - Continue to work on your projects as discussed in our individual meetings
 - Continue to document your work in your journals as detailed
@@ -303,3 +302,20 @@ In your journal, document your progress
   each of you will share your progress. If this time is very difficult for
   you, or if you have technical issues, send me **email** and we will discuss
   alternatives.
+
+#### todays-assignment ## Homework due 21 April 2026
+- We will meet as a class at 9:55am GST via Zoom at
+  [https://nyu.zoom.us/j/99098485614?jst=2](https://nyu.zoom.us/j/99098485614?jst=2)
+- Be prepared to make a short (5 minute) informal presentation of your
+  progress so far.  Discuss briefly:
+    - Your concept (after we moved to the online situation)
+    - The resources available to you
+    - how you modified your concept so that you could achieve it with the available resources 
+    - The current state of your project
+    - What your next steps are
+    - All of this information should be in your journal, so you can scroll
+      through your journal. You are not required to make slide show
+      presentation, but you may do so if you prefer.
+- We will hold these presentations on both Tuesday and Thursday. Please sign
+  up for a slot on either day on
+  [this](https://docs.google.com/spreadsheets/d/1rLvFrvov_JIJ8TG0T4piZ2xYDy4QHTi1vHfbHhRuAK0/edit?gid=0#gid=0) Google sheet
