@@ -303,7 +303,8 @@ In your journal, document your progress
   you, or if you have technical issues, send me **email** and we will discuss
   alternatives.
 
-#### todays-assignment ## Homework due 21 April 2026
+#### todays-assignment 
+## Homework due 21 April 2026
 - We will meet as a class at 9:55am GST via Zoom at
   [https://nyu.zoom.us/j/99098485614?jst=2](https://nyu.zoom.us/j/99098485614?jst=2)
 - Be prepared to make a short (5 minute) informal presentation of your
@@ -316,6 +317,8 @@ In your journal, document your progress
     - All of this information should be in your journal, so you can scroll
       through your journal. You are not required to make slide show
       presentation, but you may do so if you prefer.
+    - Include pictures and video as appropriate
+    - If possible, show your project itself
 - We will hold these presentations on both Tuesday and Thursday. Please sign
   up for a slot on either day on
   [this](https://docs.google.com/spreadsheets/d/1rLvFrvov_JIJ8TG0T4piZ2xYDy4QHTi1vHfbHhRuAK0/edit?gid=0#gid=0) Google sheet
