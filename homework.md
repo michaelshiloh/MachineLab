@@ -303,7 +303,6 @@ In your journal, document your progress
   you, or if you have technical issues, send me **email** and we will discuss
   alternatives.
 
-#### todays-assignment 
 ## Homework due 21 April 2026
 - We will meet as a class at 9:55am GST via Zoom at
   [https://nyu.zoom.us/j/99098485614?jst=2](https://nyu.zoom.us/j/99098485614?jst=2)
@@ -326,3 +325,22 @@ In your journal, document your progress
   up for a slot on either day on
   [this](https://docs.google.com/spreadsheets/d/1rLvFrvov_JIJ8TG0T4piZ2xYDy4QHTi1vHfbHhRuAK0/edit?gid=0#gid=0)
   Google sheet
+
+#### todays-assignment 
+## Homework due at our next individual meeting (April 27 - May 3)
+- Continue to work on your projects as discussed in our individual meetings
+- Continue to document your work in your journals as detailed
+  [above](https://github.com/michaelshiloh/MachineLab/blob/master/homework.md#homework-due-at-our-second-individual-meeting-april-9-12)
+- We will not meet as a class on April 28 or 30. I will continue to hold
+  individual meetings with each of you, and I expect to see progress each
+  week. During each individual meeting we will together agree on your next
+  steps.
+- After each of our individual meetings, you must add a dated entry in your
+  journal indicating what will be your next steps. It is your responsibility
+  to come away from each individual meeting with clear next steps. If you feel
+  they weren't clear, it is your responsibility to reach out to me to clarify
+  them.
+- We **will** meet as a class on May 5 and 7 at 9:55am GST via Zoom, and
+  each of you will share your progress. If this time is very difficult for
+  you, or if you have technical issues, send me **email** and we will discuss
+  alternatives.
