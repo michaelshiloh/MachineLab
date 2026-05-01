@@ -326,7 +326,6 @@ In your journal, document your progress
   [this](https://docs.google.com/spreadsheets/d/1rLvFrvov_JIJ8TG0T4piZ2xYDy4QHTi1vHfbHhRuAK0/edit?gid=0#gid=0)
   Google sheet
 
-#### todays-assignment 
 ## Homework due at our next individual meeting (April 27 - May 3)
 - Continue to work on your projects as discussed in our individual meetings
 - Continue to document your work in your journals as detailed
@@ -344,3 +343,23 @@ In your journal, document your progress
   each of you will share your progress. If this time is very difficult for
   you, or if you have technical issues, send me **email** and we will discuss
   alternatives.
+
+#### todays-assignment 
+## Homework due 5 May 2026
+- We **will** meet as a class on May 5 and 7 at 9:55am GST via Zoom, and each
+  of you will share your progress. If this time is very difficult for you, or
+  if you have technical issues, send me **email** and we will discuss
+  alternatives.
+- Each of you will make a short informal presentation showing how you
+  developed your project this semester. Can be slides or simply scrolling
+  through your journal.
+- Focus on how came up with a project that you could accomplish with available
+  resources
+- Address problems you ran into and how you solved them or modified your
+  project to work around them
+- End with what you feel where the significant Lessons Learned. These could be
+  technical, conceptual, or otherwise.
+- We will hold these presentations on both Tuesday and Thursday. Please sign
+  up for a slot on either day on
+  [this](https://docs.google.com/spreadsheets/d/1rLvFrvov_JIJ8TG0T4piZ2xYDy4QHTi1vHfbHhRuAK0/edit?gid=0#gid=0)
+  Google sheet
