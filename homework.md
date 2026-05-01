@@ -363,3 +363,4 @@ In your journal, document your progress
   up for a slot on either day on
   [this](https://docs.google.com/spreadsheets/d/1rLvFrvov_JIJ8TG0T4piZ2xYDy4QHTi1vHfbHhRuAK0/edit?gid=0#gid=0)
   Google sheet
+- Please complete the student evaluations before class!
