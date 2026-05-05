@@ -736,7 +736,6 @@ You are encourage to be whimsical and imaginative.
 - Definition
     - Breakout rooms
 
-#### todays-lecture
 ## Tuesday 31 March 2026 Week 9
 ### Plan for today
 - Funds
@@ -749,3 +748,20 @@ You are encourage to be whimsical and imaginative.
 - You can use your own money now if you want, and then pay yourself back when
   you receive the 
 - Individual projects; individual meetings 
+
+#### todays-lecture
+## Tuesday 6 April 2026 Week 14
+### Plan for today
+- Evaluations
+- New classes
+- Progress reports
+- What have we learned
+
+### New classes
+- Interaction Design and User Experience Lab IM-UH 2110 
+- Creative Content Development Across Media, In the Age of AI IM-UH 2111
+- Reinventing Drawing IM-UH 2314 
+
+### What have we learned
+- Save code
+- Organizing wiring for maintainability and maintenance
