@@ -752,16 +752,20 @@ You are encourage to be whimsical and imaginative.
 #### todays-lecture
 ## Tuesday 6 April 2026 Week 14
 ### Plan for today
-- Evaluations
+- What have we learned
 - New classes
 - Progress reports
-- What have we learned
+- Evaluations
+
+### What have we learned
+- Save code
+- Organizing wiring for maintainability and maintenance
 
 ### New classes
 - Interaction Design and User Experience Lab IM-UH 2110 
 - Creative Content Development Across Media, In the Age of AI IM-UH 2111
 - Reinventing Drawing IM-UH 2314 
 
-### What have we learned
-- Save code
-- Organizing wiring for maintainability and maintenance
+### Progress reports (homework)
+
+### Evaluations
