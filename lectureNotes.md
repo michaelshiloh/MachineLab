@@ -749,7 +749,6 @@ You are encourage to be whimsical and imaginative.
   you receive the 
 - Individual projects; individual meetings 
 
-#### todays-lecture
 ## Tuesday 6 April 2026 Week 14
 ### Plan for today
 - What have we learned
@@ -767,5 +766,25 @@ You are encourage to be whimsical and imaginative.
 - Reinventing Drawing IM-UH 2314 
 
 ### Progress reports (homework)
+
+### Evaluations
+
+#### todays-lecture
+## Thursday 7 May 2026
+### Plan for today
+- New classes
+- Progress reports
+- Evaluations
+
+### New classes
+- Interaction Design and User Experience Lab IM-UH 2110 
+- Creative Content Development Across Media, In the Age of AI IM-UH 2111
+- Reinventing Drawing IM-UH 2314 
+- Should have received email with all syllabi
+
+### Progress reports
+Order from 
+[this](https://docs.google.com/spreadsheets/d/1rLvFrvov_JIJ8TG0T4piZ2xYDy4QHTi1vHfbHhRuAK0/edit?gid=0#gid=0)
+Google sheet
 
 ### Evaluations
