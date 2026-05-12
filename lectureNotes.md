@@ -759,6 +759,30 @@ You are encourage to be whimsical and imaginative.
 ### What have we learned
 - Save code
 - Organizing wiring for maintainability and maintenance
+- Easier said than done; things may take longer (or in some cases shorter)
+  than expected; the difference between theory and practice is that in theory
+  there is no difference. This are just some of the ways of saying what I've been trying
+  to tell you all along. The mental model in your head is close to reality
+  only when you have a lot of experience with the subject matter. If this is
+  something you haven't done before, your mental model is likely to be very
+  wrong.
+- Things function differently at different scales
+- Looking at the problem in new ways can help you come up with new solutions
+- Building physical stuff means that you have to find a place to store the
+  stuff!
+- Similarly, you need space to build stuff, and space to store projects safely
+  when you're not working on them
+- Perseverance really helps!
+- Problem solving is incredibly satisfying (when you find the solution)!
+- Working with limitations (budget, space, materials, tools) are opportunities
+  to develop the ability to improvise, which is a superpower
+- Not having the right size screwdriver is terribly frustrating
+- If you don't have access to a drill/driver, remember that screws can be
+  screwed in manually (if you have the right size screwdriver)
+- when building projects that have parts that get installed on top of the
+  mechanisms, make sure you have access from the sides so that you can still
+  work on the mechanisms when it is fully assembled
+
 
 ### New classes
 - Interaction Design and User Experience Lab IM-UH 2110 
